@@ -1,0 +1,3 @@
+#ignore RMC finding aids
+RM*.xml
+Thumbs.db
