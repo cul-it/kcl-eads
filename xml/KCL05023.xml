@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05023</eadid><filedesc><titlestmt><titleproper>United Mine Workers' Election Materials <num>5023</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 04, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:29:47 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>United Mine Workers' Election Materials</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">United Mine Workers of America (UMWA)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Lobel, Ira</persname>
+    </origination>
+    <unitid>5023</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1960/1970" type="inclusive">1960-1970</unitdate>
+    <physdesc id="aspace_0a2d9eb2d0133f7ba487cabfe4db45f7" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_69fa53d21e9e083b9c64111304443917" label="Forms of Material:">Records (documents).</physdesc>
+    <abstract id="aspace_515f0171e3c68a8ec61ecf8e6680da69">Instructions for official election observers; "Reports of balloting" and remarks, by ILR students impartial observers for Yablouski; official obserever authroization forms; Electionary leaflets. United Mine Workers' Election, December 9, 1969. Discussion by impartial observers from ILR School at a meeting held December 12, 1969 (Transcript of tape recording) United Mine Workers Election, by Ira Lobel '70. Copied from The Voice: vol 6, March 1970, pp 8-10 (3 copies).</abstract>
+    <langmaterial id="aspace_02457e4f6b07db84d587390ca658b407">Collection material in English</langmaterial>
+    <unitid type="bibid">3338455</unitid>
+  </did>
+  <odd id="aspace_fc30a27ecb745c50b17d85a610b82752">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 22, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 04, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_5a6c9ef6824159d998a6b9d4754d933a">
+    <head>Biographical / Historical</head>
+<p>The United Mine Workers of America (UMW or UMWA) is a North American labor union best known for representing coal miners. Today, the Union also represents health care workers, truck drivers, manufacturing workers and public employees in the United States and Canada. Although its main focus has always been on workers and their rights, the UMW of today also advocates for better roads, schools, and universal health care. By 2014, coal mining had largely shifted to open pit mines in Wyoming, and there were only 60,000 active coal miners. The UMW was left with 35,000 members, of whom 20,000 were coal miners, chiefly in underground mines in Kentucky and West Virginia. However it was responsible for pensions and medical benefits for 40,000 retired miners, and for 50,000 spouses and dependents </p><p> The UMW was founded in Columbus, Ohio, on January 25, 1890, with the merger of two old labor groups, the Knights of Labor Trade Assembly No. 135 and the National Progressive Miners Union. Adopting the model of the American Federation of Labor (AFL), the union was initially established as a three-pronged labor tool: to develop mine safety; to improve mine workers' independence from the mine owners and the company store; and to provide miners with collective bargaining power. After passage of the National Recovery Act in 1933, organizers spread throughout the United States to organize all coal miners into labor unions. Under the powerful leadership of John L. Lewis, the UMW broke with the American Federation of Labor and set up its own federation, the CIO. Its organizers fanned out to organize major industries, including automobiles, steel, electrical equipment, rubber, paint and chemical, and fought a series of battles with the AFL. The UMW grew to 800,000 members and was an element in the New Deal Coalition supporting Democratic President Franklin D. Roosevelt. Lewis broke with Roosevelt in 1940 and left the CIO, leaving the UMW increasingly isolated in the labor movement. During World War II the UMW was involved in a series of major strikes and threatened walkouts that angered public opinion and energized pro-business opponents. After the war the UMW concentrated on gaining large increases in wages, medical services and retirement benefits for its shrinking membership.</p>  </bioghist>
+  <scopecontent id="aspace_829235b4ffd6f9312ac222e4dc9aff8c">
+    <head>Scope and Contents</head>
+<p>Instructions for official election observers; "Reports of balloting" and remarks, by ILR students impartial observers for Yablouski; official obserever authroization forms; Electionary leaflets. </p><p> United Mine Workers' Election, December 9, 1969. Discussion by impartial observers from ILR School at a meeting held December 12, 1969 (Transcript of tape recording) United Mine Workers Election, by Ira Lobel '70. Copied from The Voice: vol 6, March 1970, pp 8-10 (3 copies).</p>  </scopecontent>
+  <accessrestrict id="aspace_6148806ee6ef2a3c651bb400780c3ab6">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_595e364008f5e5398e079fdef3053808">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_165a32e835ed59a01f8644a59624a137">
+    <head>Preferred Citation</head>
+<p>United Mine Workers' Election Materials #5023. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_f1b480ef12993f8c71bbcbc40fab9c21">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05273.html"> 5273: ACWA Rochester Joint Board Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05273mf.html"> 5273 mf: ACWA Rochester Joint Board Minutes of Meeting on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05956.html"> 5956: Archives Organization File Additional records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06046.html"> 6046: Archives Union File (AUF)</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <corpname source="ingest">New York State School of Industrial and Labor Relations</corpname>
+    <persname audience="internal" source="ingest">Boyle, William Anthony,1904-1985</persname>
+    <persname audience="internal" source="ingest">Lobel, Ira</persname>
+    <persname audience="internal" source="ingest">Yablonski, Joseph A., 1910-1969</persname>
+    <corpname audience="internal" source="ingest">United Mine Workers of America.</corpname>
+  </controlaccess>
+  <unitid type="bibid">3338455</unitid>
+  <dsc><c01 id="aspace_5a67d62eee8bc1e319438aea1a847993" level="file"><did><unittitle>Transcript of Meeting of Election Observers</unittitle><unitdate datechar="creation" normal="1969/1969">1969</unitdate><container id="aspace_395029996fc59f9d47e274a88671df39" label="unspecified" type="box">1</container><container id="aspace_67ca8be571dd92d5b6a787fd18bb74be" parent="aspace_395029996fc59f9d47e274a88671df39" type="folder">1</container></did><scopecontent id="aspace_603737df0126a88928ecda54c154f9c9"><head>Scope and Contents</head><p>December 12, 1969</p></scopecontent></c01><c01 id="aspace_abee3131d2c740c077a881ad2d3a9ce6" level="file"><did><unittitle>Transcript of Meeting of Election Observers</unittitle><unitdate datechar="creation" normal="1969/1969">1969</unitdate><container id="aspace_6a85b4f97bfdf0428abdc5772cd7eab3" label="unspecified" type="box">1</container><container id="aspace_c4453888f1823802f6cfdf36de597ff5" parent="aspace_6a85b4f97bfdf0428abdc5772cd7eab3" type="folder">2</container></did><scopecontent id="aspace_51f3f5a4d3abed6414d585b05e0dfe4d"><head>Scope and Contents</head><p>December 12, 1969. Copies 2 and 3.</p></scopecontent></c01><c01 id="aspace_7ac941b95e8c8b29d75e544df70f661c" level="file"><did><unittitle>Election Materials</unittitle><unitdate datechar="creation" normal="1969/1969">1969</unitdate><container id="aspace_4849e70cbe5fc6c436f09c012e585d48" label="unspecified" type="box">1</container><container id="aspace_55c5bf0cd8892f67d8a4dfa79b02a372" parent="aspace_4849e70cbe5fc6c436f09c012e585d48" type="folder">3</container></did></c01><c01 id="aspace_7142ff3ee90cfcb6ea00ad9ab47d9de7" level="file"><did><unittitle>Report of Balloting</unittitle><unitdate datechar="creation" normal="1969/1969">1969</unitdate><container id="aspace_2d2fb7e798ebe3e118dd0e3decf7e540" label="unspecified" type="box">1</container><container id="aspace_04989d9679347387b5552fec2617c22d" parent="aspace_2d2fb7e798ebe3e118dd0e3decf7e540" type="folder">4</container></did><scopecontent id="aspace_0583f7b881f90fd809380d1cccc2dc8f"><head>Scope and Contents</head><p>Reports of the election observers at the locals</p></scopecontent></c01><c01 id="aspace_dc14e19bf2da0ba03fb8297ef89b47ab" level="file"><did><unittitle>Ira Local Post-Election Report</unittitle><unitdate datechar="creation" normal="1970/1970">1970</unitdate><container id="aspace_4b2194e40c0fa8200bcaf3cf559d060a" label="unspecified" type="box">1</container><container id="aspace_64c2c516d81c93fa993e6ca6db51c25a" parent="aspace_4b2194e40c0fa8200bcaf3cf559d060a" type="folder">5</container></did></c01><c01 id="aspace_2eb22f81b864d8ff507f86c00c96ae78" level="file"><did><unittitle>Audio Recording of the Observers in NMU Election</unittitle><unitdate datechar="creation" normal="1969/1969">1969</unitdate><container id="aspace_c478548948530a21ec9d7a5ec0066eea" label="unspecified" type="box">1</container><container id="aspace_8a90aa2f103211125cf60591be64e69a" parent="aspace_c478548948530a21ec9d7a5ec0066eea" type="folder">6</container></did></c01><c01 id="aspace_0fdf630809654a325d7127edf6eff324" level="file"><did><unittitle>Audio Recording of the Election Observers Meeting</unittitle><unitdate datechar="creation" normal="1969/1969">1969</unitdate><container id="aspace_3c1b98fe5303fcc09630cdd5cd1dbda4" label="unspecified" type="box">1</container><container id="aspace_526831df2e7c0a78c9b2002dc530ae8a" parent="aspace_3c1b98fe5303fcc09630cdd5cd1dbda4" type="folder">7</container></did><scopecontent id="aspace_88312e066c30959b51ea904e9d7400f8"><head>Scope and Contents</head><p>December 12, 1969. Copy 2.</p></scopecontent></c01><c01 id="aspace_3bf76f09ffa38e71f7118c860290cfde" level="file"><did><unittitle>Audio Recording of the Election Observers Meeting</unittitle><unitdate datechar="creation" normal="1960/1960">1960</unitdate><container id="aspace_9b58cdf90d0dc8f8b9adefb064aa1480" label="unspecified" type="box">1</container><container id="aspace_0cf729f9410eb11032bbcce42a29bea5" parent="aspace_9b58cdf90d0dc8f8b9adefb064aa1480" type="folder">8</container></did><scopecontent id="aspace_66249991fafeff5efaaab3092489b3a6"><head>Scope and Contents</head><p>December 12, 1969. Original tape.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

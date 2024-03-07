@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04308m</eadid><filedesc><titlestmt><titleproper>Miller, Frank, ILR School Poetry <num>/4308m</num></titleproper><author>Compiled by R. Miles</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 04, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:27:32 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Frank Miller ILR School Poetry</unittitle>
+    <origination label="Creator">
+      <persname role="creator" source="ingest">Miller, Frank</persname>
+    </origination>
+    <origination label="Creator">
+      <persname role="creator" source="ingest">Farley, Jennie</persname>
+    </origination>
+    <unitid>/4308m</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 folders</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1993/1996" type="inclusive">1993-1996</unitdate>
+    <physdesc id="aspace_595f1beea3e1646844ccad31a69c2550" label="Quantity:">1 file folder.</physdesc>
+    <physdesc id="aspace_765bcdb0875e65d52801d05840003891" label="Forms of Material:">Poetry.</physdesc>
+    <abstract id="aspace_243cfe56819e9384d1654e7d8845f9b4">Humorous poems by Frank Miller and others.</abstract>
+    <langmaterial id="aspace_bc1f2bae820aa8a00018f28bb6500aa7">Collection material in English</langmaterial>
+    <unitid type="bibid">8283173</unitid>
+  </did>
+  <odd id="aspace_3dd082929aea4748ec076163103858b6">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>R. Miles, October 02, 2015</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 04, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_6106c77839e4b49289b34ce9fd5e3fb1">
+    <head>Biographical / Historical</head>
+<p>Frank B. Miller joined the ILR School faculty in 1954 as an assistant professor after completing his Ph.D. there and undergraduate studies in psychology at Reed College. He became associate professor in 1960 and professor in 1966. </p><p> During his 31 years as a faculty member, Miller taught courses on a range of subjects, including complex organizations; small groups in industrial organizations; and applied human relations. He also designed the first course on women in the workplace at the ILR School and co-taught it with colleague Alice Cook, a world-renowned expert on issues faced by working women. In addition, Miller chaired the organizational behavior department for several years (1967-69) and served two terms as director of the school's Office of Resident Instruction (1962-67). </p><p> As a visiting professor at the University of Istanbul in 1960-61, Miller gave lectures that were translated into Turkish and became a textbook for personnel studies courses there. He also contributed chapters to books on industrial sociology and worker incentives and was a fellow of the American Sociological Society and the Society of Applied Anthropology. </p><p> Although he attained emeritus status in 1985, Miller continued teaching part time at Cornell and Bernard Baruch College in New York City for another 10 years.</p>  </bioghist>
+  <scopecontent id="aspace_90a4c4daccedd5ba5f43ae2e7cbecfde">
+    <head>Scope and Contents</head>
+<p>Humorous poems about Ithaca, ILR, and colleagues, mostly by Frank Miller. The poems were read at ILR holiday gatherings. Includes photographs.</p>  </scopecontent>
+  <accessrestrict id="aspace_eb1c71d7fdde0b57ef5e950496b30c5e">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_cb0889eaf13b1fc2fe4a9d22327c3106">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_34e71ed1fbc5e353c4b36a36405185d2">
+    <head>Preferred Citation</head>
+<p>Frank Miller ILR School Poetry #/4308m. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_2061a71b3edbabe988f1bfd95d339e66">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04210.html"> /4210: Frank B. Miller Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04259.html"> /4259: Frank B. Miller Corning Glass files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04311.html"> /4311: Frank Miller Papers</extref> /4331: Frank B. Miller Collections</p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Poetry</subject>
+    <persname source="ingest">Farley, Jennie</persname>
+    <persname source="ingest">Miller, Frank</persname>
+    <corpname source="ingest">New York State School of Industrial and Labor Relations</corpname>
+  </controlaccess>
+  <unitid type="bibid">8283173</unitid>
+  <dsc><c01 id="aspace_b1d6da7b33e37fc7242ad0105b856d00" level="file"><did><unittitle>6 Poems</unittitle><unitdate datechar="creation" normal="1993/1996" type="inclusive">1993-1996</unitdate><container id="aspace_2ca9f42b5f1a46abcafe42411e0fc466" label="unspecified" type="box">1</container></did><scopecontent id="aspace_9ddde855c689ead0db3304ace6a391b4"><head>Scope and Contents</head><p>Humorous poetry written by and for ILR Emeritus Professors. Includes photographs.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

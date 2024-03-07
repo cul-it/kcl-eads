@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05450av</eadid><filedesc><titlestmt><titleproper>Lyon, A. E. Audio-Visual Materials <num>5450 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 13, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:47:19 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>A. E. Lyon Audio-Visual Materials</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Lyon, A.E.</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Spellman, David</persname>
+    </origination>
+    <unitid>5450 AV</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.06 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1974/1974">1974</unitdate>
+    <physdesc id="aspace_c1729154ce4070f9be5fccbb6b97019a" label="Quantity:">0.1 linear ft.</physdesc>
+    <physdesc id="aspace_f94859e8a2f55b516184d89a0a8901e0" label="Forms of Material:">Audiovisual material.</physdesc>
+    <abstract id="aspace_2a548d12b109ac57946c2ec042c9869e">Audio reel containing the interview of A.E. Lyon by David Spellman.</abstract>
+    <langmaterial id="aspace_2f6417189e1a6dedc5bf8d2df9e43c67">Collection material in English</langmaterial>
+    <unitid type="bibid">7551083</unitid>
+  </did>
+  <odd id="aspace_964006f25de7c9bcd3736085ff8640d0">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, March 05, 2012</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 13, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_8414e684955b9c22365093bbfd99be0a">
+    <head>Biographical / Historical</head>
+<p>From 1945 to late 1961, while serving as Executive Secretary of the RLEA in Washington, A.E. Lyon was assigned the task of representing American railway labor on the Executive Committee - or governing body - of the International Transport Workers' Federation, commonly called ITF. During this initial and imporant phase of the Marshall Plan program, he was one of three labor members of the Public Advisory Board of the Economic Cooperation Administration. For many years he served on the Department of Labor's Trade Union Advisory Committee on International Labor Affairs. A.E. Lyons was the only labor member of the U.S. National Commission for the Pan-American Railway Congress. He was delegate to sessions of the Inland Transport Committee of the International Labor Organization. Almost the entire 17 year period while in Washington, he was a recognised spokesman and rep of the railway labor movement.</p>  </bioghist>
+  <accessrestrict id="aspace_564f5bef651253d9ae06d8679d70d716">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_1e0dece7b6a858d6bc0d75ae158595d0">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_9c7dcf96a1c3064026400ad7e43790ae">
+    <head>Preferred Citation</head>
+<p>A. E. Lyon Audio-Visual Materials #5450 AV. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_a06167c3d6695508417961c43c0ead5c">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05450.html"> 5450: A. E. Lyon Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05450mf.html"> 5450 mf: A. E. Lyon Papers on Microfilm</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Collective bargaining--Railroads--Law and legislation--United States</subject>
+    <subject source="ingest">Railroads--Employees--Labor unions--United States</subject>
+    <persname audience="internal" source="ingest">Lyon, Arlon Everett, 1899-</persname>
+    <persname audience="internal" source="ingest">Spellman, David</persname>
+  </controlaccess>
+  <unitid type="bibid">7551083</unitid>
+  <dsc><c01 id="aspace_10a40e5e0c52a7da0f7efb99b818371a" level="file"><did><unittitle>A.E. Lyon interviewed by Dave Spellman (ILR '77)</unittitle><unitid>1</unitid><unitdate datechar="creation" normal="1974/1974">1974</unitdate><container id="aspace_0496b70c0b8e50e18a3e1ddbb62a7e80" label="unspecified" type="box">1</container></did><scopecontent id="aspace_7d7b910780e2ef86451cdb7972dc4810"><head>Scope and Contents</head><p>On the Railway Labor Act and its impact, Oct. 16, 1974</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

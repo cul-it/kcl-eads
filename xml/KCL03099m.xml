@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL03099m</eadid><filedesc><titlestmt><titleproper>ILR School Proposal for a Working Women's Institute for Research and Education <num>/3099m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 22, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:16:18 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILR School Proposal for a Working Women's Institute for Research and Education</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">New York State School of Industrial and Labor Relations (NYSSILR)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Working Women's Institute</corpname>
+    </origination>
+    <unitid>/3099m</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 folders</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1977/1977">1977</unitdate>
+    <physdesc id="aspace_a03a68e14a5d282b6f6a619f6062a45e" label="Quantity:">1 file folder.</physdesc>
+    <physdesc id="aspace_0cc662708f2dbd6bbcbea760bf673fcc" label="Forms of Material:">Records (documents).</physdesc>
+    <abstract id="aspace_63f8bd8a106c2e125190665f41edd195">"Proposal for a Working Women's Institute for Research and Education as part of the New York State School of Industrial and Labor Relations, Cornell University," submitted by Barbara Wertheimer and Anne Nelson of the Working Women's Program for Research and Education, December 20, 1976.</abstract>
+    <langmaterial id="aspace_ce7a535a4df3d6b8185319466e761a1d">Collection material in English</langmaterial>
+    <unitid type="bibid">7952046</unitid>
+  </did>
+  <odd id="aspace_d425dd87c601e121cf18285fa392ad8f">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 08, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, February 22, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <scopecontent id="aspace_81e334af38513640209486f80d070cd2">
+    <head>Scope and Contents</head>
+<p>This collection consists of a "Proposal for a Working Women's Institute for Research and Education as part of the New York State School of Industrial and Labor Relations, Cornell University," submitted by Barbara Wertheimer and Anne Nelson of the Working Women's Program for Research and Education, December 20, 1976.</p>  </scopecontent>
+  <accessrestrict id="aspace_8772364eb6165c44cb3b925d25011739">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_da52fdaa2ff6c880a195289b71bdb765">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_e21b428c980144f23b7441352c96dd62">
+    <head>Preferred Citation</head>
+<p>ILR School Proposal for a Working Women's Institute for Research and Education #/3099m. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_bd53ee7c835abc5e379add5c03dba397">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL03099.html"> /3099: ILR School Working Women's Institute Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05583-5.html"> 5583/5: Archives Organization File (AOF) Part 5</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <corpname source="ingest">New York State School of Industrial and Labor Relations.</corpname>
+    <corpname audience="internal" source="ingest">Working Women's Institute.</corpname>
+  </controlaccess>
+  <unitid type="bibid">7952046</unitid>
+  <dsc><c01 id="aspace_586dc6cc08506aca8ee7238ae01344c2" level="file"><did><unittitle>Proposal for a Working Women's Institute</unittitle><unitdate datechar="creation" normal="1977/1977">1977</unitdate><container id="aspace_51d9f27f2e144d00f5d7d50914304003" label="unspecified" type="box">1</container></did></c01></dsc>
+</archdesc>
+</ead>

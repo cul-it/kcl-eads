@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05498m</eadid><filedesc><titlestmt><titleproper>Face the Nation With George Meany Transcript <num>5498m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 14, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:49:15 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Face the Nation With George Meany Transcript</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Meany, George</persname>
+    </origination>
+    <unitid>5498m</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 folders</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1970/1970">1970</unitdate>
+    <physdesc id="aspace_e3f9d4f85412c16b7d64fe0690b0a23c" label="Quantity:">1 file folder.</physdesc>
+    <physdesc id="aspace_5a31dc477bbb549d019176a69e0ee60e" label="Forms of Material:">Interviews, transcripts .</physdesc>
+    <abstract id="aspace_441a7735232c6fa159b85d5ab53e6652">Transcript of Face the Nation broadcast on September 6, 1970. George Meany, Presdient of the AFL-CIO, was the featured guest.</abstract>
+    <langmaterial id="aspace_aa6673a953af9ba6d1c30fa9d100a02f">Collection material in English</langmaterial>
+    <unitid type="bibid">2299578</unitid>
+  </did>
+  <odd id="aspace_6c153ce0725883bb883c79bbe4b80ba1">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 21, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 14, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_3f86ef95c5befcc9f35ab47b3786b8af">
+    <head>Biographical / Historical</head>
+<p>George Meany (1894-1980) was elected president of the American Federation of Labor (A.F. of L.) in 1952. His efforts to unite his organization with its rival, the Congress of Industrial Organizations (CIO), was successful, and he was elected president of the merged organization, the AFL-CIO, in 1955. He was a vigorous anti-communist and an outspoken member of the Democratic Party, who, by virtue of his office, wielded considerable influence in the party.</p>  </bioghist>
+  <scopecontent id="aspace_b2c2e51d99d79f1cdedf1ded703a5c0b">
+    <head>Scope and Contents</head>
+<p>Interview broadcast on CBS radio and television stations, conducted by George Herman and Bruce Morton (CBS News) and Frank Swoboda (BUSINESS WEEK). </p><p> The following personalities and issues figure in the interview: the Democratic Party, left-wing Democrats, Richard M. Nixon, Americans for Democratic Action (ADA), George S. McGovern, Edward M. Kennedy, Nelson A. Rockefeller, Arthur J. Goldberg, Vietnam, Meany's Labor Day message, strikes, the United Automobile Workers, civil service workers , railroads, import quotas, House Trade Bill/Mills Bill, and the United Mine Workers of America.</p>  </scopecontent>
+  <accessrestrict id="aspace_e10d6dacc48523cdf8e8ad00a1b9566f">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_c4cbda8f2f6364c8c6aa3017eb9b08ab">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_ecc22d2a341ccd588ec3f28359952af0">
+    <head>Preferred Citation</head>
+<p>Face the Nation With George Meany Transcript #5498m. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Foreign trade and employment z United States.</subject>
+    <subject source="ingest">Vietnamese Conflict, 1961-1975 x Public opinion.</subject>
+    <subject source="ingest">Trade-union insurance. United States.</subject>
+    <subject source="ingest">Trade-union rituals.</subject>
+    <subject source="ingest">Trade-unions. Government employees. United States.</subject>
+    <persname audience="internal" source="ingest">Goldberg, Arthur J.</persname>
+    <persname audience="internal" source="ingest">Herman, George, 1920-2005</persname>
+    <persname audience="internal" source="ingest">Kennedy, Edward M. (Edward Moore), 1932-2009</persname>
+    <persname audience="internal" source="ingest">McGovern, George S. (George Stanley), 1922-2012</persname>
+    <persname audience="internal" source="ingest">Morton, Bruce, 1930-2014</persname>
+    <persname audience="internal" source="ingest">Nixon, Richard M. (Richard Milhous), 1913-1994</persname>
+    <persname source="ingest">Rockefeller, Nelson A. (Nelson Aldrich), 1908-1979</persname>
+    <persname audience="internal" source="ingest">Swoboda, Frank</persname>
+    <corpname audience="internal" source="ingest">Americans for Democratic Action</corpname>
+    <corpname source="ingest">Democratic Party (U.S.)</corpname>
+    <corpname audience="internal" source="ingest">International Union, United Automobile, Aerospace and Agricultural Implement Workers of America.</corpname>
+    <corpname audience="internal" source="ingest">United Mine Workers of America.</corpname>
+  </controlaccess>
+  <unitid type="bibid">2299578</unitid>
+  <dsc><c01 id="aspace_1b1c811948aa6c90ea62800f26a66488" level="file"><did><unittitle>Face the Nation transcript</unittitle><unitdate datechar="creation" normal="1970/1970">1970</unitdate><container id="aspace_f235048b33d66cea6392274388fcbdbb" label="unspecified" type="box">1</container></did><scopecontent id="aspace_2ba06b39e827862a51587d7a780419de"><head>Scope and Contents</head><p>For broadcast on September 6, 1970 featuring George Meany; 17 pages.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

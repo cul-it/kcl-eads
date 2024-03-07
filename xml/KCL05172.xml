@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05172</eadid><filedesc><titlestmt><titleproper>Smith, Vern Papers <num>5172</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>November 01, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:36:03 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Vern Smith Papers</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Smith, Vern</persname>
+    </origination>
+    <unitid>5172</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1890/1934" type="inclusive">1890-1934</unitdate>
+    <physdesc id="aspace_cab8dacba3ea6bcfe7931b9470e7e677" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_a66cee2241e385170cf079cc3c730590" label="Forms of Material:">Clippings, manuscripts for publication, scrapbooks .</physdesc>
+    <abstract id="aspace_e0c2943f7d94499bde3a1f90148f4fe7">Fragment of the files of an editor of The Industrial Pioneer. Includes reports, manuscripts and clippings concerning the I.W.W. and labor unrest, particularly in the 1920s.</abstract>
+    <langmaterial id="aspace_f62c313b41965bc753f8fc8f585c298a">Collection material in English</langmaterial>
+    <unitid type="bibid">3336857</unitid>
+  </did>
+  <odd id="aspace_59e170b4a15532c9f83863962204266f">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, November 11, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, November 01, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_aa48740538b36abd8848d64015dcb83c">
+    <head>Biographical / Historical</head>
+<p>Vern Smith was an editor of The Industrial Pioneer, a publication of the Industrial Workers of the World (I.W.W.).</p>  </bioghist>
+  <bioghist id="aspace_31a65e157da5f955852041aa6ba7a8d1">
+    <head>Biographical / Historical</head>
+<p>Established in Chicago in 1905 by sponsors of socialism and the remnants of 19th century labor unions, including the Knights of Labor, the radical Western Federation of Miners and the American Labor Union, the Industrial Worers of the World (IWW), or "Wobblies", evolved into a radical industrial union which waged campaigns for improved working conditions, wages and hours of work, as well as workers' control in mines, mills, lumber camps and factories.</p>  </bioghist>
+  <scopecontent id="aspace_6e349014e3e6ee3edd42e24256cd0a01">
+    <head>Scope and Contents</head>
+<p>Fragment of the files of an editor of THE INDUSTRIAL PIONEER. Includes reports, manuscripts and clippings concerning the IWW and labor unrest, particularly in the 1920s. </p><p> Includes report (originals and carbons) of Vern Smith to the general convention of the IWW (1924) on the status of newspapers,,, questions on the revolutionary nature of the IWW, the question of pacifism, an appeal for workers to go to California, the question of boycotts, and injuring the California capitalists by withdrawing buying power in limited localities; report on change of editors of INDUSTRIAL SOLIDARITY (the weekly official organ of the IWW); list of Council members appointed by people's commissars, and officials of the Central Executive Committee of the USSR (1935); charges brought against Vern Smith for deliberately violating the policy of the IWW by printing "undesirable articles" in THE INDUSTRIAL PIONEER; copy of the organization program for the IWW; report (1924) to the general convention of the IWW by the business manager of INDUSTRIAL SOLIDARITY and THE INDUSTRIAL PIONEER; report of the Ballot Committee (1925); and Gordon Cascaden's communication to the IWW General Convention (1925). </p><p> Also includes a statement of IWW principles; affidavit of two miners (members of the United Mine Workers and the National Miners Union) (1931) before the State of New York; typed mss. By Smith, "The Worker's Prospects in the USSR" (1934), and "Beginnings of Revolutionary Political Action in USA"; typed ms. "The I.W.W. Since the World War" (n.d.); LA VIE OUVRIERE (23 July 1926); and "The Situation of the I.W.W." (extracted from a report of Earl Browder to the executives of R.I.L.U.; copy of facts and statistics extracted from various sources regarding farm products prices to farmers and on the market (1929); and a copy of the introduction to the minutes of the 1899 International Workingmen's Congress, by Wilhelm Liebknecht. </p><p> Also, loose sheets (copies) from typed mss. of outline on years 1928-1931, the "third period", with reference to unification of the Communist Party and its growing influence, the Agricultural Workers Industrial League, criminal syndicalism prosecution in California, the Illinois general strike (1929), the National Textile Workers' Union, the New Bedford strike (1928), the Gastonia strike (1929), imperialism, war danger, terrorism and suppression of the militant press. Also scrapbook regarding the IWW and clippings from THE DAILY WORKER (1924-1925).</p>  </scopecontent>
+  <accessrestrict id="aspace_c752541783b404b37e3a76f8dec4a66b">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_56c0db7a7599ef25afb4d6bf2f3562d2">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_887749f613efbe4d5540802fd4e0409c">
+    <head>Preferred Citation</head>
+<p>Vern Smith Papers #5172. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Anarchists--United States.</subject>
+    <subject source="ingest">Criminal syndicalism--California.</subject>
+    <subject source="ingest">Freedom of the press--United States.</subject>
+    <subject source="ingest">General Strike, Illinois, 1929.</subject>
+    <subject source="ingest">Labor--Soviet Union.</subject>
+    <subject source="ingest">Working class--Soviet Union.</subject>
+    <subject source="ingest">Labor movement--Soviet Union.</subject>
+    <subject source="ingest">Press, Labor--United States.</subject>
+    <subject source="ingest">Syndicalism--United States.</subject>
+    <subject source="ingest">Loray Mill Strike, 1929.</subject>
+    <subject source="ingest">Textile Workers' Strike, Gastonia, N.C., 1929.</subject>
+    <subject source="ingest">Textile Workers' Strike, New Bedford, Mass., 1923.</subject>
+    <subject source="ingest">Labor unions and communism.</subject>
+    <subject source="ingest">Journalists.</subject>
+    <subject source="ingest">Trade-unions. Agricultural workers. United States.</subject>
+    <subject source="ingest">Trade-unions. Textile workers. United States.</subject>
+    <corpname audience="internal" source="ingest">Agricultural Workers Industrial League</corpname>
+    <corpname audience="internal" source="ingest">Brotherhood of Locomotive Firemen and Enginemen. Ladies Society. Grand Lodge.</corpname>
+    <corpname source="ingest">Communist Party of the United States of America</corpname>
+    <corpname source="ingest">Industrial Workers of the World</corpname>
+    <corpname audience="internal" source="ingest">National Miners' Union</corpname>
+    <corpname audience="internal" source="ingest">National Textile Workers' Union</corpname>
+    <corpname audience="internal" source="ingest">United Mine Workers of America.</corpname>
+    <persname audience="internal" source="ingest">Browder, Earl, 1891-1973.</persname>
+    <persname audience="internal" source="ingest">Cascaden, Gordon</persname>
+    <persname audience="internal" source="ingest">Smith, Vern, 1892-</persname>
+  </controlaccess>
+  <unitid type="bibid">3336857</unitid>
+  <dsc><c01 id="aspace_ae71cb7f7305342b5b33af995c4eef8c" level="file"><did><unittitle>Scrapbook</unittitle><unitdate datechar="creation" normal="1924/1925" type="inclusive">1924-1925</unitdate><container id="aspace_c8089164dfc2a352a8ea4a458e469c94" label="unspecified" type="box">1</container><container id="aspace_1d72881677df4fe76a7df60e7458b670" parent="aspace_c8089164dfc2a352a8ea4a458e469c94" type="folder">1</container></did><scopecontent id="aspace_6caccc7f484ef61beb59d5d50e730d15"><head>Scope and Contents</head><p>News clippings on the IWW</p></scopecontent></c01><c01 id="aspace_d3856362e08d4c1b77efc8aa6e2b50c2" level="file"><did><unittitle>Personal papers [folder 1 of 3]</unittitle><unitdate datechar="creation" normal="1924/1926" type="inclusive">1924-1926</unitdate><container id="aspace_daff6a5cc1c7dd63b28270336087155b" label="unspecified" type="box">1</container><container id="aspace_3bea2b4ecc7539278e538679bed0b613" parent="aspace_daff6a5cc1c7dd63b28270336087155b" type="folder">2</container></did></c01><c01 id="aspace_68c37564c33affad137bed167a564bd5" level="file"><did><unittitle>Personal papers [folder 2 of 3]</unittitle><unitdate datechar="creation" normal="1923/1932" type="inclusive">1923-1932</unitdate><container id="aspace_9124f4533f65005be01defa9c4c37955" label="unspecified" type="box">1</container><container id="aspace_9f3fa5a0c73343329836b53d038985f8" parent="aspace_9124f4533f65005be01defa9c4c37955" type="folder">3</container></did></c01><c01 id="aspace_670f7810085b02c378731be323e61756" level="file"><did><unittitle>Personal papers [folder 3 of 3]</unittitle><unitdate datechar="creation" normal="1890/1934" type="inclusive">1890-1934</unitdate><container id="aspace_a31017f8b277c1767dc7632f018895cf" label="unspecified" type="box">1</container><container id="aspace_52007af5efe4a3eb698f24f3542d7919" parent="aspace_a31017f8b277c1767dc7632f018895cf" type="folder">4</container></did></c01></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05044</eadid><filedesc><titlestmt><titleproper>U.S. Emergency Board No. 116 Reports and Exhibits <num>5044</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 04, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:30:49 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>U.S. Emergency Board No. 116 Reports and Exhibits</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">U.S. Emergency Board</corpname>
+    </origination>
+    <unitid>5044</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1957/1957">1957</unitdate>
+    <physdesc id="aspace_d8e55ceb6c76a9bd823d98650a725530" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_e3268900c7d88deb79ed9df8db901c7d" label="Forms of Material:">Reports (documents), exhibits .</physdesc>
+    <abstract id="aspace_3132e72ba3ab2f6cda6e56dffcc741d4">Consists of the Board's report to the president and employee and carrier exhibits. Transcripts of proceedings and exhibits of the Emergency Board No. 116, 1956. Wage and benefiy case. Akron and Barbarton Belt Railroad Company and other carriers represented by the Eastern, Western and Southestern Carriers Conference Committees and the Brotherhood of Railroad Trainmen, 1946-1957.</abstract>
+    <langmaterial id="aspace_82201654f6821dc0e0cc34e167ae8f17">Collection material in English</langmaterial>
+    <unitid type="bibid">3834055</unitid>
+  </did>
+  <odd id="aspace_1b365ee586519101ae3bc90d12dab343">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, January 18, 2015</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 04, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_ebf13d3999ea6aa302db74407cffb8fa">
+    <head>Biographical / Historical</head>
+<p>In 1956 and 1957, U.S. Emergency Board No. 116 heard a dispute beetween carriers represented by the Eastern, Western, and Southeastern Carriers' Conference Committees and employees represented by the Brotherhood of Railroad Trainmen. Parties to the dispute, which was over wages and paid holidays, included 175 class 1 railroads and 160,000 operating railroad workers. </p><p> The Emergency Board recommended an increase of 26 1/2 cents per hour to be given in three steps over a three year agreement. It also proposed seven paid holidays for regular service yardmen but turned down a similar holiday allowance for operating craft workers.</p>  </bioghist>
+  <scopecontent id="aspace_e9cca49a18c6947a218b554f747b98ee">
+    <head>Scope and Contents</head>
+<p>Consists of the Board's report to the president and employee and carrier exhibits. </p><p> Employee exhibits deal with position classification, comparative wage analysis, productivity, hours of work, paid holidays and work hazards. Carrier exhibits relate to pattern settlements of railway labor disputes, comparative wage and earning data, position descriptions, work measurements, hours of work, working conditions, crew consist, and the economic conditions of the railroad industry, among others.</p>  </scopecontent>
+  <accessrestrict id="aspace_8b9009627fb30f1d408aeada31dba9b4">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_344fc3da37c0e071586bd1068b4f6803">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_1617c2456019841c30a0ad9b3c30daab">
+    <head>Preferred Citation</head>
+<p>U.S. Emergency Board No. 116 Reports and Exhibits #5044. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Mediation and conciliation, Industrial--United States--Cases.</subject>
+    <subject source="ingest">Railroads--United States--Finance.</subject>
+    <subject source="ingest">Railroads--Employees.</subject>
+    <subject source="ingest">Employee fringe benefits. Mediation and conciliation, Industrial. United States.</subject>
+    <subject source="ingest">Hours of labor. Mediation and conciliation, Industrial. United States.</subject>
+    <subject source="ingest">Job descriptions. Mediation and conciliation, Industrial. United States.</subject>
+    <subject source="ingest">Labor productivity. Mediation and conciliation, Industrial. United States.</subject>
+    <subject source="ingest">Mediation and conciliation, Industrial. Railroads. United States.</subject>
+    <subject source="ingest">Railroads. United States. Full crew rules.</subject>
+    <subject source="ingest">Railroads. United States. Safety measures.</subject>
+    <subject source="ingest">Wages. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Wages. Railroads. United States.</subject>
+    <subject source="ingest">Working conditions. Mediation and conciliation, Industrial. United States.</subject>
+    <corpname audience="internal" source="ingest">Akron and Barberton Belt Railroad</corpname>
+    <corpname audience="internal" source="ingest">Brotherhood of Railroad Trainmen</corpname>
+    <corpname audience="internal" source="ingest">Eastern Carriers' Conference Committee</corpname>
+    <corpname audience="internal" source="ingest">Southeastern Carriers' Conference Committee</corpname>
+    <corpname audience="internal" source="ingest">United States. Emergency Board No. 116.</corpname>
+    <corpname audience="internal" source="ingest">Western Carriers' Conference Committee</corpname>
+  </controlaccess>
+  <unitid type="bibid">3834055</unitid>
+  <dsc><c01 id="aspace_247c0946434cbf6fe03efd6a9fafc353" level="file"><did><unittitle>Report to the President By the Emergency Board</unittitle><unitdate datechar="creation" normal="1957/1957">1957</unitdate><container id="aspace_d93650364b7e1f4f094ce3248d253770" label="unspecified" type="box">1</container><container id="aspace_33d38d6a95757f57aff0ca0f936fb8d3" parent="aspace_d93650364b7e1f4f094ce3248d253770" type="folder">1</container></did></c01><c01 id="aspace_90e2431714de08cb590d4c4687ba7137" level="file"><did><unittitle>BRT Wage Rules Movement, Carriers' Exhibits</unittitle><unitdate datechar="creation" normal="1956/1956">1956</unitdate><container id="aspace_72249391e40cb2431594ecc36148bcd5" label="unspecified" type="box">1</container><container id="aspace_42489fef4f1291492d1e34885bdaf322" parent="aspace_72249391e40cb2431594ecc36148bcd5" type="folder">2</container></did></c01><c01 id="aspace_b06addcb87851908f9c222852b5115e5" level="file"><did><unittitle>BRT Wage Rules Movement, Carriers' Exhibits</unittitle><unitdate datechar="creation" normal="1956/1956">1956</unitdate><container id="aspace_3b4dd770b811d53f96c1cc0242a652cd" label="unspecified" type="box">1</container><container id="aspace_05924b9191b960d6a29728b5b3ae4054" parent="aspace_3b4dd770b811d53f96c1cc0242a652cd" type="folder">2</container></did></c01><c01 id="aspace_a3237e7cba92518611fc7b3acaef374a" level="file"><did><unittitle>1956 Wage Rules</unittitle><unitdate datechar="creation" normal="1956/1956">1956</unitdate><container id="aspace_afc7a150905cc06c4e6d06c79637693c" label="unspecified" type="box">1</container><container id="aspace_52924c754c4d6a57ffb6807c130dfc40" parent="aspace_afc7a150905cc06c4e6d06c79637693c" type="folder">3</container></did></c01><c01 id="aspace_729c1d2f6d2d2686628afd8b3bc14810" level="file"><did><unittitle>1956 BRT Wage Rules Movement, Carriers Exhibits</unittitle><unitdate datechar="creation" normal="1956/1956">1956</unitdate><container id="aspace_89afa247b93ab919f783ff0d07e3d024" label="unspecified" type="box">1</container><container id="aspace_6990ed7cd2ef1b5b0e7c85b62e97a52d" parent="aspace_89afa247b93ab919f783ff0d07e3d024" type="folder">4</container></did></c01></dsc>
+</archdesc>
+</ead>

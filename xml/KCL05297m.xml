@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05297m</eadid><filedesc><titlestmt><titleproper>Brown, Emily Clark Papers <num>5297m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 11, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:41:31 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Emily Clark Brown Papers</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Brown, Emily Clark</persname>
+    </origination>
+    <unitid>5297m</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 folders</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1936/1962" type="inclusive">1936-1962</unitdate>
+    <physdesc id="aspace_a9adbf03bf9375e04e7bf37bb48cf56e" label="Quantity:">i file folder</physdesc>
+    <physdesc id="aspace_ff16bdf7693df7cc2ea9b91ec42484d6" label="Forms of Material:">Reports, correspondence.</physdesc>
+    <abstract id="aspace_48a377a06993d934a3196b2fb6ca4e28">Includes notes, reports and a letter containing Brown's observations on Soviet life and Soviet workers.</abstract>
+    <langmaterial id="aspace_fd59ccc7c9ae56c7fc8c9e747205f644">Collection material in English</langmaterial>
+    <unitid type="bibid">8435602</unitid>
+  </did>
+  <odd id="aspace_026c0d0805d3da3337b6dcdaa3d5e60e">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 18, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 11, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_cfe9e0c087638175d5d82c35d3eda481">
+    <head>Biographical / Historical</head>
+<p>Emily Clark Brown was a professor and labor economist. </p><p> Professor Brown (Ph.D., University of Chicago, 1923) was an associate industrial economist, US Women's Bureau, 1929, assistant professor of economics at Wellesley and assistant professor, later professor, of economics at Vassar College, beginning in 1932. Brown was a specialist in labor economics and wrote on collective bargaining, national labor policy and labor in the Soviet Union.</p>  </bioghist>
+  <scopecontent id="aspace_1729d4324fc10bc6cbe115ec06d87106">
+    <head>Scope and Contents</head>
+<p>Includes notes, reports and a letter containing Brown's observation on Soviet life and Soviet workers. </p><p> Includes typescript of a letter (1936) from Brown written on board the Cunard White Star "Britannia" to her mother concerning her observations of Russia, in particular on Soviet workers; food abundance, especially produce; hygiene; health programs; education; factories and unions; the Kirov assassination and press censorship; privileges of Communist Party members; and the socio-political situation in Berlin during the Olympic Games preparation; also mentioned are the Ukraine, Kharkov, Rostov, and Tiflis. </p><p> Also includes Brown's notes (copy) on the 30-day visit to Moscow, Leningrad, Kiev, and Kharkov in the Soviet Union to study the Soviet labor market and the policies and practices of the distribution of the Soviet labor force (1955). </p><p> Brown's report (copy) on her observations of labor relations in the Soviet Union discusses meetings with Soviet economists and legal experts; the Leningrad Finance-Economics Institute; the Kiev Institute of Economics; the Academy of Science of Ukraine; Regional Trade Union Councils in Leningrd, Ivanova, Rostox-on-Don, and Kiev; the Central Committee of Trade Unions, Trade Union Factory Committee (leaders, administration); and Soviet salaries and wages (1959). </p><p> Brown's report (copy) to the American Council of Learned Societies on her trip to the Soviet Union, particularly Moscow and Leningrad, discusses the Regional and Central Council of Trade Unions, the Electosil Plant, the Zrasnoe Plant, the Znamya Plant, a sewing plant near Volodarskova, the House Construction Combine, the Institute of Soviet American Relations, visits to Soviet schools and cultural sites, and conversations with Soviet citizens.</p>  </scopecontent>
+  <accessrestrict id="aspace_a14de3d0c9c86afdc64f3fef9d3e99ac">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_1b8df76fd50ae5bb1fb988ed9fe917c3">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_0ac6aaa25a53d424b491ecf4c9486ae4">
+    <head>Preferred Citation</head>
+<p>Emily Clark Brown Papers #5297m. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Labor--Soviet Union.</subject>
+    <subject source="ingest">Labor supply--Soviet Union.</subject>
+    <subject source="ingest">Trade-unions--Soviet Union.</subject>
+    <subject source="ingest">Wages--Soviet Union.</subject>
+    <subject source="ingest">College teachers.</subject>
+    <subject source="ingest">Economists.</subject>
+    <subject source="ingest">Soviet Union--Politics and government--1936-1953.</subject>
+    <subject source="ingest">Soviet Union--Politics and government--1953-</subject>
+    <corpname audience="internal" source="ingest">Central Union of Trade Unions (Soviet Union)</corpname>
+    <corpname audience="internal" source="ingest">Institute of Soviet American Relations</corpname>
+    <corpname audience="internal" source="ingest">Soviet Union</corpname>
+    <persname audience="internal" source="ingest">Brown, Emily Clark, 1895-1980</persname>
+  </controlaccess>
+  <unitid type="bibid">8435602</unitid>
+  <dsc><c01 id="aspace_26447a367974f0961a601ec47891490f" level="file"><did><unittitle>Emily Brown papers</unittitle><unitdate datechar="creation" normal="1936/1962" type="inclusive">1936-1962</unitdate><container id="aspace_ad62406e61d82a7653c6e91ccf9a2a63" label="unspecified" type="box">1</container><container id="aspace_9f6a618de70e988836343d7d69e69ac9" parent="aspace_ad62406e61d82a7653c6e91ccf9a2a63" type="folder">1</container></did></c01></dsc>
+</archdesc>
+</ead>

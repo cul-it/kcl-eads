@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05066</eadid><filedesc><titlestmt><titleproper>U.S. Wage Stabilization Board File Note <num>5066</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 07, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:31:32 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>U.S. Wage Stabilization Board File Note</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">U.S. Wage Stabilization Board</corpname>
+    </origination>
+    <unitid>5066</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1951/1953" type="inclusive">1951-1953</unitdate>
+    <physdesc id="aspace_3cbcffd0c2b7aa65df915616898f8fbb" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_209bb19e91c1a0d3ad5bdb3bf11a8ff3" label="Forms of Material:">Records (documents).</physdesc>
+    <langmaterial id="aspace_53499ea1c43a37d9b3d4d1a18fd6a6a2">Collection material in English</langmaterial>
+    <unitid type="bibid">8202574</unitid>
+  </did>
+  <odd id="aspace_b86b52a5dd3826f9c2c2b40e57647974">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, February 27, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 07, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_3af1ad9e13a65ac16707f804d9d8bbd0">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_15f7565dd03481ffd1fefb1335617ae3">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_00f3f46320c6449df7ed32e2b72291ea">
+    <head>Preferred Citation</head>
+<p>U.S. Wage Stabilization Board File Note #5066. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_c3dc4460f873468cc63033502aad02aa">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05067.html"> 5067: American Locomotive Company and United Steelworkers of America Hearing before the U.S. Wage Stabilization Board Transcript</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05070.html"> 5070: American Smelting and Refining Co. and the United Steelworkers of America Hearing before the U.S. Wage Stabilization Board Transcript and Exhibits</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05298.html"> 5298: IAM vs. Northwest Airlines and Miscellaneous others Arbitration Proceedings</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05476.html"> 5476: U.S. Wage Stabilization Board Documents</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <corpname audience="internal" source="ingest">United States. Wage Stabilization Board</corpname>
+  </controlaccess>
+  <unitid type="bibid">8202574</unitid>
+  <dsc><c01 id="aspace_a91561b96143992ccc4bf145eec07a4c" level="file"><did><unittitle>Wage Stabilization Board</unittitle><unitdate datechar="creation" normal="1952/1953" type="inclusive">1952-1953</unitdate><container id="aspace_ed69cd8e786611b6731ed72a36844c80" label="unspecified" type="box">1</container><container id="aspace_6b399033abc1f01d65767221ccddc507" parent="aspace_ed69cd8e786611b6731ed72a36844c80" type="folder">1</container></did><scopecontent id="aspace_4d81b4bdff9e38f07082ab3caa5bbe92"><head>Scope and Contents</head><p>Part 1 of 2</p></scopecontent></c01><c01 id="aspace_daccf540d8e93cff956721fdcaa99e60" level="file"><did><unittitle>Wage Stabilization Board</unittitle><unitdate datechar="creation" normal="1951/1952" type="inclusive">1951-1952</unitdate><container id="aspace_917af254d8a73da39e527b49b5973b77" label="unspecified" type="box">1</container><container id="aspace_31052a4eb0d37bb848d648d4321459aa" parent="aspace_917af254d8a73da39e527b49b5973b77" type="folder">2</container></did><scopecontent id="aspace_813c66161dfbbfcf6022dd2b325501d0"><head>Scope and Contents</head><p>Part 2 of 3</p></scopecontent></c01><c01 id="aspace_40c994287fc4e50d8831b9d279643773" level="file"><did><unittitle>Wage Stabilization Board</unittitle><unitdate datechar="creation" normal="1951/1951">1951</unitdate><container id="aspace_3b4fad62e2d69e1934f78e06c63a1cd4" label="unspecified" type="box">1</container><container id="aspace_83accab450f2f33ba02e68e59c5cfded" parent="aspace_3b4fad62e2d69e1934f78e06c63a1cd4" type="folder">3</container></did><scopecontent id="aspace_13fa8c686fab0dbb0dc207b0ee1d07bc"><head>Scope and Contents</head><p>Part 3 of 3</p></scopecontent></c01><c01 id="aspace_c841e50d5e710cbcedf480763a818bfb" level="file"><did><unittitle>Defense Mobilization, Manpower Policy</unittitle><unitdate datechar="creation" normal="1951/1951">1951</unitdate><container id="aspace_684b7799745738480b13b15903054c9e" label="unspecified" type="box">1</container><container id="aspace_c098a02e04960a06d46ed06f7e8ad47e" parent="aspace_684b7799745738480b13b15903054c9e" type="folder">4</container></did></c01><c01 id="aspace_562e18c658bb5ee97b60752ab41c77a3" level="file"><did><unittitle>Wage Stabilization Board</unittitle><unitdate datechar="creation" normal="1951/1952" type="inclusive">1951-1952</unitdate><container id="aspace_a0213c2f736d371274501a7a0a6f2624" label="unspecified" type="box">2</container><container id="aspace_c6f425e080224e6bc94f307821036abe" parent="aspace_a0213c2f736d371274501a7a0a6f2624" type="folder">1</container></did></c01><c01 id="aspace_e0d0af8a27f564a4fe29e3d231880a6d" level="file"><did><unittitle>Wage Stabilization</unittitle><unitdate datechar="creation" normal="1952/1952">1952</unitdate><container id="aspace_aadcf21a4cb80c1136d61ae9351252a5" label="unspecified" type="box">2</container><container id="aspace_2db8d114c4d8d9136ef2b76fbd66266f" parent="aspace_aadcf21a4cb80c1136d61ae9351252a5" type="folder">2</container></did></c01><c01 id="aspace_c2b534ccb9f422dbe7db4da9ca2b2b7e" level="file"><did><unittitle>United Labor Policy Committee, General Wage Regulation</unittitle><unitdate datechar="creation" normal="1951/1952" type="inclusive">1951-1952</unitdate><container id="aspace_656bdf3be9b53b343a82c101a89e8882" label="unspecified" type="box">2</container><container id="aspace_66f692eeed35deb67d7826d00b967a52" parent="aspace_656bdf3be9b53b343a82c101a89e8882" type="folder">3</container></did></c01><c01 id="aspace_953822214541b7b7eed5ff0ec50f1327" level="file"><did><unittitle>Wage Stabilization</unittitle><unitdate datechar="creation" normal="1951/1951">1951</unitdate><container id="aspace_2b1534f1b2611e16fd686611fd54961d" label="unspecified" type="box">2</container><container id="aspace_8a5eada54ec05402d060f99a32cfe346" parent="aspace_2b1534f1b2611e16fd686611fd54961d" type="folder">4</container></did></c01><c01 id="aspace_f32f6f7e9774dcb27c714da66903b47b" level="file"><did><unittitle>Railroad and Airline Wage Board</unittitle><unitdate datechar="creation" normal="1951/1953" type="inclusive">1951-1953</unitdate><container id="aspace_dcf4dd2615877c2f25f672b16d24b190" label="unspecified" type="box">2</container><container id="aspace_a8ace2eda2eaa5b36a10ea5b3e30f192" parent="aspace_dcf4dd2615877c2f25f672b16d24b190" type="folder">5</container></did></c01></dsc>
+</archdesc>
+</ead>

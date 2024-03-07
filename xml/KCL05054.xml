@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05054</eadid><filedesc><titlestmt><titleproper>U.S. Emergency Board No. 133 Exhibits <num>5054</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 04, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:31:08 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>U.S. Emergency Board No. 133 Exhibits</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">U.S. Emergency Board</corpname>
+    </origination>
+    <unitid>5054</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1960/1960">1960</unitdate>
+    <physdesc id="aspace_d07d58af2763e8c2d94a21f5b20ab3c6" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_442f3d85e7e4f0429ae4c6585c64735f" label="Forms of Material:">Maps, photographs .</physdesc>
+    <abstract id="aspace_1a186a3d81be4612f46a5a1b4d8e707a">Collection consists of carrier exhibits and New York Harbor Carriers' Conference Committee vs. Railroad Marine Harber Council: exhibits.</abstract>
+    <langmaterial id="aspace_f308dd524283e706d0b2f648accaf3f1">Collection material in English</langmaterial>
+    <unitid type="bibid">3337339</unitid>
+  </did>
+  <odd id="aspace_b2d611ddb4ec836232ee4c84dc8eea0d">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, March 10, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 04, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_fca6c88aabc584c1f5c4e9000817ebca">
+    <head>Biographical / Historical</head>
+<p>U.S. Emergency Board No. 133 was appointed in 1960 to settle a dispute between certain carriers represented by the New York Harbor Carriers' Conference Committee and labor organizations which were members of the Railroad Marine Harbor Council. </p><p> The dispute began with various labor unions proposing changes in and additions to existing agreements under Section 6 of the Railway Labor Act. The unions took the position that they should not be compared to or treated as railroad employees but should have the same consideration as seamen. This was rejected by the Board. </p><p> The Board also dealt with the substance of the demands regarding wages, welfare benefits, and improved holiday and vacation benefits. It recommended a two percent base increase, elimination of the cost-of-living escalator, broadened the category of employee eligible for holiday pay, and provided for a sixty day notice regarding the elimination of a position.</p>  </bioghist>
+  <scopecontent id="aspace_b747cdabfbf7f73a6c2a3df7f76946a0">
+    <head>Scope and Contents</head>
+<p>Consist of carrier exhibits. </p><p> The exhibits deal with general wage increases (1937-1960) for railroad non-operating employees and railroad marine employees; general wage increases (1939-1960); retirement, and unemployment and sickness benefits in the railroad industry.</p>  </scopecontent>
+  <accessrestrict id="aspace_a2c580ab5ecc7b00393889c4f14ee541">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_c3447cb878b3a5ece96b8ad7fcd594c6">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_6bd0e2de9cc791ef2dbc0c05ded585da">
+    <head>Preferred Citation</head>
+<p>U.S. Emergency Board No. 133 Exhibits #5054. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Mediation and conciliation, Industrial--United States--Cases.</subject>
+    <subject source="ingest">Railroads--Employees.</subject>
+    <subject source="ingest">Arbitration, Industrial. Train ferries. New York (N.Y.)</subject>
+    <subject source="ingest">Employee fringe benefits. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Mediation and conciliation, Industrial. Railroads. United States.</subject>
+    <subject source="ingest">Mediation and conciliation, Industrial. Train ferries. New York (N.Y.)</subject>
+    <subject source="ingest">New York (N.Y.). Harbor.</subject>
+    <subject source="ingest">Wages. Mediation and conciliation, Industrial. United States.</subject>
+    <subject source="ingest">Wages. Merchant marine. United States.</subject>
+    <subject source="ingest">Wages. Railroads. United States.</subject>
+    <corpname audience="internal" source="ingest">New York Harbor Carriers' Conference</corpname>
+    <corpname audience="internal" source="ingest">New York (State). Board of Mediation and Arbitration</corpname>
+    <corpname audience="internal" source="ingest">Railroad Marine Harbor Council (New York, N.Y.)</corpname>
+    <corpname audience="internal" source="ingest">United States. Emergency Board No. 133.</corpname>
+  </controlaccess>
+  <unitid type="bibid">3337339</unitid>
+  <dsc><c01 id="aspace_22a498d302109031113a191c2583fd5c" level="file"><did><unittitle>Railroads' Exhibit No. 2. Railroad Floating Equipment.</unittitle><unitdate datechar="creation" normal="1960/1960">1960</unitdate><container id="aspace_09ba0404728da0aab4f8c9395eb120b5" label="unspecified" type="box">1</container><container id="aspace_6d8820a8425fc440552eb00b8ac35285" parent="aspace_09ba0404728da0aab4f8c9395eb120b5" type="folder">1</container></did><scopecontent id="aspace_21fe87f03ad5adc52f245b57778f96a9"><head>Scope and Contents</head><p>Contains nine photographs of railroad floating equipment.</p></scopecontent></c01><c01 id="aspace_c6fd974edf804a4ff73393bbc87b4c3d" level="file"><did><unittitle>Railroads' Exhibit No. 4. Employee Classification.</unittitle><unitdate datechar="creation" normal="1960/1960">1960</unitdate><container id="aspace_9353f08467f1dc1d98388c33d6d472a1" label="unspecified" type="box">1</container><container id="aspace_cd1c171b720ffa76d2e02b44b8780ac7" parent="aspace_9353f08467f1dc1d98388c33d6d472a1" type="folder">2</container></did></c01><c01 id="aspace_762be6e776eb2e8f5ee7fd3acfb6c127" level="file"><did><unittitle>Railroads' Exhibit No. 8. Wages.</unittitle><unitdate datechar="creation" normal="1960/1960">1960</unitdate><container id="aspace_9d82ae143657d19764fdc48a68907320" label="unspecified" type="box">1</container><container id="aspace_2eeeb30e0a74ada69350797ef1c95cab" parent="aspace_9d82ae143657d19764fdc48a68907320" type="folder">3</container></did></c01><c01 id="aspace_882a58f1832c220ad53f305dc5874416" level="file"><did><unittitle>Railroads' Exhibit No. 13. Wage and Earnings Data.</unittitle><unitdate datechar="creation" normal="1960/1960">1960</unitdate><container id="aspace_6b6f0cc5a949bff51457a49bd475b33f" label="unspecified" type="box">1</container><container id="aspace_6853e6351f3e8ae731c2c71d07e4c324" parent="aspace_6b6f0cc5a949bff51457a49bd475b33f" type="folder">4</container></did></c01><c01 id="aspace_52cd53845b8e26a690ebe1233a3e6627" level="file"><did><unittitle>Railroads' Exhibit No. 15. Vacation and Holiday Proposals.</unittitle><unitdate datechar="creation" normal="1960/1960">1960</unitdate><container id="aspace_23d299efa861af2acc456e9e6c7277ee" label="unspecified" type="box">1</container><container id="aspace_40b658a9da614eb40dcd3395d6543b77" parent="aspace_23d299efa861af2acc456e9e6c7277ee" type="folder">5</container></did></c01><c01 id="aspace_5e81c6bb496b08acc61958dc2dc54226" level="file"><did><unittitle>Railroads' Exhibit No. 16. 1960 Agreement.</unittitle><unitdate datechar="creation" normal="1960/1960">1960</unitdate><container id="aspace_7be54aa2000681e56f28483534300700" label="unspecified" type="box">1</container><container id="aspace_6f27896d9b97e2cba77e0100eba31c07" parent="aspace_7be54aa2000681e56f28483534300700" type="folder">6</container></did><scopecontent id="aspace_9be163bfd13f58de06632ce055e75bee"><head>Scope and Contents</head><p>August 19 1960.</p></scopecontent></c01><c01 id="aspace_0514144928cd8f0dcb64a4ca1306e1cc" level="file"><did><unittitle>Railroads' Exhibit No. 17. Retirement, Unemployment and Sickness Benefits.</unittitle><unitdate datechar="creation" normal="1960/1960">1960</unitdate><container id="aspace_ab22e853f81d93cf728a831edbf4226b" label="unspecified" type="box">1</container><container id="aspace_1bb5aee9cb22df3f3d6f96bde3c7cc87" parent="aspace_ab22e853f81d93cf728a831edbf4226b" type="folder">7</container></did></c01><c01 id="aspace_8ac4b501d5a9c7c3603e183e11fdcbaf" level="file"><did><unittitle>Railroads' Exhibit No. 19. General Wage Increases.</unittitle><unitdate datechar="creation" normal="1937/1960" type="inclusive">1937-1960</unitdate><container id="aspace_9ae7e41d5b658849ec487563c5a8e8bf" label="unspecified" type="box">1</container><container id="aspace_6c5123b18afb618ff586c66c2ce6bbd6" parent="aspace_9ae7e41d5b658849ec487563c5a8e8bf" type="folder">8</container></did></c01><c01 id="aspace_4e50e757f30316585e695657d1e9eda4" level="file"><did><unittitle>Railroads' Exhibit No. 20. Employment Cost Increases.</unittitle><unitdate datechar="creation" normal="1960/1960">1960</unitdate><container id="aspace_c3c1087e0d7b550ccdce3bc470c6df4c" label="unspecified" type="box">1</container><container id="aspace_6d9c5a6ffd673f53d47f2e8dacb3106a" parent="aspace_c3c1087e0d7b550ccdce3bc470c6df4c" type="folder">9</container></did></c01><c01 id="aspace_75f3574282492f91216e85644c8a4609" level="file"><did><unittitle>Railroads' Exhibit No. 22. Agreements.</unittitle><unitdate datechar="creation" normal="1936/1960" type="inclusive">1936-1960</unitdate><container id="aspace_5837409bbd786bd73ed24e5e1e399a9a" label="unspecified" type="box">1</container><container id="aspace_ef6b13bd01f006489d3c669ba62d2468" parent="aspace_5837409bbd786bd73ed24e5e1e399a9a" type="folder">10</container></did></c01></dsc>
+</archdesc>
+</ead>

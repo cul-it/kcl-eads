@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04265</eadid><filedesc><titlestmt><titleproper>ILR School Dean's Office Additional Files <num>/4265</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 04, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:25:33 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILR School Dean's Office Additional Files</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">New York State School of Industrial and Labor Relations (NYSSILR)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Lawler, Edward J.</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Smith, Robert S.</persname>
+    </origination>
+    <unitid>/4265</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1997/2002" type="inclusive">1997-2002</unitdate>
+    <physdesc id="aspace_87f0aa4ebb09256baea092a32c21268a" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_9c080223caaff219cd95b2b5fe20abec" label="Forms of Material:">Records.</physdesc>
+    <langmaterial id="aspace_f3cdbedbcff3a1b69d700bcc4b9e90a5">Collection material in English</langmaterial>
+    <unitid type="bibid">8060039</unitid>
+  </did>
+  <odd id="aspace_5af513517419d408f39db35301c88b10">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 01, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 04, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_66139cf4d1827ce46699d5d50d750455">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_57bbd6af4e6802b86d98611d7dd37e11">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_7dffbcd1271eb3c0fbbe73ae79d2e9dd">
+    <head>Preferred Citation</head>
+<p>ILR School Dean's Office Additional Files #/4265. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_d58532f2f02fd2e3392e3870f76eac8f">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL03006.html"> /3006: ILR School Dean's Office Publications</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL03085.html"> /3085: ILR School Dean's Office Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04014.html"> /4014: ILR School Dean's Office Additional Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04028.html"> /4028: ILR School Dean's Office Additional Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04054.html"> /4054: ILR School Dean's Office Additional Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04070.html"> /4070: ILR School Dean's Office Additional Personnel Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04082.html"> /4082: ILR School Dean's Office Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04100.html"> /4100: ILR School Dean's Office "Report of the ILR Review Panel" Background Documentation</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04144.html"> /4144: ILR School Dean's Office Files Additional</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04161.html"> /4161: ILR School Dean's Office Additional Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04175g.html"> /4175 G: ILR School Dean's Office 50th Anniversary Exhibit Panels</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04193.html"> /4193: ILR School Dean's Office Additional Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04194.html"> /4194: ILR School Dean's Office Additional Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04194.html"> /4194: ILR School Dean's Office Additional Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04290m.html"> /4290m: ILR School Dean's Office Memorial Statements</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04293.html"> /4293: ILR School Dean's Office ICCD Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04325.html"> /4325: ILR School Dean's Office Course Descriptions</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Lawler, Edward J.</persname>
+    <persname audience="internal" source="ingest">Smith, Robert S.</persname>
+    <corpname source="ingest">New York State School of Industrial and Labor Relations</corpname>
+    <corpname audience="internal" source="ingest">New York State School of Industrial and Labor Relations. Dean's Office</corpname>
+  </controlaccess>
+  <unitid type="bibid">8060039</unitid>
+  <dsc><c01 id="aspace_1e6fe0084342c876a5d9770876e737e0" level="file"><did><unittitle>Stat. Dean's Meeting</unittitle><unitdate datechar="creation" normal="1997/1998" type="inclusive">1997-1998</unitdate><container id="aspace_acea5d08f2acf95f9a0c85c73511ee93" label="unspecified" type="box">1</container><container id="aspace_637006ed754eaa35fa12448fcd023416" parent="aspace_acea5d08f2acf95f9a0c85c73511ee93" type="folder">1</container></did></c01><c01 id="aspace_c75ee7c75af9b311a914ec1154b3f4a5" level="file"><did><unittitle>Statutory Affair 98-99</unittitle><unitdate datechar="creation" normal="1998/1999" type="inclusive">1998-1999</unitdate><container id="aspace_597aca1a9ea51435131e75b2c6d51e65" label="unspecified" type="box">1</container><container id="aspace_cd58808fd48aa92f8d79f680766f1c22" parent="aspace_597aca1a9ea51435131e75b2c6d51e65" type="folder">2</container></did></c01><c01 id="aspace_eb3dbf7df28145edd8b9fd44712c4944" level="file"><did><unittitle>Confidential</unittitle><unitdate datechar="creation" normal="1998/1999" type="inclusive">1998-1999</unitdate><container id="aspace_0441feb8ec60ecbb7a7070ef14792100" label="unspecified" type="box">1</container><container id="aspace_01e3f3435b02766309709350d37aeb09" parent="aspace_0441feb8ec60ecbb7a7070ef14792100" type="folder">3</container></did></c01><c01 id="aspace_4bb296fefacffb8d49b1b267a57198fd" level="file"><did><unittitle>Statutory Dean's Mtg.</unittitle><unitdate datechar="creation" normal="1999/1999">1999</unitdate><container id="aspace_9afae56875261632d853a2b9ee42a407" label="unspecified" type="box">1</container><container id="aspace_14a2313b8f7c2eea3bc5806e1f34e55a" parent="aspace_9afae56875261632d853a2b9ee42a407" type="folder">4</container></did></c01><c01 id="aspace_a27d5a85990dc3833fbaec79a6c2551d" level="file"><did><unittitle>Statutory College - Spr. 199</unittitle><unitdate datechar="creation" normal="1998/1999" type="inclusive">1998-1999</unitdate><container id="aspace_038c59522262f1047f53964276ca5c9f" label="unspecified" type="box">1</container><container id="aspace_22138463349572d3a3a0c2adab0fbe59" parent="aspace_038c59522262f1047f53964276ca5c9f" type="folder">5</container></did></c01><c01 id="aspace_339cc71170bfd4fe60b04b82669d0248" level="file"><did><unittitle>Academic Deans</unittitle><unitdate datechar="creation" normal="1997/1997">1997</unitdate><container id="aspace_5cbd65a546d835024970b2780119dd2f" label="unspecified" type="box">1</container><container id="aspace_3362e67e2546a92f71e2d72e59d939cf" parent="aspace_5cbd65a546d835024970b2780119dd2f" type="folder">6</container></did></c01><c01 id="aspace_a85571956f81d72ef726ab4cdd43cb78" level="file"><did><unittitle>Academic Deans' Meeting</unittitle><unitdate datechar="creation" normal="1999/1999">1999</unitdate><container id="aspace_792935e5c648a87ff72842c61607b164" label="unspecified" type="box">1</container><container id="aspace_6b7cd7841fec67411821aa15b80005d4" parent="aspace_792935e5c648a87ff72842c61607b164" type="folder">7</container></did></c01><c01 id="aspace_89ea408cd4894454f1f36a58eb4f187d" level="file"><did><unittitle>Academic Deans 2000</unittitle><unitdate datechar="creation" normal="2000/2000">2000</unitdate><container id="aspace_87ed5564888d68f56278a33acc815bd5" label="unspecified" type="box">1</container><container id="aspace_8aac2c0ffac7791115d5d867f24c3f17" parent="aspace_87ed5564888d68f56278a33acc815bd5" type="folder">8</container></did></c01><c01 id="aspace_248e7dbba7399b50e89ad1dfb5e9a718" level="file"><did><unittitle>Academic Deans' mtgs. 2001</unittitle><unitdate datechar="creation" normal="2001/2001">2001</unitdate><container id="aspace_945d51b825c046ea8c12b8cd8687750f" label="unspecified" type="box">1</container><container id="aspace_3814359b7d23821b22d2df840fdac684" parent="aspace_945d51b825c046ea8c12b8cd8687750f" type="folder">9</container></did></c01><c01 id="aspace_fdc15b8042d8d0367879d195a8199379" level="file"><did><unittitle>Academic Deans mtgs. 2002</unittitle><unitdate datechar="creation" normal="2002/2002">2002</unitdate><container id="aspace_2a55d43468a8554a0bc9b285b6373a2b" label="unspecified" type="box">1</container><container id="aspace_3b8b4395f8f05753c211dcab3f7ba655" parent="aspace_2a55d43468a8554a0bc9b285b6373a2b" type="folder">10</container></did></c01></dsc>
+</archdesc>
+</ead>

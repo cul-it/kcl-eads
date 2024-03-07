@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04032av</eadid><filedesc><titlestmt><titleproper>ILR School 20th Annual Wilhelm Weinberg Labor-Management Public Interest Seminar Audio-Visual Materials <num>/4032 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>September 21, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:17:22 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILR School 20th Annual Wilhelm Weinberg Labor-Management Public Interest Seminar Audio-Visual Materials</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">New York State School of Industrial and Labor Relations (NYSSILR).</corpname>
+    </origination>
+    <unitid>/4032 AV</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1978/1978">1978</unitdate>
+    <physdesc id="aspace_3bf1cdf3d64023ff16e744a07d4fec87" label="Quantity:">1.3 linear ft.</physdesc>
+    <physdesc id="aspace_b385376c56898ed4b3d5324d178a4622" label="Forms of Material:">Audiovisual materials.</physdesc>
+    <abstract id="aspace_c7aa3662c76de8fe5d33b89961b4b6c1">Program and audio cassettes for the November 12-16, 1978, 20th Annual Seminar.</abstract>
+    <langmaterial id="aspace_a56cd3ea506689591c1141a9414911a1">Collection material in English</langmaterial>
+    <unitid type="bibid">7919726</unitid>
+  </did>
+  <odd id="aspace_157ed2c703763f4d25295aeb5ba4955e">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, November 15, 2012</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, September 21, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_2dac714488e43e73af709c49907f338f">
+    <head>Biographical / Historical</head>
+<p>Wilhelm Weinberg was born in Hamburg, Germany on 5 Nov 1886. Wilhelm married Margit Straschitz and had 3 children. He passed away on 13 Feb 1957 in New York, USA. He was a Banker, Impressionist Art Collector and Philanthropist. </p><p> "Mr. Weinberg was born in Europe, lived in Holland, and at the time of the German invasion, was fortuitously away </p><p> when Holland was invaded. His wife and 3 children were seized and killed by the Nazis, which is what happened to 80% of </p><p> the Dutch Jews. He fled from country to country and somehow managed to get to America. And during the balance of his life, </p><p> whenever anyone saw him, he had moist eyes when he thought of his children. It was unfair that they were killed as was his </p><p> wife, and he survived. He also felt that perhaps if he were there, he could have saved them. Richard Weinberg died in 1957 </p><p> and left no immediate family. In his will he specified that all his funds were to be distributed to charitable, philanthropic, </p><p> educational institutions. We gave from that estate a fairly large amount of money to Cornell where you will find in the Uris </p><p> Library a floor bearing his name and that of his three children. In addition to that, we initiated this particular program." [Richard Netter, Executor of Mr. Weinberg's Estate]</p>  </bioghist>
+  <scopecontent id="aspace_2b9d101222374a5d0c39364fd34e2a92">
+    <head>Scope and Contents</head>
+<p>Program and audio cassettes for the November 12-16, 1978, 20th Annual Seminar.</p>  </scopecontent>
+  <accessrestrict id="aspace_616b5aae7df51159c5fe8b2f838486f4">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_0a4424e4b108324c88e0a9e353d1bc56">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_2c50d7bc0fb04169d26ebc34cc3d4d59">
+    <head>Preferred Citation</head>
+<p>ILR School 20th Annual Wilhelm Weinberg Labor-Management Public Interest Seminar Audio-Visual Materials #/4032 AV. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_a5c0261997f91941b05e745a35bde698">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04019av.html"> /4019 AV: 15th Annual Wilhelm Weinberg Labor-Management Public Interest Seminar Audio-Visual Materials</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Weinberg, Wilhelm</persname>
+    <persname audience="internal" source="ingest">Aries, Leonard P.</persname>
+    <persname audience="internal" source="ingest">Chaikin, Sol C.</persname>
+    <persname audience="internal" source="ingest">Counts, J. Curtis</persname>
+    <persname audience="internal" source="ingest">Gray, Lois</persname>
+    <persname audience="internal" source="ingest">Helsby, Robert D.</persname>
+    <persname audience="internal" source="ingest">Holland, Jerome H., 1916-</persname>
+    <persname audience="internal" source="ingest">Huttar, James E.</persname>
+    <persname audience="internal" source="ingest">Kelly, Matthew</persname>
+    <persname audience="internal" source="ingest">Kheel, Theodore Woodrow</persname>
+    <persname audience="internal" source="ingest">Leach, Daniel Edward, 1937-</persname>
+    <persname audience="internal" source="ingest">May, William F.</persname>
+    <persname audience="internal" source="ingest">McEvoy, Donald W.</persname>
+    <persname audience="internal" source="ingest">McKersie, Robert B.</persname>
+    <persname audience="internal" source="ingest">Risley, Robert B.</persname>
+    <persname audience="internal" source="ingest">Roberts, Lillian</persname>
+    <persname audience="internal" source="ingest">Winpisinger, William W.</persname>
+    <corpname source="ingest">New York State School of Industrial and Labor Relations</corpname>
+  </controlaccess>
+  <unitid type="bibid">7919726</unitid>
+  <dsc><c01 id="aspace_624f0839729d13ceb6071951dc2233f9" level="file"><did><unittitle>Seminar Program</unittitle><container id="aspace_68984c77c5b624b635e7b6fe8ee4c3cf" label="unspecified" type="box">1</container></did><scopecontent id="aspace_96aa73634833d3b91cf8624317c4f046"><head>Scope and Contents</head><p>November 12-16, 1978. Housed in /4286m box 1</p></scopecontent></c01><c01 id="aspace_e0480b26a2e7260c77a60a1c2d0b77e8" level="file"><did><unittitle>Cassette #1</unittitle><container id="aspace_eaa82f791de3cf8b9f4a8dfe941a924b" label="unspecified" type="box">2</container></did><scopecontent id="aspace_49459b07ed471a68ad13f8f395d2fdba"><head>Scope and Contents</head><p>November 13, 1978. "Management: Its Historic Role and Future Mission" Robert B. McKersie and William F. May.</p></scopecontent></c01><c01 id="aspace_d9d340f881c0ed29a2a670d20bb45b1a" level="file"><did><unittitle>Cassette #2</unittitle><container id="aspace_41d4e36bc3f6ca7d44bad6ac11b94cd6" label="unspecified" type="box">3</container></did><scopecontent id="aspace_6e3cafb2a7c0b26fc55390be64009aa8"><head>Scope and Contents</head><p>November 13, 1978. 11:20-12:00: Continuation of "Management: Its Historic Role and Future Mission" Robert B. McKersie and William F. May. 1:30-2:15: "Organized Labor: Its Historic Role and Future Mission" Sol C. Chaikin.</p></scopecontent></c01><c01 id="aspace_b11b4638c0cfbb6e600cb78789e2ea51" level="file"><did><unittitle>Cassette #3</unittitle><container id="aspace_cd220be4a7bf6a5a8f7b68952a55ba26" label="unspecified" type="box">4</container></did><scopecontent id="aspace_3db85feacf22a9111e19819672168a8a"><head>Scope and Contents</head><p>November 13, 1978. Continuation of "Organized Labor: Its Historic Role and Future Mission" Sol C. Chaikin.</p></scopecontent></c01><c01 id="aspace_7bd8607cd6bad8eef3c657121dcbb74d" level="file"><did><unittitle>Cassette #4</unittitle><container id="aspace_4a966eb1d3913a0c5b017bd2f7f6647d" label="unspecified" type="box">5</container></did><scopecontent id="aspace_8eb28c96cbe36e7ded24c3c009d8c524"><head>Scope and Contents</head><p>November 13, 1978. Reactions and Comments by Leonard P. Aries and Robert F. Risley. November 14, 1978. "Collective Bargaining: Public Expectations and the Impact of External Forces" Matthew Kelly.</p></scopecontent></c01><c01 id="aspace_f06fc732fe09e722977d45796d5f6ffa" level="file"><did><unittitle>Cassette #5</unittitle><container id="aspace_6c09d588561eed0a82ba2519697bcebb" label="unspecified" type="box">6</container></did><scopecontent id="aspace_4b4b452e0c8d3744edd4f8c7cc40b1dc"><head>Scope and Contents</head><p>November 14, 1978. "A Third Party View" Theodore W. Kheel. A Labor View, Public Sector" Lillian Roberts.</p></scopecontent></c01><c01 id="aspace_7e69230e0e055df125f0c7ce00093312" level="file"><did><unittitle>Cassette #6</unittitle><container id="aspace_67f40e97843fae015b0139b3b5a74f10" label="unspecified" type="box">7</container></did><scopecontent id="aspace_143a054b237462216a4e0d18695b5808"><head>Scope and Contents</head><p>November 14, 1978.</p></scopecontent></c01><c01 id="aspace_160a040f53e38c1b301b8c558db2a256" level="file"><did><unittitle>Cassette #7</unittitle><container id="aspace_344389b48bdcdeed0c7ea96be25a0225" label="unspecified" type="box">8</container></did><scopecontent id="aspace_ac83f41abf77d30c1898ae084c1f0b4a"><head>Scope and Contents</head><p>November 14, 1978.</p></scopecontent></c01><c01 id="aspace_1cf53fb5a8bbf8cb41f967ec080ab2ae" level="file"><did><unittitle>Cassette #8</unittitle><container id="aspace_c96cc52051b48205db08073f0cc3decf" label="unspecified" type="box">9</container></did><scopecontent id="aspace_4e136d252fc2c00dcf10eab357ef7dc5"><head>Scope and Contents</head><p>November 15, 1978.</p></scopecontent></c01><c01 id="aspace_1579a231b6896f4d6d290956b523d0c9" level="file"><did><unittitle>Cassette #9</unittitle><container id="aspace_f16e6c99f388188bc60f7a6c89f82951" label="unspecified" type="box">10</container></did><scopecontent id="aspace_fbdc4c87843aacfbb76e8969d091a9a1"><head>Scope and Contents</head><p>November 15, 1978.</p></scopecontent></c01><c01 id="aspace_44732c1299da37bd262f7c8aa43d6e7a" level="file"><did><unittitle>Cassette #10</unittitle><container id="aspace_9719af490b026180e6574f0a6dbb18ce" label="unspecified" type="box">11</container></did><scopecontent id="aspace_4a2bd3f696386484e8c65cfa489e999a"><head>Scope and Contents</head><p>November 15, 1978.</p></scopecontent></c01><c01 id="aspace_10e88bc88ecd5b6fa48e57d2fac432de" level="file"><did><unittitle>Cassette #11</unittitle><container id="aspace_bcd498670a89cf9f48fdcb64f40c9b92" label="unspecified" type="box">12</container></did><scopecontent id="aspace_805504346c623d1a3e06706198e3c864"><head>Scope and Contents</head><p>November 15, 1978.</p></scopecontent></c01><c01 id="aspace_4e9d382ba605ee9e5d3cf2f026abfb09" level="file"><did><unittitle>Cassette #12</unittitle><container id="aspace_ca7f442fdc2a88b910139e3877f76692" label="unspecified" type="box">13</container></did><scopecontent id="aspace_31215d5eb7e68c158528cb0b5f70f2fc"><head>Scope and Contents</head><p>November 12, 1978. "Welcome" James E. Huttar, Robert Bl. McKersie, Donald W. McEvoy, Leonard P. Aries. "Keynote Address" Jerome H. Holland.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

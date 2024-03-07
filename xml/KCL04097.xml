@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04097</eadid><filedesc><titlestmt><titleproper>Neufeld, Maurice F. "ILR History" Scrapbook <num>/4097</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>September 30, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:19:54 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Maurice F. Neufeld "ILR History" Scrapbook</unittitle>
+    <origination label="Creator">
+      <persname role="creator" source="ingest">Neufeld, Maurice F.</persname>
+    </origination>
+    <unitid>/4097</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1945/1970" type="inclusive">1945-1970</unitdate>
+    <physdesc id="aspace_a5acbaf08e86f6a555b167718072f786" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_96f047640be816ddc73d5cf491a72bb4" label="Forms of Material:">Records (documents).</physdesc>
+    <langmaterial id="aspace_02f62a63ec783a569bdd8a32c428469c">Collection material in English</langmaterial>
+    <unitid type="bibid">7984565</unitid>
+  </did>
+  <odd id="aspace_10576b6bc1f3089dde93041a992f38b4">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 22, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, September 30, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_7bca2cff0d85cb0fdf5d1393795405da">
+    <head>Biographical / Historical</head>
+<p>Professor Maurice Frank Neufeld (October 27, 1910 -April 10, 2003) was an American academic, author, union organizer and Army officer. In 1945, he was one of the two founding faculty members of the School of Industrial and Labor Relations at Cornell University, appointed by its founding dean, Irving Ives.</p>  </bioghist>
+  <accessrestrict id="aspace_b238dcc4bbd0d52becfb3e59bc176cf3">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_7383360f6c77e885c61760f778ecb2d4">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_7f9ea54cd8fb3568b783189569edfe3e">
+    <head>Preferred Citation</head>
+<p>Maurice F. Neufeld "ILR History" Scrapbook #/4097. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_7cd52f0b00d0ebcb3f4671d1fe65e36a">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04176.html"> /4176: Maurice Neufeld Additional Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL03007av.html"> /3007 AV: Maurice Neufeld "Grass Roots Founders and Grass Root Prodders: The Sources of Venture and Renewal for Democratic Education" Speech Audio-Visual Materials</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04131m.html"> /4131m: Maurice Neufeld Additional Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05777.html"> 5777: Maurice Neufeld Documents and Clipping Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04229.html"> /4229: Maurice Neufeld Additional Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04230.html"> /4230: Maurice Neufeld Additional Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05515.html"> 5515: Maurice F. Neufeld Collection of New York Times Clippings</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05885.html"> 5885: New York Times Additional Clipping File</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <persname source="ingest">Neufeld, Maurice F.</persname>
+    <corpname source="ingest">New York State School of Industrial and Labor Relations.</corpname>
+  </controlaccess>
+  <unitid type="bibid">7984565</unitid>
+  <dsc><c01 id="aspace_3381176c51ac4158a074a3ab8132d917" level="file"><did><unittitle>ILR History</unittitle><unitdate datechar="creation" normal="1945/1970" type="inclusive">1945-1970</unitdate><container id="aspace_88ebac89502c872b1ee02f53a516de8a" label="unspecified" type="box">1</container></did><scopecontent id="aspace_0668be8f38471d4657de9e2ad7df64ad"><head>Scope and Contents</head><p>Large Scrapbook</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead audience="internal" xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06490</eadid><filedesc><titlestmt><titleproper>A. &amp; A. Lawrence Records<num>6490</num></titleproper></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:12:48 UTC</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="file">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>A. &amp; A. Lawrence Records</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="lcnaf">Lawrence, Abbott</persname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="dacs" source="lcnaf">Lawrence, Amos Adams, 1814-1886</persname>
+    </origination>
+    <unitid>6490</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 items.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1835-11-06/1835-11-06">1835-11-06</unitdate>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <unitid type="bibid">11124284</unitid>
+  </did>
+  <bioghist audience="internal" id="aspace_3df459ff7a8edd705410b0bdbc52c6ce">
+    <head>Biographical / Historical</head>
+<p>A Boston selling agent (dry-goods commission merchant) for New England mills, A. &amp; A. Lawrence was founded as a partnership in 1814 by the two Lawrence brothers, Amos (the elder) and Abbott. The firm first engaged in the sale of foreign goods but after 1816 dealt with selling domestic cotton and woolen goods on commission. In the 1830's it began to invest heavily in Lowell mills such as the Tremont &amp; Suffolk, the Lawrence, and the Boott Mill, and helped to found the Massachusetts Cotton Mills. Eventually the Lawrences held stock in most of the major mills of New England and were the exclusive selling agents for those in which they held large interests. They also acted as purchasing agents for raw cotton. Not to be confused with Lawrence &amp; Co., also selling agents of Boston and founded by Amos Adams Lawrence, a son of Amos Lawrence.</p>  </bioghist>
+  <scopecontent audience="internal" id="aspace_ef75fb888d43051d003198ca9d5a53b2">
+    <head>Scope and Contents</head>
+<p>Letter to John Aiken, Lowell, Massachusetts from A. &amp; A. Lawrence Co. regarding a complaint about length of yardage.  Aiken was agent for the Tremont Mills and A. &amp; A. Lawrence were selling agents.</p>  </scopecontent>
+  <acqinfo audience="internal" id="aspace_2b016b6726b187f537306b2159a0ee7f">
+    <head>Immediate Source of Acquisition</head>
+<p>American Textile History Museum, gift of John Lawrence.</p>  </acqinfo>
+  <controlaccess>
+    <subject source="lcsh">Commission merchants</subject>
+    <subject source="Library of Congress Subject Headings">Dry-goods.</subject>
+    <subject source="lcsh">Manufacturers' agents</subject>
+    <subject source="lcsh">Tariff on wool</subject>
+    <subject source="local">Selling agents</subject>
+    <persname rules="dacs" source="local">Aiken, John</persname>
+    <corpname rules="dacs" source="ingest">A. &amp; A. Lawrence &amp; Co.</corpname>
+    <corpname rules="dacs" source="ingest">Carded Woolen Manufacturers' Association</corpname>
+    <corpname rules="dacs" source="ingest">Tremont Mills</corpname>
+  </controlaccess>
+  <unitid type="bibid">11124284</unitid>
+  <dsc><c01 audience="internal" id="aspace_f292faa8f1bec21322c5646b709d7fdd" level="item"><did><unittitle>Letter to John Aiken from A. &amp; A. Lawrence Co.</unittitle><unitdate datechar="creation" normal="1835-11-06/1835-11-06">1835-11-06</unitdate></did><scopecontent audience="internal" id="aspace_753f795bd0d62cd2d8cfcede14b5dccc"><head>Scope and Contents</head><p>Complaint about length of yardage. Aiken was agent for the Tremont Mills and A. &amp; A. Lawrence were the selling agents.</p></scopecontent><processinfo audience="internal" id="aspace_8a70c66ebafddda477318a3da51edbc6"><head>Processing Information</head><p>Formerly 2005.275.2</p></processinfo></c01></dsc>
+</archdesc>
+</ead>

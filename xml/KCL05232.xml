@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05232</eadid><filedesc><titlestmt><titleproper>Columbia Conserve Company Records <num>5232</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 22, 2017</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:38:53 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Columbia Conserve Company Records</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Columbia Conserve Company</corpname>
+    </origination>
+    <unitid>5232</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1932/1933" type="inclusive">1932-1933</unitdate>
+    <physdesc id="aspace_da846f7637343569dff03a4bd45db774" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_1c001f34f5d0a24974bc6d6aa26dda15" label="Forms of Material:">Records (documents) .</physdesc>
+    <abstract id="aspace_c3bd7b1cc74b7e5a0b2c7371546e8e61">The collection consists of the mimeographed minutes of the meetings of the employees council from December 1952 to July 1933.</abstract>
+    <langmaterial id="aspace_0efad84b67da4c67ffcc054ddcc4d30f">Collection material in English</langmaterial>
+    <unitid type="bibid">2293726</unitid>
+  </did>
+  <odd id="aspace_3659052206f26debf7fc3d0d56b342da">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, November 01, 2007</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, February 22, 2017</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_d6df8c38d1bb857e11bb556fefb9b432">
+    <head>Biographical / Historical</head>
+<p>Mr. William P. Hapgood, president of the Columbia Conserve Company believed that industrial democracy meant "government of the workers, by the workers, for the workers." In 1917 Mr. Hapgood started his plan, by giving the workers the right to make rules governing their hours, incomes, hiring and firing and to decide upon all policies of the company. </p><p> Various measures adopted by the plant reflect the improvement of the workers. The 55 hour week was reduced to 50 in 1917 and 45 in 1924 when a five day week and a 9 hour day were reestablished. </p><p> The maximum salary was set at $5,000. per year. Minimum salaries were established were $22 per week for unmarried and $33 per week for married men, with an additional $2 for each child, married women, where husbands were also employed received $19 per </p><p> week in 1931. </p><p> Dividends were paid to employees at the same rate as on capital stock based on the payroll until 1925 when an agreement was reached for the employees to purchase common stock with their share of the profits.</p>  </bioghist>
+  <scopecontent id="aspace_293a29226643e5ab62795b9af4ee01cc">
+    <head>Scope and Contents</head>
+<p>Records consist chiefly of the minutes (1932-1933) of the Employee Council of the Columbia Conserve Co. of Indianapolis, Ind. In addition, this collection includes a brochure describing the Columbia Conserve Company's products and organization; and a pamphlet by Norman Hapgood entitled "The Columbia Conserve and the Committee of Four" (1922).</p>  </scopecontent>
+  <accessrestrict id="aspace_6a79dd538121c26b4c75e8923aebd1a3">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_389b008f79566517b5401aa7de394f99">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_8c611c55d7672b2b29426a20668401f4">
+    <head>Preferred Citation</head>
+<p>Columbia Conserve Company Records #5232. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Works councils--United States.</subject>
+    <subject source="ingest">Cannery workers.</subject>
+    <subject source="ingest">Industrial democracy. United States.</subject>
+    <corpname audience="internal" source="ingest">Columbia Conserve Company.</corpname>
+    <corpname audience="internal" source="ingest">Columbia Conserve Company. Employee Council.</corpname>
+  </controlaccess>
+  <unitid type="bibid">2293726</unitid>
+  <dsc><c01 id="aspace_38b636d2452c3ee0b5b127eef1488dbc" level="file"><did><unittitle>Columbia Conserve Company Council Meeting Minutes (8/5/1932-7/17/1933)</unittitle><container id="aspace_11a4b3aa0cc9bfdbcb7f69ff6112570c" label="unspecified" type="box">1</container><container id="aspace_69ae106393d3b49c45c319d5abd96dcd" parent="aspace_11a4b3aa0cc9bfdbcb7f69ff6112570c" type="folder">3</container></did></c01><c01 id="aspace_b324f61907e7271f05d759d66ab4a7d1" level="file"><did><unittitle>Record Group A-16 (2 of 2)</unittitle><container id="aspace_286d01482fc378fc4ee0e9293400dd5b" label="unspecified" type="box">1</container><container id="aspace_653ed7849b24f37185abf3dae286dfb5" parent="aspace_286d01482fc378fc4ee0e9293400dd5b" type="folder">2</container></did></c01><c01 id="aspace_3d2681cb25120af89e107f516776d375" level="file"><did><unittitle>Record Group A-16 (1 of 2)</unittitle><container id="aspace_d3ed69ac24aeb4f3ac7aab6e1975ec09" label="unspecified" type="box">1</container><container id="aspace_a89b59b082d8f51b06976469327dd722" parent="aspace_d3ed69ac24aeb4f3ac7aab6e1975ec09" type="folder">1</container></did></c01></dsc>
+</archdesc>
+</ead>

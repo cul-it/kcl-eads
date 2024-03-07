@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL03015mb</eadid><filedesc><titlestmt><titleproper>New York State School of Industrial and Labor Relations (NYSSILR) 25th Anniversary Memorabilia, 1970. <num>/3015 MB</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 17, 2013</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:13:20 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>New York State School of Industrial and Labor Relations (NYSSILR) 25th Anniversary Memorabilia, 1970</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">New York State School of Industrial and Labor Relations (NYSSILR)</corpname>
+    </origination>
+    <unitid>/3015 MB</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1970/1972" type="inclusive">1970-1972</unitdate>
+    <physdesc id="aspace_3489925cb051b352a000b43842879c6b" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_bd99f9c604fa64960d0ed49e697d4feb" label="Forms of Material:">Memorabilia.</physdesc>
+    <abstract id="aspace_17de8356762b8aab3a2e6a6fa9f1e46d">Bottles of sherry with special labels, in celebration of the 25th anniversary of the New York State School of Industrial and Labor Relations.</abstract>
+    <langmaterial id="aspace_cbc89ee872bca7f93ce591f9bfd57807">Collection material in English</langmaterial>
+    <unitid type="bibid">7924522</unitid>
+  </did>
+  <odd id="aspace_8ab453b8fd2ba5b13e19b49ad4c4eb84">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel">http://www.ilr.cornell.edu/library/kheel</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, December 18, 2012</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, April 17, 2013</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_2415ea68e1afd46adf9f68f6ea05b0bd">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_86c72b63fc6bfcdc9eed44b74f7b9d5f">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_216e32f4e4d140a7fa882017b71efbfa">
+    <head>Preferred Citation</head>
+<p>New York State School of Industrial and Labor Relations (NYSSILR) 25th Anniversary Memorabilia, 1970. #/3015 MB. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_da1486907bef598d7a431ccb914f5f49">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL03015.html"> /3015: New York State School of Industrial and Labor Relations (NYSSILR) 25th Anniversary File.</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04036av.html"> /4036 AV: New York State School of Industrial and Labor Relations (NYSSILR) After Dinner Comments at 25th Anniversary Dinner in New York City, December 11, 1970</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <persname audience="internal" source="ingest">New York State School of Industrial and Labor Relations</persname>
+  </controlaccess>
+  <unitid type="bibid">7924522</unitid>
+  <dsc><c01 id="aspace_36a08f4621d936333415fdd68244c614" level="file"><did><unittitle>Bottles of Sherry (6)</unittitle><container id="aspace_699958b99f4b905f17a4119628f90191" label="unspecified" type="box">1</container><container id="aspace_3e3ab495be8438390946218ea60c38ec" parent="aspace_699958b99f4b905f17a4119628f90191" type="folder">1</container></did><scopecontent id="aspace_5cf6e47a0cc75b8052130f733bf854da"><head>Scope and Contents</head><p>Great Western Solera, New York State Sherry, Pleasant Valley Wine Co. -- each with special labels -- Cornell University, 25th Anniversary Celebration and Dinner, New York State School of Industrial and Labor Relations, November 7, 1970, Statler Club -- only one bottle has Sherry in it and that was removed from stacks and placed in the Library Director's office until the schools 75th Anniversary</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

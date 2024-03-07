@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05018</eadid><filedesc><titlestmt><titleproper>US Congressional Investigation of Teachers' Union Local No. 555, United Public Workers of America, CIO <num>5018</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 28, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:29:40 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>US Congressional Investigation of Teachers' Union Local No. 555, United Public Workers of America, CIO</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">United States Congress</corpname>
+    </origination>
+    <unitid>5018</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1948/1948">1948</unitdate>
+    <physdesc id="aspace_99e557c984a42c09e83bb61e4cdea6aa" label="Quantity:">0.3 linear ft.</physdesc>
+    <physdesc id="aspace_2a86c0f5d1f1bc0de0e466718cc5d94a" label="Forms of Material:">Transcripts.</physdesc>
+    <abstract id="aspace_9b9ee68d89467d290eebd9c4547fa628">Transcript of the hearings of the investigation of United Public Workers of America, Teachers Union Local No. 555.</abstract>
+    <langmaterial id="aspace_437896735cded4bd4ced218f52a7bc58">Collection material in English</langmaterial>
+    <unitid type="bibid">5512784</unitid>
+  </did>
+  <odd id="aspace_80f4d61589adf228357a9b9130059533">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 22, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 28, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_8b83eeeed78ee49acd9cbdde70709a73">
+    <head>Biographical / Historical</head>
+<p>Investigation of Teachers Union Local No. 555, UPWA-CIO : hearings before the United States House Committee on Education and Labor, Special Subcommittee To Investigate Teachers Union, Local No. 555, United Public Workers of America, CIO, Eightieth Congress, second session, on Sept. 27-30, Oct. 1, 19, 1948. </p><p> Hearings were held in New York City.</p>  </bioghist>
+  <scopecontent id="aspace_966e92cdbc427980ad6e4a1110960111">
+    <head>Scope and Contents</head>
+<p>Investigation of Teachers Union Local No. 555, UPWA-CIO : hearings before the United States House Committee on Education and Labor, Special Subcommittee To Investigate Teachers Union, Local No. 555, United Public Workers of America, CIO, Eightieth Congress, second session, on Sept. 27-30, Oct. 1, 19, 1948.</p>  </scopecontent>
+  <accessrestrict id="aspace_74c8eb3fc10c49ffa593c522bbdaead7">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_3730f660322584a7997cab38d1b13485">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_6eb07d6acf280b00836893b1f6a517c2">
+    <head>Preferred Citation</head>
+<p>US Congressional Investigation of Teachers' Union Local No. 555, United Public Workers of America, CIO #5018. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_811bd9649c30af08a8b4e1d04cc58a1a">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05015.html"> 5015: Teachers Union of the City of New York Records</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Labor unions and communism -- United States.</subject>
+    <subject source="ingest">Communism -- United States.</subject>
+    <subject source="ingest">Governmental investigations -- United States.</subject>
+    <corpname audience="internal" source="ingest">United States. Congress. House. Committee on Education and Labor. Special Subcommittee To Investigate Teachers Union, Local No. 555, United Public Workers of America, CIO.</corpname>
+    <corpname audience="internal" source="ingest">American Federation of Teachers.</corpname>
+    <corpname audience="internal" source="ingest">United Public Workers of America.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5512784</unitid>
+  <dsc><c01 id="aspace_80d3ba3f1102b91268218d10d2e21368" level="file"><did><unittitle>Hearing Transcript, Vol.1</unittitle><unitdate datechar="creation" normal="1948/1948">1948</unitdate><container id="aspace_61e4fe8419714e33ffeaec12f1994f97" label="unspecified" type="box">1</container><container id="aspace_f37b238828f088a62a83f530f778aae2" parent="aspace_61e4fe8419714e33ffeaec12f1994f97" type="folder">1</container></did><scopecontent id="aspace_538dac32f7f9239c7e77502950701ec4"><head>Scope and Contents</head><p>Monday, September 27, 1948. pp1-155</p></scopecontent></c01><c01 id="aspace_2eaf531379480bb12092f020d5a54ad1" level="file"><did><unittitle>Hearing Transcript, Vol.2</unittitle><unitdate datechar="creation" normal="1948/1948">1948</unitdate><container id="aspace_69a7d8daa35be1aa1b57b01ba4f3056e" label="unspecified" type="box">1</container><container id="aspace_38e0baeb17b7fe6b2967470a77194428" parent="aspace_69a7d8daa35be1aa1b57b01ba4f3056e" type="folder">2</container></did><scopecontent id="aspace_896171aa7bbe5858abe5d63b8ebb4b49"><head>Scope and Contents</head><p>Tuesday, September 28, 1948. pp156-317.</p></scopecontent></c01><c01 id="aspace_8ae2c8e353d02c0b715a0aaffc185fa9" level="file"><did><unittitle>Hearing Transcript, Vol.3</unittitle><unitdate datechar="creation" normal="1948/1948">1948</unitdate><container id="aspace_79b8f27f0c85d3e2e195fd1c41ea1bec" label="unspecified" type="box">1</container><container id="aspace_28cb2eaff85e378340aa36cb21703c94" parent="aspace_79b8f27f0c85d3e2e195fd1c41ea1bec" type="folder">3</container></did><scopecontent id="aspace_2660125fe8a16fbb507e761ca6576c84"><head>Scope and Contents</head><p>Wednesday, September 29, 1948. pp318-511.</p></scopecontent></c01><c01 id="aspace_eee1339cea33e78a2490aff43067ce7c" level="file"><did><unittitle>Hearing Transcript, Vol.4</unittitle><unitdate datechar="creation" normal="1948/1948">1948</unitdate><container id="aspace_1782770fcc78f5d42e1a08f156679f2d" label="unspecified" type="box">1</container><container id="aspace_c303af38f756dbef2dc2723807606c93" parent="aspace_1782770fcc78f5d42e1a08f156679f2d" type="folder">4</container></did><scopecontent id="aspace_ce6d9a3a3898c1da7fd1f9e3cabb5bbe"><head>Scope and Contents</head><p>Thursday, September 30, 1948. pp512-678.</p></scopecontent></c01><c01 id="aspace_5f5f94f1e6657a0fa3db706891aed8a7" level="file"><did><unittitle>Hearing Transcript, Vol.5</unittitle><unitdate datechar="creation" normal="1948/1948">1948</unitdate><container id="aspace_6020475a1dc107b37bd220bd43bef32c" label="unspecified" type="box">1</container><container id="aspace_34fb6b00f160abfcc461908916aec31f" parent="aspace_6020475a1dc107b37bd220bd43bef32c" type="folder">5</container></did><scopecontent id="aspace_1f9f9a9bb287301dae66a4568bd681c5"><head>Scope and Contents</head><p>Friday, October 1, 1948. pp679-878</p></scopecontent></c01><c01 id="aspace_2f6e6d46674b597e581ebcf6d99d31b0" level="file"><did><unittitle>Hearing Transcript, Vol.6</unittitle><unitdate datechar="creation" normal="1948/1948">1948</unitdate><container id="aspace_fa0a6670b727478063b3b752e6007a69" label="unspecified" type="box">1</container><container id="aspace_2bfa559e85ccbdf7d53b20c74e602f3a" parent="aspace_fa0a6670b727478063b3b752e6007a69" type="folder">6</container></did><scopecontent id="aspace_2625038c994bf03ec6468fca0519bff6"><head>Scope and Contents</head><p>Tuesday, October 19, 1948. pp879-1027.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

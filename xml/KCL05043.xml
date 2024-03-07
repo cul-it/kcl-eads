@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05043</eadid><filedesc><titlestmt><titleproper>U.S. Emergency Board No. 114 Records <num>5043</num></titleproper><author>Compiled by Jeffrey Stark</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 04, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:30:39 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>U.S. Emergency Board No. 114 Records</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">U.S. Emergency Board</corpname>
+    </origination>
+    <unitid>5043</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1955/1955">1955</unitdate>
+    <physdesc id="aspace_971850c3cf047bb7b9ae3ee8f5e718d6" label="Quantity:">0.3 linear ft.</physdesc>
+    <physdesc id="aspace_7930ba9fbf2717f0ce176467188559f9" label="Forms of Material:">Briefs (legal documents) .</physdesc>
+    <abstract id="aspace_dfdca449262ae0c6933b9e623e7d29c5">Consist of three briefs for the carriers: The wage increase demand, Summary of carriers' executive testimony and The health and welfare demand.</abstract>
+    <langmaterial id="aspace_b0fa98bae15d662878d45e914c1740c3">Collection material in English</langmaterial>
+    <unitid type="bibid">3336294</unitid>
+  </did>
+  <odd id="aspace_76e423751c07bbfc44094977351fd221">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Jeffrey Stark, December 10, 2012</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 04, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_410412d03a04cf4967bb235eed99aed0">
+    <head>Biographical / Historical</head>
+<p>U.S. Emergency Board No. 114 was convened in November of 1955 to settle the dispute engendered by the request of the Cooperating (Non-operating) Railroad Labor Organizationis to the Albany Port District Railroad and other carriers represented by the Eastern, Western, and Southeastern Carriers' Conference Committees that the latter ay the full cost of hospital, medical and surgical insurance and that they grant an increase of 25 cents per hour to all existing rates of pay. </p><p> After one month's deliberation, the Board recommended a fourteen and one-half cent increase and that the carriers assume and pay the full cost of the named health insurance. </p><p> On April 1, 1955 the Organizations gave 30 days notice of a wish to modify the provisions of a memorandum of August 21, 1954 which established a contributory health and welfare program. The Organizations wished the Carriers to pay the full cost of the program. </p><p> On August 1, 1955 the Organizations submitted an additional notice calling for an across-the-board pay increase of $.25 per hour. No agreement could be reached, as the Carriers believed the first issue was not for discussion, and their offer of a $.105 wage increase was declined. </p><p> On September 15, 1955 the Organizations began circulating a strike ballot among the employees they represented. The National Mediation Board stepped in, and unable to achieve agreement offered arbitration which was turned down by the Organizations. </p><p> On November 7, 1955 the President issued an executive order establishing the Emergency Board consisting of Dudley E. Whiting, Chairman, G. Allen Dash, Jr., member, and John Day Larkin, member. Hearings were held in Chicago from November 9 to November 30. The Board also met with the parties separately in an attempt to help them reach an agreement, but they were unsuccessful. The report to the President was submitted on December 12, 1955.</p>  </bioghist>
+  <scopecontent id="aspace_37bda7da3b394094c361c08d9b8aead9">
+    <head>Scope and Contents</head>
+<p>Consists of three briefs for the carriers: "The wage increase demand," "Summary of carriers' executive testimony" and "The health and welfare demand".</p>  </scopecontent>
+  <accessrestrict id="aspace_8b4e3f89f9479a8ceb9c0a1b38f529a6">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_661d6929fd1fccfb676466b1eb3f4dc9">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_1587a8c8f1bf3e0be21b6200ce241a9e">
+    <head>Preferred Citation</head>
+<p>U.S. Emergency Board No. 114 Records #5043. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_ac4af4cd71b9ac16f6accd0d64433185">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05006.html"> 5006: U.S. Emergency Board No. 174 Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05007.html"> 5007: U.S. Emergency Board No. 175 Transcripts and Exhibits</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05012.html"> 5012: Saul Wallen Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05027.html"> 5027: U.S. Emergency Board No. 178 Transcripts</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05030.html"> 5030: U.S. Emergency Board No. 179 Exhibits and Related Material</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05036.html"> 5036: U.S. Emergency Boards under the Railway Labor Act Reports</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05037.html"> 5037: U.S. Emergency Board No. 81 Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05038.html"> 5038: U.S. Emergency Board No. 94 Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05039.html"> 5039: U.S. Emergency Board No. 98 Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05040.html"> 5040: U.S. Emergency Board No. 106 Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05042.html"> 5042: U.S. Emergency Board No. 111 Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05044.html"> 5044: U.S. Emergency Board No. 116 Reports and Exhibits</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05045.html"> 5045: U.S. Emergency Board No. 118 Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05046.html"> 5046: U.S. Emergency Board No. 119 Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05047.html"> 5047: U.S. Emergency Board No. 120 Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05048.html"> 5048: U.S. Emergency Board No. 121 Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05050.html"> 5050: U.S. Emergency Board No. 124 Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05051.html"> 5051: U.S. Emergency Board No. 125 Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05052.html"> 5052: U.S. Emergency Board No. 129 Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05053.html"> 5053: U.S. Emergency Board No. 130 Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05054.html"> 5054: U.S. Emergency Board No. 133 Exhibits</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05055.html"> 5055: U.S. Emergency Board No. 134 Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05056.html"> 5056: U.S. Emergency Board No. 135 Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05057.html"> 5057: U.S. Emergency Board No. 137 Transcript of Proceedings and Exhibits</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05058.html"> 5058: U.S. Emergency Board No. 138 Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05059.html"> 5059: U.S. Emergency Board No. 142 Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05060.html"> 5060: U.S. Emergency Board No. 145 Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05061.html"> 5061: U.S. Emergency Board No. 146 Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05062.html"> 5062: U.S. Emergency Board No. 154 Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05064.html"> 5064: U.S. Emergency Board No. 169 Transcript of Proceedings and Exhibits</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05075.html"> 5075: U.S. Emergency Board under the Taft Hartley Act Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05579.html"> 5579: National Mediation Board Emergency Board 180, Train Crew Consists</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05934.html"> 5934: Arthur Stark Papers on the President's Emergency Board #219</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Mediation and conciliation, Industrial--United States--Cases.</subject>
+    <subject source="ingest">Railroads--Employees.</subject>
+    <subject source="ingest">Employee fringe benefits. Mediation and conciliation, Industrial. United States.</subject>
+    <subject source="ingest">Insurance, Health. Mediation and conciliation, Industrial. United States.</subject>
+    <subject source="ingest">Mediation and conciliation, Industrial. Railroads. United States.</subject>
+    <subject source="ingest">Wages. Mediation and conciliation, Industrial. United States.</subject>
+    <subject source="ingest">Wages. Railroads. United States.</subject>
+    <corpname audience="internal" source="ingest">Albany Port District Railroad</corpname>
+    <corpname audience="internal" source="ingest">Cooperating (Non-operating) Railroad Labor Organizations</corpname>
+    <corpname audience="internal" source="ingest">Eastern Carriers' Conference Committee</corpname>
+    <corpname audience="internal" source="ingest">Southeastern Carriers' Conference Committee</corpname>
+    <corpname audience="internal" source="ingest">United States. Emergency Board No. 114.</corpname>
+    <corpname audience="internal" source="ingest">Western Carriers' Conference Committee</corpname>
+  </controlaccess>
+  <unitid type="bibid">3336294</unitid>
+  <dsc><c01 id="aspace_f58b938385bde6b0dd03d1a57b798a04" level="file"><did><unittitle>Briefs</unittitle><container id="aspace_a9d32df97ea63abfd94ce9e85927de30" label="unspecified" type="box">1</container></did><c02 id="aspace_eda44f0678fb022d1776c776f29ba4b3" level="file"><did><unittitle>The Wage Increase Demand</unittitle><container id="aspace_89b0f86939ee18b8d3dcaf0274a5df67" label="unspecified" type="box">1</container><container id="aspace_c522bc414993a2b1ff3c97fec237ecd7" parent="aspace_89b0f86939ee18b8d3dcaf0274a5df67" type="folder">1</container></did></c02><c02 id="aspace_910ef8a834f8b9767220f4c65df70eb7" level="file"><did><unittitle>Summary of Carriers' Executive Testimony</unittitle><container id="aspace_1ecf729ba92de20e9463f32a0dc00855" label="unspecified" type="box">1</container><container id="aspace_4ac016cc18c934b0a6bb504a5a5de9ff" parent="aspace_1ecf729ba92de20e9463f32a0dc00855" type="folder">2</container></did></c02></c01></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05570</eadid><filedesc><titlestmt><titleproper>University of Wisconsin Teaching Assistants Strike Materials <num>5570</num></titleproper><author>Compiled by R. Miles</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 18, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:52:25 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>University of Wisconsin Teaching Assistants Strike Materials</unittitle>
+    <origination label="Creator">
+      <corpname role="creator" source="ingest">University of Wisconsin</corpname>
+    </origination>
+    <unitid>5570</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1969/1975" type="inclusive">1969-1975</unitdate>
+    <physdesc id="aspace_13085b8a59865be8182db423c0b524ab" label="Quantity:">0.3 linear ft.</physdesc>
+    <physdesc id="aspace_84a0cacef47bd07caecf748fcc406787" label="Forms of Material:">Records (documents).</physdesc>
+    <abstract id="aspace_fc4e5d1b71f72fd0d838916c3eb92609">Literature about the University of Wisconsin Teaching Assistant Strike, 1969-1975.</abstract>
+    <langmaterial id="aspace_f111ed4e74990ec1352c29a5fb5f37cf">Collection material in English</langmaterial>
+    <unitid type="bibid">5666408</unitid>
+  </did>
+  <odd id="aspace_a49eb4ea9437963597ddd3c28900a146">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>R. Miles, August 17, 2009</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 18, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_c334af81de94dd8008fa4eb46a602941">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_33c2e2b6c38aa4f692867642100c92f4">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_c086d97ce41f2de4c824af5dc7bc4ca7">
+    <head>Preferred Citation</head>
+<p>University of Wisconsin Teaching Assistants Strike Materials #5570. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_2210a85580cf65b96bd7e2c3351295fb">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06340.html"> 6340: Kevin Kniffin Collection of University of Wisconsin System Collective Bargaining Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06340mb.html"> 6340 MB: Kevin Kniffin Collection of University of Wisconsin System Collective Bargaining TAUWP Buttons Memorabilia</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Strikes and lockouts. Wisconsin.</subject>
+    <subject source="ingest">Collective bargaining. Teachers. Wisconsin.</subject>
+    <subject source="ingest">Education, Higher. Wisconsin.</subject>
+    <corpname audience="internal" source="ingest">University of Wisconsin.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5666408</unitid>
+  <dsc><c01 id="aspace_c4303b2c3d547af666131dfb46ffba42" level="file"><did><unittitle>Teaching Assistants Association</unittitle><unitdate datechar="creation" normal="1969/1975" type="inclusive">1969-1975</unitdate><container id="aspace_284e06a9af79196ca58079632b14e188" label="unspecified" type="box">1</container><container id="aspace_2d24083ab3ce52680d61a04a38dcb520" parent="aspace_284e06a9af79196ca58079632b14e188" type="folder">1</container></did></c01><c01 id="aspace_dc045a1378b39948adc09689fbc27591" level="file"><did><unittitle>The Daily Cardinal</unittitle><unitdate datechar="creation" normal="1970/1970">1970</unitdate><container id="aspace_d61235b86f8bf71420e10c2b1309347c" label="unspecified" type="box">1</container><container id="aspace_32936cbc78d2acffec357aae990afd53" parent="aspace_d61235b86f8bf71420e10c2b1309347c" type="folder">2</container></did><scopecontent id="aspace_ca27a033f69c76c2c49bbb8dca815d6b"><head>Scope and Contents</head><p>Includes clippings from other newspapers</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

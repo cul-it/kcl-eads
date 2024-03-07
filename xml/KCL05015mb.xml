@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05015mb</eadid><filedesc><titlestmt><titleproper>Teachers Union of the City of New York SCMWA Local 555 Anne Grant Pin Memorabilia <num>5015 MB</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 28, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:29:27 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Teachers Union of the City of New York SCMWA Local 555 Anne Grant Pin Memorabilia</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Teachers Union of the City of New York</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">State County and Municipal Workers of America (SCMWA)</corpname>
+    </origination>
+    <unitid>5015 MB</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.11 cubic feet</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="0000/2999" type="inclusive">0000-2999</unitdate>
+    <physdesc id="aspace_fa14b39c4a1207974de276de36147303" label="Quantity:">0.1 linear ft.</physdesc>
+    <physdesc id="aspace_65b385618fe6c55688907336773e93f5" label="Forms of Material:">Memorabilia.</physdesc>
+    <abstract id="aspace_469ac82eacffd0f54192c50db9425cd1">Pin owned by Ann Grant of the Teachers Union of the City of New York SCMWA Local 555</abstract>
+    <langmaterial id="aspace_cdec2feb07ef4ffd9ca71f2ca02b64cf">Collection material in English</langmaterial>
+    <unitid type="bibid">6228606</unitid>
+  </did>
+  <odd id="aspace_4ba3f4efdfe6cd2c0bceb51056a79c47">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, June 13, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 28, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_b59240ad1ebb2206a12306b4984adbae">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_04cc7c182ff042efd8d7c85a786c239b">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_a6d6ff5822c6cf225c35cd15bbdc5d75">
+    <head>Preferred Citation</head>
+<p>Teachers Union of the City of New York SCMWA Local 555 Anne Grant Pin Memorabilia #5015 MB. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_46cce67a2dded8023502bfe2751aaf93">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05015.html"> 5015: Teachers Union of the City of New York Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05015av.html"> 5015 AV: Teachers Union of the City of New York Audio-Visual Materials</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05015mf.html"> 5015 mf: Teachers Union of the City of New York Executive Board Minutes on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05018.html"> 5018: US Congressional Investigation of Teachers' Union Local No. 555, United Public Workers of America, CIO</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05019.html"> 5019: AFT Executive Council Transcript of Hearing of Local 5</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05020.html"> 5020: AFT Executive Council Transcript of Hearing of Local 537</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05445.html"> 5445: Teachers Union of the City of New York Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05470.html"> 5470: Papers regarding Abraham Feingold's Prosecution For Alleged Communist Sympathies</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05927.html"> 5927: Teachers Union of the City of New York Additional Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06046.html"> 6046: Archives Union File (AUF)</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <corpname audience="internal" source="ingest">State, County, and Municipal Workers of America</corpname>
+    <corpname audience="internal" source="ingest">Teachers Union of the City of New York.</corpname>
+    <corpname audience="internal" source="ingest">Teachers Union of the City of New York. Local 555</corpname>
+  </controlaccess>
+  <unitid type="bibid">6228606</unitid>
+  <dsc><c01 id="aspace_d6b1a8d364f1d7bd5343af16c34a3b11" level="file"><did><unittitle>Very Small Black and Gold Colored Pin</unittitle><container id="aspace_387f0a1fc55a8481f20da208ac698b4b" label="unspecified" type="box">1</container><container id="aspace_6ae88c75103335456bec972f58f6d723" parent="aspace_387f0a1fc55a8481f20da208ac698b4b" type="folder">1</container></did><scopecontent id="aspace_66e984124e0ca7580adddad0599c32d9"><head>Scope and Contents</head><p>Inscribed "Teachers Union Local 555 SCMWA, CIO"</p></scopecontent></c01><c01 id="aspace_b46cbd8561a6b8902975ef64e2018e93" level="file"><did><unittitle>State, County &amp; Municipal Workers of America</unittitle><container id="aspace_bb863d25830f9b0a4f561cf9e14740a3" label="unspecified" type="box">2</container></did><c02 id="aspace_ca08976e31b8f438a92f5c6e31a954b6" level="file"><did><unittitle>Charter</unittitle><container id="aspace_012e464d4fda38c3534f2e5c1ccde8fb" label="unspecified" type="box">2</container><container id="aspace_1f68a89aeb4e5ab1a746e686895768ee" parent="aspace_012e464d4fda38c3534f2e5c1ccde8fb" type="folder">1</container></did><scopecontent id="aspace_482b94b71f5fef8aa182392d682b120f"><head>Scope and Contents</head><p>State, County &amp; Municipal Workers of America</p></scopecontent></c02></c01></dsc>
+</archdesc>
+</ead>

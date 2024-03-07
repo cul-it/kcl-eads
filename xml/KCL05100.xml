@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05100</eadid><filedesc><titlestmt><titleproper>New York State Board of Mediation and Arbitration Glove Manufacturers' Association of Fulton, New York Records <num>5100</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 28, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:32:45 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>New York State Board of Mediation and Arbitration Glove Manufacturers' Association of Fulton, New York Records</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">New York State Board of Mediation and Arbitration</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Glove Manufacturers' Association</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">International Glove Workers' Union</corpname>
+    </origination>
+    <unitid>5100</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1914/1914">1914</unitdate>
+    <physdesc id="aspace_1a94abbf7fd36ef1fd590c6b73f18331" label="Quantity:">0.3 linear ft.</physdesc>
+    <physdesc id="aspace_52365464c397430ea1cf73f8bbb28da6" label="Forms of Material:">Transcripts.</physdesc>
+    <abstract id="aspace_a42687ba4e803d38a5d418b885c55cc0">Transcript of testimony and decision of the Board concerning the Glove Cutters' strike at Gloversville and Johnstown, NY.</abstract>
+    <langmaterial id="aspace_6cf4ef66091f100018889e4721a2fd9f">Collection material in English</langmaterial>
+    <unitid type="bibid">5515258</unitid>
+  </did>
+  <odd id="aspace_78f13c1490ef22f3191c015dc0751734">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, November 11, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 28, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_3206dcc20b1718fdfe77e9683f47e331">
+    <head>Biographical / Historical</head>
+<p>At the request of the Commissioner of Labor the New York State Board of Mediation and Arbitration convened in Gloversville on October 5, 1914 to attempt to settle the glove cutters strike which had idled 1500 men in 150 plants. Members of the Board included Mr. William C, Rogers, chief mediator; Mr. James C. McManus; and Mr. P.S. Downey. </p><p> On August 21, 1914 the glove cutters held a mass meeting in which they voted to ask the Glove Manufacturers Association for an increase of 25 cents per dozen on men's and boys' gloves and 20 cents per dozen on ladies' gloves. The glove cutters were earning an average of $13.30 per week and had not had an increase in wages for 17 years. The glove cutters struck when the manufacturers turned down the request for an increase. Since glove making was the only industry in Fulton County the Board was instructed to investigate the situation. During the course of the strike several employers settled with their employees for 15 cents a dozen, and the Board recommended that the strikers return to work and continue negotiations for an increase of not less than 15 cents. The Board's proposals were turned down by the men.</p>  </bioghist>
+  <scopecontent id="aspace_3178c4f21be06d8fce43386212583fb2">
+    <head>Scope and Contents</head>
+<p>This collection consists of a transcript of testimony and decision of the Board concerning the Glove Cutters' strike at Gloversville and Johnstown, NY. </p><p> Witnesses include (in order of appearance) Julius Ehrlich, Herman Abbott, George Mansell, Algeron Lewis, Edward Etman, August Willmer, Arthur Day, Charles Kuehnel, John Compipiano, Nathan James, John Sturm, Simon Lieberman, Antonion Compo, William Windsor, George Tozzi, Theodore Abbott, Frank Harper, Edward Loveys, Thomas Jones, Leo Martin, Earl Dente, Harris Schwieb, William Dare, Gustave Walters, Samuel Spares, Jacob Pitonberg, Louis Wallach, Samuel Ziller, Max Rosen, John Desendels, Samuel Spinnock, Harry Ribraud, John Hager, Marvin Haverley, George Hanson, Max Steiner, Robert Koberlein, Albert Alvano, Isidore Berliner, Miroslav Cermek, Max Silver, Edward Barcosi, Edward Swetman, William Buckley, George Linto, Jacob Katz, George H. Taylor, Eugene Simmo, Abraham Lehr, Albert Aaron, William Stitt, Joseph Moses, Samuel Lehr, Abraham Bachner, Alfred Saunders, Claude A. Pedder, G.W. Mandress, George Potter, James Ireland, Abraham Nelson, Martin Kennedy, J.K. Northrup, Wendell Murray, John Hager, Ellius Rob, C.J. Cittenberg, George Mansell, and Isaac Moses.</p>  </scopecontent>
+  <accessrestrict id="aspace_b9990b1214c2c3a222092f99b8c45af1">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_7b9edaea685fc3b9c23b40fb949b4ee0">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_d88c7248b193960922c3cb3026a368e1">
+    <head>Preferred Citation</head>
+<p>New York State Board of Mediation and Arbitration Glove Manufacturers' Association of Fulton, New York Records #5100. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_d544fbbebaa4c57df267dc2d5fe07d9c">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05100mf.html"> 5100 mf: New York State Board of Mediation and Arbitration Glove Manufacturers' Association of Fulton, New York on Microfilm</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Glove industry - New York (State) - Johnstown.</subject>
+    <subject source="ingest">Glove industry - New York (State) - Gloversville.</subject>
+    <subject source="ingest">Wages - Glove industry - New York (State) - Johnstown.</subject>
+    <subject source="ingest">Wages -Glove industry - New York (State) - Gloversville.</subject>
+    <subject source="ingest">Strikes and lockouts - Glove industry - New York (State) - Johnstown.</subject>
+    <subject source="ingest">Strikes and lockouts - Glove industry - New York (State) - Gloversville.</subject>
+    <subject source="ingest">Glove industry - Employees.</subject>
+    <corpname audience="internal" source="ingest">New York (State). Board of Mediation and Arbitration.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5515258</unitid>
+  <dsc><c01 id="aspace_16a98b2df3ae9875662eeba3d4d6a4c5" level="file"><did><unittitle>Transcript of proceedings [folder 1 of 2]</unittitle><unitdate datechar="creation" normal="1914/1914">1914</unitdate><container id="aspace_f93ccf2b1c4573ddf675d6eedd837bc7" label="unspecified" type="box">1</container><container id="aspace_2e946bb206668109e9088f80c0b18218" parent="aspace_f93ccf2b1c4573ddf675d6eedd837bc7" type="folder">1</container></did><scopecontent id="aspace_447cc6b6f147526b0a7280ed2f55459c"><head>Scope and Contents</head><p>October 1914, pages 1 to 350.</p></scopecontent></c01><c01 id="aspace_30deaa34ffa08ee1d18cab1461aef22d" level="file"><did><unittitle>Transcript of proceedings [folder 2 of 2]</unittitle><unitdate datechar="creation" normal="1914/1914">1914</unitdate><container id="aspace_ded0ed745a4f87869f55333ff51f8971" label="unspecified" type="box">1</container><container id="aspace_c8b41541faa222c8286e18fe3321aeb4" parent="aspace_ded0ed745a4f87869f55333ff51f8971" type="folder">2</container></did><scopecontent id="aspace_7641d9cfef75bddebcd8eca1f69900b6"><head>Scope and Contents</head><p>October 1914; pages 351 to 697, plus index and report of findings and recommendations.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

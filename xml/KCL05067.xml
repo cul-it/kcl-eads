@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05067</eadid><filedesc><titlestmt><titleproper>American Locomotive Company and United Steelworkers of America Hearing before the U.S. Wage Stabilization Board Transcript <num>5067</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 07, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:31:34 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>American Locomotive Company and United Steelworkers of America Hearing before the U.S. Wage Stabilization Board Transcript</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">U.S. Wage Stabilization Board</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">American Locomotive Company (ALCO)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">United Steelworkers of America (USWA)</corpname>
+    </origination>
+    <unitid>5067</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1952/1952">1952</unitdate>
+    <physdesc id="aspace_77836c6681f1fb8e698fd7c8559d8487" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_23fee94d91b0d8a27e9a7374c44c5d1d" label="Forms of Material:">Transcripts.</physdesc>
+    <abstract id="aspace_c0a23c5294ba23f1e319eaeb677042e5">Transcript of the hearing before the Wage Stabilization Board, 1952. American Locomotive Company and the United Steelworkers of America.</abstract>
+    <langmaterial id="aspace_0cdb755eeaeaef361db5658a7be110cb">Collection material in English</langmaterial>
+    <unitid type="bibid">3116061</unitid>
+  </did>
+  <odd id="aspace_7b722c5838d69c49d6a36abee572e100">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, January 31, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 07, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_8adc0d254959bbcb102b34dc3a7829b7">
+    <head>Biographical / Historical</head>
+<p>This was a panel hearing conducted under the Disputes Procedures of the Wage Stabilization Board relating to the terms of a renewed contract between the parties. Since the American Locomotive Company was primarily a steel fabricating company, and its contract with the United Steelworkers of America did not expire until January 31, 1952, the parties agreed to con-tinua negotiations rather than take part in the hearings of the Steel Industry Board earlier in 1952. </p><p> But the parties were unable to reach an agreement and they returned to the Board. A procedural hearing was held in Washington, D. C. on April 22, 1952. At this meeting it was decided to hold separate hearings on each of the three cases before a single panel. The panel members were: </p><p> Public Members Donald K. Strauss, chairman William A. Hazell </p><p> Labor Members Benjamin Fischer James S. Killen </p><p> Industry Members Virgil Day </p><p> George Myers </p><p> The union presented a list of 22 demands, approximately the same issues involved in the Steel Industry Dispute; a general wage increase, a guaranteed annual wage, paid holidays, inequities, shift and geographical differeatials, overtime and improved vacations. One particular problem was the request by the union for a company wide contract which the company opposed on the ground that the plants were not similar. </p><p> Hearings were held in New York City from May 21, 1952 to June 27, 1952.</p>  </bioghist>
+  <accessrestrict id="aspace_ee314db880b0288b8a1a63629a2c12b8">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_3a90c95ee49798e0d5e4999fc0237acb">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_9903fb28577a3b6ba5f8d6a4d4b6f1d8">
+    <head>Preferred Citation</head>
+<p>American Locomotive Company and United Steelworkers of America Hearing before the U.S. Wage Stabilization Board Transcript #5067. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_b72c94714ebe7ba293399fc9e4d2e757">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05066.html"> 5066: U.S. Wage Stabilization Board File Note</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05069.html"> 5069: U.S. Wage Stabilization Board 1952 United Steelworkers of America Case</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05070.html"> 5070: American Smelting and Refining Co. and the United Steelworkers of America Hearing before the U.S. Wage Stabilization Board Transcript and Exhibits</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05072.html"> 5072: U.S. Wage Stabilization Board Combined Metal Reduction Company and New Park Mining Company Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05298.html"> 5298: IAM vs. Northwest Airlines and Miscellaneous others Arbitration Proceedings</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05476.html"> 5476: U.S. Wage Stabilization Board Documents</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Arbitration, Industrial--United States--Sources.</subject>
+    <subject source="ingest">Iron and steel workers--Labor unions--Sources.</subject>
+    <corpname audience="internal" source="ingest">American Locomotive Company--Sources.</corpname>
+    <corpname audience="internal" source="ingest">United States. Wage Stabilization Board</corpname>
+    <corpname audience="internal" source="ingest">United Steelworkers of America--Sources.</corpname>
+  </controlaccess>
+  <unitid type="bibid">3116061</unitid>
+  <dsc><c01 id="aspace_08ecc6c90c52ad701523e28a4a467fa5" level="file"><did><unittitle>Procedural Hearing of the Executive Committee of the National Wage Stabilization Board. 1 volume, 36 pages.</unittitle><container id="aspace_73733f2512237e07f3f110551d85be97" label="unspecified" type="box">1</container><container id="aspace_b4a67bcc511299db991c85d7be297b14" parent="aspace_73733f2512237e07f3f110551d85be97" type="folder">1</container></did></c01><c01 id="aspace_9a06fa5f11e1e480d60d2f02378e3c90" level="file"><did><unittitle>Transcripts of the Hearings. 12 Volumes, 1834 pages.</unittitle><container id="aspace_e982c286290bbe990560c209c584a3b7" label="unspecified" type="box">1</container><container id="aspace_f464f2a471c003f18d41204d00f2fb66" parent="aspace_e982c286290bbe990560c209c584a3b7" type="folder">2</container></did></c01><c01 id="aspace_9484d15c73e7316a1d678dc0fcdbc2a0" level="file"><did><unittitle>Letter to The President from the Board of Inquiry</unittitle><unitdate datechar="creation" normal="1953/1953">1953</unitdate><container id="aspace_f49e20cfb32da8a8ede007747e5e3f7b" label="unspecified" type="box">1</container><container id="aspace_67191b75ea7bcc4bf688acba6648fd8c" parent="aspace_f49e20cfb32da8a8ede007747e5e3f7b" type="folder">3</container></did></c01><c01 id="aspace_d28328f72a185a5626782c2eb4e43a94" level="file"><did><unittitle>Letter to the President from the Board of Inquiry (Second Copy)</unittitle><unitdate datechar="creation" normal="1953/1953">1953</unitdate><container id="aspace_3ecc540c0b3abe085b16515f5819e76a" label="unspecified" type="box">1</container><container id="aspace_ef4e9b610f5b51aec09c579ba46b1716" parent="aspace_3ecc540c0b3abe085b16515f5819e76a" type="folder">4</container></did></c01><c01 id="aspace_041b374c5086980497b0a939fe6e317d" level="file"><did><unittitle>Economic Stabilization Agency, National Wage Stabilization Board Public and Executive Meeting</unittitle><unitdate datechar="creation" normal="1952/1952">1952</unitdate><container id="aspace_643b1b540b1e761f58f5c081ebd84db7" label="unspecified" type="box">1</container><container id="aspace_cc21a673a6f95ceb3438cd72264077a8" parent="aspace_643b1b540b1e761f58f5c081ebd84db7" type="folder">5</container></did></c01><c01 id="aspace_2130d8e0fcd3067df85b1a5e1a8c242b" level="file"><did><unittitle>Final Report to The President by the Board of Inquiry</unittitle><unitdate datechar="creation" normal="1953/1953">1953</unitdate><container id="aspace_19bc25d916e922eef44d4751034eaafe" label="unspecified" type="box">1</container><container id="aspace_1c263a05f3cd99f9f08cbf7165f5d335" parent="aspace_19bc25d916e922eef44d4751034eaafe" type="folder">6</container></did></c01><c01 id="aspace_80fdd11f48d9ea44f5e69c0492818a92" level="file"><did><unittitle>Final Report to the President by the Board of Inquiry (2nd Copy)</unittitle><unitdate datechar="creation" normal="1953/1953">1953</unitdate><container id="aspace_da023861e4e26e9f9f62f1433ca94da4" label="unspecified" type="box">1</container><container id="aspace_fa44405de55e9c4dadb56a9434ffad1d" parent="aspace_da023861e4e26e9f9f62f1433ca94da4" type="folder">7</container></did></c01><c01 id="aspace_4652a664f742da6f784c31cc7d277d7d" level="file"><did><unittitle>District Court Case, American Locomotive Company v. US Steel Workers</unittitle><container id="aspace_74ae3d7b5f993d217902e68e7a96deef" label="unspecified" type="box">1</container><container id="aspace_a085ab276c18bef709f91f91c8eb6119" parent="aspace_74ae3d7b5f993d217902e68e7a96deef" type="folder">8</container></did></c01></dsc>
+</archdesc>
+</ead>

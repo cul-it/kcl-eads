@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04289pubs</eadid><filedesc><titlestmt><titleproper>ILR School Alumni Affairs and Development Publications <num>/4289 PUBS</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 05, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:26:55 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILR School Alumni Affairs and Development Publications</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">New York State School of Industrial and Labor Relations (NYSSILR)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">ILR Alumni Affairs and Development</corpname>
+    </origination>
+    <unitid>/4289 PUBS</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="2012/2012">2012</unitdate>
+    <physdesc id="aspace_cffabf9275ea348555dc46831a033d6f" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_cc92850d690aabfcdc5a98b926a0f5f1" label="Forms of Material:">Publications.</physdesc>
+    <langmaterial id="aspace_3a2610140b59ab3a61146840ea22ac41">Collection material in English</langmaterial>
+    <unitid type="bibid">7993988</unitid>
+  </did>
+  <odd id="aspace_cfc016d73a4c353e05f946584dad31af">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, March 13, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 05, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_a6e0ef483f07c3cea1ff61741d615b0a">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_87d9836cf2d7084ec99688df5bcd2ff9">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_0b92803883f52968f8d5d6482881ee32">
+    <head>Preferred Citation</head>
+<p>ILR School Alumni Affairs and Development Publications #/4289 PUBS. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_db146b474a81194f57234498195dd563">
+    <head>Related Materials</head>
+<p>Related Collections: /4289: ILR School Alumni Affairs and Development Records <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04289av.html"> /4289 AV: ILR School Alumni Affairs and Development Audio-Visual Materials</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04289p.html"> /4289 P: ILR School Alumni Affairs and Development Photographs</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <corpname audience="internal" source="ingest">New York State School of Industrial and Labor Relations. Alumni Affairs and Development</corpname>
+    <corpname source="ingest">New York State School of Industrial and Labor Relations</corpname>
+  </controlaccess>
+  <unitid type="bibid">7993988</unitid>
+  <dsc><c01 id="aspace_57f1acd3ca4d8b3cc876e32657630232" level="file"><did><unittitle>Advance: ILR Alumni Magazine</unittitle><unitdate datechar="creation" normal="2012/2012">2012</unitdate><container id="aspace_88b6b046aa373e76e591f60a4c45ca0f" label="unspecified" type="box">1</container><container id="aspace_a6ad96b6e3bc1507fd2b95c0310bceb1" parent="aspace_88b6b046aa373e76e591f60a4c45ca0f" type="folder">1</container></did><scopecontent id="aspace_3b7c4cec21f9a133b47dafe91a3d5921"><head>Scope and Contents</head><p>Fall 2012. 3 copies</p></scopecontent><c02 id="aspace_fed5c6709ac29fda48d18aefbbd5b9be" level="file"><did><unittitle>Item 1: Advance: ILR Alumni Magazine</unittitle><unitdate datechar="creation" normal="2012/2012">2012</unitdate><physdesc id="aspace_c1046c7a7bb8c7ce854e01638c3cb637" label="Format:">Publication</physdesc><container id="aspace_466b54bada3def5d0927483a8ca8dd9d" label="unspecified" type="box">1</container><container id="aspace_f3ad8f1ec9dd88dece122de22e974d4a" parent="aspace_466b54bada3def5d0927483a8ca8dd9d" type="folder">1</container></did><scopecontent id="aspace_3ff6f56edf22a46a54d5f6932e48942b"><head>Scope and Contents</head><p>Author: ILR Alumni Affairs and Development</p><p> Notes: Fall 2012</p><p> Format: Publication</p><p> Language: English.</p></scopecontent></c02><c02 id="aspace_73852a7e31fe4a087eeb12737aefe91a" level="file"><did><unittitle>Item 2: Advance: ILR Alumni Magazine</unittitle><unitdate datechar="creation" normal="2012/2012">2012</unitdate><physdesc id="aspace_127043eb27fd25d842da484a9fbbbc4a" label="Format:">Publication</physdesc><container id="aspace_5b0d0fa548e9f9ccb74431f2b37af702" label="unspecified" type="box">1</container><container id="aspace_f215609adee8500e958d3784eb3a5b41" parent="aspace_5b0d0fa548e9f9ccb74431f2b37af702" type="folder">1</container></did><scopecontent id="aspace_666c1cfefd1edf0b434f271ca8155cab"><head>Scope and Contents</head><p>Author: ILR Alumni Affairs and Development</p><p> Notes: Fall 2012. Copy 2.</p><p> Format: Publication</p><p> Language: English.</p></scopecontent></c02><c02 id="aspace_4ca5c0b3dcb61c7339b94e39e6d7b7a9" level="file"><did><unittitle>Item 3: Advance: ILR Alumni Magazine</unittitle><unitdate datechar="creation" normal="2012/2012">2012</unitdate><physdesc id="aspace_a20b2d897d9ee2c039e32e4f1a41fae2" label="Format:">Publication</physdesc><container id="aspace_9a3c68a36af66af52cc5e6831dc9ca6f" label="unspecified" type="box">1</container><container id="aspace_9fa0d587c48197d67a6d5ee95d98f8e8" parent="aspace_9a3c68a36af66af52cc5e6831dc9ca6f" type="folder">1</container></did><scopecontent id="aspace_dc544cd2f7115529fca7a7083300f5e9"><head>Scope and Contents</head><p>Author: ILR Alumni Affairs and Development</p><p> Notes: Fall 2012. Copy 3.</p><p> Format: Publication</p><p> Language: English.</p></scopecontent></c02></c01></dsc>
+</archdesc>
+</ead>

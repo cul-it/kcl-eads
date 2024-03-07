@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05422mf</eadid><filedesc><titlestmt><titleproper>Rochdale Equitable Pioneers on Microfilm <num>5422 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 02, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:46:10 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Rochdale Equitable Pioneers on Microfilm</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Rochdale Equitable Pioneers</corpname>
+    </origination>
+    <unitid>5422 mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.11 cubic feet</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="0000/2999" type="inclusive">0000-2999</unitdate>
+    <physdesc id="aspace_4dd17a2f31a54bb7d84a460411c0fda3" label="Quantity:">1 microfilm reel</physdesc>
+    <physdesc id="aspace_129df157757ad6415f3a7f0699b54510" label="Forms of Material:">Munites, reports, pamphlets, correspondence, photographs, microfilm.</physdesc>
+    <abstract id="aspace_d7aec8daceb6c319dca52eb410cba072">Included here are the original 1844 Rules, the original manuscript Minute Books kept by the successive secretaries, and contemporary photographs of the Pioneers.</abstract>
+    <langmaterial id="aspace_72f843e8f25e289788674fc81087ed39">Collection material in English</langmaterial>
+    <unitid type="bibid">5649075</unitid>
+  </did>
+  <odd id="aspace_ccdd722eb0404ce93f4194b1fe5eff8b">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, May 13, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 02, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_463c2bbbfbad8f3f6e7a1d80ca1cff89">
+    <head>Biographical / Historical</head>
+<p>The Rochdale Society of Equitable Pioneers was founded in 1844 and set the basis for the modern co-operative movement. </p><p> The Rochdale Pioneers' co-operative became the prototype for societies in Great Britain. The Rochdale Pioneers are most famous for designing the Rochdale Principles, a set of principles of co-operation that provide the foundation for the principles on which co-ops around the world operate to this day. The model the Rochdale Pioneers used is a focus of study within co-operative economics.</p>  </bioghist>
+  <scopecontent id="aspace_f96f436c55c57098a5a0d8577a267be1">
+    <head>Scope and Contents</head>
+<p>Included here are the original 1844 Rules, the original manuscript Minute Books kept by the successive secretaries, and contemporary photographs of the Pioneers. </p><p> The Co-operative Union's Librarian briefly summarized the principles of Rochdale Co-operation and their effect upon present day Co-operative movements.</p>  </scopecontent>
+  <accessrestrict id="aspace_33589a6597aac177de03e2eb10fc0a8b">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_35c6d81683e6f57240baa138734dcfbf">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_0ce9baff69e9bb2004b2f2ce108d8786">
+    <head>Preferred Citation</head>
+<p>Rochdale Equitable Pioneers on Microfilm #5422 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Cooperative societies -- Great Britain.</subject>
+    <subject source="ingest">Cooperation -- Great Britain.</subject>
+    <corpname audience="internal" source="ingest">Rochdale Equitable Pioneers' Society</corpname>
+  </controlaccess>
+  <unitid type="bibid">5649075</unitid>
+  <dsc><c01 id="aspace_f448e69cde99dc4db676dc728917e27e" level="file"><did><unittitle>Rochdale Equitable Pioneers - Papers relating to</unittitle><container id="aspace_02be172c22a72633ea7c8c43cf34474a" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_d583191aa913960b3d39827ab348f9d8"><head>Scope and Contents</head><p>positive</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

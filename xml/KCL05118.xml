@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05118</eadid><filedesc><titlestmt><titleproper>New York City Board of Transportation and the Transport Workers Union Records <num>5118</num></titleproper><author>Compiled by E. Parker</author><sponsor>This collection was processed with the help of generous funding from the National Historical Publications and Records Commission (NHPRC).</sponsor></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>December 08, 2017</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:33:33 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>New York City Board of Transportation and the Transport Workers Union Records</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">New York City Board of Transportation</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Transport Workers Union</corpname>
+    </origination>
+    <unitid>5118</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1946/1950" type="inclusive">1946-1950</unitdate>
+    <physdesc id="aspace_99cd6823e23f0dd3e41f83268ad43538" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_d5d7028ed7379033213fe8aadb1ea086" label="Forms of Material:">Records (documents), pamphlets.</physdesc>
+    <abstract id="aspace_bf8fc9cac4028efaacf6ee1ebbcfdb81">This collection consists of the transcripts from the hearings of the New York City Transit Fact Finding Board, which was tasked by Mayor O'Dwyer with hearing the complaints of both the Board of Transportation [BoT] and Transport Workers Union [TWU] during contract negotiations in 1950. The collection also contain union and industry pamphlets about the dispute.</abstract>
+    <langmaterial id="aspace_85aad0cfed6a92063f8d5e956e06cfba">Collection material in English</langmaterial>
+    <unitid type="bibid">5515801</unitid>
+  </did>
+  <odd id="aspace_7ab61055668e881caf6df95169fc4d90">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>E. Parker, November 01, 2007</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>E. Parker, December 08, 2017</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_8b69162c04bb2c80b9f845999ff61156">
+    <head>Biographical / Historical</head>
+<p>On October 18, 1945, Mayor O'Dwyer of New York City suggested that the use of collective bargaining might alleviate the friction between the Board of Transportation and the transit employees. It was not until 1950, however, when Michael J. Quill, President of the Transport Workers Union, demanded immediate contract negotiations with the Board of Transportation, that this issue came to the forefront. Quill had circulated a petition among the transit workers calling for these negotiations, and claimed that 21,834 of the 27,000 employees had supported his stand. </p><p> Other T.W.U. demands were a $2-a-day raise for all transit employees, increased overtime pay, an improved pension plan, and additional vacation days after five years of service. The Greater New York CIO requested that the present grievance procedure of the BoT be modified. Conversely, the BoT argued that it did not have the funds to meet these demands. Mayor O'Dwyer offered to set up a fact-finding board to hear the complaints of each side, and both the Board of Transportation and the Transport Workers Union agreed to submit their cases before this impartial board. </p><p> The Board was appointed by Mayor William O'Dwyer on January 9, 1950. David L. Cole was appointed as chairman of the Board, and Theodore W. Kheel, Thomas A. Morgan, and Edward P. Mulrooney were appointed as Board members. The hearings began on April 12, 1950. </p><p> The findings of the Board may be found in its printed <extref xlink:href="https://babel.hathitrust.org/cgi/pt?id=coo.31924002357584;view=1up;seq=1;size=175">Report to Honorable William O'Dwyer, Mayor of the City of New York, May 31, 1950</extref>.</p>  </bioghist>
+  <scopecontent id="aspace_e329a8410289a774767e1d0417e7933a">
+    <head>Scope and Contents</head>
+<p>Inclusive dates: 1946-1950 </p><p> Bulk Dates: 1950 </p><p> This collection consists of three volumes of transcripts of the hearings held before the New York City Transit Fact Finding Board on April 12, 13, and 14, 1950. Testimony was offered from Board of Transportation officials, the City of New York, and various employee labor groups. </p><p> For the Board of Transportation: Sidney H. Bingham, chairman; G. Joseph Minetti, commissioner; John J. Woods, deputy commissioner; and Harold E. Wagner, counsel. </p><p> For the City of New York: Howard C. Fischbach, assistant corporation counsel. </p><p> For the Employees: </p><p> Transit Workers Union of Greater New York, CIO Local 100: Michael J. Quill, international president; Matthew Guinan, president, Local 100; Ellis F. Van Riper, secretary-treasurer, Local 100; Louis Hollander, president, New York State CIO Council; R.J. Thomas, representative of the CIO; and John F. O'Donnell, counsel. </p><p> And representatives from the following labor unions: New York City Transit Police Patrolmen's Benevolent Association; New York City Transit Police Sergeant's Benevolent Association; Station Supervisors; Assistant Station Supervisors; Brotherhood of Railroad Signalmen of America; Civil Service Technical Guild; Civil Service Forum; Supervisory Employees Association, Inc.; Brotherhood of Locomotive Engineers; American Federation of State, County, and Municipal Employees, Local 624; American Federation of Municipal Transit Workers, Local 380; and, Amalgamated Association of Street and Electric Railway and Motor Coach Employees of America. </p><p> Also located in this collection are three pamphlets: two are printed by the TWU in 1946 to garner support for their position; one is printed by the bus industry in 1948 to garner support for their position.</p>  </scopecontent>
+  <accessrestrict id="aspace_79fdabb5d90a3eec7a08dd8ee49bf55b">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_0d059ca71959d6df149d35f0bcd77f0a">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_938f7e200c3abc8112bc2c26713e330c">
+    <head>Preferred Citation</head>
+<p>New York City Board of Transportation and the Transport Workers Union Records #5118. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_8bbe764b30058f7d72e9ef4df8977986">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05085.html"> 5085: U.S. National Mediation Board Transcripts Regarding American Air Lines and Transport Workers Union of America</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05588.html"> 5588: David L. Cole Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05800.html"> 5800: Transport Workers Union of America Local 2001 Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05990mf.html"> 5990 mf: Transport Workers Union of America Minutes on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05114.html"> 5114: New York City Transit Authority Fact Finding Panel Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05251.html"> 5251: New York City Mayor's Advisory Transit Committee Hearing Transcripts and Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05026.html"> 5026: Sara Gamm Collection of Miscellaneous Materials from the New York City Transit Authority</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Transit workers -- New York (State) -- New York.</subject>
+    <subject source="ingest">Transit workers -- Labor unions -- New York (State) -- New York.</subject>
+    <subject source="ingest">Wages -- Transport workers -- New York (State) -- New York.</subject>
+    <subject source="ingest">Collective labor agreements -- Transport workers -- New York (State) -- New York.</subject>
+    <subject source="ingest">Employee fringe benefits -- Collective agreements.</subject>
+    <persname audience="internal" source="ingest">Cole, David L. (David Lawrence), 1902-1978.</persname>
+    <persname audience="internal" source="ingest">Kheel, Theodore W.</persname>
+    <persname audience="internal" source="ingest">Quill, Michael J.</persname>
+    <persname audience="internal" source="ingest">O'Dwyer, William</persname>
+    <corpname audience="internal" source="ingest">New York (City) Board of Transportation.</corpname>
+    <corpname audience="internal" source="ingest">New York (N.Y.). Fact Finding Board in the Transit Industry.</corpname>
+    <corpname audience="internal" source="ingest">Transport Workers Union of America.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5515801</unitid>
+  <dsc><c01 id="aspace_b893f6e3c26341ec78e76a1949de5a18" level="file"><did><unittitle>New York City Fact Finding Board in the Transit Industry: "In the Matter of The Board of Transportation of the City of New York and Transport Workers Union, CIO., et. April12, 1950"</unittitle><unitdate datechar="creation" normal="1950/1950">1950</unitdate><container id="aspace_ac7d8365c70d24e258e926a93fb3f2ce" label="unspecified" type="box">1</container><container id="aspace_7e3f3bfac9e3d9fedf728082147c960f" parent="aspace_ac7d8365c70d24e258e926a93fb3f2ce" type="folder">1</container></did></c01><c01 id="aspace_8f89c17e306a07cd3eb4f6122032b926" level="file"><did><unittitle>New York City Fact Finding Board in the Transit Industry: "In the Matter of The Board of Transportation of the City of New York and Transport Workers Union, CIO., et. April13, 1950"</unittitle><unitdate datechar="creation" normal="1950/1950">1950</unitdate><container id="aspace_8abfdc871c1b3986c74e6b2ed3203bad" label="unspecified" type="box">1</container><container id="aspace_ca837f2b81cc850d5fd1a85303e8f0c3" parent="aspace_8abfdc871c1b3986c74e6b2ed3203bad" type="folder">2</container></did></c01><c01 id="aspace_c905777e6cf1672ff2b87dbf45d40e67" level="file"><did><unittitle>New York City Fact Finding Board in the Transit Industry: "In the Matter of The Board of Transportation of the City of New York and Transport Workers Union, CIO., et. April14, 1950" [folder 1 of 2]</unittitle><unitdate datechar="creation" normal="1950/1950">1950</unitdate><container id="aspace_a26e85bd67a2f1756f2c848a3198c274" label="unspecified" type="box">1</container><container id="aspace_3680a4c3d0478f8abee9f18fd7529278" parent="aspace_a26e85bd67a2f1756f2c848a3198c274" type="folder">3a</container></did></c01><c01 id="aspace_d194a0d65f3c16e064c5a8f9dd75382d" level="file"><did><unittitle>New York City Fact Finding Board in the Transit Industry: "In the Matter of The Board of Transportation of the City of New York and Transport Workers Union, CIO., et. April14, 1950" [folder 2 of 2]</unittitle><unitdate datechar="creation" normal="1950/1950">1950</unitdate><container id="aspace_80c409fc3e225a379739920e48e22958" label="unspecified" type="box">1</container><container id="aspace_96c666d56a9178b681cda52965480148" parent="aspace_80c409fc3e225a379739920e48e22958" type="folder">3b</container></did></c01><c01 id="aspace_501dab526e57e8e86f75186ba7e278ae" level="file"><did><unittitle>Transport Workers Union Pamphlet: "Our Case for Higher Wages"</unittitle><unitdate datechar="creation" normal="1946/1946">1946</unitdate><container id="aspace_3c89bc36809a34dace7c3429c1da7723" label="unspecified" type="box">1</container><container id="aspace_41091e12af9dd4dcae8b2becdc30ee8c" parent="aspace_3c89bc36809a34dace7c3429c1da7723" type="folder">4</container></did></c01><c01 id="aspace_10d732ed30b1045a47d12b97c84aa3b7" level="file"><did><unittitle>Transport Workers Union Pamphlet: "Union Security Means a Good Job - Our case For Collective Bargaining In the New York City Transit System"</unittitle><unitdate datechar="creation" normal="1946/1946">1946</unitdate><container id="aspace_8b5baeb2f27d5b7f3dd8a00e767a0f82" label="unspecified" type="box">1</container><container id="aspace_5a64c9b63b52cb57cf087babf5b250a7" parent="aspace_8b5baeb2f27d5b7f3dd8a00e767a0f82" type="folder">5</container></did></c01><c01 id="aspace_28e3058c0659d27b83acf15b7ddda34e" level="file"><did><unittitle>Bus Industry Pamphlet: "You Arbitrate This Case!" Preprinted from the May 1948 Issue of Bus Transportation</unittitle><unitdate datechar="creation" normal="1948/1948">1948</unitdate><container id="aspace_48f4cd4908b3e5ce51c13f0332ef4813" label="unspecified" type="box">1</container><container id="aspace_3c7b0da52bfe19ca876dbe0280b5bdb4" parent="aspace_48f4cd4908b3e5ce51c13f0332ef4813" type="folder">6</container></did></c01></dsc>
+</archdesc>
+</ead>

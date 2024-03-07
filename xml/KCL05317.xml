@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05317</eadid><filedesc><titlestmt><titleproper>Waterfront Employers Association of the Pacific Coast and the ILWU Records <num>5317</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 11, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:42:25 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Waterfront Employers Association of the Pacific Coast and the ILWU Records</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Waterfront Employers Association of the Pacific Coast</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">International Longshoremen and Warehousemen's Union (ILWU)</corpname>
+    </origination>
+    <unitid>5317</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1934/1946" type="inclusive">1934-1946</unitdate>
+    <physdesc id="aspace_0dca9a965a673153dd7e36e40d176969" label="Quantity:">2 linear ft.</physdesc>
+    <physdesc id="aspace_b9e271529a2e2c89ed2273ebda0d50a8" label="Forms of Material:">Records (documents).</physdesc>
+    <abstract id="aspace_ebb00085cd2dda2d5e12388bb009d1ab">Records concerning the dispute between the Waterfront Employees Association of the Pacific Coast and the International Longshoremen and Warehousemen's Union.</abstract>
+    <langmaterial id="aspace_ad9f087d06836534bf9c76665d1b34ea">Collection material in English</langmaterial>
+    <unitid type="bibid">5596222</unitid>
+  </did>
+  <odd id="aspace_27e43b49aba10180b3daf432864bb0ca">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, February 22, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 11, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_98a64df50cc43f25c577fa7eb03cb5f0">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_a5f69ef4a9a7e88256116eb5b58b34d1">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_ce62b7e3e15c22484263617dcf91ddbb">
+    <head>Preferred Citation</head>
+<p>Waterfront Employers Association of the Pacific Coast and the ILWU Records #5317. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Stevedores -- United States.</subject>
+    <subject source="ingest">Stevedores -- Labor unions -- United States.</subject>
+    <corpname audience="internal" source="ingest">United States. National War Labor Board.</corpname>
+    <persname audience="internal" source="ingest">Meyer, Arthur S. (Arthur Simon), 1880-1955</persname>
+    <corpname audience="internal" source="ingest">Waterfront Employers Association of the Pacific Coast.</corpname>
+    <corpname audience="internal" source="ingest">International Longshoremen's and Warehousemen's Union.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5596222</unitid>
+  <dsc><c01 id="aspace_c873924694f6a4ee32617de25269a068" level="file"><did><unittitle>Employer Association's Exhibit</unittitle><unitdate datechar="creation" normal="1934/1934">1934</unitdate><container id="aspace_3749b2dca73d07f88c6087f43ac2cb0e" label="unspecified" type="box">1</container><container id="aspace_cbf25e6864426b28ee5f8c3404a6e90f" parent="aspace_3749b2dca73d07f88c6087f43ac2cb0e" type="folder">1</container></did></c01><c01 id="aspace_9da28f7aa480c6c4ffa10aabc50fdeaf" level="file"><did><unittitle>Union Exhibit</unittitle><unitdate datechar="creation" normal="1945/1945">1945</unitdate><container id="aspace_c402793fe93a35219d33c07aac163a45" label="unspecified" type="box">1</container><container id="aspace_51089842d6ec3f65943027cf1e56b217" parent="aspace_c402793fe93a35219d33c07aac163a45" type="folder">2</container></did></c01><c01 id="aspace_d7621c7ef046dc61bae2d3ac31c37cad" level="file"><did><unittitle>Government Exhibit</unittitle><unitdate datechar="creation" normal="1945/1945">1945</unitdate><container id="aspace_abb423a2f05e2a4f845cf84cb13e53b4" label="unspecified" type="box">1</container><container id="aspace_16c40fd847eacd4127f21ba98cdd6589" parent="aspace_abb423a2f05e2a4f845cf84cb13e53b4" type="folder">3</container></did></c01><c01 id="aspace_c50c7a1588e1c06b7c41d136102118c7" level="file"><did><unittitle>Correspondence with Lee G. Paul</unittitle><unitdate datechar="creation" normal="1945/1945">1945</unitdate><container id="aspace_0d6ec1127e7fa9f2c6b9890fc0a38535" label="unspecified" type="box">1</container><container id="aspace_b1e61877c61cb9d96ac90327c5fb4c68" parent="aspace_0d6ec1127e7fa9f2c6b9890fc0a38535" type="folder">4</container></did></c01><c01 id="aspace_5a0c99eceed70a1c9bbe1cce0b3464ac" level="file"><did><unittitle>West Coast Longshoremen Case-NWLB Report, Recommendation and Opinions</unittitle><unitdate datechar="creation" normal="1945/1945">1945</unitdate><container id="aspace_0082dd716ffa82f52213be44917effa2" label="unspecified" type="box">1</container><container id="aspace_0b6c0b76957dcc9244f1e8abccf87b0e" parent="aspace_0082dd716ffa82f52213be44917effa2" type="folder">5</container></did></c01><c01 id="aspace_63b7619f0f94e8f3aba5d150d464d7ef" level="file"><did><unittitle>Longshoremen's Matter-New York City</unittitle><unitdate datechar="creation" normal="1945/1945">1945</unitdate><container id="aspace_762709c1f44736d78f370a73a0227e94" label="unspecified" type="box">1</container><container id="aspace_4811a59c1eb07c1b43a84b77f719ccae" parent="aspace_762709c1f44736d78f370a73a0227e94" type="folder">6</container></did></c01><c01 id="aspace_6956f25bca0d2c9bb2417ce7880a5355" level="file"><did><unittitle>A.S. Meyer Correspondence</unittitle><unitdate datechar="creation" normal="1945/1945">1945</unitdate><container id="aspace_9ba890206f8f7a3b2939669d273e3c51" label="unspecified" type="box">1</container><container id="aspace_6fbf35322096982ebcb84bb5bd1e2182" parent="aspace_9ba890206f8f7a3b2939669d273e3c51" type="folder">7</container></did></c01><c01 id="aspace_2570f40abbde2410599a791a1815b025" level="file"><did><unittitle>Correspondence with Anne Lopation</unittitle><unitdate datechar="creation" normal="1945/1945">1945</unitdate><container id="aspace_6a1615799ad8df458c7622cee762a9e0" label="unspecified" type="box">1</container><container id="aspace_0d89b03b4b4c81b4e076e52901b3f697" parent="aspace_6a1615799ad8df458c7622cee762a9e0" type="folder">8</container></did></c01><c01 id="aspace_37d19c8e6fe9450a675096b817161869" level="file"><did><unittitle>NWLB West Coast Longshore Case Library</unittitle><unitdate datechar="creation" normal="1945/1945">1945</unitdate><container id="aspace_b517d9d38965e31f828e2bb0b596fd2e" label="unspecified" type="box">1</container><container id="aspace_42fad67c779e0acb384c2b33e8be18a9" parent="aspace_b517d9d38965e31f828e2bb0b596fd2e" type="folder">9</container></did></c01><c01 id="aspace_6a5434ad069b91eb2479c712873be8c0" level="file"><did><unittitle>Waterfront Employers, Pacific Coast-Longshore Fact Finding Board</unittitle><unitdate datechar="creation" normal="1946/1946">1946</unitdate><container id="aspace_c3f0ac2f3ee08e0941e2f1912f1fb07f" label="unspecified" type="box">2</container><container id="aspace_61102ffa8d9672180cf5ebd3036ff5f2" parent="aspace_c3f0ac2f3ee08e0941e2f1912f1fb07f" type="folder">1</container></did></c01><c01 id="aspace_b205220cbc2b15a30c39b124d0906a2d" level="file"><did><unittitle>Employer Exhibits Book 2 AAA-GGG</unittitle><unitdate datechar="creation" normal="1945/1945">1945</unitdate><container id="aspace_3a978a431908822944a98ef0c2217b96" label="unspecified" type="box">2</container><container id="aspace_a667d21caf4c340ac5e5b723ae38474b" parent="aspace_3a978a431908822944a98ef0c2217b96" type="folder">2</container></did></c01><c01 id="aspace_861be6e0f2a0686081f4b3a49e2556be" level="file"><did><unittitle>Employer Exhibits Book 2 AAA-GGG</unittitle><unitdate datechar="creation" normal="1945/1945">1945</unitdate><container id="aspace_b1b5ee490bd403f2ed70a08f60253a63" label="unspecified" type="box">2</container><container id="aspace_b41c5133ba1c7cd7fcff5555fbe5132d" parent="aspace_b1b5ee490bd403f2ed70a08f60253a63" type="folder">3</container></did></c01><c01 id="aspace_1fe7a08b02714d4beb58410dd5a8f172" level="file"><did><unittitle>Union Exhibits-West Coast Longshore Case</unittitle><unitdate datechar="creation" normal="1945/1945">1945</unitdate><container id="aspace_26fbb10cf39288f4487d2579edb3410b" label="unspecified" type="box">2</container><container id="aspace_b2090410e903cbafffc14f03f97f9353" parent="aspace_26fbb10cf39288f4487d2579edb3410b" type="folder">4</container></did></c01><c01 id="aspace_9bf3326bc70e7a559c8098c490ef9500" level="file"><did><unittitle>Union Case Exhibits-West Coast Longshore Case</unittitle><unitdate datechar="creation" normal="1945/1945">1945</unitdate><container id="aspace_1f50d0b4572cec533dbaa0c528fc2bab" label="unspecified" type="box">2</container><container id="aspace_e2d27644019ef0e095b2e902782269ef" parent="aspace_1f50d0b4572cec533dbaa0c528fc2bab" type="folder">5</container></did></c01><c01 id="aspace_5527de52662fd3e58b1870f37e4166aa" level="file"><did><unittitle>Employee's Exhibits Book 1 A-Z</unittitle><unitdate datechar="creation" normal="1945/1945">1945</unitdate><container id="aspace_143b4ad96ce9ee642db7744c47848fad" label="unspecified" type="box">2</container><container id="aspace_048f89c42f23bd20eeb7095de42f57b4" parent="aspace_143b4ad96ce9ee642db7744c47848fad" type="folder">6</container></did></c01><c01 id="aspace_7126359a4135cda884aa904f7c484cda" level="file"><did><unittitle>Employee's Exhibits Book 1 A-Z</unittitle><unitdate datechar="creation" normal="1945/1945">1945</unitdate><container id="aspace_59b7d50c105d03f7240152954e0c0fee" label="unspecified" type="box">2</container><container id="aspace_aa03d7318e14fd9ed72c1e03841eb4ae" parent="aspace_59b7d50c105d03f7240152954e0c0fee" type="folder">7</container></did></c01></dsc>
+</archdesc>
+</ead>

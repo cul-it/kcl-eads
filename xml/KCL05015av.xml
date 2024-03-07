@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05015av</eadid><filedesc><titlestmt><titleproper>Teachers Union of the City of New York Audio-Visual Materials <num>5015 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 28, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:29:27 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Teachers Union of the City of New York Audio-Visual Materials</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Teachers Union of the City of New York</persname>
+    </origination>
+    <unitid>5015 AV</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.11 cubic feet</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="0000/2999" type="inclusive">0000-2999</unitdate>
+    <physdesc id="aspace_541c763f23dd02eaef2e5aa9fcef54cd" label="Quantity:">0.1 linear ft.</physdesc>
+    <physdesc id="aspace_935411bd85335a058a290504d2dbcfa4" label="Forms of Material:">Audiovisual materials.</physdesc>
+    <abstract id="aspace_8527f0a791fc75ccd2f51a6ca15a669a">Video recording of 'Crime Against the Schools'</abstract>
+    <langmaterial id="aspace_7cb88b17017ed94e55d6b749684b6601">Collection material in English</langmaterial>
+    <unitid type="bibid">8259545</unitid>
+  </did>
+  <odd id="aspace_4e39595fec4c15634202ba962ba7928e">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, August 16, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 28, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_337ca55850d2b630f68da950832c926e">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_486cf1dfbcab2661a2fb1a4c73687817">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_8e991e5bc441b8d9bdd14eef8aaaf3a1">
+    <head>Preferred Citation</head>
+<p>Teachers Union of the City of New York Audio-Visual Materials #5015 AV. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_e2688c91471527992b5e974e2c5dda93">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05015.html"> 5015: Teachers Union of the City of New York Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05015mb.html"> 5015 MB: Teachers Union of the City of New York SCMWA Local 555 Anne Grant Pin Memorabilia</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05015mf.html"> 5015 mf: Teachers Union of the City of New York Executive Board Minutes on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05018.html"> 5018: US Congressional Investigation of Teachers' Union Local No. 555, United Public Workers of America, CIO</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05019.html"> 5019: AFT Executive Council Transcript of Hearing of Local 5</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05020.html"> 5020: AFT Executive Council Transcript of Hearing of Local 537</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05445.html"> 5445: Teachers Union of the City of New York Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05470.html"> 5470: Papers regarding Abraham Feingold's Prosecution For Alleged Communist Sympathies</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05927.html"> 5927: Teachers Union of the City of New York Additional Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06046.html"> 6046: Archives Union File (AUF)</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <corpname audience="internal" source="ingest">Teachers' Union of the City of New York</corpname>
+  </controlaccess>
+  <unitid type="bibid">8259545</unitid>
+  <dsc><c01 id="aspace_fca23bd787332e30dd33c9b1abf1d180" level="file"><did><unittitle>Crime Against the Schools</unittitle><container id="aspace_d6afbb8b8df2172550f94f75ec394aab" label="unspecified" type="box">1</container></did><scopecontent id="aspace_da59139368a324680d2422be8b289836"><head>Scope and Contents</head><p>Digital copy of a VHS tape from box 31 (old 93) of 5015</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

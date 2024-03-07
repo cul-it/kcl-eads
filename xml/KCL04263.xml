@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04263</eadid><filedesc><titlestmt><titleproper>ILR School Center for Advanced Human Resource Studies (CAHRS) Mellon Grant Reports <num>/4263</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 04, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:25:25 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILR School Center for Advanced Human Resource Studies (CAHRS) Mellon Grant Reports</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">New York State School of Industrial and Labor Relations (NYSSILR)</corpname>
+    </origination>
+    <unitid>/4263</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1993/1997" type="inclusive">1993-1997</unitdate>
+    <physdesc id="aspace_b43e5d2a3e1a9b3faf4c70ef51b8455f" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_cd1b642cd501f621202eb74500ee16f0" label="Forms of Material:">Records (documents).</physdesc>
+    <langmaterial id="aspace_b2013951091267b62ab77190a5856f14">Collection material in English</langmaterial>
+    <unitid type="bibid">6179171</unitid>
+  </did>
+  <odd id="aspace_fb250b8f7f373db5bacbfcfaedbee94a">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 02, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 04, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_0052ffba733a258f15ff36b3a57adc5e">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_57b264e7674ba34c739d3d16ab544632">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_4875dfdc923f63019fe9897e0bf24edd">
+    <head>Preferred Citation</head>
+<p>ILR School Center for Advanced Human Resource Studies (CAHRS) Mellon Grant Reports #/4263. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_975e4dc41f77ab61744d334346d9fa23">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04117p.html"> /4117 P: ILR School Photographs</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04304.html"> /4304: ILR School CAHRS Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04304av.html"> /4304 AV: ILR School CAHRS Audio-Visual Materials</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05937.html"> 5937: Walton E. Burdick Papers</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Human capital</subject>
+    <corpname source="ingest">New York State School of Industrial and Labor Relations.</corpname>
+    <corpname audience="internal" source="ingest">New York State School of Industrial and Labor Relations. Center for Advanced Human Resource Studies- -Archives.</corpname>
+  </controlaccess>
+  <unitid type="bibid">6179171</unitid>
+  <dsc><c01 id="aspace_954061dc01665026fa5c49a04e5dd0a8" level="file"><did><unittitle>Mellon Final Proposal 1993 Original Material</unittitle><unitdate datechar="creation" normal="1993/1993">1993</unitdate><container id="aspace_630df8c805ca5cb7d52edabe4b14e874" label="unspecified" type="box">1</container><container id="aspace_96020cf7322a23d2b2c96c21520defbf" parent="aspace_630df8c805ca5cb7d52edabe4b14e874" type="folder">1</container></did></c01><c01 id="aspace_5ac75b1c263ebd705e628ef13409fa34" level="file"><did><unittitle>Mellon Phase 1 Proposal Final Copy</unittitle><unitdate datechar="creation" normal="1993/1993">1993</unitdate><container id="aspace_e7b00e643a250d44f518b5452990968f" label="unspecified" type="box">1</container><container id="aspace_732f87c52ee0cf9725883d83cdb0d49c" parent="aspace_e7b00e643a250d44f518b5452990968f" type="folder">2</container></did></c01><c01 id="aspace_6e6435ab60c404934b8dc4511df5219b" level="file"><did><unittitle>Mellon Final Phase Proposal February 1996</unittitle><unitdate datechar="creation" normal="1996/1996">1996</unitdate><container id="aspace_7f472e719ba28fc4d04546050d63c1a2" label="unspecified" type="box">1</container><container id="aspace_e80ea2926ba5289caec60eb37e533b6f" parent="aspace_7f472e719ba28fc4d04546050d63c1a2" type="folder">3</container></did></c01><c01 id="aspace_aa07a3cd250c25aa2df8f09fbfa9b61c" level="file"><did><unittitle>Mellon Phase 1 Final Report with Budget Red Report</unittitle><unitdate datechar="creation" normal="1994/1994">1994</unitdate><container id="aspace_0b47acedfab5ec5a965689d006dd0135" label="unspecified" type="box">1</container><container id="aspace_7b98738e216fdff2ed252ae069c9c3b2" parent="aspace_0b47acedfab5ec5a965689d006dd0135" type="folder">4</container></did></c01><c01 id="aspace_ffc2836db1a91cad98beab46f593d4b8" level="file"><did><unittitle>Mellow Phase 1 Final Report W/O Budget Lavender Report</unittitle><unitdate datechar="creation" normal="1995/1995">1995</unitdate><container id="aspace_f684cc6e9af00fd02927987833011f8e" label="unspecified" type="box">1</container><container id="aspace_a3b85a9bf29442e1b89712779f5e4c9d" parent="aspace_f684cc6e9af00fd02927987833011f8e" type="folder">5</container></did></c01><c01 id="aspace_522138ef17dc3edc7b910dc45edcc2dd" level="file"><did><unittitle>Phase 3 Final Report 6/97</unittitle><unitdate datechar="creation" normal="1997/1997">1997</unitdate><container id="aspace_57c2db4d60752867f92295f03be86f73" label="unspecified" type="box">1</container><container id="aspace_1fd423a8dd7dffde04a6e33bbda9de98" parent="aspace_57c2db4d60752867f92295f03be86f73" type="folder">6</container></did></c01></dsc>
+</archdesc>
+</ead>

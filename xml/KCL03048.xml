@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL03048</eadid><filedesc><titlestmt><titleproper>Thompson, Mark, Papers <num>/3048</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 21, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:14:30 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Mark Thompson Papers</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Thompson, Mark</persname>
+    </origination>
+    <unitid>/3048</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1957/1966" type="inclusive">1957-1966</unitdate>
+    <physdesc id="aspace_39efa03e69c75101ce6807da21e6ff2f" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_de1f8b9c902a1cbe8904218a79862529" label="Forms of Material:">Papers (documents) .</physdesc>
+    <abstract id="aspace_9778952403a24383be4a924b1652a83a">Collection consists mostly of Mexican labor publications.</abstract>
+    <langmaterial id="aspace_bf9775a10112256fa4cf9b1b2e084ec7">Collection material in Spanish</langmaterial>
+    <unitid type="bibid">8436110</unitid>
+  </did>
+  <odd id="aspace_7fb82bd97c585e7f8ece29722750fcf9">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, November 19, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, February 21, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_1208f9a95d9ff8d235d89ee288b37e97">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_196cd1551512669f6733950b9cb1d10d">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_2566072a1ef6f848db2495facec8252b">
+    <head>Preferred Citation</head>
+<p>Mark Thompson Papers #/3048. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_4103648bfa930cb08ac368e78a27ae66">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04073.html"> /4073: James O. Morris Office Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06007.html"> 6007: U.S. Department of Labor Office of American Workplace Labor Management Cooperation Collected Publications</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06205.html"> 6205: NAA Committee Files</extref> 6206: Clyde Summers Office Files</p>  </relatedmaterial>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Thompson, Mark</persname>
+  </controlaccess>
+  <unitid type="bibid">8436110</unitid>
+  <dsc><c01 id="aspace_fbed39bb999a05a729d793c8901089be" level="file"><did><unittitle>"Lux" Magazine (1 of 2)</unittitle><container id="aspace_2f0b8d4116c6e5688b0b9a49954d2c5d" label="unspecified" type="box">1</container><container id="aspace_00beb625386cd5a106f277a83287e0c9" parent="aspace_2f0b8d4116c6e5688b0b9a49954d2c5d" type="folder">1</container></did></c01><c01 id="aspace_4b9ba64df9c71055128982f3714809a1" level="file"><did><unittitle>"Lux" Magazine (2 of 2)</unittitle><container id="aspace_ca1818de41e3f258f631ba0acc6146f1" label="unspecified" type="box">1</container><container id="aspace_7fc5f0b6a9938b5fdc96b7beccf80ba9" parent="aspace_ca1818de41e3f258f631ba0acc6146f1" type="folder">2</container></did></c01><c01 id="aspace_090cf674914fa240a64f85f173b536f1" level="file"><did><unittitle>Sindicato Mexicano de Electronica (1 of 2)</unittitle><container id="aspace_2f047731adeb204abd7258e3c0536e7e" label="unspecified" type="box">1</container><container id="aspace_add425cb968594db1c5e3bc5a9a65cbf" parent="aspace_2f047731adeb204abd7258e3c0536e7e" type="folder">3</container></did></c01><c01 id="aspace_4906ae0c3497f9150567d47213f6d0f0" level="file"><did><unittitle>Sindicato Mexicano de Electronica</unittitle><container id="aspace_330e171921fe3f12b48c0a9c6daa8e01" label="unspecified" type="box">1</container><container id="aspace_3b8c92284807db6712ad1578f2bba41b" parent="aspace_330e171921fe3f12b48c0a9c6daa8e01" type="folder">4</container></did></c01><c01 id="aspace_3a32b5cd6a2c8bba0f46063c1431e4cb" level="file"><did><unittitle>Companeros Electricistas</unittitle><container id="aspace_cdc496c67b2b0f2045d4fda9c91e11c5" label="unspecified" type="box">1</container><container id="aspace_72a5177fe772d11fb8cd116b2ed5bb78" parent="aspace_cdc496c67b2b0f2045d4fda9c91e11c5" type="folder">5</container></did></c01><c01 id="aspace_49d5009a0e905ccdc3366b69a93e175d" level="file"><did><unittitle>Miscellaneous Electronica</unittitle><container id="aspace_a3d4a8d04930e2b8c6f7898bda128efe" label="unspecified" type="box">1</container><container id="aspace_6c79955902561c819d24b7fb0eddcfd1" parent="aspace_a3d4a8d04930e2b8c6f7898bda128efe" type="folder">6</container></did></c01><c01 id="aspace_d3d66ca14d2dcded686f603ef82ae14e" level="file"><did><unittitle>Miscellaneous Newspapers</unittitle><container id="aspace_ae4433e276aff6313e1aadcda24ad32c" label="unspecified" type="box">1</container><container id="aspace_64f21eeaf30ad5400fea2b374b9cc70d" parent="aspace_ae4433e276aff6313e1aadcda24ad32c" type="folder">7</container></did></c01><c01 id="aspace_9af1bc949b3f6b45b7c181e5d4aac144" level="file"><did><unittitle>"Solidaridad" (1957)</unittitle><container id="aspace_a02ed6f95d6c2e559fb3bc19471c0301" label="unspecified" type="box">1</container><container id="aspace_18991379435e00dd485f363df6eb633e" parent="aspace_a02ed6f95d6c2e559fb3bc19471c0301" type="folder">8</container></did></c01><c01 id="aspace_bc9a9b29b680a571c458364198008c01" level="file"><did><unittitle>"Solidaridad" (1958)</unittitle><container id="aspace_6773b81612cfdf5c9de057ab2cf3da19" label="unspecified" type="box">1</container><container id="aspace_b77513737285d9cfaa28af5bf1afb51a" parent="aspace_6773b81612cfdf5c9de057ab2cf3da19" type="folder">9</container></did></c01><c01 id="aspace_3c7ba49e44723e63fbe577606c644dd9" level="file"><did><unittitle>"Solidaridad" (1959)</unittitle><container id="aspace_25d72e4e83b3a0edb4bde028469fa83b" label="unspecified" type="box">1</container><container id="aspace_c18765c80f45130d2c550f50f2d3081a" parent="aspace_25d72e4e83b3a0edb4bde028469fa83b" type="folder">10</container></did></c01><c01 id="aspace_c93ab87422f22c1ebc5c27ad21254f69" level="file"><did><unittitle>"Solidaridad" (1960)</unittitle><container id="aspace_e2539105352731610b4a4ac783c7ff8e" label="unspecified" type="box">1</container><container id="aspace_8efb2f0b7a983caad9712694ad06c190" parent="aspace_e2539105352731610b4a4ac783c7ff8e" type="folder">11</container></did></c01><c01 id="aspace_b9a2c12d7097ea32d0811ea296163e1d" level="file"><did><unittitle>"Solidaridad" (1961)</unittitle><container id="aspace_74ef00b798a4cef646659f9d63d2a2ad" label="unspecified" type="box">1</container><container id="aspace_1841120dc57f36ebb91bb2950dd6221e" parent="aspace_74ef00b798a4cef646659f9d63d2a2ad" type="folder">12</container></did></c01><c01 id="aspace_0768d65baedff5b14fea0434309f5708" level="file"><did><unittitle>"Solidaridad" (1962)</unittitle><container id="aspace_83faf28886e386b9a930a93483b127bd" label="unspecified" type="box">1</container><container id="aspace_a89583d2b414cb3cd2130aef887bbeb7" parent="aspace_83faf28886e386b9a930a93483b127bd" type="folder">13</container></did></c01><c01 id="aspace_6aafa7f8a6e76a08ec910a4043290c71" level="file"><did><unittitle>"Solidaridad" (1963)</unittitle><container id="aspace_fbc5c76c6eebb162180dbf4359b3a737" label="unspecified" type="box">1</container><container id="aspace_2aaa33d0c28c70150a339a5a960f0c28" parent="aspace_fbc5c76c6eebb162180dbf4359b3a737" type="folder">14</container></did></c01><c01 id="aspace_363977aa669ef320acdb059307cdd00e" level="file"><did><unittitle>"Solidaridad" (1964)</unittitle><container id="aspace_5d84206ea00380d6dd09cef5ab5a7273" label="unspecified" type="box">1</container><container id="aspace_10e9fe95bcd57317a95e627eab015715" parent="aspace_5d84206ea00380d6dd09cef5ab5a7273" type="folder">15</container></did></c01><c01 id="aspace_15b03f742cc0ad45b65c429e542f46f3" level="file"><did><unittitle>"Solidaridad" (1965)</unittitle><container id="aspace_104d4fd764413caa10d4e3903fc3ee97" label="unspecified" type="box">1</container><container id="aspace_6018595489f6b1172ec3b7137ea292a2" parent="aspace_104d4fd764413caa10d4e3903fc3ee97" type="folder">16</container></did></c01><c01 id="aspace_76169685ca04ff04e836f12e46a7cfeb" level="file"><did><unittitle>"Solidaridad" (1966)</unittitle><container id="aspace_089cb686fa9c6c041c7ed639ba7ef451" label="unspecified" type="box">1</container><container id="aspace_e40fc9e4fc6e95d8867727c3d3672a73" parent="aspace_089cb686fa9c6c041c7ed639ba7ef451" type="folder">17</container></did></c01></dsc>
+</archdesc>
+</ead>

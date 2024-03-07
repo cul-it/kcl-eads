@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL03075pubs</eadid><filedesc><titlestmt><titleproper>ILR School Miscellaneous Student Publications <num>/3075 PUBS</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 11, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:15:32 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILR School Miscellaneous Student Publications</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">New York State School of Industrial and Labor Relations (NYSSILR)</corpname>
+    </origination>
+    <unitid>/3075 PUBS</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1948/2018" type="inclusive">1948-2018</unitdate>
+    <physdesc id="aspace_44888ebc4e7020b859f234e5cd0fc6f0" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_a137136df30dbb2dd83e2f6352939bf8" label="Forms of Material:">Publications (documents).</physdesc>
+    <abstract id="aspace_5b5fb19ca4f77f65b6a7288a3c6a64cf">Publications from the student organizations at the ILR School and the Empire State Labor College.</abstract>
+    <langmaterial id="aspace_4907c2446ae0e2669e025707f24b54fd">Collection material in English</langmaterial>
+    <unitid type="bibid">8436908</unitid>
+  </did>
+  <odd id="aspace_13bf0f64d85e52a13496b9a90b6e7390">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 07, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 11, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <scopecontent id="aspace_d7be329d79a166adaf4c4288ac977548">
+    <head>Scope and Contents</head>
+<p>This collection consists of four publications from student organizations at the ILR School and Empire State Labor College.</p>  </scopecontent>
+  <accessrestrict id="aspace_3ae1bc9782cce5ee851f8148526a48c8">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_5539bf2eb9c2a06678c205be39091755">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_c949688da6e74ad7ab71cf171349466a">
+    <head>Preferred Citation</head>
+<p>ILR School Miscellaneous Student Publications #/3075 PUBS. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_5cab54f94c17959fd4a588f0e15b9906">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL03074pubs.html"> /3074 PUBS: ILR School "ILR Newsletter" and Other Student Publications</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04014.html"> /4014: ILR School Dean's Office Additional Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04188.html"> /4188: Al Nash Additional Files</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <corpname source="ingest">New York State School of Industrial and Labor Relations</corpname>
+  </controlaccess>
+  <unitid type="bibid">8436908</unitid>
+  <dsc><c01 id="aspace_99adcc17bc7899f99a83ce79e2c857a4" level="file"><did><unittitle>Statement of the Student Association of the Labor College</unittitle><unitdate datechar="creation" normal="1977/1977">1977</unitdate><container id="aspace_15b289e9c64f8e6499be76281f776a72" label="unspecified" type="box">1</container><container id="aspace_ea493d742f4b36525987daade69f622e" parent="aspace_15b289e9c64f8e6499be76281f776a72" type="folder">1</container></did><scopecontent id="aspace_fbe179935cfe9c2fc998b628d27b7cde"><head>Scope and Contents</head><p>"Our Objective Has Not Changed: We Still Want a Labor College," October 1977; 13 pages.</p></scopecontent></c01><c01 id="aspace_20ca95220251c335cb55bd31c60edea8" level="file"><did><unittitle>Labor College Newsletter</unittitle><container id="aspace_44badc7a6b4d82249fa7f94ccc22afd4" label="unspecified" type="box">1</container><container id="aspace_e9461f04523d776f9ea7049aaa0de52b" parent="aspace_44badc7a6b4d82249fa7f94ccc22afd4" type="folder">2</container></did><scopecontent id="aspace_0070eff27613ba78473442849bb13755"><head>Scope and Contents</head><p>no date</p></scopecontent></c01><c01 id="aspace_3728833b9868a50a05a28cdc56445037" level="file"><did><unittitle>Radical Labor Action</unittitle><unitdate datechar="creation" normal="1972/1972">1972</unitdate><container id="aspace_7e0521989a9899c5e1c95b23a30a27fc" label="unspecified" type="box">1</container><container id="aspace_ff3a73cd69a0485016703fe41ad4c8c6" parent="aspace_7e0521989a9899c5e1c95b23a30a27fc" type="folder">3</container></did><scopecontent id="aspace_089e855f0afb4a04be11e35f47679aa2"><head>Scope and Contents</head><p>Published by Radical Labor Action, Cornell University; September 4, 1972; 2 copies</p></scopecontent></c01><c01 id="aspace_a430915ac0ff282232d39087c0b922ba" level="file"><did><unittitle>Sports, Inc. by the ILR Sports Management Club</unittitle><container id="aspace_f4031ccd2aa2d33e772058c5bfa9b002" label="unspecified" type="box">1</container><container id="aspace_7542166a0261b9c834bbf5cb3c139d93" parent="aspace_f4031ccd2aa2d33e772058c5bfa9b002" type="folder">4</container></did><scopecontent id="aspace_bbd5fed2868abca2bb6be62f61a04d08"><head>Scope and Contents</head><p>ca. 2008 (2 copies)</p></scopecontent></c01><c01 id="aspace_b87784066ff4ea222d13980c29c81235" level="file"><did><unittitle>I&amp;LR Commentator: vol. 6, nos. 1 - 2, 5 - 7</unittitle><unitdate datechar="creation" normal="1948/1949" type="inclusive">1948-1949</unitdate><container id="aspace_de70afcf5032fd374672200c4f3af0f5" label="unspecified" type="box">1</container><container id="aspace_2b55f284f2cb71fece667ce4a0bc025b" parent="aspace_de70afcf5032fd374672200c4f3af0f5" type="folder">5</container></did><scopecontent id="aspace_bfc33c5468233caf88172e361095ae11"><head>Scope and Contents</head><p>October 1948 - June 1949</p></scopecontent></c01><c01 id="aspace_6bd030a8e319e3468b21c485de5f84b7" level="file"><did><unittitle>Perspectives: the Cornell Undergraduate Disability Studies Journal, vol. 1, nos. 1 - 4</unittitle><unitdate datechar="creation" normal="2016/2018" type="inclusive">2016-2018</unitdate><container id="aspace_5a56cbd1f44780ce4575063e85d85c05" label="unspecified" type="box">1</container><container id="aspace_8144b834401968fc1383a8e7b1bb0175" parent="aspace_5a56cbd1f44780ce4575063e85d85c05" type="folder">6</container></did><scopecontent id="aspace_6edb5c4c354108462df0395ef2f60a8d"><head>Scope and Contents</head><p>Fall 2016, vol.1 no.1.; Spring 2017, vol. 1 no. 2; Spring 2018, vol. 1 no. 3; Spring 2018, vol. 1 no. 4.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

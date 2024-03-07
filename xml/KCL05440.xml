@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05440</eadid><filedesc><titlestmt><titleproper>Brissenden, Paul "The First Decade of the I.W.W." Notes. <num>5440</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 12, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:46:54 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Paul Brissenden, "The First Decade of the I.W.W." Notes.</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Brissenden, Paul</persname>
+    </origination>
+    <unitid>5440</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1913/1960" type="inclusive">1913-1960</unitdate>
+    <physdesc id="aspace_459422f898ba781dfa6615ee313f277f" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_260106d455232baffef1b5742241bd18" label="Forms of Material:">Bibliographies, clippings (information artifacts) .</physdesc>
+    <abstract id="aspace_dc35a852e6ed76a025e099efdd5e05a1">Notes and raw data for "The First Decade of the I.W.W." by Paul F. Brissenden.</abstract>
+    <langmaterial id="aspace_8f977c78e1e5f434054383ee673f13ff">Collection material in English</langmaterial>
+    <unitid type="bibid">2297085</unitid>
+  </did>
+  <odd id="aspace_620f2943623628b708495716cf4e2935">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, December 03, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 12, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_a424a84ad1f3c5a35825a37b9bb37a1d">
+    <head>Biographical / Historical</head>
+<p>Labor historian and professor of labor economics, whose research included the history of the Industrial Workers of the World, the first major American industrial and syndicalist union. </p><p> Brissenden (Ph.D. Columbia University) served as a special investigator for the US Bureau of Labor Statistics (1915-1920), taught labor economics and history at New York University (1920-1921) and at Columbia University, where he remained until his retirement. In addition to a number of publications in labor economics, Professor Brissenden wrote two major histories of the Industrial Workers of the World.</p>  </bioghist>
+  <bioghist id="aspace_24d16866fbda00f3dc6420688cd5a100">
+    <head>Biographical / Historical</head>
+<p>Established in Chicago, 1905, by sponsors of socialism and the remnants of radical labor unions, including the Knights of Labor, Western Federation of Miners and the American Labor Union, the Industrial Workers of the World (IWW) or "Wobblies", evolved into a radical industrial union which waged campaigns for improved working conditions, wages and hours of work, as well as workers' control in mines, mills, lumber camps and factories.</p>  </bioghist>
+  <scopecontent id="aspace_7e266074c778327026abe12aefd74d35">
+    <head>Scope and Contents</head>
+<p>Consists chiefly of incoming letters, newspaper and journal articles and clippings, documents, and notes of the Industrial Workers of the World (IWW) from its founding in 1905 to 1928. The bulk of the information derived from these sources was used by Brissenden in researching a book he was at the time engaged in writing (eventually published as THE IWW; A STUDY OF AMERICAN SYNDICALISM). General topics covered by the collection include the membership of the IWW; the structure of the union, particularly with reference to locals; theories of syndicalism and "direct action"; free speech fights in varoius cities; and the criminal syndicalism and sabotage acts passed by various states in tye years 1917-1919. Also included are numerous drafts of portions of the book. </p><p> Specifically, the collection includes letters to Brissenden from Archie Robertson, IWW organizer, criticizing the title of Brissenden's book and taking exception to Brissenden's description of the IWW as syndicalist (1922); E. Pfister (Socialist Labor Party) requesting copies of Brissenden's book to be used in an unnamed trial (1922); Vincent St. John giving estimates, by year, of IWW membership, number of local charters granted, number of locals disbanding, and distribution of membership by industry (1915); Sidney Osborne (Arizona secretary of state) informing Brissenden that a state sabotage law had been vetoed by Governer Lister (1918); and William D. Haywood from Moscow, Russia, answering in detail Brissenden's queries about the history of the Western Federation of Miners and giving locations of documents relating to that organization (1923). Also, letter of William D. Haywood to C. McCarty (US Commission on Industrial Relations) regarding free speech fights in Kansas City, Kans., Los Angeles, Calif., Aberdeen, S.D., Denver, Colo., and Minot, N.D. </p><p> Also included in the collection are numerous copies of anti-syndicalist and anti-sabotage legislation from various states. Included, as well, are numerous newspaper and article clippings on anti-syndicalist legislation. </p><p> In addition, collection includes copies of IWW convention proceedings and constitutions; essays by Brissenden on a variety of topics, including amnesty for IWW members convicted under anti-syndicalism laws, the IWW attitude toward the state, and the development of syndicalism in the IWW after 1909; and notes on many aspects of the development of the IWW and American radicalism, including comments on the formation of the United Harbor and Marine Workers of America, on the splits and differences among the left-wing parties in America, on Elizabeth Gurley Flynn's attitude toward William Haywood's leaving for Russia (1921), on the attitude of the IWW toward Soviet Russia (specifically the Red Traade Union International, 1921), on strikes conducted by the IWW, and syndicalism in Germany, France, and Italy. </p><p> Finally, copies of a notice served on behalf of the Durst Brothers to the County Boards of Directors of Yuma, Sutter, and Placer counties, declaring an imminent threat to property in those counties as a result of a proposed strike by IWW agricultural workers (1914); a copy of demands made by strikers at the Stone and Webster Construction Company in Big Creek (1913); and a questionnaire on conditions in logging camps (n.d.), among other documents. </p><p> Portions of collection in French and German.</p>  </scopecontent>
+  <accessrestrict id="aspace_e9d1d8957e965e672ed98c3e66ffbdab">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_8873de52fb7bbceda458a17d4331115b">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_bb728e1a80ba6388dbfd53771ac4a1d8">
+    <head>Preferred Citation</head>
+<p>Paul Brissenden, "The First Decade of the I.W.W." Notes. #5440. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_6a8aac04dcdc9f89f4df918f41d2c9f6">
+    <head>Related Materials</head>
+<p>Related Collections: IWW Collection</p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Criminal syndicalism -- United States</subject>
+    <subject source="ingest">Freedom of speech -- United States</subject>
+    <subject source="ingest">Radicalism -- United States</subject>
+    <subject source="ingest">Sabotage -- United States</subject>
+    <subject source="ingest">Sedition -- United States</subject>
+    <subject source="ingest">Syndicalism -- United States</subject>
+    <subject source="ingest">Strikes and lockouts. Agricultural workers. California.</subject>
+    <subject source="ingest">Working conditions. Lumber industry. United States.</subject>
+    <persname audience="internal" source="ingest">Brissenden, Paul F.(Paul Frederick), 1885-1974</persname>
+    <persname audience="internal" source="ingest">Flynn, Elizabeth Gurley, 1890-1964</persname>
+    <persname audience="internal" source="ingest">McCarty, C.</persname>
+    <persname audience="internal" source="ingest">Robertson, Archie</persname>
+    <persname audience="internal" source="ingest">St. John, Vincent, 1876-1929.</persname>
+    <corpname source="ingest">Industrial Workers of the World</corpname>
+    <corpname audience="internal" source="ingest">United Harbor and Marine Workers of America</corpname>
+  </controlaccess>
+  <unitid type="bibid">2297085</unitid>
+  <dsc><c01 id="aspace_4cfc01330f504c3c75750842602e2249" level="file"><did><unittitle>National Association of Manufacturers: The Businessman's Employee Relations Bookshelf</unittitle><unitdate datechar="creation" normal="1960/1960">1960</unitdate><container id="aspace_3aba72e4f93b1c7c89f1eec74176b10b" label="unspecified" type="box">1</container><container id="aspace_1bc5e5ce5ffb5448238388983bdf3e31" parent="aspace_3aba72e4f93b1c7c89f1eec74176b10b" type="folder">1</container></did><scopecontent id="aspace_19d7741e836fa586ca26c5cb2b2116e9"><head>Scope and Contents</head><p>Includes: "Human Relations and Efficient Production," "Satisfying the Salaried Employee," "Employee Communications for Better Understanding," "Improving Human Relations," "Dealing with Employees as Individuals," "Checkpoints for Sound Collective Bargainin</p></scopecontent></c01><c01 id="aspace_5c9b5d1f0ab8f3c52275303f7dfd45c2" level="file"><did><unittitle>Notes and miscellaneous</unittitle><unitdate datechar="creation" normal="1922/1922">1922</unitdate><container id="aspace_1d7129a00f8734113559aa0fd3bb24fa" label="unspecified" type="box">1</container><container id="aspace_f800cb683385dc37e07e65bbe344237f" parent="aspace_1d7129a00f8734113559aa0fd3bb24fa" type="folder">2</container></did></c01><c01 id="aspace_c3fc7bce45a22a19bb3ca978c19892ab" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1913/1928" type="inclusive">1913-1928</unitdate><container id="aspace_65d1fc04bdc07085fa4990d935a318de" label="unspecified" type="box">1</container><container id="aspace_63147a220d7938683d81c706d1452d42" parent="aspace_65d1fc04bdc07085fa4990d935a318de" type="folder">3</container></did></c01><c01 id="aspace_301a8dc20497be0afb481cf25f4f4ae4" level="file"><did><unittitle>Legislation and articles</unittitle><unitdate datechar="creation" normal="1917/1918" type="inclusive">1917-1918</unitdate><container id="aspace_a8d19a3ab8c72fcdc2fff5d0f57e5152" label="unspecified" type="box">1</container><container id="aspace_138be3d4f7f544f84253537ebf0e762c" parent="aspace_a8d19a3ab8c72fcdc2fff5d0f57e5152" type="folder">4</container></did></c01><c01 id="aspace_ada1411ea69e1b22c33968628f2dd4ae" level="file"><did><unittitle>Raw data</unittitle><container id="aspace_2f09afdac0ed691c4454026b18e69950" label="unspecified" type="box">1</container><container id="aspace_7aaea0643d8586474b5bdf115143fddc" parent="aspace_2f09afdac0ed691c4454026b18e69950" type="folder">5</container></did></c01><c01 id="aspace_dfe2494e8981c338cc38017bd7eb87de" level="file"><did><unittitle>Raw data</unittitle><container id="aspace_95630086557d7c04d0ac63476de9ebab" label="unspecified" type="box">1</container><container id="aspace_69de085d2277684ed19e99a6bd71e2f8" parent="aspace_95630086557d7c04d0ac63476de9ebab" type="folder">6</container></did></c01><c01 id="aspace_702c9fa21593341c12c09af85a1e383a" level="file"><did><unittitle>Raw data</unittitle><container id="aspace_f3c747fa6eccd0213bb094842d518f60" label="unspecified" type="box">1</container><container id="aspace_0a46b13d1988aa841c20b51c2a6fc66f" parent="aspace_f3c747fa6eccd0213bb094842d518f60" type="folder">7</container></did></c01><c01 id="aspace_6ee0d9a20d1c703758540867aa800d5b" level="file"><did><unittitle>Raw data</unittitle><container id="aspace_41131a632d6f319a354f15d4033b4ad8" label="unspecified" type="box">1</container><container id="aspace_8cbf22f91376fd37a01eb9cd52e5458e" parent="aspace_41131a632d6f319a354f15d4033b4ad8" type="folder">8</container></did></c01><c01 id="aspace_b1d1c6d2da983375d99ad550b0a2227a" level="file"><did><unittitle>Wright, Chester</unittitle><container id="aspace_2b10c5393fcfab0cce069e65395a8511" label="unspecified" type="box">1</container><container id="aspace_b18bdcc617128dd9079e1315fb4cf41d" parent="aspace_2b10c5393fcfab0cce069e65395a8511" type="folder">9</container></did></c01></dsc>
+</archdesc>
+</ead>

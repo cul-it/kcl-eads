@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04299</eadid><filedesc><titlestmt><titleproper>ILR School Groat and Alpern Awards Programs <num>/4299</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 04, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:27:17 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILR School Groat and Alpern Awards Programs</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">New York State School of Industrial and Labor Relations (NYSSILR)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Kheel Center for Labor-Management Documentation and Archives</corpname>
+    </origination>
+    <unitid>/4299</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="2012/2015" type="inclusive">2012-2015</unitdate>
+    <physdesc id="aspace_d63a717e717815076163254bd77d22a3" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_482a48cdc24b285b006fdd37ce6df869" label="Forms of Material:">Awards.</physdesc>
+    <abstract id="aspace_93abd83e54dd3e62e12a64eefe62a95f">Program from the ILR School's Groat and Alpern Celebration at the Pierre Hotel in New York City, 2012.</abstract>
+    <langmaterial id="aspace_e3a9fe6c37e837ce368024ff683a8ded">Collection material in English</langmaterial>
+    <unitid type="bibid">7654329</unitid>
+  </did>
+  <odd id="aspace_495b166ca8b3249fe7fd4446310c0493">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, April 16, 2012</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 04, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_eb456ffccaadc4c0ae76769b3e1ae931">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_5d75ca53c82ed5a693bc0624470e90f0">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_8736152d36aad569985ea399ed68b6f9">
+    <head>Preferred Citation</head>
+<p>ILR School Groat and Alpern Awards Programs #/4299. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_545cd48ad930eeb870cf08e0fb87f77a">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04299mb.html"> /4299 MB: ILR School. Daniel Alpern Memorial Award, presented to William Judson DeWitt, Jr.</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <corpname audience="internal" source="ingest">Kheel Center for Labor-Management Documentation and Archives</corpname>
+    <corpname source="ingest">New York State School of Industrial and Labor Relations</corpname>
+  </controlaccess>
+  <unitid type="bibid">7654329</unitid>
+  <dsc><c01 id="aspace_d89aaa9ad70f5adcb276c1d8c4f1d78a" level="file"><did><unittitle>2015 Awards Program</unittitle><unitdate datechar="creation" normal="2015/2015">2015</unitdate><container id="aspace_33c3b458b4d5177dd7201bbc2c8f4c91" label="unspecified" type="box">1</container><container id="aspace_b9e060d66c364bd07f23390ef004cc5a" parent="aspace_33c3b458b4d5177dd7201bbc2c8f4c91" type="folder">2</container></did><scopecontent id="aspace_714b3b35f39d80f19772f8b26dd92309"><head>Scope and Contents</head><p>The Judge William B. Groat Alumni Award: Sarah Horowitz; The Jerome Alpern Award: Beth C. Florin. 3 copies.</p></scopecontent></c01><c01 id="aspace_c18cbd6802e71297913181d7c191b724" level="file"><did><unittitle>2012 Awards Program</unittitle><unitdate datechar="creation" normal="2012/2012">2012</unitdate><container id="aspace_9345d8fc43358f0149c2cf6745eb93d5" label="unspecified" type="box">1</container><container id="aspace_1ff3a9ab37ebe1a4b50fbcbf291f5a1d" parent="aspace_9345d8fc43358f0149c2cf6745eb93d5" type="folder">1</container></did><scopecontent id="aspace_f3b98c3ed743149901c9276eea76ed99"><head>Scope and Contents</head><p>The Judge William B. Groat Alumni Award: Eva Sage-Gavin; The Jerome Alpern Award: Tracy Dolgin. 3 copies.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

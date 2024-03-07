@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05134av</eadid><filedesc><titlestmt><titleproper>Roberts, Lillian Interview <num>5134 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 21, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:33:58 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Lillian Roberts Interview</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Roberts, Lillian</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Cavett, Dick</persname>
+    </origination>
+    <unitid>5134 AV</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.11 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1981/1981">1981</unitdate>
+    <physdesc id="aspace_1be45ef10ea54c28b469aec680ede69c" label="Quantity:">0.1 linear ft.</physdesc>
+    <physdesc id="aspace_bdf9edd805e04f21768127342089311b" label="Forms of Material:">Audiovisual material.</physdesc>
+    <abstract id="aspace_42350013861684c4779b33df87795cd4">Interview with Lillian Roberts on her childhood, move to New York City, and work in the labor movement.</abstract>
+    <langmaterial id="aspace_5948d6816e34915ff4be62e162da3344">Collection material in English</langmaterial>
+    <unitid type="bibid">7747610</unitid>
+  </did>
+  <odd id="aspace_f5ca0ca4beccb36375f2fb4b3e36b94f">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 09, 2012</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Elizabeth Parker, March 21, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_c409aaa16a445b23a9ef56b4827a5b44">
+    <head>Biographical / Historical</head>
+<p>Lillian Davis Roberts, born January 2, 1928, served from 2002 through 2014 as the Executive Director of District Council 37 (DC37), the largest municipal union in New York City. </p><p> Roberts was a nurse's aide, and was secretary of the University of Chicago Hospital local when she was invited by Victor Gotbaum to join his AFSCME union staff in Chicago in 1959. When Gotbaum became head of DC37, Roberts joined him in New York as a director of hospital field operations, and eventually became Associate Director in charge of organization. In 1969, she was jailed for two weeks for defying New York Governor Nelson Rockefeller and leading a strike against three mental hospitals. </p><p> In 1981, she left the union and was appointed as New York State industrial commissioner. She was the first African-American woman to hold this post in New York. From 1987 to 1992, she was senior vice president of Total Health Systems, an HMO. Roberts returned to DC37 as Executive Director in 2002. She retired at the end of 2014 and was succeeded by her associate Henry Garrido.</p>  </bioghist>
+  <scopecontent id="aspace_bfabb83dda96a6785e6e45546450f520">
+    <head>Scope and Contents</head>
+<p>This oral history with Lillian Davis Roberts was conducted by Dick Cavett in February 1981. In it she describes her childhood in Chicago, how she moved to New York City to organize hospital workers, and became Associate Director of District Council 37. </p><p> Roberts discusses communist infiltration of unions, women's liberation, being jailed for striking, negotiations, and her organizing efforts.</p>  </scopecontent>
+  <accessrestrict id="aspace_4cf01a563ea02be0d56504d1344a5e2f">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_dfb70b014c5e9971efc9d3be49c385b1">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_8c12760d31ce2e07d60186a9ac7d470f">
+    <head>Preferred Citation</head>
+<p>Lillian Roberts Interview #5134 AV. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_4dddc45cb62ecd1a9050def4f039a03c">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04032av.html"> /4032 AV: ILR School 20th Annual Wilhelm Weinberg Labor-Management Public Interest Seminar Audio-Visual Materials</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619-006.html"> 5619/006: ACTWU Executive Vice-President's Office Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-083.html"> 5780/083: ILGWU Sol Chaikin Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05933p.html"> 5933 P: Local 1199 Photograph Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06152.html"> 6152: New York State Department of Labor Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06174-001.html"> 6174/001: NYSUT President's Office Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06174-004.html"> 6174/004: NYSUT Field Services Department Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06342oht.html"> 6342 OHT: "Twentieth Century Trade Union Women: Vehicle for Social Change" Oral History Transcripts</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Women labor union members &gt; United States</subject>
+    <persname audience="internal" source="ingest">Cavett, Dick</persname>
+    <persname audience="internal" source="ingest">Roberts, Lillian</persname>
+    <corpname audience="internal" source="ingest">AFSCME. District Council 37 (New York, N.Y.)</corpname>
+  </controlaccess>
+  <unitid type="bibid">7747610</unitid>
+  <dsc><c01 id="aspace_5fd91fc04139541d9b2a2c14d0f9c0da" level="file"><did><unittitle>Lillian Roberts interviewed by Dick Cavett on 13 Feb. 1981</unittitle><unitid>1</unitid><unitdate datechar="creation" normal="1981/1981">1981</unitdate><container id="aspace_407405c39242de44c50e8f3f37983a61" label="unspecified" type="box">1</container></did></c01></dsc>
+</archdesc>
+</ead>

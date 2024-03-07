@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05507</eadid><filedesc><titlestmt><titleproper>Opie, Ellsworth D. "Transition: An Autobiography" <num>5507</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 14, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:49:30 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Ellsworth D. Opie "Transition: An Autobiography"</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Opie, Ellsworth D.</persname>
+    </origination>
+    <unitid>5507</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1976/1976">1976</unitdate>
+    <physdesc id="aspace_1c9d01923bb04fafcd7ea67dce8bdd7d" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_9e3e099faa9d3acc093dac88207f8003" label="Forms of Material:">Papers (documents), autobiographies, photographs, memorabilia, clippings (information artifacts).</physdesc>
+    <abstract id="aspace_4e3738b0f47cd32be0c67e4241d31a1c">Unpublished autobiography of Ellsworth D. Opie, a Pullman Conductor on primarily Northeastern lines (1914-1955) and officer of Order of Sleeping Car Conductors (1923-1943).</abstract>
+    <langmaterial id="aspace_e8a1b7024003e340946c259379f8d5b4">Collection material in English</langmaterial>
+    <unitid type="bibid">5658196</unitid>
+  </did>
+  <odd id="aspace_a69471ee70b18c465c2c709519b165c8">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, November 19, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 14, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_03fa7ac97199b409b826776725051b81">
+    <head>Biographical / Historical</head>
+<p>Ellsworth D. Opie was a Pullman Conductor on primarily Northeastern lines (1914-1955) and officer of Order of Sleeping Car Conductors (1923-1943).</p>  </bioghist>
+  <scopecontent id="aspace_8794d07ae70367ce2d706f057b96f739">
+    <head>Scope and Contents</head>
+<p>This collection consists of the unpublished autobiography of Ellsworth D. Opie, a Pullman Conductor on primarily Northeastern lines (1914-1955) and officer of Order of Sleeping Car Conductors (1923-1943). Also included are a few newspaper clippings, photographs, and memorabilia.</p>  </scopecontent>
+  <accessrestrict id="aspace_4bed796368b1af207b0cc7bab6e5ffe7">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_1f41c91c02e71b497b28d49f79130f9b">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_86743903714dfb0c34c4c92150080aab">
+    <head>Preferred Citation</head>
+<p>Ellsworth D. Opie "Transition: An Autobiography" #5507. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Opie, Ellsworth D.</persname>
+    <corpname audience="internal" source="ingest">Order of Sleeping Car Conductors</corpname>
+  </controlaccess>
+  <unitid type="bibid">5658196</unitid>
+  <dsc><c01 id="aspace_946dceaca92e91989d7080ae217ab875" level="file"><did><unittitle>Memorabilia</unittitle><container id="aspace_f9ae4ea4e884cd42937fd3cc5f546bfa" label="unspecified" type="box">1</container><container id="aspace_cbe2f0739b210e74e307c11b7634ac00" parent="aspace_f9ae4ea4e884cd42937fd3cc5f546bfa" type="folder">1</container></did></c01><c01 id="aspace_d6c4781bb8cb97880f4b90b4f3ed3c93" level="file"><did><unittitle>Transition: An Autobiography [folder 1 of 2]</unittitle><unitdate datechar="creation" normal="1976/1976">1976</unitdate><container id="aspace_f0094ecd515e82f2bbd2fbdacc93b594" label="unspecified" type="box">1</container><container id="aspace_bdbca1aef18203419a3092035f75d7fb" parent="aspace_f0094ecd515e82f2bbd2fbdacc93b594" type="folder">2</container></did></c01><c01 id="aspace_e2f7791fce743f8fa44c848089a0e475" level="file"><did><unittitle>Transition: An Autobiography [folder 2 of 2]</unittitle><unitdate datechar="creation" normal="1976/1976">1976</unitdate><container id="aspace_febab64bcd824f8eb9eb103af9363abd" label="unspecified" type="box">1</container><container id="aspace_cbdfa41f7e5747b9dd9922634bf53de7" parent="aspace_febab64bcd824f8eb9eb103af9363abd" type="folder">3</container></did></c01></dsc>
+</archdesc>
+</ead>

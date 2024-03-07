@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05068</eadid><filedesc><titlestmt><titleproper>U.S. Steel Industry Board Transcripts and Exhibits <num>5068</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 28, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:31:35 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>U.S. Steel Industry Board Transcripts and Exhibits</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">U.S. Steel Industry Board</corpname>
+    </origination>
+    <unitid>5068</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1949/1949">1949</unitdate>
+    <physdesc id="aspace_4356f258049b3a923be513666c6eee60" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_3708b4bc492241766c61d7044e38c819" label="Forms of Material:">Transcripts.</physdesc>
+    <abstract id="aspace_5557cbfdf447e3c311b3c16fce04688c">United Steelworkers of America and 37 companies in the basic steel industry, transcripts and exhibits, 1949.</abstract>
+    <langmaterial id="aspace_e85811f5824d28c6e849b246f72284b1">Collection material in English</langmaterial>
+    <unitid type="bibid">3116121</unitid>
+  </did>
+  <odd id="aspace_f32529832ad86aaeeb5cc9c863e3f00c">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, February 05, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 28, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_0adb43ace5c5013c5f9d7cda4c1f54b3">
+    <head>Biographical / Historical</head>
+<p>The history of labor relations in the steel Industry reveals periodic crises. It was not until the late thirties and early forties that the United Steelworkers came to be recognised as the official bargaining agent for steelworkers after considerable opposition from most companies. On March 2, 1937, the United States Steel Company entered into the first collective bargaining agreement with a non-company union by a major steel producer and the last of the major steel producers accepted industrial unionism in 1942. </p><p> During the war years free collective oargaining was virtually suspended, so that the companies and the union began negotiations in 1945 amid the dislocations of the post war period. The strike which ensued was settled only after the personal intervention of the President. Although a fact-finding board was appointed, a settlement was achieved before any hearings were held on the basis of an l8.5 cent an hour increase. </p><p> The 1947 contract with U. S. Steel was settled on April 22, 1947 on the basis of a 15 cent an hour increase, and was followed by similar contracts with the other steel producers. The 1947 contract contained a reopening clause, stating that on April 1, 1948 either party could "given written notice to the other party of its desire to negotiate a general and uniform change in the rates of pay." </p><p> On March 29, 1948 the union announced it would like to reopen the contract for "a general and uniform change in rates of pay". Formal negotiations began on April 5, 1948 and continued through June and July, but did not result in a change in wage rates. However, the company announced that it proposed to reduce prices on a variety of products effective May 1, 1949 and a review of both wages and prices would be made in the light of production costs at that time. However, in July, an agreement was reached on an average increase of 13 cents an hour effective July 16, 1948. This was called the 1948 supplemental agreement and extended the contract to April 30, 1950 with the right to reopen on July 16, 1949. </p><p> On May 16, 1949 the union sought to reopen the con tract for changes in rates of pay, for life, accident, health, medical and hospital insurance and pensions. Negotiations with the subsidiaries of U. S. Steel were formally opened on June 15, 1949 - the union concentrating on the large producers, but continuing negotiations with all, The companies asserted that pensions were not bargainable under the reopening clause and increases in rates of pay were denied, Bargaining continued but virtually no progress was made until July 7, 1949. </p><p> On July 7, 1949 Cyrus S. Ching, Director of the Federal Mediation and Conciliation Service invited the parties to Washington, After separate and joint conferences with the parties failed to produce any results, Mr. Ching notified the President a work stoppage was imminent. </p><p> The President notified the parties he was appointing a fact-finding board of three public members and asked them to continue working for 60 days under the present . agreement. Such boards are limited to fact-finding and forbidden to make recommendations. </p><p> The union accepted, but the companies were reluctant, contending that if Presidential intervention were neces-sary, it should be based on the Taft-Hartley Act. Mr. Ching, in replying to the companies for the President stated that experience under the Labor Management Relations Act has demonstrated that fact-finding in major disputes without recommendations results in delay, but does not promote settlement. </p><p> The companies then reluctantly consented to the President's proposal, but stated they would not consider ' the recommendations binding. On July 15, 1949 the President appointed Carrol R. Daugherty of Illinois, Chairman, Samuel I. Roseman of New York and David L. Cole of New Jersey to the board. </p><p> Hearings were begun on July 28, 1949, and continued until August 29, 1949, and the Board reported to the President on September 10, 1949.</p>  </bioghist>
+  <accessrestrict id="aspace_66584aefc39db3ce52f614be74a4b68e">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_f0b25379beaa0863dce386c62b0bb103">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_de9b7f1ad3c3677e37e5f2fdea13308c">
+    <head>Preferred Citation</head>
+<p>U.S. Steel Industry Board Transcripts and Exhibits #5068. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Iron and steel workers--Labor unions--Sources.</subject>
+    <subject source="ingest">Arbitration, Industrial--United States--Sources.</subject>
+    <corpname audience="internal" source="ingest">United Steel Workers of America--Sources.</corpname>
+    <corpname audience="internal" source="ingest">United States. Steel Industry Board.</corpname>
+  </controlaccess>
+  <unitid type="bibid">3116121</unitid>
+  <dsc><c01 id="aspace_39a14d04a4093cc8bb227e4aba09f97c" level="file"><did><unittitle>Company Exhibits</unittitle><container id="aspace_b5c3b888b2556dc9ee6e6c7b30f682d9" label="unspecified" type="box">1</container><container id="aspace_4e56700560ad5d62e0e75f5d7af0265d" parent="aspace_b5c3b888b2556dc9ee6e6c7b30f682d9" type="folder">1</container></did></c01><c01 id="aspace_f983703f29151cc7df1a8fba35ee68a7" level="file"><did><unittitle>Union Exhibits Part 1</unittitle><container id="aspace_c30c6df608f0e127c8ec3884661d2949" label="unspecified" type="box">1</container><container id="aspace_0a49e8f675fbe019db59c626185b61b2" parent="aspace_c30c6df608f0e127c8ec3884661d2949" type="folder">2</container></did></c01><c01 id="aspace_47df3c85ab39ad5b1326759ca3d550ee" level="file"><did><unittitle>Union Exhibits Part 2</unittitle><container id="aspace_bedaad81223cc1d5de8b96f5eb7d3231" label="unspecified" type="box">1</container><container id="aspace_6c04cd37af04624db2bfbabc9b7994ba" parent="aspace_bedaad81223cc1d5de8b96f5eb7d3231" type="folder">3</container></did></c01><c01 id="aspace_78cbc464a17c83bff49ef2b3cbab3d91" level="file"><did><unittitle>Report to the President</unittitle><container id="aspace_d1616a5da31be578cc21a93b1d336c50" label="unspecified" type="box">1</container><container id="aspace_678811af1d8cdca617baf8bc09625e8c" parent="aspace_d1616a5da31be578cc21a93b1d336c50" type="folder">4</container></did></c01></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05009mf</eadid><filedesc><titlestmt><titleproper>United Steelworkers of America, Local 2601 Minute Books and Roster Book on Microfilm <num>5009 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 20, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:29:07 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>United Steelworkers of America, Local 2601 Minute Books and Roster Book on Microfilm</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">United Steelworkers of America (USWA)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">USWA Local 2601</corpname>
+    </origination>
+    <unitid>5009 mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.22 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1942/1961" type="inclusive">1942-1961</unitdate>
+    <physdesc id="aspace_3aa9a16794441b4a5b78bd4cd2857232" label="Quantity:">2 microfilm reels</physdesc>
+    <physdesc id="aspace_3d2af4c1bd538aa30a7d064fbd8274f0" label="Forms of Material:">Minutes (documents), microfilm .</physdesc>
+    <abstract id="aspace_74aa8e9647a90cf293bd637f24b3b3b0">Include discussions on wages and benefits, workers' education, job safety, union solidarity, the AFL-CIO merger, the purge of communist members, and various strikes.</abstract>
+    <langmaterial id="aspace_a0c7e73a73f93361c15741a630963669">Collection material in English</langmaterial>
+    <unitid type="bibid">3834206</unitid>
+  </did>
+  <odd id="aspace_cdfe05caa60093856010816da69f5cbb">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, May 02, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 20, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <scopecontent id="aspace_fb14be27b62e3688f09f125cb2654be3">
+    <head>Scope and Contents</head>
+<p>Includes discussions on wages and benefits, workers' education, job safety, union solidarity, the AFL-CIO merger, the purge of communist members, and various strikes. </p><p> The minute books of Local 2601 of the United Steelworkers of America (Lackawanna, N.Y.) comment upon the following issues and topics: wage adjustments; premium pay; wage incentive; unemployment benefits; pensions; holidays ; vacations; workers' compensation; disability benefits under the Social Security Act; unemployment insurance; safety on the job; the Labor Relations and Safety Committee; education programs of the Local; union shops; the importance of buying union made products; the issue of solidarity; merger negotiations of the A.F. of L. and CIO; United Steelworkers constitutional violations; the House Un-American Activities Committee; affidavits stating non-membership in a communist or other subversive group; charges against individuals found guilty of being members of the Communist Party and expelled from membership; steel company propaganda; picket lines; strike preparations; the Bethlehem Steel Strike (1959); the Carrier Corp. Strike in Syracuse, N.Y. (1960); the boycott of Sears, Roebuck Co. for its anti-union attack against members of organized labor; and elections of officers; also other routine activities of the Local.</p>  </scopecontent>
+  <accessrestrict id="aspace_56593dc50ee1f8a806c1941bf8208ab6">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_2b72acac64a661701d415756d9687ef9">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_8a0ca7e31bba3a808dabb72a06a8e866">
+    <head>Preferred Citation</head>
+<p>United Steelworkers of America, Local 2601 Minute Books and Roster Book on Microfilm #5009 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_8679aeeaaa1ced24aad8e57259b506bd">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06046.html"> 6046: Archives Union File (AUF)</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Bethlehem Steel Strike, 1959.</subject>
+    <subject source="ingest">Carrier Corporation Strike, 1960.</subject>
+    <subject source="ingest">Labor unions and communism--United States.</subject>
+    <subject source="ingest">Iron and steel workers.</subject>
+    <subject source="ingest">Boycott. Retail trade. New York (State)</subject>
+    <subject source="ingest">Employee fringe benefits. Steel industry. New York (State). Lackawanna.</subject>
+    <subject source="ingest">Industrial safety. Steel industry. New York (State). Lackawanna.</subject>
+    <subject source="ingest">Insurance, Unemployment. Steel industry. New York (State). Lackawanna.</subject>
+    <subject source="ingest">Open and closed shop. Steel industry. New York (State). Lackawanna.</subject>
+    <subject source="ingest">Pensions. Steel industry. New York (State). Lackawanna.</subject>
+    <subject source="ingest">Strikes and lockouts. Steel industry. New York (State)</subject>
+    <subject source="ingest">Trade-union merger. United States.</subject>
+    <subject source="ingest">Trade-union solidarity. United States.</subject>
+    <subject source="ingest">Trade-unions. Iron and steel workers. New York (State). Lackawanna.</subject>
+    <subject source="ingest">Trade-unions. Iron and steel workers. New York (State). Lackawanna. Local unions.</subject>
+    <subject source="ingest">Trade-unions. New York (State). Lackawanna. Elections of officials.</subject>
+    <subject source="ingest">Trade-unions. New York (State). Lackawanna. Local unions.</subject>
+    <subject source="ingest">Wages. Steel industry. New York (State). Lackawanna.</subject>
+    <subject source="ingest">Workers' compensation. Steel industry. New York (State). Lackawanna.</subject>
+    <subject source="ingest">Workers' education. Iron and steel workers. New York (State). Lackawanna.</subject>
+    <corpname audience="internal" source="ingest">Bethlehem Steel Corporation</corpname>
+    <corpname audience="internal" source="ingest">Carrier Corporation</corpname>
+    <corpname source="ingest">Sears, Roebuck and Company</corpname>
+    <corpname audience="internal" source="ingest">United States. Congress. House. Committee on Un-American Activities.</corpname>
+    <corpname audience="internal" source="ingest">United States. Congress. House. Special Committee on Un-American Activities (1938-1944)</corpname>
+    <corpname audience="internal" source="ingest">United Steelworkers of America.</corpname>
+    <corpname audience="internal" source="ingest">United Steelworkers of America. Local 2601 (Lackawanna, N.Y.)</corpname>
+  </controlaccess>
+  <unitid type="bibid">3834206</unitid>
+  <dsc><c01 id="aspace_aabdaffad7d7e6572d80f7dcd528213d" level="file"><did><unittitle>United Steelworkers Local 2601, Lackawanna, NY - Poster Book - 1948-1960 ; Minute books - 1942-1952</unittitle><unitdate datechar="creation" normal="1942/1960" type="inclusive">1942-1960</unitdate><container id="aspace_f086c192947e75c0ca42aa9ebe40b57b" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_993844b7f67eb73bb9da55e4f6371ea2"><head>Scope and Contents</head><p>Negative</p></scopecontent></c01><c01 id="aspace_1fc8684d8bb16e4099147728c4a305f7" level="file"><did><unittitle>United Steelworkers of America Local 2601 (Buffalo, NY) - Minute books 9/52 - 3/6/61</unittitle><unitdate datechar="creation" normal="1952/1961" type="inclusive">1952-1961</unitdate><container id="aspace_187153ba0ea4c249bb6dbf961f1ed22e" label="unspecified" type="reel">2</container></did><scopecontent id="aspace_556513033bbd7aec61e1af4b1ee8308f"><head>Scope and Contents</head><p>Negative</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

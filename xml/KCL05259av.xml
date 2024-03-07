@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05259av</eadid><filedesc><titlestmt><titleproper>United Packinghouse Workers of America Audio-Visual Materials <num>5259 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 23, 2017</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:40:06 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>United Packinghouse Workers of America Audio-Visual Materials</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">United Packinghouse Workers of America</corpname>
+    </origination>
+    <unitid>5259 AV</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1957/1957">1957</unitdate>
+    <physdesc id="aspace_6e9faceda2efb93d46262844f5daf8b1" label="Quantity:">0.3 linear ft.</physdesc>
+    <physdesc id="aspace_a4b1201bb325be2ad2c5fe96f28c6acd" label="Forms of Material:">Audiovisual materials, records.</physdesc>
+    <abstract id="aspace_5454828fa5ffede77ab7bf0dbfd74b9a">This collection consists of color slides and a tape recording of the United Packinghouse Workers Fourth Biennial Wage and Contract Policy Conference, Third National Anti-Discrimination Conference and the Third National Conference on Women's Activities held September 30 to October 4, 1957. It was made to let the "Little Guy" who never gets to conferences or district meetings have the living experience of taking part in a conference.</abstract>
+    <langmaterial id="aspace_e49cccf3924040116b86149e6f167153">Collection material in English</langmaterial>
+    <unitid type="bibid">7741980</unitid>
+  </did>
+  <odd id="aspace_d85dccc532a64f04411706497b96c8e3">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, December 10, 2012</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, February 23, 2017</item>
+      </defitem>
+    </list>
+  </odd>
+  <scopecontent id="aspace_69c79e63e0d822af1b39926b91ae2708">
+    <head>Scope and Contents</head>
+<p>This collection consists of color slides and a tape recording of the United Packinghouse Workers Fourth Biennial Wage and Contract Policy Conference. </p><p> Also tape recording of the Third National Anti-Discrimination Conference and the Third National Conference on Women's Activities held Sept. 30-Oct. 4, 1957.</p>  </scopecontent>
+  <accessrestrict id="aspace_f76c0f0470b769b48a35c4d63fbc259a">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_7ef614d25e2c3bad744ce92538e754b1">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_5fe8a708ccd25ed1e34a0c75230f80d0">
+    <head>Preferred Citation</head>
+<p>United Packinghouse Workers of America Audio-Visual Materials #5259 AV. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_687f7df7be5d6d35e7b13d7b02df25c5">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06046.html"> 6046: Archives Union File (AUF)</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Packing-house workers -- United States.</subject>
+    <subject source="ingest">Packing-house workers -- Labor unions -- United States.</subject>
+    <subject source="ingest">Wages -- Packing-house workers -- United States.</subject>
+    <subject source="ingest">Discrimination in employment -- United States</subject>
+    <subject source="ingest">Collective bargaining -- Packing-house workers -- United States.</subject>
+    <corpname audience="internal" source="ingest">United Packinghouse Workers of America.</corpname>
+  </controlaccess>
+  <unitid type="bibid">7741980</unitid>
+  <dsc><c01 id="aspace_1d50d54022d7b3a88cc6bf05afdd5501" level="file"><did><unittitle>Bring Your Union and "Come to the Conference!"</unittitle><unitid>1</unitid><unitdate datechar="creation" normal="1957/1957">1957</unitdate><container id="aspace_4f67e91d7624bcb3dc59eb2052f9e6eb" label="unspecified" type="box">1</container></did><scopecontent id="aspace_90a72b67d1e877bbc15841bde0b13f7d"><head>Scope and Contents</head><p>National Conference flyers (2)</p></scopecontent></c01><c01 id="aspace_5be74fd46d3e0daeed91cacd4a6dc516" level="file"><did><unittitle>Set 1 of slides</unittitle><unitid>2</unitid><container id="aspace_212a28a91574e2c4095e1f39180e3c0c" label="unspecified" type="box">1</container></did><scopecontent id="aspace_d9fb2e45a30c60e14939804e17663153"><head>Scope and Contents</head><p>24 slides</p></scopecontent></c01><c01 id="aspace_c497badb5b90304fd68f30bc08074d43" level="file"><did><unittitle>Set 2 of slides</unittitle><unitid>3</unitid><container id="aspace_94d9e54dd6bac2b9e25d42c13a5d0c05" label="unspecified" type="box">1</container></did><scopecontent id="aspace_2c8231068f043f3b4622487ca940bd6b"><head>Scope and Contents</head><p>24 slides</p></scopecontent></c01><c01 id="aspace_4b436294557c955d3d356cccd00929cf" level="file"><did><unittitle>Unlabeled open reel audio tape</unittitle><unitid>4</unitid><container id="aspace_652823027c7b7ce2fd237e61f65aa2f4" label="unspecified" type="box">1</container></did></c01></dsc>
+</archdesc>
+</ead>

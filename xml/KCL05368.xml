@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05368</eadid><filedesc><titlestmt><titleproper>Jewell Ridge Coal Corporation vs. United Mine Workers of America, Local 6167 Records <num>5368</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 11, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:44:11 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Jewell Ridge Coal Corporation vs United Mine Workers of America, Local 6167 Records</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Jewell Ridge Coal Corporation</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">United Mine Workers of America (UMW)</corpname>
+    </origination>
+    <unitid>5368</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1943/1944" type="inclusive">1943-1944</unitdate>
+    <physdesc id="aspace_2e31e05a8b86044e40f42ce58a3b770f" label="Quantity:">0.3 linear ft.</physdesc>
+    <physdesc id="aspace_85767b4f1fcc1a1a5037a8b2e5a00a74" label="Forms of Material:">Records (documents).</physdesc>
+    <abstract id="aspace_948fec027f77b74b526aa86f9215309e">Case materials relating to a dispute between the Jewell Ridge Coal Corporation and Local No. 6167, United Mine Workers of America, et al.</abstract>
+    <langmaterial id="aspace_e0e11fda7a449cc1dd70b53771a1317e">Collection material in English</langmaterial>
+    <unitid type="bibid">5620122</unitid>
+  </did>
+  <odd id="aspace_0c7489077a5b21be425a5eff65b5bf82">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, November 09, 2005</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 11, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_21fcd13da6df1c3d7f54ff54c4c7536a">
+    <head>Biographical / Historical</head>
+<p>This case involves the dispute between the Jewell Ridge Coal Corporation and Local No. 6167, United Mine workers of America, et. al. </p><p> The dispute involved underground travel time of bituminous coal miners from portal to portal. The UMW claimed that under the provisions of the Fair Labor Standards Act, portal to portal time must be included within their work week for purposes of Section 7 of the statute. The United States District Court, District of Virginia, ruled against the U.M.W. The United States Circuit Court, Fourth District, reversed the decision of the District Court. The case was then appealed to the Supreme Court of the United States. </p><p> The Supreme Court upheld the decision of the Circuit court. The decisions in the case and in the previous case (Tennessee Coal) were overruled when Congress passed the Portal to Portal Act as an amendment to the Fair Labor Standard Act.</p>  </bioghist>
+  <scopecontent id="aspace_5f54dc432d8d736f5199a47afac700d4">
+    <head>Scope and Contents</head>
+<p>This case involves the dispute between the Jewell Ridge Coal Corporation and Local No. 6167, United Mine Workers of America, et al. The dispute involved underground travel time of bituminous coal miners from portal to portal. The UMW claimed that under the provisions of the Fair Labor Standards Act, portal to portal time must be included within their work week for purposes of Section 7 of the statute. The United States District Court, District of Virginia, ruled against the U.M.W. The United States Circuit Court, Fourth District, reversed the decision of the District Court. The case was then appealed to the Supreme Court of the United States. The Supreme Court upheld the decision of the Circuit court. The decisions in the case and in the previous case (Tennessee Coal) were overruled when Congress passed the Portal to Portal Act as an amendment to the Fair Labor Standard Act.</p>  </scopecontent>
+  <accessrestrict id="aspace_cd0200c9114aae31fd24b5bd36a7e712">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_66b4bc699741c66762656054853adbe2">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_fbeabb610009843592bedc8b36a09a64">
+    <head>Preferred Citation</head>
+<p>Jewell Ridge Coal Corporation vs. United Mine Workers of America, Local 6167 Records #5368. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_1c4785bdbffd32646942d18428906729">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05023.html"> 5023: United Mine Workers' Election Materials</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05301mf.html"> 5301 mf: United Mine Workers of America District 12 (Ill.) Records on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05302mf.html"> 5302 mf: "History of the United Mine Workers, 1890-1932" Unpublished Manuscript on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05358.html"> 5358: Pennsylvania Mining Company vs. United Mine Workers of America Court Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05428mf.html"> 5428 mf: UMWA District 15 Press Releases and Newspaper Clippings about the "Colorado Strike, 1914" on Microfilm</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Wages -- Portal-to-portal wage</subject>
+    <subject source="ingest">Hours of labor -- Law and legislation</subject>
+    <subject source="ingest">Arbitration, Industrial</subject>
+    <corpname audience="internal" source="ingest">Jewell Ridge Coal Corporation.</corpname>
+    <corpname audience="internal" source="ingest">United Mine Workers of America.</corpname>
+    <corpname audience="internal" source="ingest">United Mine Workers of America. Local 6167.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5620122</unitid>
+  <dsc><c01 id="aspace_e412e2826ba92de64dd9df1a30c939d8" level="file"><did><unittitle>Brief For Dependents (U.M.W.)</unittitle><unitdate datechar="creation" normal="1943/1943">1943</unitdate><container id="aspace_5f156916ef70866db53a65f594cf9fd8" label="unspecified" type="box">1</container><container id="aspace_4f29ee2fdbc0b79665d1783e5d09b9c4" parent="aspace_5f156916ef70866db53a65f594cf9fd8" type="folder">1</container></did><scopecontent id="aspace_748768eb8b383385414c59260ec3fe38"><head>Scope and Contents</head><p>In the District Court for Western Virginia</p></scopecontent></c01><c01 id="aspace_669f48a1652e6e97e67c703f9af7f077" level="file"><did><unittitle>Reply Brief For the Plaintiff (Jewell Ridge)</unittitle><unitdate datechar="creation" normal="1943/1943">1943</unitdate><container id="aspace_fcc84366497e8f4812a4a2ed758bec0b" label="unspecified" type="box">1</container><container id="aspace_93acb16fc05f87b5382b46b4cfed7f4a" parent="aspace_fcc84366497e8f4812a4a2ed758bec0b" type="folder">2</container></did><scopecontent id="aspace_1e5321e98600cef62ff08a755c911d99"><head>Scope and Contents</head><p>In the District Court for Western Virginia</p></scopecontent></c01><c01 id="aspace_d41411fb6baef9e652d1527d1b1d9b4e" level="file"><did><unittitle>Brief On Behalf of Southern Coal Producers Association, Amicus Curiae</unittitle><unitdate datechar="creation" normal="1943/1943">1943</unitdate><container id="aspace_9dc182dc2d632ee91b79dda76e3d8369" label="unspecified" type="box">1</container><container id="aspace_917f4d244871750e5a7bc3da2adbc80a" parent="aspace_9dc182dc2d632ee91b79dda76e3d8369" type="folder">3</container></did><scopecontent id="aspace_a27050dd665eec99478474a5283cc46f"><head>Scope and Contents</head><p>In the District Court for Western Virginia</p></scopecontent></c01><c01 id="aspace_65f35a2a1f3f5f1798ef0fedeb5812b3" level="file"><did><unittitle>Brief On Behalf of Southern Coal Producers Association, Amicus Curiae</unittitle><unitdate datechar="creation" normal="1943/1943">1943</unitdate><container id="aspace_c02618c14bf594bb1b8ead1b8b9523b0" label="unspecified" type="box">1</container><container id="aspace_9b95c887f6b3059352410c585dfd88fe" parent="aspace_c02618c14bf594bb1b8ead1b8b9523b0" type="folder">4</container></did><scopecontent id="aspace_b6c6d49bf88dc7b38d402fbd4a3bab49"><head>Scope and Contents</head><p>In the Circuit Court (Fourth)</p></scopecontent></c01><c01 id="aspace_1c951fb9b5549fe72bf3431f17468d6b" level="file"><did><unittitle>Brief of Counsel for Respondent In Opposition to Petition. For Writ of Certiorari</unittitle><unitdate datechar="creation" normal="1943/1944" type="inclusive">1943-1944</unitdate><container id="aspace_c580f6a0dd719292329dfeaf296b8b5a" label="unspecified" type="box">1</container><container id="aspace_f522a8809182c09bc76e6c40af5d81da" parent="aspace_c580f6a0dd719292329dfeaf296b8b5a" type="folder">5</container></did><scopecontent id="aspace_e788a2caf64daf2373519f16784fb3bd"><head>Scope and Contents</head><p>In the supreme Court</p></scopecontent></c01><c01 id="aspace_8b40f6698763f3cac852d61b8a9aa9b4" level="file"><did><unittitle>Brief For Southern Coal Producers Association Amicus Curial</unittitle><unitdate datechar="creation" normal="1943/1944" type="inclusive">1943-1944</unitdate><container id="aspace_4c0d1aed3ba7c35bfd71e3f7823e30a6" label="unspecified" type="box">1</container><container id="aspace_42516eacac9dd0ba2c68b5b8cd4dc622" parent="aspace_4c0d1aed3ba7c35bfd71e3f7823e30a6" type="folder">6</container></did><scopecontent id="aspace_f52c148fa010bacc54b89e2be51abe72"><head>Scope and Contents</head><p>In the supreme Court</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

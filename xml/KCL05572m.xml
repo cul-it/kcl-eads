@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05572m</eadid><filedesc><titlestmt><titleproper>Globe Woolen Company Time Table and Work Rules <num>5572m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 13, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:52:25 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Globe Woolen Company Time Table and Work Rules</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Globe Woolen Company</corpname>
+    </origination>
+    <unitid>5572m</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 folders</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1892/1892">1892</unitdate>
+    <physdesc id="aspace_75e9fe0ebc53a3dc3b96f51d1ab54a17" label="Quantity:">1 file folder</physdesc>
+    <physdesc id="aspace_72bf170b971644e40620dc6956840699" label="Forms of Material:">Pamphlets, publications.</physdesc>
+    <abstract id="aspace_98ce49e5f2dbefee618b1508b63663e3">1892 booklet containing time table and work rules for the Globe Woolen Company.</abstract>
+    <langmaterial id="aspace_dcb86c7d152a59a726b641e9c7458aea">Collection material in English</langmaterial>
+    <unitid type="bibid">5665299</unitid>
+  </did>
+  <odd id="aspace_25ed0b57388707af4caa67243e7443c5">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 22, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 13, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_90337aa328d898a6d284034ee514de04">
+    <head>Biographical / Historical</head>
+<p>The Globe Woolen Company was a business in Utica, New York.</p>  </bioghist>
+  <scopecontent id="aspace_1c2bd0045d86e27800413a809c1a2782">
+    <head>Scope and Contents</head>
+<p>This collection consists of an 1892 booklet containing time table and work rules for the Globe Woolen Company.</p>  </scopecontent>
+  <accessrestrict id="aspace_6694b7d79f7f4661f0cb1eeaea8bbca6">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_b16fc5ef32a40724a71ead6ee9825df2">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_d315f9f6dbcc92019fa88f0665de1f7e">
+    <head>Preferred Citation</head>
+<p>Globe Woolen Company Time Table and Work Rules #5572m. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Hours of labor -- New York (State) -- Utica</subject>
+    <subject source="ingest">Hours of labor -- New York (State) -- Utica -- Handbooks, manuals, etc.</subject>
+    <corpname audience="internal" source="ingest">Globe Woolen Company.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5665299</unitid>
+  <dsc><c01 id="aspace_61542e07d0bfa5096b7a0b318e2a7423" level="file"><did><unittitle>Time Table and Work Rules of the Globe Woolen Company</unittitle><unitdate datechar="creation" normal="1892/1892">1892</unitdate><container id="aspace_2b9f22e48f4b1714953c49bdc97c5c24" label="unspecified" type="box">1</container><container id="aspace_7604dd43a2a1f0925b27501e3d20dd56" parent="aspace_2b9f22e48f4b1714953c49bdc97c5c24" type="folder">1</container></did><scopecontent id="aspace_084142f25e7afc54becdcb3c3554a941"><head>Scope and Contents</head><p>Published by order of the Board of Directors, July 14, 1892</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

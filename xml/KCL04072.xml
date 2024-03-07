@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04072</eadid><filedesc><titlestmt><titleproper>Kheel Center Additional Files <num>/4072</num></titleproper><author>Compiled by R. Miles</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 22, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:18:57 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Kheel Center Additional Files</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">New York State School of Industrial and Labor Relations (NYSSILR)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Martin P. Catherwood Library</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Labor-Management Documentation Center (LMDC)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Kheel Center for Labor-Management Documentation and Archives</corpname>
+    </origination>
+    <unitid>/4072</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1930/1974" type="inclusive">1930-1974</unitdate>
+    <physdesc id="aspace_158b7c3ae3fbd52a9098aa183921b1cf" label="Quantity:">2 linear ft.</physdesc>
+    <physdesc id="aspace_11d658c2094ae6509d006b5a14c0fb8c" label="Forms of Material:">Records (documents).</physdesc>
+    <langmaterial id="aspace_cfc857a165cb0be4b6028d78351c962c">Collection material in English</langmaterial>
+    <unitid type="bibid">3085710</unitid>
+  </did>
+  <odd id="aspace_544d89436ae76ee38bdb4e2db8e954aa">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>R. Miles, January 13, 2016</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, February 22, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_2bd8157db4cdbd0d4eff569ac77c34b7">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_9b89fd7e0bf40804282a9d4724f474db">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_519ca0d8f61bef5791c46127208f92a9">
+    <head>Preferred Citation</head>
+<p>Kheel Center Additional Files #/4072. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_a013922b3215d7091d02e4e86d380306">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04012.html"> /4012: Kheel Center Files and Circulation Reserve List</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04049.html"> /4049: Kheel Center Additional Office Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04051.html"> /4051: Kheel Center Additional Office Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04051.html"> /4051: Kheel Center Additional Office Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04088.html"> /4088: Kheel Center Office Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04090.html"> /4090: Kheel Center R. Strassberg Conservation Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04090.html"> /4090: Kheel Center R. Strassberg Conservation Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04041.html"> /4041: Martin P. Catherwood Additional Papers</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <corpname audience="internal" source="ingest">Kheel Center for Labor-Management Documentation and Archives.</corpname>
+    <corpname audience="internal" source="ingest">Martin P. Catherwood Library.</corpname>
+    <corpname source="ingest">New York State School of Industrial and Labor Relations.</corpname>
+    <corpname audience="internal" source="ingest">Martin P. Catherwood Library. Labor-Management Documentation Center--Administration.</corpname>
+  </controlaccess>
+  <unitid type="bibid">3085710</unitid>
+  <dsc><c01 id="aspace_b5be2efaf457d8458d7408ddfda6a96e" level="file"><did><unittitle>Inventories of the Collections in the Labor Management</unittitle><unitdate datechar="creation" normal="1942/1954" type="inclusive">1942-1954</unitdate><container id="aspace_b0c3299d08dfb622dd87b5d60f7a8002" label="unspecified" type="box">1</container><container id="aspace_1cfccf79514cc44de68a3086a5c7a5a5" parent="aspace_b0c3299d08dfb622dd87b5d60f7a8002" type="folder">1</container></did><scopecontent id="aspace_5a62aeaf29a76df6d9aa687fd8e91cb8"><head>Scope and Contents</head><p>Bound</p></scopecontent></c01><c01 id="aspace_f79244d618a95250db8a6d67e09b385d" level="file"><did><unittitle>Preliminary Inventories Vol. 2 Record Group D</unittitle><unitdate datechar="creation" normal="1955/1959" type="inclusive">1955-1959</unitdate><container id="aspace_576d4f7b092cf10b5aeee8c55210f445" label="unspecified" type="box">1</container><container id="aspace_36382bd9577716349f2635f5813f11b0" parent="aspace_576d4f7b092cf10b5aeee8c55210f445" type="folder">2</container></did><scopecontent id="aspace_7c0d3ca86fefebbae8a3a871b127b768"><head>Scope and Contents</head><p>Bound</p></scopecontent></c01><c01 id="aspace_f3a05747004ed46bb6eb65c54fa3ca15" level="file"><did><unittitle>Preliminary Inventories Vol. 3 Record Group E -</unittitle><unitdate datechar="creation" normal="1950/1951" type="inclusive">1950-1951</unitdate><container id="aspace_9de3b21b0e12ba5c75f68b89dd336cc4" label="unspecified" type="box">1</container><container id="aspace_4841314fffa2e0eda9dbb011c92c2df3" parent="aspace_9de3b21b0e12ba5c75f68b89dd336cc4" type="folder">3</container></did></c01><c01 id="aspace_dbaaee0f2f1559881e340a9b680ca882" level="file"><did><unittitle>Boxed - Notecards</unittitle><unitdate datechar="creation" normal="1970/1974" type="inclusive">1970-1974</unitdate><container id="aspace_06008e601efcf08745d5f3f711ac23c3" label="unspecified" type="box">1</container><container id="aspace_8b418b187651b2351fda279604c30dad" parent="aspace_06008e601efcf08745d5f3f711ac23c3" type="folder">4</container></did><scopecontent id="aspace_987b23969ca80b15a1ec8bcd287da7b1"><head>Scope and Contents</head><p>Boxed</p></scopecontent></c01><c01 id="aspace_aa8cc49972399873c3c7076a322d21f1" level="file"><did><unittitle>Preliminary Inventories Vol. 1 Record Group A-C</unittitle><container id="aspace_30ff2aba925cd3bb97ac20ee46efda22" label="unspecified" type="box">2</container><container id="aspace_19c5b718551220b9ecf36983bcb64f80" parent="aspace_30ff2aba925cd3bb97ac20ee46efda22" type="folder">1</container></did><scopecontent id="aspace_22ba20bebcde9a0ec0a1a7f765ef1d82"><head>Scope and Contents</head><p>Bound</p></scopecontent></c01><c01 id="aspace_624fbea93a1b21efab43d616e1a8ab93" level="file"><did><unittitle>Inventories of the Collections in the Labor Management Documentation Center V.1</unittitle><unitdate datechar="creation" normal="1945/1950" type="inclusive">1945-1950</unitdate><container id="aspace_eabd6343141952dd2b4bf5c01b441af5" label="unspecified" type="box">2</container><container id="aspace_244c86bd2f906e830cfc5e73006b23d7" parent="aspace_eabd6343141952dd2b4bf5c01b441af5" type="folder">2</container></did><scopecontent id="aspace_ef23bfa57cc760f8d89f426ef57dcdef"><head>Scope and Contents</head><p>Bound</p></scopecontent></c01><c01 id="aspace_284a95e5fa807e419088b4bc04eca655" level="file"><did><unittitle>Inventories of the Collections in the Labor Management Documentation Center V.1</unittitle><unitdate datechar="creation" normal="1950/1953" type="inclusive">1950-1953</unitdate><container id="aspace_5425d23dbb4690fdf6af56888c81548d" label="unspecified" type="box">2</container><container id="aspace_ac3c8e2947e155917e2e3a840439c60e" parent="aspace_5425d23dbb4690fdf6af56888c81548d" type="folder">3</container></did><scopecontent id="aspace_d9893fbdff34625bd5ccc2cc0663ccb8"><head>Scope and Contents</head><p>Bound</p></scopecontent></c01><c01 id="aspace_051bc7e352bcf7fa0b810ad161c68fba" level="file"><did><unittitle>Inventories of the Collections in the Labor Management Documentation Center</unittitle><unitdate datechar="creation" normal="1930/1957" type="inclusive">1930-1957</unitdate><container id="aspace_10f06c1fc083f1ca33826fccbc2164d8" label="unspecified" type="box">2</container><container id="aspace_3fdb67e1187373504b1280de22151a0c" parent="aspace_10f06c1fc083f1ca33826fccbc2164d8" type="folder">4</container></did><scopecontent id="aspace_3be314d312998151085690193462ed8c"><head>Scope and Contents</head><p>Bound</p></scopecontent></c01><c01 id="aspace_8171aae2546cf393df0b04b5d119642e" level="file"><did><unittitle>Inventories of the Collections in the Labor Management Documentation Center</unittitle><unitdate datechar="creation" normal="1930/1957" type="inclusive">1930-1957</unitdate><container id="aspace_c0def951a6f13d22e11c9d7b5b0a7c51" label="unspecified" type="box">2</container><container id="aspace_d87bd4e36f8ca4596fa797b28b0b2556" parent="aspace_c0def951a6f13d22e11c9d7b5b0a7c51" type="folder">4</container></did><scopecontent id="aspace_4881c29f90395de2f073114b9aecf9f5"><head>Scope and Contents</head><p>Bound</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

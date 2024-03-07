@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04130mb</eadid><filedesc><titlestmt><titleproper>ILR School Alumni Weekend "Reunion" Book Memorabilia <num>/4130 MB</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 03, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:20:59 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILR School Alumni Weekend "Reunion" Book Memorabilia</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">New York State School of Industrial and Labor Relations (NYSSILR)</corpname>
+    </origination>
+    <unitid>/4130 MB</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="2007/2009" type="inclusive">2007- 2009</unitdate>
+    <physdesc id="aspace_095816404822e168f5bb02fd630e6352" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_2000730644057c08e4371f5dfc530458" label="Forms of Material:">Memorabilia.</physdesc>
+    <abstract id="aspace_c7df7f0ae5795686ee4c5af7d87b9dc4">Reunion book chronicalling ILR School reunions from 2007, 2008 and 2009</abstract>
+    <langmaterial id="aspace_952a6db2e6e3c3b78b012d657e8aeacb">Collection material in English</langmaterial>
+    <unitid type="bibid">8016664</unitid>
+  </did>
+  <odd id="aspace_1cab5def72d213229ddd6de2c17078c4">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, August 14, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 03, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_02546d4abfa5d1970a49ca6684b5ab64">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_215d598adcfed78273cda46206a908cd">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_5de30c8e2b28f29338b77a097dba1a93">
+    <head>Preferred Citation</head>
+<p>ILR School Alumni Weekend "Reunion" Book Memorabilia #/4130 MB. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_8c8baaf1857b58dcb3602e376d57e345">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04207.html"> /4207: Elaine Gruenfeld Goldberg, ed. "The ILR School at Fifty: Voices of the Faculty, Alumni, and Friends" Monograph</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04083.html"> /4083: ILR School Alumni Association Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04118mb.html"> /4118 MB: ILR School Alumni Memorabilia</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04119m.html"> /4119m: ILR School Richard Jacobstein Memorabilia</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL03066.html"> /3066: ILR School Alumni News</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04120.html"> /4120: ILR School Alumni Scrapbooks</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05542av.html"> 5542 AV: ILR School Alumni Seminar on Collective Bargaining in Sports Audiorecordings</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04130av.html"> /4130 AV: ILR School Alumni Weekend Audio-Visual Materials</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04289pubs.html"> /4289 PUBS: ILR School Alumni Affairs and Development Publications</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04289av.html"> /4289 AV: ILR School Alumni Affairs and Development Audio-Visual Materials</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04289p.html"> /4289 P: ILR School Alumni Affairs and Development Photographs</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <corpname source="ingest">New York State School of Industrial and Labor Relations</corpname>
+    <corpname audience="internal" source="ingest">New York State School of Industrial and Labor Relations. Alumni Association</corpname>
+  </controlaccess>
+  <unitid type="bibid">8016664</unitid>
+  <dsc><c01 id="aspace_714584466c5fd1d57e0e5c67d0bc2b97" level="file"><did><unittitle>Reunion - June 7-10, 2007</unittitle><unitdate datechar="creation" normal="2007/2007">2007</unitdate><container id="aspace_c99e43b855cdc96c3843540a6ee39d86" label="unspecified" type="box">1</container><container id="aspace_267f09c16e1f09b56282727cffb17abe" parent="aspace_c99e43b855cdc96c3843540a6ee39d86" type="folder">1</container></did></c01><c01 id="aspace_312b350f948ce3da82c866e6b4e4bb01" level="file"><did><unittitle>Reunion - June 5-8, 2008</unittitle><unitdate datechar="creation" normal="2008/2008">2008</unitdate><container id="aspace_4318e789313d8a1496a5ba44d730c1cf" label="unspecified" type="box">1</container><container id="aspace_1664f01991621f05186766eaca96dfd6" parent="aspace_4318e789313d8a1496a5ba44d730c1cf" type="folder">2</container></did></c01><c01 id="aspace_f05388c6ff3f6b2156dc693024c0585c" level="file"><did><unittitle>Reunion - June 4-7, 2009</unittitle><unitdate datechar="creation" normal="2009/2009">2009</unitdate><container id="aspace_8e02489d9ed54893598ba161bf9dacbf" label="unspecified" type="box">1</container><container id="aspace_6e55ab3503462160fd621bb74f41df08" parent="aspace_8e02489d9ed54893598ba161bf9dacbf" type="folder">3</container></did></c01></dsc>
+</archdesc>
+</ead>

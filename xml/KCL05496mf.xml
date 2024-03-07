@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05496mf</eadid><filedesc><titlestmt><titleproper>George Novack "Unity Caucus on the Railroads: The Story of the Consolidation Committee of Enginemen" on Microfilm <num>5496 mf</num></titleproper><author>Compiled by E. Parker</author><sponsor>This collection was processed with the help of generous funding from the National Historical Publications and Records Commission (NHPRC).</sponsor></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>December 01, 2017</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:49:15 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>George Novack "Unity Caucus on the Railroads: The Story of the Consolidation Committee of Enginemen" on Microfilm </unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Novack, George</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Hedlund, C.R.</persname>
+    </origination>
+    <unitid>5496 mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.11 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1957/1958" type="inclusive">1957- 1958</unitdate>
+    <physdesc id="aspace_44f6ced00b4c9824806039c154346af1" label="Quantity:">1 microfilm reel</physdesc>
+    <physdesc id="aspace_df1469a91a7ab531556b45f0e6801612" label="Forms of Material:">Records (documents), microfilm .</physdesc>
+    <abstract id="aspace_6d66e7fdfa976f946485791d134ba960">Microfilm copy of "Unity Caucus on the Railroads: The Story of the Consolidation Committee of Enginemen." This manuscript is an account of the development of the CCE, including an assessment of its impact.</abstract>
+    <langmaterial id="aspace_b599c270f09a144c43533e0aec51f050">Collection material in English</langmaterial>
+    <unitid type="bibid">5657060</unitid>
+  </did>
+  <odd id="aspace_58662ac1ad725879ed863cce4baca58d">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>E. Parker, December 01, 2017</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Elizabeth Parker, December 01, 2017</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_7375f48ee8cee46ab714017752f5f422">
+    <head>Biographical / Historical</head>
+<p>This unpublished monograph was prepared by George Novak in 1957-1958 for the Labor Project of the Fund for the Republic, directed by Paul Jacobs. The Fund for the Republic was a non-profit education corporation created by the Ford Foundation in 1952 to counter pressures on civil liberties and basic freedoms from the political right. The Fund wanted to "support activities directed toward the elimination of restrictions on freedom of thought, inquiry and expression in the United States, and the development of policies and procedures best adapted to protect these rights."* </p><p> The manuscript was written by George Novack, who had served the Consolidation Committee of Enginemen [CCE] as public relations advisor. The CCE was a powerful postwar nationwide caucus to affect the fusion of the Brotherhood of Locomotive Engineers [BLE] and the Brotherhood of Locomotive Firemen and Enginemen [BLF&amp;E]. It functioned within the framework of the two unions to achieve amalgamation through constitutional procedures. Beginning in April 1946 under the leadership of Russell R. Walker, the CCE attempted to mobilize the rank and file of the two labor unions in support of unification. The merger plan was defeated in May, 1949. </p><p> Mr. Novak's manuscript describes the development of the CCE, its approach to the issue of unification, and its strategies for organizing in support of a merger. The CCE did succeed in having its program adopted by the conventions of both the Brotherhood of Locomotive Engineers and the Brotherhood of Locomotive Firemen and Engineers. </p><p> *Click <extref xlink:href="https://findingaids.princeton.edu/collections/MC059#description">here</extref> for additional information on the Fund for the Republic.</p>  </bioghist>
+  <scopecontent id="aspace_512f6ac6342aafb4a03a6b1dc3268a55">
+    <head>Scope and Contents</head>
+<p>Inclusive date range: 1957-1958 </p><p> Bulk dates: 1957-1958 </p><p> This collection consists of the microfilmed copy of an unpublished monograph, written by George Novak, public relations advisor for the Consolidation Committee of Engineers. The manuscript has been annotated by the author and contains corrections, additional notes, and edited sections. The manuscript pages are numbered 1-137, and a supplemental report follows, with pages numbered 1-5. </p><p> Table of Contents: </p><p> 1. The Uncoupled Brotherhoods, page 1 </p><p> 2. Earlier Attempts At Unification, page 7 </p><p> 3. Background of the Consolidation Movement, page 13 </p><p> 4. Walker Launches The CCE, page 22 </p><p> 5. First Reactions of the Brotherhood Heads, page 31 </p><p> 6. The First CCE National Conference, page 39 </p><p> 7. Popularizing the Program, page 45 </p><p> 8. Moves Against The Consolidators, page 51 </p><p> 9. The BLE Convention, page 61 </p><p> 10. Showdown At The BLFE Conference, page 71 </p><p> 11. The Joint Committees In Session, page 85 </p><p> 12. Pressure From The CCE, page 93 </p><p> 13. Robertson's Reprisals, page 101 </p><p> 14. Crisis In The CCE, page 106 </p><p> 15. The Merger Plan, page 112 </p><p> 16. Defeat Of The Merger Plan, page 116 </p><p> 17. The CCE Folds Up, page 124 </p><p> 18. Unification Today, page 128 </p><p> 19. References, page 135 </p><p> Supplement: </p><p> "Report: What Did The BLF&amp;E Members Get From Their Convention?" by C.R. Hedlund, member BLF&amp;E Lodge 814 </p><p> A negative copy is available upon request.</p>  </scopecontent>
+  <accessrestrict id="aspace_76f5243f705b4cea7651181c488c3acc">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_e7d858c9feb442ec3a5672725ac6bfcf">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_516242651d7e6a1b7a39a364847f6be6">
+    <head>Preferred Citation</head>
+<p>George Novack "Unity Caucus on the Railroads: The Story of the Consolidation Committee of Enginemen" on Microfilm #5496 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_0cbd842c2c198397cc647c0828e6f16b">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05147.html"> 5147: Brotherhood of Locomotive Engineers Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05141.html"> 5141: Brotherhood of Locomotive Firemen and Enginemen Records</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Railroads -- United States.</subject>
+    <subject source="ingest">Labor unions -- Mergers -- United States.</subject>
+    <persname audience="internal" source="ingest">Novack, George.</persname>
+    <corpname audience="internal" source="ingest">Fund for the Republic</corpname>
+    <corpname audience="internal" source="ingest">Consolidation Committee of Enginemen (U.S.)</corpname>
+    <corpname audience="internal" source="ingest">Brotherhood of Locomotive Engineers (U.S.)</corpname>
+    <corpname audience="internal" source="ingest">Brotherhood of Locomotive Firemen and Enginemen</corpname>
+  </controlaccess>
+  <unitid type="bibid">5657060</unitid>
+  <dsc><c01 id="aspace_3d355999b04b6f1fe96cf30709f9d5d6" level="file"><did><unittitle>Unity Caucus on the Railroads; the Story of the Consolidation Committee of Enginemen by George Novack</unittitle><unitid>1</unitid><unitdate datechar="creation" normal="1957/1958" type="inclusive">1957-1958</unitdate><container id="aspace_dc3159ee6a49f5f966a9749511205858" label="unspecified" type="reel">2</container></did></c01></dsc>
+</archdesc>
+</ead>

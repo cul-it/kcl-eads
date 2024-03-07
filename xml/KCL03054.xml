@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL03054</eadid><filedesc><titlestmt><titleproper>Kress, Albert Leland and Paul J. Gordon Manuscripts <num>/3054</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 21, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:14:38 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Albert Leland Kress and Paul J Gordon Manuscripts</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Gordon, Paul J.</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Kress, Albert Leland</persname>
+    </origination>
+    <unitid>/3054</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1938/1950" type="inclusive">1938-1950</unitdate>
+    <physdesc id="aspace_b58f2ffe40804e356a680203288673b2" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_ee8db5dd4e1081df0b08bd241a46eebe" label="Forms of Material:">Papers (documents).</physdesc>
+    <abstract id="aspace_bcec5be87122bc01bf1ad266010a7a41">Preliminary drafts of Kress' work, A manual of salary and wage administration (1950) and of Paul J. Gordon's Improving patient care through improved personnel administration (1951)</abstract>
+    <langmaterial id="aspace_b342f524b5a92a6663265632e03f801d">Collection material in English</langmaterial>
+    <unitid type="bibid">7924626</unitid>
+  </did>
+  <odd id="aspace_56d9d928e6d5e2a41e05fed03ab67b51">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 15, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, February 21, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_b0bef9e26935fca82cba4574f64c8576">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_c25903eada6ae833b4030653eedb8d27">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_416c3ac7ff7b880896d29a099af1da38">
+    <head>Preferred Citation</head>
+<p>Albert Leland Kress and Paul J. Gordon Manuscripts #/3054. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_669fd499c325cb452f1e618399c5dd3e">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05289.html"> 5289: AoM Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05593.html"> 5593: AoM Records</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Gordon, Paul L.</persname>
+    <persname audience="internal" source="ingest">Kress, Albert Leland.</persname>
+  </controlaccess>
+  <unitid type="bibid">7924626</unitid>
+  <dsc><c01 id="aspace_a352084236f18ffc8c9675b1bc84261e" level="file"><did><unittitle>Preliminary drafts of Kress work, A manual of salary and wage administration (1950) and of Paul J. Gordons Improving patient care through improved personnel administration (1951)</unittitle><container id="aspace_29ce0925a2168a769bbc7d8dc7fb1873" label="unspecified" type="box">1</container></did><c02 id="aspace_ea70a27cb7fbd80eaded73d4da7bb02a" level="file"><did><unittitle>Manual of Salary and Wage Administration - Preliminary Draft</unittitle><unitdate datechar="creation" normal="1950/1950">1950</unitdate><container id="aspace_cdcf6593bedb4083a403d52b6a9dcc6f" label="unspecified" type="box">1</container><container id="aspace_eb850024a811eebcabe65f4e1edbda25" parent="aspace_cdcf6593bedb4083a403d52b6a9dcc6f" type="folder">1</container></did></c02><c02 id="aspace_be26b1a750d3f3d97995613775ff7b38" level="file"><did><unittitle>Job Ratings, Descriptions &amp; Specifications</unittitle><unitdate datechar="creation" normal="1938/1938">1938</unitdate><container id="aspace_13de4ad3f38a784119a1c67d171a63cf" label="unspecified" type="box">1</container><container id="aspace_f6b713a6f45503a4397d43af40352eb6" parent="aspace_13de4ad3f38a784119a1c67d171a63cf" type="folder">2</container></did></c02></c01></dsc>
+</archdesc>
+</ead>

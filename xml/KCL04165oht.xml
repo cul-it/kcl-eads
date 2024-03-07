@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04165oht</eadid><filedesc><titlestmt><titleproper>McKelvey, Jean T. Interview with Ronald Schatz <num>/4165 OHT</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 03, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:22:09 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Jean T. McKelvey Interview with Ronald Schatz</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">McKelvey, Jean T.</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Schatz, Ronald</persname>
+    </origination>
+    <unitid>/4165 OHT</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1990/1991" type="inclusive">1990-1991</unitdate>
+    <physdesc id="aspace_45e4c9c7fa9f46f54f4b481a8b5d6383" label="Quantity:">0.3 linear ft.</physdesc>
+    <physdesc id="aspace_8804fc434c0aac340f52f868c523dc0b" label="Forms of Material:">Transcripts.</physdesc>
+    <abstract id="aspace_2a09639727166244b2524644b7823f25">Audio recording of Ronald Schatz's interview of Jean Trepp McKelvey</abstract>
+    <langmaterial id="aspace_a4a5313663efb490d59a7a83af2eadc1">Collection material in English</langmaterial>
+    <unitid type="bibid">7931046</unitid>
+  </did>
+  <odd id="aspace_941f9567ad6189d802c1d1c984025020">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, January 04, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 03, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_b30f11c69b24b28287aef533014404ed">
+    <head>Biographical / Historical</head>
+<p>Jean McKelvey (February 9, 1908 January 5, 1998) was one of the founding faculty at the New York State School of Industrial and Labor Relations at Cornell University in 1946, the first female member of the National Academy of Arbitrators (NAA) in 1947, the NAA's first female president in 1970, and an accomplished author of many works on arbitration and other labor topics. The first fully endowed chair at the ILR School was named the Jean McKelvey-Alice Grant Professorship of Labor-Management Relations. </p><p> A graduate of Wellesley College (AB '29, MA '31) and Radcliffe College (PhD '33), McKelvey taught at Sarah Lawrence College from 1932 to 1945. She joined the newly-formed New York State School of Industrial and Labor Relations in 1946 as the school's first professor, reaching the rank of full professor in 1951. She became Professor Emerita in 1976. In addition to developing the ILR School's fields of study with Maurice Neufeld, teaching at the ILR School, and conducting scholarly research, McKelvey served on the Region II National War Labor Board (1944-1945), New York State Board of Mediation (1955-1966), the Federal Services Impasses Panel (1979-1990), and other boards and panels. </p><p> Among her many honors and awards were the Federal Mediation and Conciliation Service's Special Award for Distinguished Service in Labor Management Relations (1973), Arbitrator of the Year Award from the American Arbitration Association (1983), and Distinguished Services Awards from Wellesley College (1975), the Society of Professionals in Dispute Resolution (1989), and the Society of Federal Labor Relations Professionals (1990). </p><p> See the Cornell University Faculty Memorial Statement for Professor Jean McKelvey: http://hdl.handle.net/1813/18133</p>  </bioghist>
+  <accessrestrict id="aspace_5b9b3a2bdeaa87d956a209dea0dcf971">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_ace54f052e9344097c586984ac0f5685">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_b4da77edb3547ce69a0af94b602380dd">
+    <head>Preferred Citation</head>
+<p>Jean T. McKelvey Interview with Ronald Schatz #/4165 OHT. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_cb316b5d1cbdd09710c6383edcaaf003">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL03001.html"> /3001: Jean T. McKelvey Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04180.html"> /4180: Jean T. McKelvey Additional Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04202.html"> /4202: Jean T. McKelvey Additional Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04202mb.html"> /4202 MB: Jean T. McKelvey Memorabilia</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04202p.html"> /4202 P: Jean T. McKelvey Photographs</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04208.html"> /4208: Maurice F. Neufeld and Jean T. McKelvey, eds. "Industrial Relations at the Dawn of the New Millennium" Monograph</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05154.html"> 5154: New York City Office of Collective Bargaining Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06038p.html"> 6038 P: Photographs Archival Collection</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <persname audience="internal" source="ingest">McKelvey, Jean T.(Jean Trepp), 1908-1998</persname>
+    <persname audience="internal" source="ingest">Schatz, Ronald W., 1949-</persname>
+  </controlaccess>
+  <unitid type="bibid">7931046</unitid>
+  <dsc><c01 id="aspace_f2f87460d03d0f50464f5552cfa601df" level="file"><did><unittitle>Memorandum of Understanding</unittitle><unitdate datechar="creation" normal="1991/1991">1991</unitdate><container id="aspace_6c7fd65da9f957c9680e6bd9b35c3fb9" label="unspecified" type="box">1</container><container id="aspace_1963c4aabbeffb7c9c56c0a4d3262887" parent="aspace_6c7fd65da9f957c9680e6bd9b35c3fb9" type="folder">1</container></did></c01><c01 id="aspace_4609780d9cd0e988021a75fc4331a47a" level="file"><did><unittitle>Jean Trepp McKelvey - An Interview conducted by Ronald Schatz - June 19, 1991</unittitle><unitdate datechar="creation" normal="1991/1991">1991</unitdate><container id="aspace_50c0dd42b0678c4f9a1b6ab32d971f21" label="unspecified" type="box">1</container><container id="aspace_1c62ba56063e8b97bf8f8521c8b835c9" parent="aspace_50c0dd42b0678c4f9a1b6ab32d971f21" type="folder">2</container></did></c01><c01 id="aspace_b78b727593cf91e12ac51fe4f84ef92a" level="file"><did><unittitle>Interview by Ronald Schatz with Prof. Jean McKelvey on October 5, 1990</unittitle><unitdate datechar="creation" normal="1990/1990">1990</unitdate><container id="aspace_cde6d2bc3c9618462dc9cd5d03d6347b" label="unspecified" type="box">1</container><container id="aspace_6836a6d9dbd94a31d765751976e8951b" parent="aspace_cde6d2bc3c9618462dc9cd5d03d6347b" type="folder">3</container></did></c01></dsc>
+</archdesc>
+</ead>

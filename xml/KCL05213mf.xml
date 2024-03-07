@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05213mf</eadid><filedesc><titlestmt><titleproper>International Workingmen's Association Records on Microfilm <num>5213 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 21, 2017</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:38:03 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>International Workingmen's Association Records on Microfilm</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">International Workingmen's Association</corpname>
+    </origination>
+    <unitid>5213 mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.22 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1868/1877" type="inclusive">1868-1877</unitdate>
+    <physdesc id="aspace_175321235c4538cd4fe4c1dd4ee0b11c" label="Quantity:">2 microfilm reels</physdesc>
+    <physdesc id="aspace_2facc2bb0b3a659736501949939aef8c" label="Forms of Material:">Broadsides (notices), microfilm.</physdesc>
+    <abstract id="aspace_31f08179e9579cb073787bcc7521a6cf">Records of a seminal socialist and Communist international labor movement.</abstract>
+    <langmaterial id="aspace_3cfcee8bd7b422c7aeb8e996f2711714">Collection material in English</langmaterial>
+    <unitid type="bibid">3337596</unitid>
+  </did>
+  <odd id="aspace_e928e630f730d1932583a3d7321549b2">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, May 05, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, February 21, 2017</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_807c5760ced642a65bb02ca9556fc9f6">
+    <head>Biographical / Historical</head>
+<p>Under the leadership of Karl Marx, this organization was originally based in London. The Association moved to New York in 1872. </p><p> The International Workingmen's Association (IWA) was organized in London at a mass meeting of European trade unionists in 1864. Karl Marx was elected to the General Council and he organized the International as a propaganda vehicle for international socialism. Until about 1869 the International concentrated on organizing trade unions. After that the International became interested in gaining support for itself in the United States. It found support in two rival factions of American socialists, the followers of Ferdinand Lassalle and the followers of Friedrich Sorge. In 1872 the IWA held a conference at The Hague, at which the General Council voted to move its headquarters to New York City, thus giving control of the IWA to the Americans, led by Sorge. The IWA was dissolved in 1876, and many of its members then helped to launch the Workingmen's Party of the United States.</p>  </bioghist>
+  <scopecontent id="aspace_1a437bc9fcc14c7cf88911ac5e2ae592">
+    <head>Scope and Contents</head>
+<p>This collection documents the activities of the International Workingmen's Association, especially in the United States. </p><p> The records of the General Council (1871-1874) include correspondence (1872-1874) and convention material (1871). Subjects covered include letters written by Friedrich Sorge regarding Friedrich Engel's financial responsibility for the International; and the progressively independent behavior of the Swiss, Italian and Spanish federal councils. </p><p> The records of the North American Federal Council (1868-1877) include correspondence (1871-1877), convention resolutions and proceedings (1870-1876), clippings (1870-1873) and broadsides (1871-1876). Topics relate to the Sorge faction of the federal council, commenting on the varying activities of the local sections and how the contemporary press viewed the International. </p><p> The records of Section 26, Philadelphia (1871-1876) include incoming correspondence, minutes, financial records, membership records and advertising materials. Subjects included are dissatisfaction that Sorge's Section 1 dominated the federal council; The Hague conference; and the eight-hour movement in Philadelphia. </p><p> The records of Section 1, St. Louis (1870-1877) include correspondence (1870-1877), financial records (1874-1876), and broadsides.</p>  </scopecontent>
+  <accessrestrict id="aspace_57841c04c8a010dd741908e0aa1c63b2">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_78e39e4f7662035ce8d88ab9a81095d9">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_b4ca1034843eefce577eefc4a2d82dbc">
+    <head>Preferred Citation</head>
+<p>International Workingmen's Association Records on Microfilm #5213 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Socialism</subject>
+    <subject source="ingest">Socialism--United States</subject>
+    <subject source="ingest">Socialists</subject>
+    <corpname audience="internal" source="ingest">International Workingmen's Association</corpname>
+    <corpname audience="internal" source="ingest">International Workingmen's Association--Archives--Microform catalogs.</corpname>
+    <corpname audience="internal" source="ingest">State Historical Society of Wisconsin.</corpname>
+    <persname audience="internal" source="ingest">Lassalle, Ferdinand, 1825-1864</persname>
+    <persname audience="internal" source="ingest">Mattern, Carolyn J.</persname>
+    <persname audience="internal" source="ingest">Sorge, Friedrich A. (Friedrich Adolf), 1828-1906</persname>
+  </controlaccess>
+  <unitid type="bibid">3337596</unitid>
+  <dsc><c01 id="aspace_40c966f35c8a8ba77f32039458a7bfeb" level="file"><did><unittitle>Records of the International Workingmen's Association -- 1868-1877 : Series 1-2</unittitle><unitdate datechar="creation" normal="1868/1877" type="inclusive">1868-1877</unitdate><container id="aspace_451deb22141d35befc31413cd5ba24e4" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_3840e3b6ae45532ac7912bd836a53319"><head>Scope and Contents</head><p>Positive</p></scopecontent></c01><c01 id="aspace_7388cc09438435fa63c199de0f52f912" level="file"><did><unittitle>Records of the International Workingmen's Association -- 1868-1877 : Series 3-4</unittitle><unitdate datechar="creation" normal="1868/1877" type="inclusive">1868-1877</unitdate><container id="aspace_c116fe1313bd27414efb8ce09cbd7ac5" label="unspecified" type="reel">2</container></did><scopecontent id="aspace_3b8723e550e5dbd1b1c4bd8599e82e21"><head>Scope and Contents</head><p>Positive</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

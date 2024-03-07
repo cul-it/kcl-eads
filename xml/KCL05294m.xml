@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05294m</eadid><filedesc><titlestmt><titleproper>Kester, Howard "The Lynching of Claude Neal" Report <num>5294m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>January 20, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:41:23 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Howard Kester "The Lynching of Claude Neal" Report</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Kester, Howard</persname>
+    </origination>
+    <unitid>5294m</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 folders</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1934/1934">1934</unitdate>
+    <physdesc id="aspace_f3a8811de4be1d9a7928b09036910b5e" label="Quantity:">1 file folder</physdesc>
+    <physdesc id="aspace_639545e335567fa77b4923fc75dbaa81" label="Forms of Material:">Pamphlet.</physdesc>
+    <abstract id="aspace_26932ae4f4672c8d1c888a71559937ed">Reprint of Howard Kester's report "The Lynching of Claude Neal."</abstract>
+    <langmaterial id="aspace_b41d36856f78a9adda654a7d7357fce8">Collection material in English</langmaterial>
+    <unitid type="bibid">8214567</unitid>
+  </did>
+  <odd id="aspace_f1d8659305bb50bdc4e4d74fe2bde769">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 18, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, January 20, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_22a007f8863334466d729250aa4aa689">
+    <head>Biographical / Historical</head>
+<p>An excerpt from the report: "Kester was active in the formation of an inter-racial student movement in the south in the late '20s and early '30s. He was an active organizer of the Southern Tenant Farmers Union 1935- 1940. In 1936, he wrote "Revolt Among the Sharecroppers,' now available as a reprint. He founded the Committee of Southern Churchmen and spent most of his active years as an educator. He retired in 1971, while Dean of Students at Montreat-Anderson College in North Carolina."</p>  </bioghist>
+  <scopecontent id="aspace_7fc1cbddba7516140c3955b15b652e65">
+    <head>Scope and Contents</head>
+<p>Reprint of Howard Kester's report "The Lynching of Claude Neal," published by the Southern Rural Welfare Association. The report was originally published by the National Association for the Advancement of Colored People (NAACP) on November 30, 1934.</p>  </scopecontent>
+  <accessrestrict id="aspace_7ee9607af84883a49cefc053626862bf">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_f0278642a65c8f6eee6c7b59d8b26fd3">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_649fadf1794bcd5595cecee41e292ef2">
+    <head>Preferred Citation</head>
+<p>Howard Kester "The Lynching of Claude Neal" Report #5294m. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Kester, Howard, 1904-1977</persname>
+    <persname audience="internal" source="ingest">Neal, Claude, -1934</persname>
+  </controlaccess>
+  <unitid type="bibid">8214567</unitid>
+  <dsc><c01 id="aspace_088dc59c0404a54c6db2b5005605649f" level="file"><did><unittitle>"The Lynching of Claude Neal"</unittitle><unitdate datechar="creation" normal="1934/1934">1934</unitdate><container id="aspace_2de21c74daba659851e616e09a329714" label="unspecified" type="box">1</container></did><scopecontent id="aspace_c9f3bdf95d304c61636502e867837560"><head>Scope and Contents</head><p>By Howard Kester; 8 pages.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

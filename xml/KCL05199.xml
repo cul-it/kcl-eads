@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05199</eadid><filedesc><titlestmt><titleproper>Pennsylvania Governor's Commission to Revise the Public Employee Law of Pennsylvania Statements, Hearings, Minutes, and Stenographic Reports of Public Hearings <num>5199</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 08, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:37:10 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Pennsylvania Governor's Commission to Revise the Public Employee Law of Pennsylvania Statements, Hearings, Minutes, and Stenographic Reports of Public Hearings</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Pennsylvania. Governor's Commission to Revise the Public Employee Law.</corpname>
+    </origination>
+    <unitid>5199</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1968/1969" type="inclusive">1968-1969</unitdate>
+    <physdesc id="aspace_5825aaa52548defa27a3d3679c17396d" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_d042e853fbe67d87b76ed9f389c6049a" label="Forms of Material:">Records (documents).</physdesc>
+    <abstract id="aspace_b02c7ed8e679a93b2d417b190cd87a0a">The collection contains Hickman Commission Statements; Pennsylvania Governor's Commission Hearings; Minutes of the Commission; and Stenographic Reports of Public Hearings.</abstract>
+    <langmaterial id="aspace_b524e9c0622fa1a87fda47a6a1db1866">Collection material in English</langmaterial>
+    <unitid type="bibid">5603568</unitid>
+  </did>
+  <odd id="aspace_a0269d930fe204cd2626f30ce5ae6da7">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, February 24, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 08, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <scopecontent id="aspace_1156d9b60b97dfba4e284826afbf6755">
+    <head>Scope and Contents</head>
+<p>The collection contains Hickman Commission Statements; Pennsylvania Governor's Commission Hearings; Minutes of the Commission; and Stenographic Reports of Public Hearings. </p><p> Senate Bill no. 355, no. 518, no. 1021 ; House Bill no. 1443 ; Public Employees Relations Bills are all included in this collection. </p><p> 1. Hickman Commission Statements (sheets) </p><p> 2. PA Governor's Commission Hearings (tape recordings) </p><p> 3. Minuets of the Commission (sheets) </p><p> 4. Stenographic Reports of Public Hearings: Sen. Bill #355, #518, #1021 (originals and mf), House Bill #1443 (originals and mf)-Public Employees Relations Bill.</p>  </scopecontent>
+  <accessrestrict id="aspace_b4c945c6527ab4ae0dcf303a54b2634c">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_822996006cc9048a7651c4f9751831a0">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_783fc7ba3ad3cba18bbd1431f3a06dcc">
+    <head>Preferred Citation</head>
+<p>Pennsylvania Governor's Commission to Revise the Public Employee Law of Pennsylvania Statements, Hearings, Minutes, and Stenographic Reports of Public Hearings #5199. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_3d69ee0371033af408f6349a3ca2557f">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05199av.html"> 5199 AV: Pennsylvania Governor's Commission to Revise the Public Employee Law of Pennsylvania Audio-Visual Materials</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05199mf.html"> 5199 mf: Pennsylvania Governor's Commission to Revise the Public Employee Law of Pennsylvania on Microfilm</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Collective labor agreements -- Government employees -- Pennsylvania.</subject>
+    <persname audience="internal" source="ingest">Ingersoll, Raymond V. (Raymond Vail), 1875-1940</persname>
+    <corpname audience="internal" source="ingest">Pennsylvania. Governor's Commission to Revise the Public Employee Law.</corpname>
+    <corpname audience="internal" source="ingest">Pennsylvania. General Assembly. Senate</corpname>
+  </controlaccess>
+  <unitid type="bibid">5603568</unitid>
+  <dsc><c01 id="aspace_d46b0e39ffe745cf5ea5bbc381d172e4" level="file"><did><unittitle>Hickman Commission Statements</unittitle><unitdate datechar="creation" normal="1968/1968">1968</unitdate><container id="aspace_40a3321909484aa37133007f5f737eb9" label="unspecified" type="box">1</container><container id="aspace_4bdfa7992f0db5ae43d49d844f54c0bb" parent="aspace_40a3321909484aa37133007f5f737eb9" type="folder">1</container></did></c01><c01 id="aspace_dacbd57e119fcd9cffcb6945729815b9" level="file"><did><unittitle>Minutes of the Pennsylvania Commission</unittitle><unitdate datechar="creation" normal="1968/1968">1968</unitdate><container id="aspace_6d942a2ca6170ecc91ae16c295b164ca" label="unspecified" type="box">1</container><container id="aspace_2079762b6174f4ae7b345875b9fdb848" parent="aspace_6d942a2ca6170ecc91ae16c295b164ca" type="folder">2</container></did></c01><c01 id="aspace_dbfc598922558dbc1ccdb2fbf678e297" level="file"><did><unittitle>Stenographic Report of Public Hearing re Senate Bill No. 355, Public Employees Relations Bill</unittitle><unitdate datechar="creation" normal="1969/1969">1969</unitdate><container id="aspace_8c379d41858cc82afdb6800e24399ba6" label="unspecified" type="box">2</container><container id="aspace_194a849c895ab39e746093a4104570f2" parent="aspace_8c379d41858cc82afdb6800e24399ba6" type="folder">1</container></did><scopecontent id="aspace_80b02984d23521a7eb3f5be5f8c6f29e"><head>Scope and Contents</head><p>June 11 1969</p></scopecontent></c01><c01 id="aspace_5a0b4e26baf8488244b6fc44b65af0cb" level="file"><did><unittitle>Senate Bill No. 518, Senate Bill No. 1021 and House Bill No. 1443, Public Employees Relations Bills</unittitle><unitdate datechar="creation" normal="1969/1969">1969</unitdate><container id="aspace_800a4a77a6c23c462f70cdc93c2ac33e" label="unspecified" type="box">2</container><container id="aspace_71e8ac107d4d4429fadb503b4293f19c" parent="aspace_800a4a77a6c23c462f70cdc93c2ac33e" type="folder">2</container></did><scopecontent id="aspace_275550fe1daa92c3eaa72c2e03cc6c4d"><head>Scope and Contents</head><p>August 21 1969</p></scopecontent></c01><c01 id="aspace_44cc43e65c9cd1437ee79cadfadc452b" level="file"><did><unittitle>Senate Bill No. 518, Senate Bill No. 1021 and House Bill No. 1433, Public Employees Relations Bills</unittitle><unitdate datechar="creation" normal="1969/1969">1969</unitdate><container id="aspace_7788753a853514afcb282c9d3b9ac6ac" label="unspecified" type="box">2</container><container id="aspace_85144353b279b48e11fadd4fa03c81cf" parent="aspace_7788753a853514afcb282c9d3b9ac6ac" type="folder">3</container></did><scopecontent id="aspace_9003cef80b0ef62a629f993e251d2380"><head>Scope and Contents</head><p>August 22 1969</p></scopecontent></c01><c01 id="aspace_b15b0ed0f4d0651c6e64d00afc61f454" level="file"><did><unittitle>Senate Bill No. 355, Public Employes Relations Bill</unittitle><unitdate datechar="creation" normal="1969/1969">1969</unitdate><container id="aspace_b2951266109dd96dceff0b30edae4818" label="unspecified" type="box">2</container><container id="aspace_8be687d599703cfce72b98d018f79dde" parent="aspace_b2951266109dd96dceff0b30edae4818" type="folder">4</container></did><scopecontent id="aspace_db010f7ca62d31eab66caba79323de2f"><head>Scope and Contents</head><p>May 23 1969</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04298</eadid><filedesc><titlestmt><titleproper>ILR School Faculty Arbitration Awards <num>/4298</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 05, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:27:15 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILR School Faculty Arbitration Awards</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">New York State School of Industrial and Labor Relations (NYSSILR)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Alexander, Gabriel N.</persname>
+    </origination>
+    <origination label="Creator">
+      <persname role="creator" source="ingest">Campbell, Ralph N.</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Dunlop, John T.</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Fuller, John J.</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Jensen, Vernon H.</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">McKelvey, Jean T.</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Mintz, Frederick M.</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Raimon, Robert L.</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Waldrin, John E.</persname>
+    </origination>
+    <unitid>/4298</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1948/1967" type="inclusive">1948-1967</unitdate>
+    <physdesc id="aspace_9d2a470dff3d81460e166c30e5cfa83f" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_19fd31444d2f08ea2427edb663372025" label="Forms of Material:">Awards.</physdesc>
+    <abstract id="aspace_6f3577e6c95fea25df282dbf77b31204">This is a collection of arbitration awards where the arbitrator was a member of the faculty of the New York State School of Industrial and Labor Relations. There are seventy awards ranging in date from 1948 to 1967. The majority of the awards are from three arbitrators: Ralph N. Campbell, Vernon H. Jensen, and Jean T. McKelvey.</abstract>
+    <langmaterial id="aspace_c51d3ddc970dff8e98c3dbd2049dd4f3">Collection material in English</langmaterial>
+    <unitid type="bibid">7577497</unitid>
+  </did>
+  <odd id="aspace_c3e6a30c8a79283a95308b4754f7850e">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, February 15, 2012</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 05, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_6188e7c388bb8f0ac0c231864041abe7">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_dc37fd6c6ecba1ea8f1f805600403909">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_d018d5fdadada7d2133de817dcacbb1c">
+    <head>Preferred Citation</head>
+<p>ILR School Faculty Arbitration Awards #/4298. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_cb75c37a7a8571613a9c94071138cf49">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL03001.html"> /3001: Jean T. McKelvey Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL03002.html"> /3002: Vernon Jensen Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL03041.html"> /3041: Ralph Campbell Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL03062.html"> /3062: ILR School Public Information Center Publications</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04007.html"> /4007: Vernon Jensen Additional Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04128.html"> /4128: Vernon Jensen Additional Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04137.html"> /4137: Vernon Jensen Additional Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04180.html"> /4180: Jean T. McKelvey Additional Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04202.html"> /4202: Jean T. McKelvey Additional Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05133.html"> 5133: Gabriel Alexander Arbitration Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05602.html"> 5602: Gabriel Alexander Additional Arbitration Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05678.html"> 5678: Gabriel Alexander Additional Arbitration Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05789.html"> 5789: Gabriel Alexander Additional Arbitration Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05839.html"> 5839: Vernon Jenson Additional Arbitration Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05902.html"> 5902: Vernon Jensen Additional Arbitration Files</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Alexander, Gabriel N., 1910-</persname>
+    <persname audience="internal" source="ingest">Campbell, Ralph N.(Ralph Norton), 1910-</persname>
+    <persname audience="internal" source="ingest">Dunlop, John T.(John Thomas), 1914-2003</persname>
+    <persname audience="internal" source="ingest">Fuller, John J.</persname>
+    <persname audience="internal" source="ingest">Jensen, Vernon H.</persname>
+    <persname audience="internal" source="ingest">McKelvey, Jean T.(Jean Trepp), 1908-1998</persname>
+    <persname audience="internal" source="ingest">Mintz, Frederick M.</persname>
+    <persname audience="internal" source="ingest">Raimon, Robert L.</persname>
+    <persname audience="internal" source="ingest">Waldrin, John E.</persname>
+    <corpname source="ingest">New York State School of Industrial and Labor Relations</corpname>
+  </controlaccess>
+  <unitid type="bibid">7577497</unitid>
+  <dsc><c01 id="aspace_9d396f992c5a63523a2fd6ddcaba3e64" level="file"><did><unittitle>Alexander, Gabriel N.</unittitle><unitdate datechar="creation" normal="1949/1949">1949</unitdate><container id="aspace_c11365bd908b11e21bf0450aca74449d" label="unspecified" type="box">1</container><container id="aspace_65620aa6f80ff096a329d85ed143add1" parent="aspace_c11365bd908b11e21bf0450aca74449d" type="folder">1</container></did><scopecontent id="aspace_10b1571e13d67ff29bae5595d61e107f"><head>Scope and Contents</head><p>One arbitration award</p></scopecontent></c01><c01 id="aspace_50ab65de91b895b2e9a6f2314385de12" level="file"><did><unittitle>Campbell, Ralph N.</unittitle><unitdate datechar="creation" normal="1955/1959" type="inclusive">1955-1959</unitdate><container id="aspace_83a8d5357dc412e55e8eeb4e4e98bde9" label="unspecified" type="box">1</container><container id="aspace_2523108e56ec41f9a3ac6333769640f3" parent="aspace_83a8d5357dc412e55e8eeb4e4e98bde9" type="folder">2</container></did><scopecontent id="aspace_fe24e42e393df344174c169369303ce3"><head>Scope and Contents</head><p>Five arbitration awards</p></scopecontent></c01><c01 id="aspace_86cf14894fca4840d0ccb226814a3cdd" level="file"><did><unittitle>Campbell, Ralph N.</unittitle><unitdate datechar="creation" normal="1960/1965" type="inclusive">1960-1965</unitdate><container id="aspace_6cfda5c80e6718c4bf9fe1e012f8477a" label="unspecified" type="box">1</container><container id="aspace_7e637c5b6a29a42c87dcd7fac9f126a9" parent="aspace_6cfda5c80e6718c4bf9fe1e012f8477a" type="folder">3</container></did><scopecontent id="aspace_53d0bb0f7e87a695317335365cb594c4"><head>Scope and Contents</head><p>Four arbitration awards</p></scopecontent></c01><c01 id="aspace_195195e6a25701bd70fb1ba63fdf4435" level="file"><did><unittitle>Dunlop, John T.</unittitle><unitdate datechar="creation" normal="1948/1948">1948</unitdate><container id="aspace_e0ba2d24446e689bcd9678ce299501bc" label="unspecified" type="box">1</container><container id="aspace_522e31bcec48551c00e53615ecc48666" parent="aspace_e0ba2d24446e689bcd9678ce299501bc" type="folder">4</container></did><scopecontent id="aspace_7e84d69f78f433be48499aa7f589be30"><head>Scope and Contents</head><p>One arbitration award</p></scopecontent></c01><c01 id="aspace_956b5216e259728a51be779432c311b6" level="file"><did><unittitle>Flagler, John J.</unittitle><unitdate datechar="creation" normal="1962/1962">1962</unitdate><container id="aspace_3ec48b64ca946d77f3916a7d9d2607b5" label="unspecified" type="box">1</container><container id="aspace_9e5807b106acb536af691a212d3871e3" parent="aspace_3ec48b64ca946d77f3916a7d9d2607b5" type="folder">5</container></did><scopecontent id="aspace_ca2ef90f39c19867d7ccdeb354157bb4"><head>Scope and Contents</head><p>One arbitration award</p></scopecontent></c01><c01 id="aspace_1e59eaa7a4bce9c5dbb07b6902f13b81" level="file"><did><unittitle>Jensen, Vernon H.</unittitle><unitdate datechar="creation" normal="1964/1964">1964</unitdate><container id="aspace_96fc109115471a844c624f0217a10c64" label="unspecified" type="box">1</container><container id="aspace_63c86c7ca4c6018134abd3c19cc0f079" parent="aspace_96fc109115471a844c624f0217a10c64" type="folder">6</container></did><scopecontent id="aspace_208e0f8956fd1a5f771e7cf249fa0f9d"><head>Scope and Contents</head><p>Fifteen arbitration awards</p></scopecontent></c01><c01 id="aspace_ff326aa27cc7ffeb57d714373ca37860" level="file"><did><unittitle>Jensen, Vernon H.</unittitle><unitdate datechar="creation" normal="1965/1965">1965</unitdate><container id="aspace_92e5b5b3ccb2ce31e904dafb815025ea" label="unspecified" type="box">1</container><container id="aspace_dcb4b0b43ef6d6d8cf67964bc74af952" parent="aspace_92e5b5b3ccb2ce31e904dafb815025ea" type="folder">7</container></did><scopecontent id="aspace_9a9ca4249013ebf4df68eaefe9792f69"><head>Scope and Contents</head><p>Sixteen arbitration awards</p></scopecontent></c01><c01 id="aspace_6721accb4b59df1d218f4c064b076c99" level="file"><did><unittitle>Jensen, Vernon H.</unittitle><unitdate datechar="creation" normal="1966/1966">1966</unitdate><container id="aspace_da9df3589013b44d3fadb40ae07053c0" label="unspecified" type="box">1</container><container id="aspace_33040b7d2be0c0d5c503ff5ad3d19dc2" parent="aspace_da9df3589013b44d3fadb40ae07053c0" type="folder">8</container></did><scopecontent id="aspace_edcbb0e13d3781b7e9c2e2c41e98aa42"><head>Scope and Contents</head><p>Seven arbitration awards</p></scopecontent></c01><c01 id="aspace_285c6f04fd30e080d686e56a071acfae" level="file"><did><unittitle>McKelvey, Jean T.</unittitle><unitdate datechar="creation" normal="1953/1958" type="inclusive">1953-1958</unitdate><container id="aspace_a0dc2a984de901f12e8d9159a9d5787f" label="unspecified" type="box">1</container><container id="aspace_ae3270f661e3cb3cd80384b6013bb88c" parent="aspace_a0dc2a984de901f12e8d9159a9d5787f" type="folder">9</container></did><scopecontent id="aspace_5a765ed7873b49e8ef9f252df020151a"><head>Scope and Contents</head><p>Six arbitration awards</p></scopecontent></c01><c01 id="aspace_4bf2a77bddbb40ec1dec48c21d59e3a2" level="file"><did><unittitle>McKelvey, Jean T.</unittitle><unitdate datechar="creation" normal="1962/1967" type="inclusive">1962-1967</unitdate><container id="aspace_ad704ef28857fc692b41a87718c81ecb" label="unspecified" type="box">1</container><container id="aspace_7af468d6bf401c9fd5df72ccc7f5bb45" parent="aspace_ad704ef28857fc692b41a87718c81ecb" type="folder">10</container></did><scopecontent id="aspace_05a69b3469152f5bf579766b48857ca4"><head>Scope and Contents</head><p>Eight arbitration awards</p></scopecontent></c01><c01 id="aspace_a7b66689c9e9acf19dee769e6ae75bab" level="file"><did><unittitle>Mintz, Frederick M.</unittitle><unitdate datechar="creation" normal="1955/1955">1955</unitdate><container id="aspace_a83d2d520435128d5373a9c491314f69" label="unspecified" type="box">1</container><container id="aspace_d3c71a642e14fc3883e63acaebdb910f" parent="aspace_a83d2d520435128d5373a9c491314f69" type="folder">11</container></did><scopecontent id="aspace_ec23da3b86c1738f782caabb449a7d88"><head>Scope and Contents</head><p>One arbitration award</p></scopecontent></c01><c01 id="aspace_24c6f492b085fba5eb3cf1d728aa3650" level="file"><did><unittitle>Raimon, Robert L.</unittitle><unitdate datechar="creation" normal="1960/1962" type="inclusive">1960-1962</unitdate><container id="aspace_e04e7095a2511974133e6a50c7ba2ca2" label="unspecified" type="box">1</container><container id="aspace_14dcc138b900fdcb6a1248221308fa01" parent="aspace_e04e7095a2511974133e6a50c7ba2ca2" type="folder">12</container></did><scopecontent id="aspace_285c62580493182f0a3b9249f24ac016"><head>Scope and Contents</head><p>Two arbitration awards</p></scopecontent></c01><c01 id="aspace_a5f3eaac3fa6b2ec574ab03f4b8cbc6a" level="file"><did><unittitle>Waldrin, John E.</unittitle><unitdate datechar="creation" normal="1967/1967">1967</unitdate><container id="aspace_941a939a58b82ee5e4abf8f67b1ddfab" label="unspecified" type="box">1</container><container id="aspace_8637fea8b8df521cba1ccf6a6360849d" parent="aspace_941a939a58b82ee5e4abf8f67b1ddfab" type="folder">13</container></did><scopecontent id="aspace_b23c4fed67f824e933ca09bc40f3abcd"><head>Scope and Contents</head><p>One arbitration award</p></scopecontent></c01><c01 id="aspace_ebe9c8d38229f4f4e90dbcc9a13a1a14" level="file"><did><unittitle>Arbitrator not stated</unittitle><unitdate datechar="creation" normal="1960/1960">1960</unitdate><container id="aspace_6b7a424c9d3d76d6ee104459720c6aa2" label="unspecified" type="box">1</container><container id="aspace_664b497dbfd77bb63b98dd9894bdb77b" parent="aspace_6b7a424c9d3d76d6ee104459720c6aa2" type="folder">14</container></did><scopecontent id="aspace_d7c4f713b12848c8a09a16eaf90c8fdb"><head>Scope and Contents</head><p>One arbitration award</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

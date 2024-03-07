@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL03008av</eadid><filedesc><titlestmt><titleproper>Hildebrand, George H. "The Government's Wage-Price Policy: A Long Range View," Address before ILR Council <num>/3008 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 17, 2013</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:13:04 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>George H. Hildebrand "The Government's Wage-Price Policy: A Long Range View," Address before ILR Council</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Hildebrand, George H.</persname>
+    </origination>
+    <unitid>/3008 AV</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.61 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1972-02-04/1972-02-04">February 4, 1972</unitdate>
+    <physdesc id="aspace_fa71ecaf36e66d2845f89c570bcf8474" label="Quantity:">0.6 linear ft.</physdesc>
+    <physdesc id="aspace_cecc22014cc71f47e942d474439cb706" label="Forms of Material:">Audio cassette tapes, audio open-reel tapes.</physdesc>
+    <abstract id="aspace_d512665d943e5466c7290a99d372529e">George H. Hildebrand's Speech on wage-price policy before ILR Council, February 4, 1972.</abstract>
+    <langmaterial id="aspace_c6f5f79b68b6d229e62cfeb59773efac">Collection material in English</langmaterial>
+    <unitid type="bibid">7551346</unitid>
+  </did>
+  <odd id="aspace_458b14c31ec7ec0db0c440bc22299b02">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel">http://www.ilr.cornell.edu/library/kheel</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, March 01, 2012</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, April 17, 2013</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_ab74ef43190c782745277aeb61fb1494">
+    <head>Biographical / Historical</head>
+<p>George H. Hildebrand (July 7, 1913 – May 18, 2007) was the Maxwell M. Upson Professor of Economics and Industrial and Labor Relations at Cornell University. </p><p> After graduating of the University of California-Berkeley (BA '35), Harvard University (MA '41), and Cornell University ('42), Hildebrand served in the military during World War II. From 1947 to 1954, he was a professor at the University of California-Los Angeles. In 1960, he became Professor of Economics and Industrial Relations at Cornell University, an in 1970 he became the Maxwell M. Upson Professor Economics and Industrial Relations. </p><p> Hildebrand was a member of the National Academy of Arbitrators, a member of panels of the Federal Mediation and Conciliation Services and the New York State Public Employee Relations Board. He served as the Deputy Undersecretary of Labor of the U.S. Department of Labor (1969-1971), was elected President of the Industrial Relations Research Association (1971), and was founding director of Cornell's Center for the Study of American Political Economy (1980).</p><p> See the <extref xlink:href="http://hdl.handle.net/1813/19045">Cornell University Faculty Memorial Statement for Professor George H. Hildebrand</extref></p>  </bioghist>
+  <accessrestrict id="aspace_9295fc9d3a3edd910a59463a8df9ffb6">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_6f351e24b8a010aff10d35ff905f725e">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_2edcb0e2083783d0475e553e98b40501">
+    <head>Preferred Citation</head>
+<p>George H. Hildebrand "The Government's Wage-Price Policy: A Long Range View," Address before ILR Council, February 4, 1972 #/3008 AV. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Wages -- Government policy.</subject>
+    <persname audience="internal" source="ingest">Hildebrand, George H..</persname>
+  </controlaccess>
+  <unitid type="bibid">7551346</unitid>
+  <dsc><c01 id="aspace_152efe5ef87136a5275ccf8e4fff61ea" level="file"><did><unittitle>Prof. George Hildebrand Address</unittitle><unitdate datechar="creation" normal="1972/1972">1972</unitdate><container id="aspace_8a13d6b573a9ce9d6f07dcc98d6388b5" label="unspecified" type="box">1</container><container id="aspace_36e82a6b9797142201a3301823fc641f" parent="aspace_8a13d6b573a9ce9d6f07dcc98d6388b5" type="folder">1</container></did><scopecontent id="aspace_1ccb8ddc77753d59eba4891f45ad16b3"><head>Scope and Contents</head><p>Before the ILR Council February 4, 1972.</p></scopecontent></c01><c01 id="aspace_637c7c83c16c05efa7ebf15955dab836" level="file"><did><unittitle>Prof. George Hildebrand Address</unittitle><unitdate datechar="creation" normal="1972/1972">1972</unitdate><container id="aspace_7771f73bb1c1d86813e0bfd6c567d12b" label="unspecified" type="box">1</container><container id="aspace_b702ba653592b8d7d7c5f5aa2cd6548f" parent="aspace_7771f73bb1c1d86813e0bfd6c567d12b" type="folder">2</container></did><scopecontent id="aspace_9e397a0b3c81204561f01896676efacc"><head>Scope and Contents</head><p>Address for the ILR Council, February 4, 1972. Duplicate copy.</p></scopecontent></c01><c01 id="aspace_4d8291583556500d79dcb4f2d05214a4" level="file"><did><unittitle>Prof. George Hildebrand address to ILR Council 2/4/1972</unittitle><container id="aspace_c2301c4ec3e726643474d8f27629ba91" label="unspecified" type="box">2</container></did></c01><c01 id="aspace_23c876f263bb6130c50c6f49a07e0817" level="file"><did><unittitle>Prof. George Hildebrand address to ILR Council 2/4/1972</unittitle><unitdate datechar="creation" normal="1972/1972">1972</unitdate><container id="aspace_9bd8e892b126e2ea7574b018e5a0a9be" label="unspecified" type="box">2</container><container id="aspace_743d46a9576fc67a321fc3d1189750f3" parent="aspace_9bd8e892b126e2ea7574b018e5a0a9be" type="folder">1</container></did><scopecontent id="aspace_e6403469764e916a5cafd0b818e4e9f8"><head>Scope and Contents</head><p>Use copy.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05110</eadid><filedesc><titlestmt><titleproper>Billikopf, Jacob New York City Men's Clothing Industry Arbiration Case Files <num>5110</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 31, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:33:16 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Jacob Billikopf New York City Men's Clothing Industry Arbiration Case Files</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Billikopf, Jacob</persname>
+    </origination>
+    <unitid>5110</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1925/1929" type="inclusive">1925- 1929</unitdate>
+    <physdesc id="aspace_5f50384f332258b52cb276681d36173d" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_4e899a87725723a339709cc4e44364f8" label="Forms of Material:">Decisions .</physdesc>
+    <abstract id="aspace_6853334ccd5b607d6a95ef41fe4dfbb7">Includes over 400 arbitration awards by Billikopf for cases involving the Amalgamated Clothing Workers of America and the New York men's clothing industry.</abstract>
+    <langmaterial id="aspace_79d21c34228502f77da6fde4988eb576">Collection material in English</langmaterial>
+    <unitid type="bibid">3336822</unitid>
+  </did>
+  <odd id="aspace_d14a8be4a4f433897ecf8e75910ab9a6">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 24, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 31, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_99f3c44e740c4399d2b34ed34c330037">
+    <head>Biographical / Historical</head>
+<p>Jacob Billikopf (Ph.D., University of Chicago, 1903) was a prominent figure in Jewish social work, an arbitrator and mediator, </p><p> Billikopf served as superintendent of the United Jewish Charities in Milwaukee and Kansas City; as executive director of the Federation of Jewish Philanthropies in Philadelphia; as impartial chairman in the New York men's clothing industry; as chairman of the National Labor Board for the Philadelphia region during the 1930's and as chairman of the ladies' garment industry in Philadelphia. He was an important member of the boards of the New School for Social Research and of Howard University, and was a vice-president of the American Association for Social Security, among numerous other public service activities.</p>  </bioghist>
+  <bioghist id="aspace_b83dea3c1ebd88341cbf98ca0bccee3c">
+    <head>Biographical / Historical</head>
+<p>The Amalgamated Clothing Workers of America was organized in December 1914, after the militant New York City locals of the United Garment Workers of America had been denied representation at that body's October convention. Although the purposes of the Union were expressed by its Constitution in terms of class struggle and worker solidarity, ACW leaders instituted a program of union-management cooperation based upon the experiences of the International Ladies' Garment Workers Union with the Protocols of 1910-13, and the UGW locals in New York and Chicago with the establishment of permanent arbitration machinery during the same period. </p><p> A prototype of subsequent agreements in the men's clothing industry may be found in the Chicago Hart, Schaffner&amp; Marx agreements of 1911-1913, since they involved the Union and a single manufacturer, rather than the Union and the associated manufacturers of a particular geographical area, as was the case in the ladies1 garment industry. These agreements, however, differed from the majority of Amalgamated Clothing Workers' agreements in following the Protocol' s model of grievance machinery: "Clerks" for the workers and the employer attempted to settle disputes on the shop level. In cases of disagreement, the matter went to a "Board of Trade" (Board of Grievances) composed of equal numbers of representing both sides, but with an impartial chairman. Supreme authority was held by a Board of Arbitration, composed of a representative each of the Union and the manufacturer, and a third person not connected with the industry chosen by the other two. </p><p> So complex a system was suitable for the Chicago market, where a few large manufacturers dominated the production of ready-to-wear clothing, or a market in which a strong association of manufacturers might be established. The men's clothing industry in New York City, however, was characterized by intense competition among numerous small manufacturers operating "inside" or "outside" shops, or both. Although several associations existed, their membership determined by type of garment produced (as Boys' Wash Suit Manufacturers' Association), geographical location (as the East Side Retail Clothing Manufacturers' Association), or the type of manufacturing involved (ready-to-wear, special order, or custom tailoring), none was strong enough to represent even a single sub-industry within the market. As a consequence, agreements of the New York locals with associations or with individual manufacturers, from the time of the general strike in the winter of 1912-1913, called for negotiations of grievances by a shop chairman and a representative of the particular employer involved. In case of disagreement, an impartial umpire was to be consulted, either as an individual arbitrator or as an Impartial Chairman of an Arbitration Board. (Short-lived experiments with other methods were made from time to time, as in the agreement of 1915-1916 with the American Clothing Manufacturers' Association, which provided for a "Board of Moderators" composed of three representatives of the Union, three of the Association, and three of the public.) </p><p> Although strikes of short duration seemed to have been held before each new agreement was made, in each case the issues involved were wages and hours, or out-of-town contracting, rather than the grievance procedure. The "Impartial Chairman" system has functioned continuously and successfully whenever employers have been willing to bargain with the Amalgamated and to consider seriously its demands. When they have not, as during the 1920-1921 lockout by member firms of the Clothing Manufacturers' Association of New York, the result of a desire to return to a prewar "normalcy", amicable relations between workers and employers has been impossible. </p><p> During the summer of 1919, a National Industrial Federation of Clothing Manufacturers was formed by manufacturers in the New York, Chicago, Rochester, and Baltimore markets, in an attempt to create machinery for regulating and stabilizing the entire men's clothing industry. Such a plan was not to be successful until the Federal Government interfered to form the Men's Clothing Code Authority under the National Recovery Administration in 1933. When the National Industrial Recovery Act was declared unconstitutional in May, 1935, however, the cooperative Code Authority was dissolved, and conditions in the industry reverted to those of 1932.</p>  </bioghist>
+  <scopecontent id="aspace_c61cdfb992eef55eb29fca1bb0346989">
+    <head>Scope and Contents</head>
+<p>Includes over 400 arbitration awards by Billikopf for cases involving the Amalgamated Clothing Workers of America and the New York men's clothing industry. </p><p> The major issues include requests for additional contractors, the registration of contractors, requests to dispense with contractors, dismissal, price adjustment, underproduction, contracting out to non-union shops, the use of non-union cutters, reinstatement, work reduction in work force, wage reduction, departmental reorganization, and registered contractors not receiving work.</p>  </scopecontent>
+  <accessrestrict id="aspace_7ca85b218328c372fbac958660c84e08">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_dcb752576faa238b44139ae2a830e681">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_ee0afbcc80639e5ab1a6d124b8dd226e">
+    <head>Preferred Citation</head>
+<p>Jacob Billikopf New York City Men's Clothing Industry Arbiration Case Files #5110. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_a0caefe5218917f901b2c2b9ea61cefa">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619.html"> 5619: ACWA Records</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Arbitration, Industrial--New York (State)--New York--Cases.</subject>
+    <subject source="ingest">Industrial arbitrators.</subject>
+    <subject source="ingest">Clothing workers.</subject>
+    <subject source="ingest">Arbitration, Industrial. Men's clothing industry. United States.</subject>
+    <subject source="ingest">Contracting out. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Employees, Dismissal of. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Labor contractors. Men's clothing industry. New York (N.Y.)</subject>
+    <subject source="ingest">Labor productivity. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Trade-union security. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Trade-unions. Clothing workers. New York (N.Y.)</subject>
+    <subject source="ingest">Wages. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Wages. Men's clothing industry. New York (N.Y.)</subject>
+    <subject source="ingest">Work rules. Arbitration, Industrial. United States.</subject>
+    <persname audience="internal" source="ingest">Billikopf, Jacob, 1883-1950</persname>
+    <corpname source="ingest">Amalgamated Clothing Workers of America</corpname>
+  </controlaccess>
+  <unitid type="bibid">3336822</unitid>
+  <dsc><c01 id="aspace_08dd28240d1ba6ecf86a89a0d197712d" level="file"><did><unittitle>New York Clothing Industry Cases no.69-154</unittitle><unitdate datechar="creation" normal="1925/1925">1925</unitdate><container id="aspace_1595ba9a35640f15418ea357bb3329ab" label="unspecified" type="box">1</container><container id="aspace_eba031228a15b56fb204f3b43ac7b8ac" parent="aspace_1595ba9a35640f15418ea357bb3329ab" type="folder">1</container></did></c01><c01 id="aspace_8ae4caf667188d0c5db72a7e2304e88b" level="file"><did><unittitle>New York Clothing Industry Cases no.160-308</unittitle><unitdate datechar="creation" normal="1926/1926">1926</unitdate><container id="aspace_d52a28b4061798500f39e793b7a97fb4" label="unspecified" type="box">1</container><container id="aspace_a2b7267f323070dfb7cea214c4d3f0fa" parent="aspace_d52a28b4061798500f39e793b7a97fb4" type="folder">2</container></did></c01><c01 id="aspace_afa6c848d91ab9f771c240748901bced" level="file"><did><unittitle>New York Clothing Industry Cases no.310-414</unittitle><unitdate datechar="creation" normal="1927/1927">1927</unitdate><container id="aspace_5ec8f062eec2048c316b381f70712d49" label="unspecified" type="box">1</container><container id="aspace_f5d82708064265925079610623cf8f10" parent="aspace_5ec8f062eec2048c316b381f70712d49" type="folder">3</container></did></c01><c01 id="aspace_394f6e43af60287a739415c4a5f724e0" level="file"><did><unittitle>New York Clothing Industry Cases no.417-498</unittitle><unitdate datechar="creation" normal="1928/1928">1928</unitdate><container id="aspace_b83b21aa72ad07a468e4d2d1b5db7acf" label="unspecified" type="box">1</container><container id="aspace_caa18fb41b5a4722588ff288ec3d354c" parent="aspace_b83b21aa72ad07a468e4d2d1b5db7acf" type="folder">4</container></did></c01><c01 id="aspace_9e84f66e7252cf9d8b89578093c9067c" level="file"><did><unittitle>New York Clothing Industry Cases no.499-521</unittitle><unitdate datechar="creation" normal="1929/1929">1929</unitdate><container id="aspace_1f4d1eb1af37f7e05b5dd6bfeacefd52" label="unspecified" type="box">1</container><container id="aspace_744c575c219f2a9a17fa6cb1304bd8d5" parent="aspace_1f4d1eb1af37f7e05b5dd6bfeacefd52" type="folder">5</container></did></c01></dsc>
+</archdesc>
+</ead>

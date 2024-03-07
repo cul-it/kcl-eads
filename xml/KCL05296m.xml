@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05296m</eadid><filedesc><titlestmt><titleproper>Schloessberg, Joseph Diaries Excerpts <num>5296m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>January 20, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:41:27 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Joseph Schloessberg Diaries Excerpts</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Schloessberg, Joseph</persname>
+    </origination>
+    <unitid>5296m</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 folders</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1940/1943" type="inclusive">1940-1943</unitdate>
+    <physdesc id="aspace_8cbcc75e36aa4a842e76c1e54eb0032b" label="Quantity:">1 file folder</physdesc>
+    <physdesc id="aspace_084b95f26d6d4fea8d6b85f3412e7e85" label="Forms of Material:">Records.</physdesc>
+    <abstract id="aspace_aafabd7b1d6dae57c4c985476bcfb0d7">Typescript copies of excerpts from Joseph Schlossberg's diaries at the Histadrut Archives.</abstract>
+    <langmaterial id="aspace_ef469de39b8576fedb2180fadded6ac5">Collection material in English</langmaterial>
+    <unitid type="bibid">8214573</unitid>
+  </did>
+  <odd id="aspace_3be9deca0b6a5fac565be6a32c268809">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 18, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, January 20, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_0456b73afd160d9fb69fe66893370ae5">
+    <head>Biographical / Historical</head>
+<p>Born in Koidanovo (now Dzerzhinsk), Belorussia, Russia, May 1, 1875; son of Max, a tailor, and Bessie (Feldman) Schlossberg; Jewish; married Anna Grossman on September 5, 1905; two children; emigrated to the United States in 1888 and, after attending the public schools of New York City for one year, began work as a cloakmaker in the New York City garment industry; while involved in the organization of garment workers during the 1890s, joined the Socialist Labor party and edited its Yiddish language journals, Das Abend Blatt, 189-1902 and Der Arbeiter, 1904-1911; attended the Columbia University School for Political Science, 1905-1907; supported a group of New York City tailors striking against the wishes of their parent organization, the United Garment Workers of America, in 1913, and led a secessionist movement that resulted in the organization of the United Brotherhood of Tailors (UBT); elected secretary of the New York Joint Board of the UBT; was one of the founders of the Amalgamated Clothing Workers of America (ACWA) in 1914 and elected general secretary-treasurer of the new organization; served as a fraternal delegate to the Congress for Labor Palestine, 1918, the International Congress of Clothing Workers, Copenhagen, 1920, and the Mexican Federation of Labor, Juarez, 1924; was a charter member of the National Labor Committee for Labor Israel and elected chairman in 1934; appointed to the New York City Board of Higher Education in 1935, serving until 1963; resigned union positions in 1940 to devote further time and effort to Zionist and communicty affairs; after the establishment of the State of Israel, joined the Histadrut, the Israel General Federation of Labor; was a director of the American Civil Liberties Union, the American Association for Jewish Education, and the Yiddish Scientific Institute; edited the ACWA weekly, Advance, for several years; authored The Workers and Their World (1935); died in New York City, January 15, 1971; Matthew Josephson, Sidney Hillman, Statesman of American Labor (1952); Erma Angevine, In League with the Future (1959); Joel Seidman, The Needle Trades (1942); Melech Epstein, Jewish Labor in the USA, 1914- 1952 (1953).</p>  </bioghist>
+  <scopecontent id="aspace_f128dc6c5b33c0603ef1dbe5e944bf50">
+    <head>Scope and Contents</head>
+<p>This collection consists of typescript copies of excerpts from Joseph Schlossberg's diaries at the Histadrut Archives.</p>  </scopecontent>
+  <accessrestrict id="aspace_c5b56ac512f1ad385fe69133a36a5a0c">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_6f7f7ba19bc6cb922407cb4ce18178b9">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_e8ec35acf4aac6d87c15c4501222a04c">
+    <head>Preferred Citation</head>
+<p>Joseph Schloessberg Diaries Excerpts #5296m. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_2f619d40f76db2be475214f4be148919">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619.html"> 5619: ACWA Records</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Schloessberg, Joseph</persname>
+    <corpname source="ingest">Amalgamated Clothing Workers of America</corpname>
+    <corpname audience="internal" source="ingest">ACWA</corpname>
+  </controlaccess>
+  <unitid type="bibid">8214573</unitid>
+  <dsc><c01 id="aspace_9d6a2efa1404d1c5be736d221d8b054a" level="file"><did><unittitle>Joseph Schlossberg diary excerpts</unittitle><unitdate datechar="creation" normal="1940/1943" type="inclusive">1940-1943</unitdate><container id="aspace_299f97883b5a3df79fd1af094a8afa70" label="unspecified" type="box">1</container></did><scopecontent id="aspace_a4b3e56601c126e435bdb1f62625a5a3"><head>Scope and Contents</head><p>Typescript</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04296av</eadid><filedesc><titlestmt><titleproper>ILR School Extension Division Metropolitan District Office (New York, N.Y.) Training Audio-Visual Materials <num>/4296 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 05, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:27:12 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILR School Extension Division Metropolitan District Office (New York, N.Y.) Training Audio-Visual Materials</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">New York State School of Industrial and Labor Relations (NYSSILR)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Acevedo, Ed</persname>
+    </origination>
+    <unitid>/4296 AV</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.28 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1988/2004" type="inclusive">1988-2004</unitdate>
+    <physdesc id="aspace_e187a97d3ddcf482c917e9cd5b1f6312" label="Quantity:">1.3 linear ft.</physdesc>
+    <physdesc id="aspace_fc5c53d96b83367672ef3c69662e6aa6" label="Forms of Material:">Audiovisual materials.</physdesc>
+    <abstract id="aspace_09c1f0928fecb503cc118df8b0e0e9bf">Audio-visual training tapes from the ILR School Extension Division Metropolitan District Office (New York, N.Y.)</abstract>
+    <langmaterial id="aspace_352bc08bbd1e1f679d26b05948f37279">Collection material in English</langmaterial>
+    <unitid type="bibid">7544965</unitid>
+  </did>
+  <odd id="aspace_0fbc3cf0f3d3671c2fa5657c09edce93">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, November 14, 2012</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 05, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_504842cc6e6092baa6f2a64f1a622aa1">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_c212aa5fae0bda6a71a011775a7de86d">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_2e3cae80750498cbe753eb52beb65779">
+    <head>Preferred Citation</head>
+<p>ILR School Extension Division Metropolitan District Office (New York, N.Y.) Training Audio-Visual Materials #/4296 AV. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_26a9432e267f422560b55ae75f5f2bc8">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL03019.html"> /3019: ILR School Metropolitan District Selected Documents</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04026.html"> /4026: ILR School Metropolitan Office Extension Division Completed Questionnaires on Union Activity</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04068.html"> /4068: ILR School Extension Division Metropolitan District Office, Anne Nelson Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04257.html"> /4257: ILR School Metropolitan District Selected Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04266m.html"> /4266m: ILR School Metropolitan District Levi Strauss files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04268.html"> /4268: ILR School Metropolitan Office Records</extref> /4273: ILR School Metropolitan District Pamphlets, Audio Tapes and VHS Tapes <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04296.html"> /4296: ILR School Extension Division Metropolitan District Office (New York, N.Y.) Training Manuals</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Employees--Training of</subject>
+    <persname audience="internal" source="ingest">Acevedo, Ed</persname>
+    <corpname source="ingest">New York State School of Industrial and Labor Relations</corpname>
+    <corpname audience="internal" source="ingest">New York State School of Industrial and Labor Relations. Extension Division. Metropolitan District Office</corpname>
+  </controlaccess>
+  <unitid type="bibid">7544965</unitid>
+  <dsc><c01 id="aspace_d43806d9014cdfadfb429b5345ca3ef6" level="file"><did><unittitle>One Strike and You're Out</unittitle><unitid>9</unitid><container id="aspace_6a39d144e03af85170058f815198b040" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_01be911539060ec7982162c0ba6fe2a6" level="file"><did><unittitle>Communication Skills for Internal Organizing with Gene Morrill</unittitle><unitid>8</unitid><container id="aspace_6127cc77be111f03b8eb70790ab0cebc" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_0f155b4c44d8f75ecbffb58f6dd2195f" level="file"><did><unittitle>Sheet Metal Workers' International Association/ A Blueprint For Our Future</unittitle><unitid>7</unitid><container id="aspace_42193d877bf9964c10d1041a0598c7df" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_d43fb803fba5dbf36d5950da8709060a" level="file"><did><unittitle>Sheet Metal Workers' International Association/Youth to Youth</unittitle><unitid>6</unitid><container id="aspace_b457ffeacdf6045f7eabd131073bb33d" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_19b50c504a3b45314762501caf4183af" level="file"><did><unittitle>Sample Television Advertising "Bricklayer" ; "Tommy"</unittitle><unitid>4</unitid><container id="aspace_b6a480356a398b74c0111bd43bab6faf" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_425f3291cb01b5d12705db5c0f741eec" level="file"><did><unittitle>Investing in the Future</unittitle><unitid>3</unitid><container id="aspace_3fb3950ed529487147cb9ff220858366" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_0f7a438e1d63cf9aaf3ed4d8e3feaba0" level="file"><did><unittitle>Reasons WhyFrom Union Masonry Craftsmen</unittitle><unitid>2</unitid><container id="aspace_72cb598662be195308947ff9d70716b0" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_bb21c8bb191232b51d6f85c455cd16f8" level="file"><did><unittitle>Reasons WhyFrom Union Masonry Contractors</unittitle><unitid>1</unitid><container id="aspace_fb54aa6975f875aed52333769495281c" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_a5724756a2d7a351d5eac6fc69a3bea0" level="file"><did><unittitle>House Calling - United Steelworkers of America</unittitle><unitid>5</unitid><container id="aspace_2d22fa79469412e51828cce7733b1bc1" label="unspecified" type="box">1</container></did><scopecontent id="aspace_4c5208a7aab611bb8fd7f41bb280cf03"><head>Scope and Contents</head><p>1 VHS tape</p></scopecontent></c01><c01 id="aspace_5d3965bd1e68dff9e17cd4036322d276" level="file"><did><unittitle>Construction Audio Project Labor Law in Construction [1 of 3; accompanying VHS tapes in box 1]</unittitle><unitid>1</unitid><container id="aspace_2cc7eae7eb3be0c2e97a125da1ec7800" label="unspecified" type="box">2</container></did></c01><c01 id="aspace_7d11ec887392f1ad9f5e4ba55f9f3ceb" level="file"><did><unittitle>Construction Audio Project Labor Law in Construction [2 of 3; accompanying VHS tapes in box 1]</unittitle><unitid>1</unitid><container id="aspace_b222e9bacce71844468f93a71a55d269" label="unspecified" type="box">3</container></did></c01><c01 id="aspace_668a93f2f841f8b94508ca69fb01c329" level="file"><did><unittitle>Construction Audio Project Labor Law in Construction [3 of 3; accompanying VHS tapes in box 1]</unittitle><unitid>1</unitid><container id="aspace_d66c1f88323f8c5924387a6faadc255d" label="unspecified" type="box">4</container></did></c01><c01 id="aspace_2cf16eba4bb7863a235caf1d435ce534" level="file"><did><unittitle>Preparing the Local for Organizing - accompanying VHS tape in box 1</unittitle><unitid>1</unitid><container id="aspace_9cfa97348eac0feb55c40a964955e845" label="unspecified" type="box">5</container></did></c01><c01 id="aspace_e8b318d057577b70c45e6118d9c39115" level="file"><did><unittitle>Top-Down Organizing - accompanying VHS tape in box 1</unittitle><unitid>1</unitid><container id="aspace_881a440162fbb224ede3b38ee3a09b48" label="unspecified" type="box">6</container></did></c01><c01 id="aspace_ad7fadb29f315b5c93f56acd0d8ea5ed" level="file"><did><unittitle>Bottom-Up Organizing - accompanying VHS tape in box 1</unittitle><unitid>1</unitid><container id="aspace_ed92f34661cd6bf96289c91b4350599d" label="unspecified" type="box">7</container></did></c01><c01 id="aspace_f2a957673fbc829b59edcdd895436b23" level="file"><did><unittitle>Sample Radio Advertising - accompanying VHS tape in box 1</unittitle><unitid>1</unitid><container id="aspace_08349619ed2027b7cfb1734a7938bf8c" label="unspecified" type="box">8</container></did></c01></dsc>
+</archdesc>
+</ead>

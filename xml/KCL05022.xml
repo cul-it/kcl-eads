@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05022</eadid><filedesc><titlestmt><titleproper>Pearlman, George Research Papers <num>5022</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 28, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:29:47 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>George Pearlman Research Papers</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Pearlman, George</persname>
+    </origination>
+    <unitid>5022</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1939/1942" type="inclusive">1939-1942</unitdate>
+    <physdesc id="aspace_07ced3f9544326d02b69ea916399ea7a" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_1ffd3522e0b384af6a26db989f8ef18d" label="Forms of Material:">Biographies, manuscripts for publication.</physdesc>
+    <abstract id="aspace_7caa8d771f6df671f8af6f49fb02f009">Summary: Include the following typed manuscripts by Pearlman: biography of Thomas Wilson Talbot (1849-1892), founder of the International Association of Machinists (1975); an article on the origin of Labor Day and a chronology of events pertaining to Labor Day(1973); and a biographical sketch of Matthew Maguire(1850-1917), credited as the founder of Labor Day(n.d.). Also copies of newspaper and periodical articles and U.S. Department of Labor publications relating to the origins of Labor Day (1891-1971).</abstract>
+    <langmaterial id="aspace_ca2b2f952a122af3f5312dc997245486">Collection material in English</langmaterial>
+    <unitid type="bibid">3337329</unitid>
+  </did>
+  <odd id="aspace_fbf6629166a349917c4c72e837b6eed3">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 22, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 28, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_8e9cb574cfef3fe9abf0a8bbd8bf9f7e">
+    <head>Biographical / Historical</head>
+<p>George Pearlman was a retired machinist who became interested in the controversy over who was the "father" of Labor Day: Matthew Maguire, a machinists' union official, or Peter McGuire, a carpenters' union official. After a substantial amount of research, the results of which are documented in this collection, Pearlman concluded that Matthew Maguire was the originator of the holiday.</p>  </bioghist>
+  <scopecontent id="aspace_d37040dbcf794df3224c9113263f6597">
+    <head>Scope and Contents</head>
+<p>Includes the following typed manuscripts by Pearlman: biography of Thomas Wilson Talbot (1849-1892), founder of the International Association of Machinists (1975); an article on the origin of Labor Day and chronology of events pertaining to Labor Day (1973); and a biographical sketch of Matthew Maguire (1850-1917), credited as the founder of Labor Day (n.d.). Also copies of newspaper and periodical articles and U.S. Department of Labor publications relating to the origins of Labor Day (1891-1971).</p>  </scopecontent>
+  <accessrestrict id="aspace_e3a91cfb7691059d66f3bfdd01feb96b">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_f525645aa1f015203d7e00a072dd956a">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_db33fe5f8361d7914229052b16b460af">
+    <head>Preferred Citation</head>
+<p>George Pearlman Research Papers #5022. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Labor Day.</subject>
+    <subject source="ingest">Machinists.</subject>
+    <persname audience="internal" source="ingest">Maguire, Matthew</persname>
+    <persname audience="internal" source="ingest">McGuire, P. J. (Peter James), 1852-1906.</persname>
+    <persname audience="internal" source="ingest">Pearlman, George</persname>
+    <persname audience="internal" source="ingest">Talbot, Thomas W. (Thomas Wilson), 1842-1892</persname>
+  </controlaccess>
+  <unitid type="bibid">3337329</unitid>
+  <dsc><c01 id="aspace_0a5a35ae604dd2e2a6e6bba412d45d43" level="file"><did><unittitle>Socialism Booklets</unittitle><container id="aspace_f501560235f00cf29309e53fba8a8576" label="unspecified" type="box">1</container><container id="aspace_6f3a6ceb0b14aa0261d99e5b2c8e7760" parent="aspace_f501560235f00cf29309e53fba8a8576" type="folder">1</container></did></c01><c01 id="aspace_f83a3e9b33bdd9fa90c572462172d046" level="file"><did><unittitle>Labor Day Origin - Chronology Photo Copies Maguire, A Profile G. Pearlman</unittitle><unitdate datechar="creation" normal="1891/1891">1891</unitdate><container id="aspace_980295669e5713f10e1bbd3591094f4e" label="unspecified" type="box">1</container><container id="aspace_c1262be4711558307bf9c08619f7c1cd" parent="aspace_980295669e5713f10e1bbd3591094f4e" type="folder">2</container></did></c01><c01 id="aspace_3d0df01e45791e85f2a8932f1aa0262d" level="file"><did><unittitle>Talbot Biography</unittitle><unitdate datechar="creation" normal="1849/1892" type="inclusive">1849-1892</unitdate><container id="aspace_8d9b7eab8156ac0191efff6f3662e58a" label="unspecified" type="box">1</container><container id="aspace_e65b0eaa3caa1214ec0bfd93e9140a7a" parent="aspace_8d9b7eab8156ac0191efff6f3662e58a" type="folder">3</container></did></c01><c01 id="aspace_210023738aacc6a3026b34322bdba87c" level="file"><did><unittitle>Labor Day</unittitle><unitdate datechar="creation" normal="1891/1897" type="inclusive">1891-1897</unitdate><container id="aspace_fc6308ccb406931fd81dd3f27620f78d" label="unspecified" type="box">1</container><container id="aspace_5e163ca56dca16860d643ce43e189014" parent="aspace_fc6308ccb406931fd81dd3f27620f78d" type="folder">4</container></did></c01><c01 id="aspace_28c68a4ab3b677e4745ac842719dc414" level="file"><did><unittitle>Origins of Labor Day and Chronology of Events Pertaining to Labor Day</unittitle><unitdate datechar="creation" normal="1973/1973">1973</unitdate><container id="aspace_5d7585801d3700a6639e9709ca0b9df9" label="unspecified" type="box">1</container><container id="aspace_8c855463c1163c7c77432d9cecf06820" parent="aspace_5d7585801d3700a6639e9709ca0b9df9" type="folder">5</container></did></c01><c01 id="aspace_f90bdffd1c8bba09904ac0fc4d9df810" level="file"><did><unittitle>The Socialist</unittitle><unitdate datechar="creation" normal="1939/1942" type="inclusive">1939-1942</unitdate><container id="aspace_9c1488f6db942747505975b756c92073" label="unspecified" type="box">1</container><container id="aspace_399d4914a220ae087be5c609bf50116f" parent="aspace_9c1488f6db942747505975b756c92073" type="folder">6</container></did></c01></dsc>
+</archdesc>
+</ead>

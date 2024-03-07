@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04261m</eadid><filedesc><titlestmt><titleproper>"Some Aspects of Negro-Jewish Relationships in Detroit, Michigan" Manuscript <num>/4261m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 04, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:25:19 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>"Some Aspects of Negro-Jewish Relationships in Detroit, Michigan" Manuscript</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Konvitz, Milton</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Wolf, Eleanor</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Loving, Vin</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Marsh, Donald</persname>
+    </origination>
+    <unitid>/4261m</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 folders</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1943/1943">1943</unitdate>
+    <physdesc id="aspace_8b5f8b978afef877eaec067ab705ab29" label="Quantity:">1 file folder.</physdesc>
+    <physdesc id="aspace_c6e0069645f1ff11b9aa901272ba6303" label="Forms of Material:">Manuscripts (documents).</physdesc>
+    <abstract id="aspace_b8a1044772c20e89848c3376863d76ea">Typescript of "Some Aspects of Negro-Jewish Relationships in Detroit, Michigan," by Eleanor Wolf, Vin Loving, and Donald Marsh.</abstract>
+    <langmaterial id="aspace_2bc9faae94378462a5ebd2a9f4a3c2f7">Collection material in English</langmaterial>
+    <unitid type="bibid">6169813</unitid>
+  </did>
+  <odd id="aspace_5e7518aac55e9fe2321700a19268fccb">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 14, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 04, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <scopecontent id="aspace_3961bc698a837c8202f65216ebaf7519">
+    <head>Scope and Contents</head>
+<p>This collection consists of a typescript copy of "Some Aspects of Negro-Jewish Relationships in Detroit, Michigan," by Eleanor Wolf, Vin Loving, and Donald Marsh.</p>  </scopecontent>
+  <accessrestrict id="aspace_2616972e8a4ee0dcd44bc0dd6ac2f45d">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_71059bd599415762d851e0b401d9cea3">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_0cc394778e93bf029ddcc81c8cc6634b">
+    <head>Preferred Citation</head>
+<p>"Some Aspects of Negro-Jewish Relationships in Detroit, Michigan" Manuscript #/4261m. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_21c686d6de554f5dfc691c6fcf640a84">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04039.html"> /4039: Milton R. Konvitz Papers</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">African Americans--Michigan--Detroit--1940-1950.</subject>
+    <subject source="ingest">African Americans--Social conditions--Michigan--Detroit--1940-1950.</subject>
+    <subject source="ingest">Jews--Michigan--Detroit--1940- 1950.</subject>
+    <subject source="ingest">Jews--Social conditions--Michigan--Detroit--1940-1950.</subject>
+    <persname audience="internal" source="ingest">Konvitz, Milton R. (Milton Ridvas),1908-2003.</persname>
+    <persname audience="internal" source="ingest">Wolf, Eleanor B. (Eleanor Buck)</persname>
+    <persname audience="internal" source="ingest">Loving, Vin</persname>
+    <persname audience="internal" source="ingest">Marsh, Donald</persname>
+  </controlaccess>
+  <unitid type="bibid">6169813</unitid>
+  <dsc><c01 id="aspace_46a02c812b2bc12f5d4c56196ff42a7b" level="file"><did><unittitle>"Some Aspects of Negro-Jewish Relationships in Detroit, Michigan"</unittitle><unitdate datechar="creation" normal="1943/1943">1943</unitdate><container id="aspace_5208b1bde29f4ca180cdd091a59de760" label="unspecified" type="box">1</container></did><scopecontent id="aspace_b17f289d8b5b20320fbe03d74acdc13f"><head>Scope and Contents</head><p>By Eleanor Wolf, Vin Loving, and Donald Marsh; typescript; 61 pages.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

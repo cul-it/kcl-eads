@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04321av</eadid><filedesc><titlestmt><titleproper>ILR School Smithers Institute Audio-Visual Materials <num>/4321 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 05, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:28:05 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILR School Smithers Institute Audio-Visual Materials</unittitle>
+    <origination label="Creator">
+      <corpname role="creator" source="ingest">New York State School of Industrial and Labor Relations</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">R. Brinkley Smithers Institute for Alcohol- Related Workplace Studies</corpname>
+    </origination>
+    <unitid>/4321 AV</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.22 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="2006/2006">2006</unitdate>
+    <physdesc id="aspace_3c0613e5f1c33540e81ce396c5d4f7e9" label="Quantity:">0.2 linear ft.</physdesc>
+    <physdesc id="aspace_ea47473a59e9628589abdcb82445bfbb" label="Forms of Material:">Audiovisual materials.</physdesc>
+    <abstract id="aspace_62c53d55aff876de50820130eaee17ed">The Power of Endowment: The Smithers Institute in New York City</abstract>
+    <langmaterial id="aspace_5d589535c3fd9d12989c4db31cdb177d">Collection material in English</langmaterial>
+    <unitid type="bibid">9140251</unitid>
+  </did>
+  <odd id="aspace_f25f387031621a317c02b834f9d7c008">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 05, 2016</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 05, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_531311208b693a827632047f0af5878c">
+    <head>Biographical / Historical</head>
+<p>Mr. R. Brinkley Smithers, a recovering alcoholic, marshaled his personal and family fortune into the nation's largest foundation in support of alcoholism research, education, prevention, and treatment the Christopher D. Smithers Foundation. </p><p> In the fifties, Brink Smithers forged a close working relationship with Professor Harrison Trice at the School of Industrial and Labor Relations. Together, they conducted a number of pioneering studies on alcoholism. </p><p> In 1990, the ILR School established the R. Brinkley Smithers Institute for Alcohol-Related Workplace Studies with a generous endowment from the Smithers family. The Smithers Institute continues the long collaboration between the ILR School and the Christopher D. Smithers Foundation</p>  </bioghist>
+  <accessrestrict id="aspace_ac03bd0e63200b27e5732f232826ae6a">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_81b23f22ec7b151108ee659f17c02ac2">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_b2bb1f02c06b5cb6ce1d82e5ea392990">
+    <head>Preferred Citation</head>
+<p>ILR School Smithers Institute Audio-Visual Materials #/4321 AV. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_fdc59cf8ffdfe8e05be40482d9e91add">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04164.html"> /4164: Harrison M. Trice Additional Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04191av.html"> /4191 AV: ILR School Audio-Visual Department Video Cassette Collection</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04254.html"> /4254: Harrison Trice Additional Books</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04312.html"> /4312: William Sonnenstuhl Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04323.html"> /4323: Tom Delaney Papers</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Work environment</subject>
+    <corpname audience="internal" source="ingest">R. Brinkley Smithers Institute for Alcohol-Related Workplace Studies -- Endowments</corpname>
+    <corpname source="ingest">New York State School of Industrial and Labor Relations</corpname>
+  </controlaccess>
+  <unitid type="bibid">9140251</unitid>
+  <dsc><c01 id="aspace_c8358b26bfac2c7af08eb58d1b75f243" level="file"><did><unittitle>The Power of Endowment: The Smithers Institute in New York City [copy 1]</unittitle><container id="aspace_97991764bbcbc8bf4300cae3064616bc" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_08ce6490693bf9813db513e58e34693e" level="file"><did><unittitle>The Power of Endowment: The Smithers Institute in New York City [copy 2]</unittitle><container id="aspace_4342751d6ea4d2e332c2e0626c2bdd9c" label="unspecified" type="box">2</container></did></c01></dsc>
+</archdesc>
+</ead>

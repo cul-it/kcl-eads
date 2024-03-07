@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04143m</eadid><filedesc><titlestmt><titleproper>Levy, Jonathon, "The National Center for the Workplace" <num>/4143m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 01, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:21:17 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Jonathon Levy's "The National Center for the Workplace"</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Levy, Jonathon</persname>
+    </origination>
+    <unitid>/4143m</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 folders</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1992/1992">1992</unitdate>
+    <physdesc id="aspace_03e21a2f259fbf266e9a662839072ba8" label="Quantity:">1 file folder.</physdesc>
+    <physdesc id="aspace_0a1e75ecaa5875a45fa19df7b15c7845" label="Forms of Material:">Pamphlets.</physdesc>
+    <abstract id="aspace_19a234ad08c4b396d65dff34c1992484">Report on the National Center for the Workplace by Jonathan D. Levy.</abstract>
+    <langmaterial id="aspace_a6013785f8f5f66bfc818a4a17a1a461">Collection material in English</langmaterial>
+    <unitid type="bibid">8016833</unitid>
+  </did>
+  <odd id="aspace_e2558f33888a5700eee67058cb531d6a">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 10, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 01, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <scopecontent id="aspace_23901701661ef134ecefc468890e1946">
+    <head>Scope and Contents</head>
+<p>This collection consists of the report, "The National Center for the Workplace," by Jonathon D. Levy.</p>  </scopecontent>
+  <accessrestrict id="aspace_2ed522a06095f3d10862eb5265138638">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_e86d4f4fc502c48cc7a8d9770c1f872d">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_7eb4e88d6ddc5bd578121fd67f6043d4">
+    <head>Preferred Citation</head>
+<p>Jonathon Levy's "The National Center for the Workplace" #/4143m. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_a59d6d658fe7b3d233838585632631c2">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04194.html"> /4194: ILR School Dean's Office Additional Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04170.html"> /4170: J. Gormly Miller Additional Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04200.html"> /4200: ILR School Associate Dean's Office Jon Levy Additional Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619-004.html"> 5619/004: ACTWU President Jacob Sheinkman Files</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Levy, Jonathon</persname>
+  </controlaccess>
+  <unitid type="bibid">8016833</unitid>
+  <dsc><c01 id="aspace_f4efcebb28263e447ae6d73833b1f09d" level="file"><did><unittitle>The National Center for the Workplace</unittitle><unitdate datechar="creation" normal="1992/1992">1992</unitdate><container id="aspace_7c152dd5210686fedd914fe976ede474" label="unspecified" type="box">1</container></did><scopecontent id="aspace_46f10ee561c177c128daac1760d83e6f"><head>Scope and Contents</head><p>By Jonathon D. Levy; 71 pages, plus appendix; includes index.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

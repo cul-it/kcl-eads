@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05041</eadid><filedesc><titlestmt><titleproper>Price, Wolfgang S. Papers <num>5041</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 28, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:30:39 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Wolfgang S. Price Papers</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Price, Wolfgang S.</persname>
+    </origination>
+    <unitid>5041</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1955/1960" type="inclusive">1955-1960</unitdate>
+    <physdesc id="aspace_517d9c36620281c84ee94cf8da8541ea" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_ae3695573d23ac839d7918930c52549d" label="Forms of Material:">Papers (documents) .</physdesc>
+    <abstract id="aspace_c7f542ca94ee13fee9fd769563868f3b">Consists of research materials used by Price for his MS thesis, submitted to the NYSSILR at Cornell University, entitled "Prevailing Wage Rate Determination for Municipal Laborers in New York City: Case Study of the Administratiion of Section 220 of the Labor Law."</abstract>
+    <langmaterial id="aspace_ff779c7445fc39560d58ff9375dcb122">Collection material in English</langmaterial>
+    <unitid type="bibid">3337337</unitid>
+  </did>
+  <odd id="aspace_2866dfb3d6ba8724fa425238992e2a27">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, February 20, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 28, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_ce9b9a734a2330a9505ddd86d4a26414">
+    <head>Biographical / Historical</head>
+<p>At the time he gathered these materials, Wolfgang Price was a graduate student at the New York State School of Industrial and Labor Relations in 1960. </p><p> Woflgang Price received a BS from Marquette University (1959) and an MS from the New York State School of Industrial and Labor Relations at Cornell (1960). Prior to his formal education, Mr. Price served in the U.S. Air Force, was a hospital administrator in Milwaukee, Wis., and an intern for the National Mediation Board. As of 1982, he was a consultant, with offices in Silver Spring, Md.</p>  </bioghist>
+  <scopecontent id="aspace_38c59fe1c0df136c56544cae88600345">
+    <head>Scope and Contents</head>
+<p>Consists of research materials used by Price for his MS thesis, submitted to the New York State School of Industrial and Labor Relations at Cornell University, entitled "Prevailing Wage Rate Determination for Municipal Laborers in New York City: Case Study of the Administration of Section 220 of the Labor Law." </p><p> Includes copies of determinations on wage rates pursuant to section 220 of the Labor Law of New York State for selected classes of laborers employed by the City of New York; claims of laborers employed by the City of New York for the fixation of wages pursuant to section 220 (1958-1959); decisions and certificates of extent of representation and of exclusive bargaining unit for the Correction Officers' Benevolent Association (1958); the Uniformed Sanitationmen's Association; Local 831, International Brotherhood of Teamsters, Chauffeurs Warehousemen and Helpers of America (1958); Local 241, N.Y.C. Laborers; and District Council 37, American Federation of State, County and Municipal Employees (1959).</p>  </scopecontent>
+  <accessrestrict id="aspace_4958b43d2f9067ff3890d4d7da436238">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_90975db3330d96da9ee6456efeb4ba9f">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_64b3c77a06fdddff4fc8eccc720c9197">
+    <head>Preferred Citation</head>
+<p>Wolfgang S. Price Papers #5041. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Labor laws and legislation--New York (State)</subject>
+    <subject source="ingest">Municipal employees.</subject>
+    <subject source="ingest">Collective bargaining. Municipal employees. New York (N.Y.)</subject>
+    <subject source="ingest">Wages. Municipal employees. New York (N.Y.)</subject>
+    <persname audience="internal" source="ingest">Price, Wolfgang S., 1930-</persname>
+    <corpname audience="internal" source="ingest">AFSCME. District Council 37 (New York, N.Y.)</corpname>
+    <corpname audience="internal" source="ingest">Correction Officers Benevolent Association (New York, N.Y.)</corpname>
+    <corpname audience="internal" source="ingest">New York City Laborers. Local 241.</corpname>
+    <corpname audience="internal" source="ingest">New York (N.Y.). Department of Sanitation.</corpname>
+    <corpname audience="internal" source="ingest">New York (N.Y.). Department of Traffic.</corpname>
+    <corpname audience="internal" source="ingest">New York (State). Department of Correctional Services.</corpname>
+    <corpname audience="internal" source="ingest">Uniformed Sanitationmen's Association</corpname>
+  </controlaccess>
+  <unitid type="bibid">3337337</unitid>
+  <dsc><c01 id="aspace_096c14f13aa70d9aa16330aba770f11f" level="file"><did><unittitle>Wage Determinations, Maintenance Men</unittitle><unitdate datechar="creation" normal="1957/1957">1957</unitdate><container id="aspace_61388822e9d7a71b5bfeee01447328de" label="unspecified" type="box">1</container><container id="aspace_4f9791dfb49607f20f5b1cbc1628aef2" parent="aspace_61388822e9d7a71b5bfeee01447328de" type="folder">1</container></did></c01><c01 id="aspace_8ac8c7f639bee73901ae3751ed40334e" level="file"><did><unittitle>Determinations, Laborer Classification</unittitle><unitdate datechar="creation" normal="1959/1960" type="inclusive">1959-1960</unitdate><container id="aspace_49591a75a4de40d9f0fea130cb34d3de" label="unspecified" type="box">1</container><container id="aspace_acea9e232af3bd786e1a9ae39b97d475" parent="aspace_49591a75a4de40d9f0fea130cb34d3de" type="folder">2</container></did></c01><c01 id="aspace_0dff6939eb9524ace46f234c8eab205d" level="file"><did><unittitle>Wage Survey, Laborers</unittitle><unitdate datechar="creation" normal="1955/1957" type="inclusive">1955-1957</unitdate><container id="aspace_054d248ecd8fe55437e70d5b44b390f5" label="unspecified" type="box">1</container><container id="aspace_7633d2c71c7df96bfc8c7f48fe438933" parent="aspace_054d248ecd8fe55437e70d5b44b390f5" type="folder">3</container></did></c01><c01 id="aspace_a7a38769ab128ead6f7725675c1f780a" level="file"><did><unittitle>Union Wage Demands, Maintenance Workers</unittitle><container id="aspace_347d38ab21ca29a2bac8985ab1be49ae" label="unspecified" type="box">1</container><container id="aspace_7356453433c634703f1dba2dfe62e40a" parent="aspace_347d38ab21ca29a2bac8985ab1be49ae" type="folder">4</container></did></c01><c01 id="aspace_3950759f586428cc43eb414a3fb90a4f" level="file"><did><unittitle>Bureau of Budget, Laborer Classifications</unittitle><unitdate datechar="creation" normal="1955/1955">1955</unitdate><container id="aspace_2ba395a15cb96b16fe0040c589b01a69" label="unspecified" type="box">1</container><container id="aspace_77a52de0a6c4726fe02c9df1222b6984" parent="aspace_2ba395a15cb96b16fe0040c589b01a69" type="folder">5</container></did><scopecontent id="aspace_1e3e4728b4f11bfc847c054e8f1ad821"><head>Scope and Contents</head><p>July 1 1954 - June 30 1955</p></scopecontent></c01><c01 id="aspace_9d58f41d1614fc254365ecd13a10a2c3" level="file"><did><unittitle>Leave Regulations for Employees under Career and Salary Plan</unittitle><unitdate datechar="creation" normal="1956/1956">1956</unitdate><container id="aspace_9dfc283d95f3d9ce43d149821f397fc7" label="unspecified" type="box">1</container><container id="aspace_613df957aed58279b401005dcd109f01" parent="aspace_9dfc283d95f3d9ce43d149821f397fc7" type="folder">6</container></did></c01><c01 id="aspace_0d15b57ff4bab917a8651cbd9421b69e" level="file"><did><unittitle>Minutes, Labor Law Complaint</unittitle><unitdate datechar="creation" normal="1958/1958">1958</unitdate><container id="aspace_0837f14c3035b95caa5c4059984cf169" label="unspecified" type="box">1</container><container id="aspace_54eabf988c50fc84d317915a51c8174c" parent="aspace_0837f14c3035b95caa5c4059984cf169" type="folder">7</container></did><scopecontent id="aspace_22350b30c55a74e9a032cb8befbd3752"><head>Scope and Contents</head><p>October 7, December 18, January 16 1958</p></scopecontent></c01><c01 id="aspace_103ccac5c3eab009af26ce2b4894a967" level="file"><did><unittitle>Minutes, Labor Law Complaint</unittitle><unitdate datechar="creation" normal="1958/1958">1958</unitdate><container id="aspace_83ddafb688ded66dcdb0962e36ffb220" label="unspecified" type="box">1</container><container id="aspace_ab1063190f97384cf291bf2ae63c718d" parent="aspace_83ddafb688ded66dcdb0962e36ffb220" type="folder">8</container></did><scopecontent id="aspace_6473c66ea1f2b1069cadcfa04c5585b4"><head>Scope and Contents</head><p>May 13 and 20 1958</p></scopecontent></c01><c01 id="aspace_410fdd7c42372c57232d78889e89975e" level="file"><did><unittitle>Minutes, Labor Law Complaints</unittitle><unitdate datechar="creation" normal="1958/1958">1958</unitdate><container id="aspace_225398d2918b368e6c0515505843b480" label="unspecified" type="box">1</container><container id="aspace_2fe9c23985ace794a6ed6ab7ea22fadb" parent="aspace_225398d2918b368e6c0515505843b480" type="folder">9</container></did><scopecontent id="aspace_45ed25e30c7dd530c7a849b727592d4b"><head>Scope and Contents</head><p>February 25, April 14, 16, 20, 24-25,28 1958</p></scopecontent></c01><c01 id="aspace_9621c0e90962313eae5db062a6c9eb0c" level="file"><did><unittitle>Minutes, Labor Law Complaints.</unittitle><unitdate datechar="creation" normal="1959/1959">1959</unitdate><container id="aspace_14f284c6d405eda7cceac3484e986cea" label="unspecified" type="box">1</container><container id="aspace_fcb4e2242ef1148a0db215ef6bff22c7" parent="aspace_14f284c6d405eda7cceac3484e986cea" type="folder">10</container></did><scopecontent id="aspace_ef95d1e45c6e82abe0deb4eedc5fcdfd"><head>Scope and Contents</head><p>May 23, June 2, 6, December 5 1958, May 15 1959</p></scopecontent></c01><c01 id="aspace_840db2197df528c075aad55e0854470f" level="file"><did><unittitle>Determinations, Black Smiths, Riggers, etc.</unittitle><container id="aspace_23e083146ea81cf056bd7501fe6ce841" label="unspecified" type="box">1</container><container id="aspace_7d1899751f5b8fe41e3cf9c7d6489fec" parent="aspace_23e083146ea81cf056bd7501fe6ce841" type="folder">11</container></did></c01><c01 id="aspace_b7aaa1cd6bf7a80d633bd304e71bc400" level="file"><did><unittitle>NYC Extent of Representation of Exclusive Bargaining Status</unittitle><unitdate datechar="creation" normal="1958/1958">1958</unitdate><container id="aspace_865153b540894d2d890e2b72b33f45e0" label="unspecified" type="box">1</container><container id="aspace_6ff067532f595c372c1b472e6bd2b439" parent="aspace_865153b540894d2d890e2b72b33f45e0" type="folder">12</container></did></c01><c01 id="aspace_c529b01de8c6448f656de4006e545d30" level="file"><did><unittitle>Wage Survey, Maintenance Men</unittitle><unitdate datechar="creation" normal="1955/1956" type="inclusive">1955-1956</unitdate><container id="aspace_9c8855dc18d91e7c673f902b4448e4e3" label="unspecified" type="box">1</container><container id="aspace_ffd4891d460369335f18364138c240aa" parent="aspace_9c8855dc18d91e7c673f902b4448e4e3" type="folder">13</container></did></c01></dsc>
+</archdesc>
+</ead>

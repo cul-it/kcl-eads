@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05283</eadid><filedesc><titlestmt><titleproper>Seafarers International Union of North America Maritime Advisory Committee Reports <num>5283</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 11, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:40:56 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Seafarers International Union of North America Maritime Advisory Committee Reports</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Seafarers International Union of North America (SIU)</corpname>
+    </origination>
+    <unitid>5283</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1964/1965" type="inclusive">1964-1965</unitdate>
+    <physdesc id="aspace_db9ce261197f5c7a254836ce891be159" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_01281a269e9f013ef8cc155a65c6cdfa" label="Forms of Material:">Reports.</physdesc>
+    <abstract id="aspace_ccb0187668be993127f7bc29019fc749">Position papers of the Seafarers International Union on various issues.</abstract>
+    <langmaterial id="aspace_54147d6a84eb0327e09712b3c75c91bb">Collection material in English</langmaterial>
+    <unitid type="bibid">5621939</unitid>
+  </did>
+  <odd id="aspace_3c27e9afae16a4016d3d6846e2130359">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, February 25, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 11, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_34ca366843da78309f038f12c550a4c3">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_4362cd8bad086ec985645a87ec348f7c">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_e9d1c3f4eb4c5904c9a2afadec03e8b6">
+    <head>Preferred Citation</head>
+<p>Seafarers International Union of North America Maritime Advisory Committee Reports #5283. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_c8c5f9bb53ca53ddac95b9029271f5ae">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06046.html"> 6046: Archives Union File (AUF)</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Merchant mariners -- Labor unions -- United States</subject>
+    <corpname audience="internal" source="ingest">Seafarers' International Union of North America. Maritime Advisory Committee.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5621939</unitid>
+  <dsc><c01 id="aspace_037f3a0343365550611584ae6b915f18" level="file"><did><unittitle>Position of the Seafarers Union. Maritime Advisory Committee</unittitle><unitdate datechar="creation" normal="1964/1964">1964</unitdate><container id="aspace_61f213ab84d5fb1ce4a8696ddb028822" label="unspecified" type="box">1</container><container id="aspace_11b44162eff0b6c91ebc49ea8c165855" parent="aspace_61f213ab84d5fb1ce4a8696ddb028822" type="folder">1</container></did><scopecontent id="aspace_1d5712e436b255ab2b17ef8d48caef84"><head>Scope and Contents</head><p>August 10 1964</p></scopecontent></c01><c01 id="aspace_9ec79cf8fd7f6a685985c828568feb4d" level="file"><did><unittitle>Supplementary Position on Runaway-Flag Shipping</unittitle><unitdate datechar="creation" normal="1965/1965">1965</unitdate><container id="aspace_81392051551ed0ebf178e2d7eaddeb4d" label="unspecified" type="box">1</container><container id="aspace_641f0a9c4e1a5f0593acf6148143415b" parent="aspace_81392051551ed0ebf178e2d7eaddeb4d" type="folder">2</container></did><scopecontent id="aspace_4bda8f70e42bc491ebff47bb16766c1e"><head>Scope and Contents</head><p>February 8 1965</p></scopecontent></c01><c01 id="aspace_46244cf1417aa7f13607af5f0eaee85e" level="file"><did><unittitle>Cargo Preference. Maritime Advisory Committee</unittitle><unitdate datechar="creation" normal="1964/1964">1964</unitdate><container id="aspace_23d45ec12e5d7ea7ef4087f5de4cb669" label="unspecified" type="box">1</container><container id="aspace_a9e583986c01ceea493c6ae1b333f400" parent="aspace_23d45ec12e5d7ea7ef4087f5de4cb669" type="folder">3</container></did><scopecontent id="aspace_463f08401215fb235b79a5678486377c"><head>Scope and Contents</head><p>November 16 1964</p></scopecontent></c01><c01 id="aspace_8f07675274465412f5e040f2f8f59151" level="file"><did><unittitle>Cargo Preference. Maritime Advisory Committee</unittitle><unitdate datechar="creation" normal="1964/1964">1964</unitdate><container id="aspace_9479f40a4ec62f0a92da5ee1db19f7a8" label="unspecified" type="box">1</container><container id="aspace_7fca5d4324f9c0c1008d82efacf6eefc" parent="aspace_9479f40a4ec62f0a92da5ee1db19f7a8" type="folder">4</container></did><scopecontent id="aspace_db47525d23680a130f5a30589a4e01cf"><head>Scope and Contents</head><p>November 16 1964</p></scopecontent></c01><c01 id="aspace_e5cf7795bb1014137d4cbc9c5b5bc6bc" level="file"><did><unittitle>Submissions of the Seafarers Union to the Grievance Committee</unittitle><unitdate datechar="creation" normal="1964/1964">1964</unitdate><container id="aspace_0fc374420719398b89ba1cbe7ffdd804" label="unspecified" type="box">1</container><container id="aspace_5385c02a5b05cb3559faff93c16faa66" parent="aspace_0fc374420719398b89ba1cbe7ffdd804" type="folder">5</container></did></c01><c01 id="aspace_0d13e27aebe2f538de4ac98a697d5339" level="file"><did><unittitle>Position on Automation and Manning of the American-Flag Merchant Fleet</unittitle><unitdate datechar="creation" normal="1965/1965">1965</unitdate><container id="aspace_8981b9f9316ee4706583128ff9470b8f" label="unspecified" type="box">1</container><container id="aspace_db9685383bcd7eda87c379e3b80923da" parent="aspace_8981b9f9316ee4706583128ff9470b8f" type="folder">6</container></did><scopecontent id="aspace_43167a93438d9ef33f4e62792fadb5c2"><head>Scope and Contents</head><p>April 1965</p></scopecontent></c01><c01 id="aspace_7e4c0b5bc48ee9b03593cc63d35ff1c4" level="file"><did><unittitle>The Runaway-Flag Threat to the US Merchant Fleet</unittitle><unitdate datechar="creation" normal="1964/1964">1964</unitdate><container id="aspace_c8d059b9d0d360ef7a9f5217b5db63a5" label="unspecified" type="box">1</container><container id="aspace_6ff5ad4347273dad84f1e29aaeb04ac5" parent="aspace_c8d059b9d0d360ef7a9f5217b5db63a5" type="folder">7</container></did><scopecontent id="aspace_a9ad9c51b727d4aa3861ed48a6b41196"><head>Scope and Contents</head><p>September 21 1964</p></scopecontent></c01><c01 id="aspace_8bca286463256d58beb9689c5ef58999" level="file"><did><unittitle>Supplementary Position on Cargo Preference</unittitle><unitdate datechar="creation" normal="1965/1965">1965</unitdate><container id="aspace_30271a8c41f44e0e5bcaf174a2fb5488" label="unspecified" type="box">1</container><container id="aspace_8ed34ab1c6d35c22ff18043ce228c759" parent="aspace_30271a8c41f44e0e5bcaf174a2fb5488" type="folder">8</container></did><scopecontent id="aspace_ccea19debeb5024cf84ac01579b19180"><head>Scope and Contents</head><p>May 1965</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

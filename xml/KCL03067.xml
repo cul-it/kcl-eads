@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL03067</eadid><filedesc><titlestmt><titleproper>ILR School Latin American Project <num>/3067</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 21, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:15:05 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILR School Latin American Project</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">New York State School of Industrial and Labor Relations (NYSSILR)</corpname>
+    </origination>
+    <unitid>/3067</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1964/1964">1964</unitdate>
+    <physdesc id="aspace_f2588c3e1ef5cd20db7210888a160062" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_ebf2b879908730813cbf9ed52b8f6bd5" label="Forms of Material:">Records (documents).</physdesc>
+    <abstract id="aspace_b9e32336491f05648c97404c73128915">Course plan and materials for the Latin American Labor Educators Training Program.</abstract>
+    <langmaterial id="aspace_e2d1c6c9f5eb609fe450e2e3a79ccb3b">Collection material in English</langmaterial>
+    <unitid type="bibid">8436556</unitid>
+  </did>
+  <odd id="aspace_d78c760191279468e19585013457b5a5">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 20, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, February 21, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_b496019954c7c301119fc21fba9ff8f9">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_aea1ad6dcf11796fbf1886d847bfe623">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_8095b551eea5df3603ff3ffce0468ffd">
+    <head>Preferred Citation</head>
+<p>ILR School Latin American Project #/3067. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_55e5238de170dccf63455282ea62b053">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04004.html"> /4004: ILR School Librarian's Office Files</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <corpname source="ingest">New York State School of Industrial and Labor Relations</corpname>
+  </controlaccess>
+  <unitid type="bibid">8436556</unitid>
+  <dsc><c01 id="aspace_248fbdbe0d73632227c5704c9492ca01" level="file"><did><unittitle>Latin American Labor Educators Project</unittitle><unitdate datechar="creation" normal="1953/1953">1964</unitdate><container id="aspace_504bfb0512d516063c46aa7e8390637f" label="unspecified" type="box">1</container><container id="aspace_35586763323e22f95f207ce8c598eb7f" parent="aspace_504bfb0512d516063c46aa7e8390637f" type="folder">1</container></did></c01><c01 id="aspace_32f42bac357d225860ca434a32d6d89e" level="file"><did><unittitle>Training Program for Labor Educators</unittitle><container id="aspace_a07be8ee8444e55dff3c07f3256b3dc0" label="unspecified" type="box">1</container><container id="aspace_e6cd37da739955cf940e0e6bcf031f6c" parent="aspace_a07be8ee8444e55dff3c07f3256b3dc0" type="folder">2</container></did></c01><c01 id="aspace_66c224651160cde7ae2aa9ab95ae278c" level="file"><did><unittitle>Latin American Project - Course Plan and Materials</unittitle><container id="aspace_4c714dadde09d36be855fd4eec9be03b" label="unspecified" type="box">1</container><container id="aspace_125036a33d0aa6d94ddfcec5fe226849" parent="aspace_4c714dadde09d36be855fd4eec9be03b" type="folder">3</container></did></c01></dsc>
+</archdesc>
+</ead>

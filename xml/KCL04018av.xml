@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04018av</eadid><filedesc><titlestmt><titleproper>Groat Seminars (Judge William B. Groat) Audio-Visual Materials <num>/4018 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>September 21, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:17:00 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Groat Seminars (Judge William B. Groat) Audio-Visual Materials</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Groat, William B.</persname>
+    </origination>
+    <unitid>/4018 AV</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.67 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1977/1978" type="inclusive">1977- 1978</unitdate>
+    <physdesc id="aspace_34c1288610e2db71197944aa0cd3bb46" label="Quantity:">0.7 linear ft.</physdesc>
+    <physdesc id="aspace_2c52537e9a1e5f4bfa2e9b554b982d5f" label="Forms of Material:">Audiovisual materials, transcripts.</physdesc>
+    <abstract id="aspace_b7f0170395ee4c1bf48b76276c77d458">Audio recordings of the GROAT ceremonies from 1977 and 1978</abstract>
+    <langmaterial id="aspace_d2e5960d6aaa7b9a2d25ac62c02d6f35">Collection material in English</langmaterial>
+    <unitid type="bibid">7587896</unitid>
+  </did>
+  <odd id="aspace_09d72f63cdb994e91c9ba38430e5a3e7">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, February 29, 2012</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, September 21, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_e02737398242b7a230cd1d05f2031cf2">
+    <head>Biographical / Historical</head>
+<p>Judge William B. Groat (1899-1986) served as counsel to the New York State Joint Legislative Committee on Industrial and Labor Relations, where he played a pivotal role in founding the ILR School and drafting its charter.</p>  </bioghist>
+  <accessrestrict id="aspace_85ade61971b226ff1f2168c32dc61a02">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_50b4a20a56d9f6ba6305e39385a5e942">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_46d95d2ab7f2fcb52aace2bc4d6b9fe4">
+    <head>Preferred Citation</head>
+<p>Groat Seminars (Judge William B. Groat) Audio-Visual Materials #/4018 AV. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_90e50c53161cf49b48912c1a3a10cf80">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04030av.html"> /4030 AV: Judge William B. Groat Labor Day Convocation Speech Audio-Visual Materials</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04229.html"> /4229: Maurice Neufeld Additional Files</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Groat, William B.</persname>
+  </controlaccess>
+  <unitid type="bibid">7587896</unitid>
+  <dsc><c01 id="aspace_8675117a9cba4bfeccaa4a80b7b9d087" level="file"><did><unittitle>GROAT - 1977</unittitle><container id="aspace_8f694658cb91f8630d29f3a16a5dcb1d" label="unspecified" type="box">1.1</container></did><c02 id="aspace_594eb5a62797e75d759c114cbbe69059" level="file"><did><unittitle>GROAT - 1977</unittitle><unitid>1</unitid><unitdate datechar="creation" normal="1977/1977">1977</unitdate><container id="aspace_28cdd9014ef6792feabfff876b69fb84" label="unspecified" type="box">1</container></did><scopecontent id="aspace_0bb223d8ce617b6ee1084fd42f464df9"><head>Scope and Contents</head><p>4 cassettes</p></scopecontent></c02></c01><c01 id="aspace_f20a05b46029af520ee0839c4db4d76d" level="file"><did><unittitle>GROAT - 1977</unittitle><container id="aspace_97ab9c3c8494654e763cd1da7c768598" label="unspecified" type="box">1.2</container></did></c01><c01 id="aspace_05ab399596b8b295abc4bbb59635abd3" level="file"><did><unittitle>GROAT - 1977</unittitle><container id="aspace_f439443d471f44c8ad4d0db0cf5b0ec3" label="unspecified" type="box">1.3</container></did></c01><c01 id="aspace_8cc394674a2c08895dc2c72385497a53" level="file"><did><unittitle>GROAT - 1977</unittitle><container id="aspace_d1d0367032349bc7552fd168b5c9e967" label="unspecified" type="box">1.4</container></did></c01><c01 id="aspace_e4988520a14778aaa490c328a7dfb36d" level="file"><did><unittitle>William B. Groat - Seminar - 1978</unittitle><container id="aspace_69ce7dcb5b1a38e9384d69414ec690d7" label="unspecified" type="box">2.1</container></did><c02 id="aspace_1fc78d9d31acdc82ca4e5241cd7fb6bf" level="file"><did><unittitle>William B. Groat Seminar - 1978</unittitle><unitid>1</unitid><unitdate datechar="creation" normal="1978/1978">1978</unitdate><container id="aspace_80d707ca06fba25578ff75f3ae0bbcab" label="unspecified" type="box">2</container></did><scopecontent id="aspace_a8dd2c1f2099a6cfe7480a9bbc06c5b8"><head>Scope and Contents</head><p>2 cassettes</p></scopecontent></c02></c01><c01 id="aspace_a158d8e0a8a642b47bc4b6e80fc63a95" level="file"><did><unittitle>William B. Groat - Seminar - 1978</unittitle><container id="aspace_163bf7136a2655e9cf42a2824fcf5558" label="unspecified" type="box">2.2</container></did></c01></dsc>
+</archdesc>
+</ead>

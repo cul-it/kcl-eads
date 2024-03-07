@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04252m</eadid><filedesc><titlestmt><titleproper>ILR School Student publication "The Cornell Worker" <num>/4252m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 05, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:25:09 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILR School Student publication "The Cornell Worker"</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">New York State School of Industrial and Labor Relations (NYSSILR)</corpname>
+    </origination>
+    <unitid>/4252m</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 folders</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="2004/2004">2004</unitdate>
+    <physdesc id="aspace_2aacd6112533ad7a2a037dabac4fbf9b" label="Quantity:">1 file folder.</physdesc>
+    <physdesc id="aspace_536f81026ae0d6892513df677f89db3f" label="Forms of Material:">Publications (documents).</physdesc>
+    <abstract id="aspace_dea1a2d985fd3f9887c454eed0dc1fb2">Issues of The Cornell Worker, September and October 2004.</abstract>
+    <langmaterial id="aspace_86a94e609dbb772445b003ec58722c6b">Collection material in English</langmaterial>
+    <unitid type="bibid">8058634</unitid>
+  </did>
+  <odd id="aspace_2cc5233bdb393a2783281463359f84c7">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 14, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 05, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <scopecontent id="aspace_57fe2cb282a3e91cfc63beb1e8ddfaeb">
+    <head>Scope and Contents</head>
+<p>This collection consists of the first two issues of The Cornell Worker, published in September and October 2004.</p>  </scopecontent>
+  <accessrestrict id="aspace_8f862ad594979e817b05dcb7c7627291">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_929bc2d040b866b11edd7a822e5c8585">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_70f3febf9c475933c8450ccec0683256">
+    <head>Preferred Citation</head>
+<p>ILR School Student publication "The Cornell Worker" #/4252m. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_dca617906a3aef95311b27f01bee9cf0">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04283-002.html"> /4283/002: ILR School Extension Division (Buffalo, N.Y.) Nellie Brown Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06043mb.html"> 6043 MB: Union Memorabilia Collection</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06046.html"> 6046: Archives Union File (AUF)</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06094.html"> 6094: UAW Public Review Boaard Decisions</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06365.html"> 6365: Colette Walls Collection of UAW District 65 Cornell Organizing Materials</extref> 6424: Pam Mackesey Collection of UAW Local 2300 Files 6424 AV: Pam Mackesey Collection of UAW Local 2300 Audio-Visual Materials</p>  </relatedmaterial>
+  <controlaccess>
+    <corpname source="ingest">New York State School of Industrial and Labor Relations</corpname>
+  </controlaccess>
+  <unitid type="bibid">8058634</unitid>
+  <dsc><c01 id="aspace_33cf4a14110e9126d96593c0599974c8" level="file"><did><unittitle>The Cornell Worker</unittitle><unitdate datechar="creation" normal="2004/2004">2004</unitdate><container id="aspace_c9e808f69a7fb0f5f26d04ac1af38ffc" label="unspecified" type="box">1</container></did><scopecontent id="aspace_dee40c0d0a48b7dbb22a7722b44556a2"><head>Scope and Contents</head><p>September 2004; October 2004 (2 copies).</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

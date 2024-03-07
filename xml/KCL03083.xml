@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL03083</eadid><filedesc><titlestmt><titleproper>Conference on Industry and Government <num>/3083</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 22, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:15:49 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Conference on Industry and Government</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">New York State School of Industrial and Labor Relations (NYSSILR)</corpname>
+    </origination>
+    <unitid>/3083</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1965/1966" type="inclusive">1965-1966</unitdate>
+    <physdesc id="aspace_d09ef43417be8e975c9638abae11ff12" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_c45f3867982c27f9d2a3cd76e5e2363e" label="Forms of Material:">Records (documents).</physdesc>
+    <abstract id="aspace_d4cca2f86f66a37c28c586c228a95f25">Proceedings of two panel sessions held on the morning of May 24, 1965, and two panel sessions held on the morning of May 25, 1965.</abstract>
+    <langmaterial id="aspace_401e81ba749a24f0a5ba7ab28072f1a2">Collection material in English</langmaterial>
+    <unitid type="bibid">8439017</unitid>
+  </did>
+  <odd id="aspace_d35a069d79a28980ec0bcba85aa1a373">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, April 09, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, February 22, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_000deee5a29a1d99fc950b8ad6c32707">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_35ed094a19722b077711d84a6ce7b43c">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_8f7aa7b407d06534abe82764b2562d21">
+    <head>Preferred Citation</head>
+<p>Conference on Industry and Government #/3083. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_8ab8e5352b162a9aadea8c261938bfc0">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05059.html"> 5059: U.S. Emergency Board No. 142 Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05262.html"> 5262: Matthew Woll Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06007.html"> 6007: U.S. Department of Labor Office of American Workplace Labor Management Cooperation Collected Publications</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06047.html"> 6047: Archives Information File</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Decision making -- United States.</subject>
+    <corpname source="ingest">New York State School of Industrial and Labor Relations</corpname>
+  </controlaccess>
+  <unitid type="bibid">8439017</unitid>
+  <dsc><c01 id="aspace_ce8db3734a42aab9c7b2076013dd8aa2" level="file"><did><unittitle>The Federal Research and Development Programs : the Decision making Process</unittitle><unitdate datechar="creation" normal="1966/1966">1966</unitdate><container id="aspace_786719992429eba0f92f73878acbc026" label="unspecified" type="box">1</container><container id="aspace_10366f252cccf9c5be9e6761f65d2ee4" parent="aspace_786719992429eba0f92f73878acbc026" type="folder">1</container></did><scopecontent id="aspace_9bdadc658cb6bd88fd3479bdcbad9345"><head>Scope and Contents</head><p>2 copies of Hearing</p></scopecontent></c01><c01 id="aspace_3eea27d8d87768fd5828ceb912c31c12" level="file"><did><unittitle>Conference on Industry and Government Participation in Expanded Programs of Mass Transportation, Water Resources Development and Urban Development</unittitle><unitdate datechar="creation" normal="1965/1965">1965</unitdate><container id="aspace_a1a04a261f73afa1ec11cb8e17290de5" label="unspecified" type="box">1</container><container id="aspace_7808982b1d83fe3662a217315c29894c" parent="aspace_a1a04a261f73afa1ec11cb8e17290de5" type="folder">2</container></did><scopecontent id="aspace_70134693f8084cf3169e4279bf190a3b"><head>Scope and Contents</head><p>May 24, 1965, Panel I: Mass Transportation, Dale Corson, Chairman. May 25, 1965, Panel I: Water Resource Development, Alice Cook, Chairman.</p></scopecontent></c01><c01 id="aspace_228fa4e1b01ce7f52f14601e98c7ed03" level="file"><did><unittitle>Conference on Industry and Government Participation in Expanded Programs of Mass Transformation, Water Resources Development and Urban Development</unittitle><unitdate datechar="creation" normal="1965/1965">1965</unitdate><container id="aspace_9555012c938ab99670c6b8a7b2d88b76" label="unspecified" type="box">1</container><container id="aspace_af43709ead16d6169996595cbd004ab1" parent="aspace_9555012c938ab99670c6b8a7b2d88b76" type="folder">3</container></did><scopecontent id="aspace_20c4ad50192b45ce9e44e9d88ab35813"><head>Scope and Contents</head><p>May 24, 1965, Panel II: Water Resource Development, Franklin A. Long, Chairman. May 25, 1965, Panel II: Urban Development, Burnham Kelly, Chairman</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

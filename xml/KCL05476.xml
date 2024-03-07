@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05476</eadid><filedesc><titlestmt><titleproper>U.S. Wage Stabilization Board Documents <num>5476</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 13, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:48:16 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>U.S. Wage Stabilization Board Documents</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">United States. Wage Stabilization Board</corpname>
+    </origination>
+    <unitid>5476</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1921/1962" type="inclusive">1921-1962</unitdate>
+    <physdesc id="aspace_f47f6651acc0d7b40c616b120023b059" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_c779ba64480c409cc93c6b6c382c048a" label="Forms of Material:">Case files, records (documents) .</physdesc>
+    <abstract id="aspace_b155b8ddc308896544154b23e2b2c1d2">Materials of the U.S. Wage Stabilization Board include memoranda and press releases concerning wage policy, union security, procedures for handling cases, and national defense.</abstract>
+    <langmaterial id="aspace_63f1590a3b579f991f365d2478ac506f">Collection material in English</langmaterial>
+    <unitid type="bibid">2299573</unitid>
+  </did>
+  <odd id="aspace_0637658fcd7108d107a9835d541bbca0">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, April 18, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 13, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_e46e7007a77672dda88baeb1b786299a">
+    <head>Biographical / Historical</head>
+<p>The United States Wage Stabilization Board was created as an agency of the Economic Stabilization Agency by executive order under the authority of the Defense Production Act of 1950. Its function was to control wages during the Korean War. An executive order, 1951, reestablished the Board with power to assist the president in settling industrial disputes. In July, 1952, the Board was reconstituted under legislative authority and stripped of its functions in the area of labor disputes. It was terminated April 30, 1953.</p>  </bioghist>
+  <scopecontent id="aspace_471600a4da239ad1c2991fbcc3a69fdc">
+    <head>Scope and Contents</head>
+<p>Materials of the U.S. Wage Stabilization Board include memoranda and press releases concerning wage policy, union security, procedures for handling cases, and national defense. </p><p> Also, panel reports and recommendations, answers, statements and briefs pertaining to the labor dispute settlement case of the United Steelworkers of America vs. various steel and iron ore companies (1952) on issues of shift differential, vacation, holiday, ability to pay, profits, geographic wage differentials, management rights, working conditions, contracting out, seniority, arbitration procedure, wage adjustment, productivity, union security, and wage differential.</p>  </scopecontent>
+  <accessrestrict id="aspace_5c7f97d3b07e944d1f4225d91a774be8">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_00f9ea0dcb2b7bda2d614f44907f0cbf">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_07eb7951064695ab6563de4be09560ac">
+    <head>Preferred Citation</head>
+<p>U.S. Wage Stabilization Board Documents #5476. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Korean War, 1950-1953-- Economic aspects -- United States.</subject>
+    <subject source="ingest">Wage-price policy -- United States.</subject>
+    <subject source="ingest">Arbitration, Industrial. Steel industry. United States.</subject>
+    <subject source="ingest">Contracting out. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Labor disputes. Steel industry. United States.</subject>
+    <subject source="ingest">Labor productivity. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Management rights. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Seniority, Employee. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Steel industry. United States. Military aspects.</subject>
+    <subject source="ingest">Trade-union security. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Wages. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Wages. Steel industry. United States.</subject>
+    <subject source="ingest">Wages. United States. State supervision.</subject>
+    <subject source="ingest">Working conditions. Arbitration, Industrial. United States.</subject>
+    <corpname audience="internal" source="ingest">United States. Wage Stabilization Board.</corpname>
+    <corpname audience="internal" source="ingest">United Steelworkers of America</corpname>
+  </controlaccess>
+  <unitid type="bibid">2299573</unitid>
+  <dsc><c01 id="aspace_830214f41f5165953aae9a88bada8fc9" level="file"><did><unittitle>Inland Steel v. National Labor Relations Board (NLRB)</unittitle><unitdate datechar="creation" normal="1948/1948">1948</unitdate><container id="aspace_d6b1f08738528233264c271965f9948a" label="unspecified" type="box">1</container><container id="aspace_b3d5e589df7f6d6c60f7f0290c2fddfe" parent="aspace_d6b1f08738528233264c271965f9948a" type="folder">1</container></did></c01><c01 id="aspace_a24c8fcbe41726646d1bb634f164c036" level="file"><did><unittitle>International Harvester Arbitration Decisions</unittitle><unitdate datechar="creation" normal="1956/1962" type="inclusive">1956-1962</unitdate><container id="aspace_efb2670141457ceef3c3fa40230dc2e5" label="unspecified" type="box">1</container><container id="aspace_7ed54bad5a0fa52260b57658ec1eb460" parent="aspace_efb2670141457ceef3c3fa40230dc2e5" type="folder">2</container></did></c01><c01 id="aspace_87a9d0df142843c75250e719c7567a81" level="file"><did><unittitle>National War Labor Board</unittitle><unitdate datechar="creation" normal="1945/1945">1945</unitdate><container id="aspace_07c8725b634669aaf38cabaf0919ed87" label="unspecified" type="box">1</container><container id="aspace_8cc1d9a8d65dea9aa392c9e3be4e0a15" parent="aspace_07c8725b634669aaf38cabaf0919ed87" type="folder">3</container></did></c01><c01 id="aspace_56ba619054f6a02cf5ec4e3075804b3c" level="file"><did><unittitle>Wage Stabilization Board</unittitle><unitdate datechar="creation" normal="1951/1951">1951</unitdate><container id="aspace_2affb36070420064d45f1cb0f7bc86d4" label="unspecified" type="box">1</container><container id="aspace_e90dd37a8bb1a93007f444b7adccc850" parent="aspace_2affb36070420064d45f1cb0f7bc86d4" type="folder">4</container></did></c01><c01 id="aspace_694b54877338edf12affb45ff1a4c872" level="file"><did><unittitle>Wage Stabilization Board in matter between United Steelworkers and various steel and ore companies</unittitle><unitdate datechar="creation" normal="1952/1952">1952</unitdate><container id="aspace_e5f22dfac73d5f3ffd0d40a113d3f27b" label="unspecified" type="box">1</container><container id="aspace_c15332f305c6b66fcd7ecfd70fe3fd7e" parent="aspace_e5f22dfac73d5f3ffd0d40a113d3f27b" type="folder">5</container></did></c01><c01 id="aspace_029e709c621bf8ca878124a2a76c0ee2" level="file"><did><unittitle>Wage Stabilization Board in matter between United Steelworkers and various steel and ore companies</unittitle><unitdate datechar="creation" normal="1952/1952">1952</unitdate><container id="aspace_a0a885b4eb74b85161dc1affe3c33276" label="unspecified" type="box">1</container><container id="aspace_80de1e9d38ff8f773c5bf2c59598993c" parent="aspace_a0a885b4eb74b85161dc1affe3c33276" type="folder">6</container></did></c01><c01 id="aspace_cecee0face4dcc930beb7efe82a97f0a" level="file"><did><unittitle>Wage Stabilization Board in matter between United Steelworkers and various steel and ore companies</unittitle><unitdate datechar="creation" normal="1952/1952">1952</unitdate><container id="aspace_42aa1e8c3630ec11819583f98c49fd40" label="unspecified" type="box">1</container><container id="aspace_19522dbd9725aae51904e2042d95f788" parent="aspace_42aa1e8c3630ec11819583f98c49fd40" type="folder">7</container></did></c01><c01 id="aspace_4fae2a7ffb9986663dbb61e76f1b9475" level="file"><did><unittitle>Wage Stabilization Board in matter between United Steelworkers and various steel and ore companies</unittitle><unitdate datechar="creation" normal="1952/1952">1952</unitdate><container id="aspace_decbc6953975fbf385d1a1258b6b0877" label="unspecified" type="box">1</container><container id="aspace_31e2abf89f1e6e272c076a840983f8aa" parent="aspace_decbc6953975fbf385d1a1258b6b0877" type="folder">8</container></did></c01><c01 id="aspace_32688883acfb98b3cdd66e5e51da77d7" level="file"><did><unittitle>Wage Stabilization Board in matter between United Steelworkers and various steel and ore companies</unittitle><unitdate datechar="creation" normal="1952/1952">1952</unitdate><container id="aspace_037855b97e5e4c6517290f3a8a290609" label="unspecified" type="box">1</container><container id="aspace_5513fca41f1fe16af91c49338a3fbceb" parent="aspace_037855b97e5e4c6517290f3a8a290609" type="folder">9</container></did></c01><c01 id="aspace_b1dfe71f498528dc49497dd93f147ec5" level="file"><did><unittitle>Wage Stabilization Board in matter between United Steelworkers and various steel and ore companies</unittitle><unitdate datechar="creation" normal="1952/1952">1952</unitdate><container id="aspace_11dbb5a834010f9d387c8035da8cec52" label="unspecified" type="box">1</container><container id="aspace_395f122121dea050d7c4e67e3d985970" parent="aspace_11dbb5a834010f9d387c8035da8cec52" type="folder">10</container></did></c01><c01 id="aspace_7638291df1b93d8a6279d3965ec18d57" level="file"><did><unittitle>Wage Stabilization Board in matter between United Steelworkers and various steel and ore companies</unittitle><unitdate datechar="creation" normal="1952/1952">1952</unitdate><container id="aspace_d8cf24ccea0ff1653c3ee6d6c938ba9e" label="unspecified" type="box">1</container><container id="aspace_1aa61c56d6cbc304591168322a2ce37d" parent="aspace_d8cf24ccea0ff1653c3ee6d6c938ba9e" type="folder">11</container></did><scopecontent id="aspace_c62e6eb1cb8084e806c52a37c46d4ee1"><head>Scope and Contents</head><p>United Steelworkers exhibits</p></scopecontent></c01><c01 id="aspace_7ec0d1d4e996a7f8ef511355e2875e53" level="file"><did><unittitle>Wage Stabilization Board in matter between United Steelworkers and various steel and ore companies</unittitle><unitdate datechar="creation" normal="1952/1952">1952</unitdate><container id="aspace_b5a43a9db76342c5799916d46115efd2" label="unspecified" type="box">1</container><container id="aspace_f9139557e8baed3e7f4958fd216b4b0e" parent="aspace_b5a43a9db76342c5799916d46115efd2" type="folder">12</container></did><scopecontent id="aspace_0f56419c2fd5ab9dfdfd659157c569fe"><head>Scope and Contents</head><p>United Steelworkers exhibits</p></scopecontent></c01><c01 id="aspace_a33703670fdb08c1178b5b7cc1cdd61b" level="file"><did><unittitle>Wage Stabilization Board in matter between United Steelworkers and various steel and ore companies</unittitle><unitdate datechar="creation" normal="1952/1952">1952</unitdate><container id="aspace_113e3c899aa2c23e2f2c0d87726527c2" label="unspecified" type="box">1</container><container id="aspace_1bf4d3d18c230fcb4c7154ddda9387dd" parent="aspace_113e3c899aa2c23e2f2c0d87726527c2" type="folder">13</container></did><scopecontent id="aspace_6410349728dac78b5f9a116e438fa685"><head>Scope and Contents</head><p>United Steelworkers exhibits</p></scopecontent></c01><c01 id="aspace_5055985d5b4df27540beb089b58c2fb2" level="file"><did><unittitle>War Production Board</unittitle><unitdate datechar="creation" normal="1941/1945" type="inclusive">1941-1945</unitdate><container id="aspace_75564013a659286dcb61ebaa3f991e34" label="unspecified" type="box">1</container><container id="aspace_1cba0d1e6e70c6b41760f9a2c8c0b805" parent="aspace_75564013a659286dcb61ebaa3f991e34" type="folder">14</container></did></c01><c01 id="aspace_e645c70cd2c4bc7bcdecebd0e109dfff" level="file"><did><unittitle>Miscellaneous reports and printed materials</unittitle><unitdate datechar="creation" normal="1921/1952" type="inclusive">1921-1952</unitdate><container id="aspace_0e47dc9d50e14573a5584d536bf1a6e3" label="unspecified" type="box">1</container><container id="aspace_5cace071630a677074e22d1aa1ddb433" parent="aspace_0e47dc9d50e14573a5584d536bf1a6e3" type="folder">15</container></did></c01></dsc>
+</archdesc>
+</ead>

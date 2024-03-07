@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05026</eadid><filedesc><titlestmt><titleproper>Gamm, Sara Collection of Miscellaneous Materials from the New York City Transit Authority <num>5026</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>January 20, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:29:59 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Sara Gamm Collection of Miscellaneous Materials from the New York City Transit Authority</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Gamm, Sara</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">New York City Transit Authority</corpname>
+    </origination>
+    <unitid>5026</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1969/1970" type="inclusive">1969-1970</unitdate>
+    <physdesc id="aspace_7313ab80d7be13321ff5439031f65bb8" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_71f34cee634f8fe17aab67552d196a05" label="Forms of Material:">Collective bargaining agreements, pamphlets, constitutions.</physdesc>
+    <abstract id="aspace_e26f8749eb33410b2b000de3accafdd7">This collection consists of collective bargaining agreements between the New York City Transit Authority and a number of employee organizations, including supervisory organizations, rules and regulations (technical operating rules as well as regulations concerning leave and vacations), and other material relative to the personnel and labor relations aspects of the Transit Authority.</abstract>
+    <langmaterial id="aspace_7a2e2e407fe9f6c6e08eeb5e3d719d59">Collection material in English</langmaterial>
+    <unitid type="bibid">5513190</unitid>
+  </did>
+  <odd id="aspace_c1f1567820a76a94dd719ec5114a6252">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 22, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, January 20, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_242a9f299bff7749449de41f8e9af432">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_9755eeefb859f187ee5cee564c05252c">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_caf5d69d4def1da36f7ea4a87bdee424">
+    <head>Preferred Citation</head>
+<p>Sara Gamm Collection of Miscellaneous Materials from the New York City Transit Authority #5026. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Local transit - Employees - New York (State) - New York.</subject>
+    <subject source="ingest">Local transit - Management - New York (State) - New York.</subject>
+    <subject source="ingest">Collective labor agreements - Transit workers - New York (State) - New York.</subject>
+    <subject source="ingest">New York City.</subject>
+    <corpname audience="internal" source="ingest">New York City Transit Authority.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5513190</unitid>
+  <dsc><c01 id="aspace_8d97479531172eac93df8f009166b8ee" level="file"><did><unittitle>Agreement between NYC Transit Authority and Subway supervisors Association</unittitle><unitdate datechar="creation" normal="1966/1968" type="inclusive">1966-1968</unitdate><container id="aspace_dcb27b067a08b7011ee171580e654646" label="unspecified" type="box">1</container><container id="aspace_066aa890be9bd85f498906bafd1ff372" parent="aspace_dcb27b067a08b7011ee171580e654646" type="folder">1</container></did></c01><c01 id="aspace_7cfdc58dae75df4fdad7a17fd62bb099" level="file"><did><unittitle>Agreement between NYC Transit Authority and AFL-CIO Division 1056</unittitle><unitdate datechar="creation" normal="1960/1964" type="inclusive">1960-1964</unitdate><container id="aspace_0f5d81f69f8d83949265f07ce6917b43" label="unspecified" type="box">1</container><container id="aspace_56c566689d0bdd1e792fd25e0e70ae23" parent="aspace_0f5d81f69f8d83949265f07ce6917b43" type="folder">2</container></did></c01><c01 id="aspace_58fdfba8e09a26394343c0f2bd415ff1" level="file"><did><unittitle>Agreement between NYC Transit Authority and Local 100, AFL-CIO</unittitle><unitdate datechar="creation" normal="1968/1968">1968</unitdate><container id="aspace_ad09238cd29f873ed8da9e4b6e98af46" label="unspecified" type="box">1</container><container id="aspace_934e26f06be86b0db16dd8b0a1e6df48" parent="aspace_ad09238cd29f873ed8da9e4b6e98af46" type="folder">3</container></did></c01><c01 id="aspace_e8e2efc8731eefefcb44423e839e0a33" level="file"><did><unittitle>Agreement between NYC Transit Authority and AFL-CIO 726</unittitle><unitdate datechar="creation" normal="1968/1968">1968</unitdate><container id="aspace_f8129d5279cb1da49682bb0356d1c306" label="unspecified" type="box">1</container><container id="aspace_b8ddf52c6690e94108c15c7bb89c66af" parent="aspace_f8129d5279cb1da49682bb0356d1c306" type="folder">4</container></did></c01><c01 id="aspace_ba085b6df0fa3f2c57d4d822c7ed054b" level="file"><did><unittitle>Agreement between NYC Transit Authority and Queens Supervisory Association</unittitle><unitdate datechar="creation" normal="1968/1968">1968</unitdate><container id="aspace_1b618303bbe2f99f9532d70aecb87155" label="unspecified" type="box">1</container><container id="aspace_c3764208e6b13a1322694e728ad8fa84" parent="aspace_1b618303bbe2f99f9532d70aecb87155" type="folder">5</container></did></c01><c01 id="aspace_bac3a79f7bf63b41acab2f94987a131e" level="file"><did><unittitle>Agreement between NYC Transit Authority and Transit Supervisors Organization</unittitle><unitdate datechar="creation" normal="1964/1968" type="inclusive">1964-1968</unitdate><container id="aspace_50fed10f12cf8971d238ace935cd7880" label="unspecified" type="box">1</container><container id="aspace_5bb5b0bf5ef4ebd3b58fe7d16b9816e5" parent="aspace_50fed10f12cf8971d238ace935cd7880" type="folder">6</container></did></c01><c01 id="aspace_743cc41d753c9e4d2c74ff2fafd5bff6" level="file"><did><unittitle>NYC Transit Authority Rules and Regulations</unittitle><container id="aspace_ad8b0ad5da14866e8c9bc241a717c6f5" label="unspecified" type="box">1</container><container id="aspace_4ae2d0594e2bf17c4c5fc161a61022d3" parent="aspace_ad8b0ad5da14866e8c9bc241a717c6f5" type="folder">7</container></did></c01><c01 id="aspace_ff22a117e5dfba42fbc526d64cef8428" level="file"><did><unittitle>Rules and Regulations Ch. 16 Vacation, Sick Leave, Other Allowances</unittitle><unitdate datechar="creation" normal="1964/1964">1964</unitdate><container id="aspace_18a504907d2eeb158c4e6184369fd7e6" label="unspecified" type="box">1</container><container id="aspace_8e1dc14d6040b7d89d51e2c302139795" parent="aspace_18a504907d2eeb158c4e6184369fd7e6" type="folder">8</container></did></c01><c01 id="aspace_1830ef3826a66fd8323c5a69be91ff92" level="file"><did><unittitle>NYC Transit Authority Schedule of Working Conditions for Employees in: Power, Maintenance of way, Bus Maintenance, Station, Railroad Watchman, Conductor, Motormen</unittitle><unitdate datechar="creation" normal="1961/1966" type="inclusive">1961-1966</unitdate><container id="aspace_f61c95cfaea931f6c762aeec82774c0a" label="unspecified" type="box">1</container><container id="aspace_df98f37fe78bad7b5766bd377bfd1b4c" parent="aspace_f61c95cfaea931f6c762aeec82774c0a" type="folder">9</container></did></c01><c01 id="aspace_24ce45d97005d3c02ac1e40aa7d0360e" level="file"><did><unittitle>Constitution of AFSCME</unittitle><unitdate datechar="creation" normal="1964/1964">1964</unitdate><container id="aspace_3159fe802b9b1a5d9c373f242bfbb140" label="unspecified" type="box">1</container><container id="aspace_49a59fbf65ce80725ba107b05f702d55" parent="aspace_3159fe802b9b1a5d9c373f242bfbb140" type="folder">10</container></did></c01><c01 id="aspace_e411099aa0ba1c0bed5eb6c93706c2f6" level="file"><did><unittitle>Constitution of the Association of Western Pulp and Paper Workers</unittitle><unitdate datechar="creation" normal="1968/1968">1968</unitdate><container id="aspace_172efd5bd27d73767e74ff7bc94b9b1f" label="unspecified" type="box">1</container><container id="aspace_9ca9f363d1704fb8335d457c83238a2a" parent="aspace_172efd5bd27d73767e74ff7bc94b9b1f" type="folder">11</container></did></c01></dsc>
+</archdesc>
+</ead>

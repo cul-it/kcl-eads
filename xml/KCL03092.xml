@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL03092</eadid><filedesc><titlestmt><titleproper>ILR School Faculty Committee on Personnel Policies Files <num>/3092</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>September 20, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:16:08 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILR School Faculty Committee on Personnel Policies Files</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">New York State School of Industrial and Labor Relations (NYSSILR)</corpname>
+    </origination>
+    <unitid>/3092</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1956/1962" type="inclusive">1956- 1962</unitdate>
+    <physdesc id="aspace_6b21f26dae699f5d0b3ff8af534196ac" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_cc5ad81c3eca95211d16c5055f4509e5" label="Forms of Material:">Records (documents).</physdesc>
+    <abstract id="aspace_c5000c33f1b5d043e4adfc831d0d74da">Files of the ILR School's Faculty Committee on Personnel Policies.</abstract>
+    <langmaterial id="aspace_f6f97cf613d8ec6b98b99441ba3465d1">Collection material in English</langmaterial>
+    <unitid type="bibid">7929417</unitid>
+  </did>
+  <odd id="aspace_5da837f0cea134658f6525a3f47d4539">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 15, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, September 20, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <scopecontent id="aspace_d4c59a929333cda27831dc0eeef6a1f0">
+    <head>Scope and Contents</head>
+<p>This collection contains correspondence, memoranda, notes, and reports relating to the work of the ILR School's Faculty Committee on Personnel Policies, 1956-1962.</p>  </scopecontent>
+  <accessrestrict id="aspace_cc54b4f61f24e0f9c9a80d6eb3111364">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_af4a80e813619b6f908ba32ddbf0cce6">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_7e4334aba81b2aadbce6bc14c4102705">
+    <head>Preferred Citation</head>
+<p>ILR School Faculty Committee on Personnel Policies Files #/3092. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <corpname source="ingest">New York State School of Industrial and Labor Relations.</corpname>
+    <corpname audience="internal" source="ingest">New York State School of Industrial and Labor Relations. Faculty Committee on Personnel Policies.</corpname>
+  </controlaccess>
+  <unitid type="bibid">7929417</unitid>
+  <dsc><c01 id="aspace_3513f421712beab6d9796c0d25ac1be9" level="file"><did><unittitle>Faculty Personnel Policies Committee</unittitle><unitdate datechar="creation" normal="1956/1959" type="inclusive">1956-1959</unitdate><container id="aspace_beb253d7d03106888efacf5393a9439d" label="unspecified" type="box">1</container><container id="aspace_94395bd74ccdc614e7a199043513af39" parent="aspace_beb253d7d03106888efacf5393a9439d" type="folder">1</container></did></c01><c01 id="aspace_b69da491b930f499fda0441e628e7293" level="file"><did><unittitle>Faculty Personnel Policies Committee</unittitle><unitdate datechar="creation" normal="1961/1962" type="inclusive">1961-1962</unitdate><container id="aspace_4bf02131a3133a29b84fe7095843ddfb" label="unspecified" type="box">1</container><container id="aspace_b991d56291eebbebad6983460925ce32" parent="aspace_4bf02131a3133a29b84fe7095843ddfb" type="folder">2</container></did></c01><c01 id="aspace_b26673329d660dd7139ed0e54d0fed3f" level="file"><did><unittitle>Faculty Personnel Policies Committee</unittitle><unitdate datechar="creation" normal="1962/1962">1962</unitdate><container id="aspace_f5c9d381feca499d686802ccd71e52b6" label="unspecified" type="box">1</container><container id="aspace_c81a2150e7d50401386c618ae3e9bbd2" parent="aspace_f5c9d381feca499d686802ccd71e52b6" type="folder">3</container></did></c01></dsc>
+</archdesc>
+</ead>

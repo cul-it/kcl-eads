@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04002</eadid><filedesc><titlestmt><titleproper>ILR School Ad Hoc Committee on Associate Degree Program Papers <num>/4002</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>September 20, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:16:29 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILR School Ad Hoc Committee on Associate Degree Program Papers</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">New York State School of Industrial and Labor Relations (NYSSILR)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Committee on Associate Degree Program</corpname>
+    </origination>
+    <unitid>/4002</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1964/1973" type="inclusive">1964-1973</unitdate>
+    <physdesc id="aspace_540bb6ff4e66ec82a824d12d5ee7b51f" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_42ba17470a06365336188aa3f05556c9" label="Forms of Material:">Papers (documents).</physdesc>
+    <langmaterial id="aspace_e87d8a0baa19798c266d22323e1b49d9">Collection material in English</langmaterial>
+    <unitid type="bibid">3082590</unitid>
+  </did>
+  <odd id="aspace_1b3412f14f915d391784ab7ac5c1d201">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, January 26, 2015</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, September 20, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_edaae8fa34c7f4a40e9ece6246c25065">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_ec94dc05a9b46a2d256b9b87fd70c27d">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_4877c083a532a82eef9242d671d91f13">
+    <head>Preferred Citation</head>
+<p>ILR School Ad Hoc Committee on Associate Degree Program Papers #/4002. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_9bc0042e6807664d89186703dc94e210">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL03003.html"> /3003: Robert V. Pezdek Associate Degree Program File</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Management.</subject>
+    <corpname audience="internal" source="ingest">New York State School of Industrial and Labor Relations. Ad Hoc Committee on Associate Degree Program.</corpname>
+    <corpname audience="internal" source="ingest">New York State School of Industrial and Labor Relations --Administration.</corpname>
+  </controlaccess>
+  <unitid type="bibid">3082590</unitid>
+  <dsc><c01 id="aspace_f29b1f0c5d463b047a251b347acdf110" level="file"><did><unittitle>January 1-April 30, 1971</unittitle><container id="aspace_8996eee63a5d6f73db98e1ce83791352" label="unspecified" type="box">1</container><container id="aspace_fa9cfed4d2fdd110756c21f19ee50f0e" parent="aspace_8996eee63a5d6f73db98e1ce83791352" type="folder">1</container></did></c01><c01 id="aspace_69d49207c1c91d80a6fadeaf1cee0132" level="file"><did><unittitle>September 1 - , 1971</unittitle><container id="aspace_c70bf8fdd3f6939834e5e81a4edf1067" label="unspecified" type="box">1</container><container id="aspace_64ad092d0a6a3bf3cfce46eeb1c29c91" parent="aspace_c70bf8fdd3f6939834e5e81a4edf1067" type="folder">2</container></did></c01><c01 id="aspace_349f537bc0415de6fd35aa8c7d24b6ac" level="file"><did><unittitle>1964-1969</unittitle><container id="aspace_cebb4be88e0b6f4d0f683154c34db59f" label="unspecified" type="box">1</container><container id="aspace_a9f4f7ff296f850a1dfcd708787b2e56" parent="aspace_cebb4be88e0b6f4d0f683154c34db59f" type="folder">3</container></did></c01><c01 id="aspace_eb0d82bd68dcf0a10d38465a821bc638" level="file"><did><unittitle>1972 and ILR School Council Meeting April 1973</unittitle><container id="aspace_8c051dd4a15e12c26d4042692e74f72d" label="unspecified" type="box">1</container><container id="aspace_81f823269d9b34d5133553699d5a2754" parent="aspace_8c051dd4a15e12c26d4042692e74f72d" type="folder">4</container></did></c01><c01 id="aspace_fd0ad7dbe029ec5533f2febd1190998a" level="file"><did><unittitle>1970</unittitle><container id="aspace_30a1f0dbc26c188126d8bd7763b8aef4" label="unspecified" type="box">1</container><container id="aspace_01dd1b78a93fcddacd70a2e89f337702" parent="aspace_30a1f0dbc26c188126d8bd7763b8aef4" type="folder">5</container></did></c01><c01 id="aspace_7df665bf9ae372222bf2ea77dbbd1737" level="file"><did><unittitle>General Notes</unittitle><container id="aspace_a69a115c74d9ebc5040c725f9a53b330" label="unspecified" type="box">1</container><container id="aspace_7146487340ffa5bfcbc5e21d2079ff3d" parent="aspace_a69a115c74d9ebc5040c725f9a53b330" type="folder">6</container></did></c01><c01 id="aspace_0046fafa3713026455d81b44e76d5345" level="file"><did><unittitle>May 1 - August 31, 1971</unittitle><container id="aspace_40df458fbe3ff4138e9e3fa50996f0c9" label="unspecified" type="box">1</container><container id="aspace_b5cb1527cd8fbec16d1c9a5aa3c5a67d" parent="aspace_40df458fbe3ff4138e9e3fa50996f0c9" type="folder">7</container></did></c01><c01 id="aspace_6c612e0745d28f0697000b09bb58e992" level="file"><did><unittitle>Miscellaneous Materials</unittitle><container id="aspace_09e7698c4b2fa6f512a6397d8bf2e540" label="unspecified" type="box">1</container><container id="aspace_b6b56fdd833a00bc11fd95e6d0059904" parent="aspace_09e7698c4b2fa6f512a6397d8bf2e540" type="folder">8</container></did></c01><c01 id="aspace_39636d5b37f058793acc6987b599b944" level="file"><did><unittitle>Miscellaneous Cassettes</unittitle><container id="aspace_0cd627d66d0e4eb054ef181be93d3ce2" label="unspecified" type="box">1</container><container id="aspace_e008578874bdcf19d4f3365b0e5e371b" parent="aspace_0cd627d66d0e4eb054ef181be93d3ce2" type="folder">9</container></did></c01></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05426mf</eadid><filedesc><titlestmt><titleproper>Holyoake, George Jacob Papers on Microfilm <num>5426 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 12, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:46:19 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>George Jacob Holyoake Papers on Microfilm</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Holyoake, George Jacob</persname>
+    </origination>
+    <unitid>5426 mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.67 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1840/1873" type="inclusive">1840-1873</unitdate>
+    <physdesc id="aspace_9078f7cce0b99eb25b69d9e726e06b7d" label="Quantity:">6 microfilm reels</physdesc>
+    <physdesc id="aspace_7da0cf062b070c4bd9d074497f71d736" label="Forms of Material:">Papers (documents), microfilm.</physdesc>
+    <abstract id="aspace_71e6ca87b9802c285e3c7948389de148">Microfilm copy of the George Holyoake Papers at the Cooperative Union of Manchester and the Bishopsgate Institute of London.</abstract>
+    <langmaterial id="aspace_9cdd1fb2723576ea895da1ccaaf57e23">Collection material in English</langmaterial>
+    <unitid type="bibid">2654509</unitid>
+  </did>
+  <odd id="aspace_0c401532d83a734cb30c44a5a7968f4f">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, May 14, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 12, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_be8c86082fbad8ece86788aae6aba4ec">
+    <head>Biographical / Historical</head>
+<p>The growth of a liberal society during the Nineteenth Century is epitomized in the life of George Jacob Holyoake, 1817-1906. The numerous stages in his career, from that of despised atheist to that of respected Liberal journalist and propagator of International Co-operation, touch on many of the social and intellectual developments of the Victorian age. </p><p> An Owenite Lecturer and latter-day Chartist, Holyoake took a leading part in the Free Press struggle, and the abolition of the compulsory oath in courts of law. An active friend of foreign revolutionaries and a prominent supporter of Italian unification, above all, he was a founder, and the most important propagator of the Cooperative and Co-partnership Movements, both at home and abroad. He was, in addition, involved in scores of lesser agitations, and was a Parliamentary lobbyist par excellence. </p><p> The work of his lifetime was liberalism, the practical working out of Mill's famous "Essay": freedom to express beliefs and shape public opinion; civil rights for all, irrespective of beliefs and class, and that degree of economic freedom which he believed true Co-operation could bring. Intellectually, he enjoyed the friendships of J.S. Mill and F. W. Newman, both of whom influenced his own thought and outlook, and his correspondents included Joseph Cowen, Joseph Mazzini, Robert Owen, Mr. Gladstone, Sir John Macdonald, Justin McCarthy and numerous leading Radical and Co-operative Members of Parliament, such as W. Morrison, C.W. Dilke, J. Chamberlain, S. A. Beaumont, etc. </p><p> As a founder of the "Leader" newspaper in 1850, he provided a link between the emerging working-classes, never very religious and the middle-class intellectuals, who were beginning to express their now much publicized doubts. The historian of working-class organizations and co-operation, of Liberalism and Liberty, of intellectual history and Victorian moralism, will find a mine of information and suggestions in this extensive correspondence. </p><p> The Bishopsgate Institute collection is complementary to that in Manchester, highlighting specific episodes and movements. The diaries give a brief chronology of Holyoake's movements, lectures and friends, but the log books, lecture notes, etc., provide a much fuller picture of the artisan culture and ethos of self- education, which existed in Birmingham in the late 1830's. The documents on Italy, the Taxes on Knowledge and the Gravelling Tax Abolition Committee, supply details of three of the movements which are typical of Holyoake's works.</p>  </bioghist>
+  <scopecontent id="aspace_5bc128ccaf136ab2111b90de3a067999">
+    <head>Scope and Contents</head>
+<p>Microfilm copy of the George Holyoake Papers at the Cooperative Union of Manchester and the Bishopsgate Institute of London. </p><p> The Bishopsgate Institute collection is complementary to that in Manchester, highlighting specific episodes and movements. The diaries give a brief chronology of Holyoake's movements, lectures and friends, but the log books, lecture notes, etc., provide a much fuller picture of the artisan culture and ethos of self-education, which existed in Birmingham in the late 1830's. The documents on Italy, the Taxes on Knowledge and the Gravelling Tax Abolition Committee, supply details of three of the movements which are typical of Holyoake's works.</p>  </scopecontent>
+  <accessrestrict id="aspace_4a6b35f74fba414ddad206254f8767d5">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_7d08e4be15286e2e3b57d04f05392867">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_8cd7c9b47d985904955cb6b58172db80">
+    <head>Preferred Citation</head>
+<p>George Jacob Holyoake Papers on Microfilm #5426 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Holyoake, George Jacob, 1817-1906.</persname>
+  </controlaccess>
+  <unitid type="bibid">2654509</unitid>
+  <dsc><c01 id="aspace_d057434dc642ee40e4e62717a398727a" level="file"><did><unittitle>Record Group A-39: Holyoake, G.J. -- Pt.1 General correspondence - 1840-1849</unittitle><unitdate datechar="creation" normal="1840/1849" type="inclusive">1840-1849</unitdate><container id="aspace_d6dd605bdf8d700015b4c22f49a43b35" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_0d1255e9977ad24214f9452edb85e869"><head>Scope and Contents</head><p>positive</p></scopecontent></c01><c01 id="aspace_0d49bdb7fc1428aa23bcaf853d29491a" level="file"><did><unittitle>Record Group A-39: Holyoake, G.J. -- Pt.1 General correspondence - 1850-1859</unittitle><unitdate datechar="creation" normal="1850/1859" type="inclusive">1850-1859</unitdate><container id="aspace_219fe9d0116b32f14f7304af66a3da5e" label="unspecified" type="reel">2</container></did><scopecontent id="aspace_f605d7121b8ab124a94dc2f1e16d12be"><head>Scope and Contents</head><p>positive</p></scopecontent></c01><c01 id="aspace_7aa568bfcd17661a833d1b4f1652d9ae" level="file"><did><unittitle>Record Group A-39: Holyoake, G.J. -- Pt.1 General correspondence - 1860-1866</unittitle><unitdate datechar="creation" normal="1860/1866" type="inclusive">1860-1866</unitdate><container id="aspace_0f03dc53a168a0db978b78adc759f705" label="unspecified" type="reel">3</container></did><scopecontent id="aspace_15c0f3531f73a83dc2b44f051d604415"><head>Scope and Contents</head><p>positive</p></scopecontent></c01><c01 id="aspace_05bff1bdb353a1a0f3585fa79d5992c6" level="file"><did><unittitle>Record Group A-39: Holyoake, G.J. -- Pt.1 General correspondence - 1867-1878</unittitle><unitdate datechar="creation" normal="1867/1878" type="inclusive">1867-1878</unitdate><container id="aspace_450ac05b2ef480ae3d162344a366cbe5" label="unspecified" type="reel">4</container></did><scopecontent id="aspace_79e43782c473fa3b4704b2dbe26bc275"><head>Scope and Contents</head><p>positive</p></scopecontent></c01><c01 id="aspace_6088cd548fccfb63f5b887850a8dbcf1" level="file"><did><unittitle>Record Group A-39: Holyoake, G.J. -- Pt.1 General correspondence - 1879</unittitle><unitdate datechar="creation" normal="1879/1879">1879</unitdate><container id="aspace_50bac1fae86d1bfe03990d1dffdf73a0" label="unspecified" type="reel">5</container></did><scopecontent id="aspace_08b696d463ff7dac538a248026262145"><head>Scope and Contents</head><p>positive</p></scopecontent></c01><c01 id="aspace_f218119389924907553eaf4a04a0c9ea" level="file"><did><unittitle>Record Group A-39: Holyoake, G.J. -- Pt.1 General correspondence - Miscellaneous letters A-N</unittitle><container id="aspace_5addb720c1f059996d31786992c2729c" label="unspecified" type="reel">6</container></did><scopecontent id="aspace_0b6feed7a1d21a9988fc5c1de6adc263"><head>Scope and Contents</head><p>positive</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

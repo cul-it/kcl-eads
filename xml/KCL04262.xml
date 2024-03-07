@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04262</eadid><filedesc><titlestmt><titleproper>ILR School Human Resource Studies Department Annual Reports <num>/4262</num></titleproper><author>Compiled by R. Miles</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 05, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:25:21 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILR School Human Resource Studies Department Annual Reports</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">New York State School of Industrial and Labor Relations (NYSSILR)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Human Resource Studies Department</corpname>
+    </origination>
+    <unitid>/4262</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1998/2004" type="inclusive">1998- 2004</unitdate>
+    <physdesc id="aspace_97dbfaca4b095ce431cd7aea26938895" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_3315930fbccb102aa97c4e437d8523c9" label="Forms of Material:">Records (documents).</physdesc>
+    <abstract id="aspace_51aaceeda2c89d31066d8be860cf230d">Annual reports of the Human Resources Studies Department, ILR School.</abstract>
+    <langmaterial id="aspace_1f71f258efa417a16d532daec59f9026">Collection material in English</langmaterial>
+    <unitid type="bibid">6179164</unitid>
+  </did>
+  <odd id="aspace_6ec654e110404dfdf89efc59aa7e2c2f">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>R. Miles, February 01, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 05, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_e9b3a15e9c03c9f8d08b9287a11b0284">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_cb08215856994211853c3e1740e08a52">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_a25879fd6cc3f4a9d7a8d42dcfb7b686">
+    <head>Preferred Citation</head>
+<p>ILR School Human Resource Studies Department Annual Reports #/4262. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_5b1ada683f57b05547eb61f37ac14369">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04263.html"> /4263: ILR School Center for Advanced Human Resource Studies (CAHRS) Mellon Grant Reports</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Human capital</subject>
+    <corpname audience="internal" source="ingest">New York State School of Industrial and Labor Relations--Archives</corpname>
+  </controlaccess>
+  <unitid type="bibid">6179164</unitid>
+  <dsc><c01 id="aspace_eb5f2a918b7433038544c37435b635bd" level="file"><did><unittitle>HRS Annual Report</unittitle><unitdate datechar="creation" normal="1998/1999" type="inclusive">1998-1999</unitdate><container id="aspace_596fddbab950b1e95f4705c19e2ccf32" label="unspecified" type="box">1</container><container id="aspace_3a7c5e15e9a04d65f826f1956b8ac112" parent="aspace_596fddbab950b1e95f4705c19e2ccf32" type="folder">1</container></did></c01><c01 id="aspace_74325fb54e0e44b06617faaa1dc9c6b5" level="file"><did><unittitle>HRS Annual Report</unittitle><unitdate datechar="creation" normal="1999/2000" type="inclusive">1999-2000</unitdate><container id="aspace_e9ceb8a676ecb2a54fe31a44440c9f89" label="unspecified" type="box">1</container><container id="aspace_56a6160eb06d3ad867903251e0724e4e" parent="aspace_e9ceb8a676ecb2a54fe31a44440c9f89" type="folder">2</container></did></c01><c01 id="aspace_37471d8f431c1895b08f3037d9d50449" level="file"><did><unittitle>HRS Annual Report (folder 1 of 2)</unittitle><unitdate datechar="creation" normal="2000/2001" type="inclusive">2000-2001</unitdate><container id="aspace_b69dfb70743a1c839e8834aa0e8e751c" label="unspecified" type="box">1</container><container id="aspace_d501fbf540b0fb9d273cc34c13f43b15" parent="aspace_b69dfb70743a1c839e8834aa0e8e751c" type="folder">3</container></did></c01><c01 id="aspace_5dd02dfa4fe68d35fadae209ab0d753a" level="file"><did><unittitle>HRS Annual Report (folder 2 of 2)</unittitle><unitdate datechar="creation" normal="2000/2001" type="inclusive">2000-2001</unitdate><container id="aspace_427a0bbccea6e0560358a2be10f672fd" label="unspecified" type="box">1</container><container id="aspace_a2c7b8a3131d802650de34d32ce15c24" parent="aspace_427a0bbccea6e0560358a2be10f672fd" type="folder">4</container></did></c01><c01 id="aspace_ac70e79732e532d089cdbec76d0a53cc" level="file"><did><unittitle>HRS Annual Report</unittitle><unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate><container id="aspace_58c2e3b4075e761f04faa622dcf0765b" label="unspecified" type="box">1</container><container id="aspace_cda4102c093facc720ee8bfaaa8986bc" parent="aspace_58c2e3b4075e761f04faa622dcf0765b" type="folder">5</container></did></c01><c01 id="aspace_3b9f087234cb81c7377bedf92ba00017" level="file"><did><unittitle>HRS Annual Report</unittitle><unitdate datechar="creation" normal="2002/2003" type="inclusive">2002-2003</unitdate><container id="aspace_4a9e9d41a2fa22a5ca29cf71efb0b18a" label="unspecified" type="box">1</container><container id="aspace_f74a7234979496bc9fae60ed88a7fcb6" parent="aspace_4a9e9d41a2fa22a5ca29cf71efb0b18a" type="folder">6</container></did></c01><c01 id="aspace_f34bae77e5942cc5db6508c0424c6898" level="file"><did><unittitle>HRS Annual Report (folder 1 of 2)</unittitle><unitdate datechar="creation" normal="2003/2004" type="inclusive">2003-2004</unitdate><container id="aspace_d79563022423bd0161166e3060a7a24e" label="unspecified" type="box">1</container><container id="aspace_13b2c8bb776d51daa46d26be7a1c29ff" parent="aspace_d79563022423bd0161166e3060a7a24e" type="folder">7</container></did></c01><c01 id="aspace_6126b9343be3ea62bd97822ba80adde8" level="file"><did><unittitle>HRS Annual Report (folder 2 of 2)</unittitle><unitdate datechar="creation" normal="2003/2004" type="inclusive">2003-2004</unitdate><container id="aspace_a039469473546c4e85169bd188df0b67" label="unspecified" type="box">1</container><container id="aspace_49c6ce9dea24575d74210fe259b5ff2f" parent="aspace_a039469473546c4e85169bd188df0b67" type="folder">8</container></did></c01></dsc>
+</archdesc>
+</ead>

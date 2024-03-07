@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05245</eadid><filedesc><titlestmt><titleproper>New York State Crime Commission Public Hearings <num>5245</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 22, 2017</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:39:29 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>New York State Crime Commission Public Hearings</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">New York State Crime Commission</corpname>
+    </origination>
+    <unitid>5245</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1952/1953" type="inclusive">1952-1953</unitdate>
+    <physdesc id="aspace_fc0c14a869af15d1b17c9b4caaa95b9f" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_54f74c9ed98a018b90d3ae2dc4af5355" label="Forms of Material:">Records (documents).</physdesc>
+    <abstract id="aspace_62d1c3211c7348fd677a5b5af77e2b7d">Public hearings conducted by the New York State Crime Commission Pursuant to the Governor's executive orders of March 29, 1951 and Nov. 13, 1952.</abstract>
+    <langmaterial id="aspace_22dd72838e1bd464d92eab981dd79652">Collection material in English</langmaterial>
+    <unitid type="bibid">5557167</unitid>
+  </did>
+  <odd id="aspace_4b60ba4f8faf26c34e3baed31e5894d6">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 30, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, February 22, 2017</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_9d5c6e16b74e2cdf5674f4be090c5640">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_f1e43573a04a60dc37c7b3e2ea64aa0b">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_e983855b8e798bcd243a267a99a94c6b">
+    <head>Preferred Citation</head>
+<p>New York State Crime Commission Public Hearings #5245. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <corpname audience="internal" source="ingest">New York (State). Crime Commission</corpname>
+  </controlaccess>
+  <unitid type="bibid">5557167</unitid>
+  <dsc><c01 id="aspace_209af8dd1b7d1f15e01555790c0776ad" level="file"><did><unittitle>New York State Crime Commission; Study of the Port of New York and Public Hearing No. 5</unittitle><unitdate datechar="creation" normal="1954/1954">1954</unitdate><container id="aspace_690b9d0b3ab2f83191c352a28907d33b" label="unspecified" type="box">1</container><container id="aspace_cdfaabae13459fa56c2fb6cf6b72036f" parent="aspace_690b9d0b3ab2f83191c352a28907d33b" type="folder">1</container></did></c01><c01 id="aspace_437196e2e1bd87a153311b820ef0fabf" level="file"><did><unittitle>New York State Crime Commission; Public Hearing No. 5</unittitle><unitdate datechar="creation" normal="1953/1953">1953</unitdate><container id="aspace_70c7e9b67a9d49c5ea382d07e51502f8" label="unspecified" type="box">1</container><container id="aspace_9a30d453d411e8d3828a449afca0b3eb" parent="aspace_70c7e9b67a9d49c5ea382d07e51502f8" type="folder">2</container></did></c01><c01 id="aspace_c4fee3d7d2725f55b025fcbd950c8795" level="file"><did><unittitle>New York State Crime Commission; Public Hearing No. 5</unittitle><unitdate datechar="creation" normal="1953/1953">1953</unitdate><container id="aspace_d7e3b5cf4b3e94bbada5fb4de1242b7e" label="unspecified" type="box">1</container><container id="aspace_8db5c79952e2782642b858b037e14910" parent="aspace_d7e3b5cf4b3e94bbada5fb4de1242b7e" type="folder">3</container></did></c01><c01 id="aspace_43f933b67d5e9a9e1333a179e94debf9" level="file"><did><unittitle>New York State Crime Commission Public Hearing No. 5</unittitle><unitdate datechar="creation" normal="1951/1952" type="inclusive">1951-1952</unitdate><container id="aspace_b41a70f2e91285cd012976c68f3897f8" label="unspecified" type="box">1</container><container id="aspace_71a037d194c4488d2c472ec89a2d1ff2" parent="aspace_b41a70f2e91285cd012976c68f3897f8" type="folder">4</container></did></c01><c01 id="aspace_0f120264cc518fef366ef379952beb06" level="file"><did><unittitle>New York State Crime Commission Public Hearing No. 5</unittitle><unitdate datechar="creation" normal="1952/1952">1952</unitdate><container id="aspace_50e842ffe80e6d156b6e4bf2d60aa57b" label="unspecified" type="box">1</container><container id="aspace_fb3ce56eae52c316545afa725545dab2" parent="aspace_50e842ffe80e6d156b6e4bf2d60aa57b" type="folder">5</container></did></c01><c01 id="aspace_8d5f3b9a013adc261b7f81130a4a993d" level="file"><did><unittitle>New York State Crime Commission Public Hearing No. 5</unittitle><unitdate datechar="creation" normal="1951/1952" type="inclusive">1951-1952</unitdate><container id="aspace_5c3c6d492da79c66f414e67e18a01f31" label="unspecified" type="box">1</container><container id="aspace_36f69a71b56a3508538398047dafb493" parent="aspace_5c3c6d492da79c66f414e67e18a01f31" type="folder">6</container></did></c01><c01 id="aspace_f9192e0bc4e64bbc3c192e1b35199641" level="file"><did><unittitle>Text digitized from the collection.</unittitle><container id="aspace_58b9c3a4457e083848185bc0bf64320f" label="unspecified" type="box">2</container></did></c01></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05421mf</eadid><filedesc><titlestmt><titleproper>Place, Francis Papers on Microfilm <num>5421 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 12, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:46:09 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Francis Place Papers on Microfilm</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Place, Francis</persname>
+    </origination>
+    <unitid>5421 mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.56 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1771/1854" type="inclusive">1771-1854</unitdate>
+    <physdesc id="aspace_e2d60dd01ac25ee6b587d4f9d43f62cc" label="Quantity:">5 microfilm reels</physdesc>
+    <physdesc id="aspace_9adc3c3d0ab64c0d8508ebfd29e2eec9" label="Forms of Material:">Papers (documents), microfilm.</physdesc>
+    <abstract id="aspace_4dd0f0500bce57d7778497b201db79de">Papers illustrative of the Reform Crisis, 1830-1832. Introduction by I.J. Protheroe of the Department of History, Manchester University.</abstract>
+    <langmaterial id="aspace_50439178e90e896bfd5fc74a8bc2a1df">Collection material in English</langmaterial>
+    <unitid type="bibid">2654472</unitid>
+  </did>
+  <odd id="aspace_789d650716e30200a1bae6a264023f25">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, May 13, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 12, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_0a670590ba1e879152e9597afb024871">
+    <head>Biographical / Historical</head>
+<p>Francis Place was a London tailor and radical politician whose activities spanned a number of years. Between 1794 and 1797 he was active in the famous Corresponding Society and from 1801 his shop in Charing Cross was long a centre for reform minded politicians. A close friend of Bentham, he was prominent in the setting up of the London Mechanics' Institution, 1823, and was active in radical causes like efforts for a free press, the repeal of the Combination Laws, the reform agitation of 1831-32 and the drafting of the People's Charter. </p><p> He is particularly important to historians on account of the exhaustive collection which he left behind him containing newspaper cuttings, copies of his own letters and letters from his numerous correspondents. The Place Papers in the Manuscript section of the British Museum consist of his own accounts, correspondence and materials in manuscript form, and the section reproduced on the microfilm consists of Place's narrative of the Reform Crisis, with accounts of events within and without Parliament. Mainly concerned with events in London, the papers contain many extracts from reports of meetings throughout the country and considerable detail on the National Political Union, of which Place was a founder and dominant figure.</p>  </bioghist>
+  <scopecontent id="aspace_f606c7e85fc1d01051dd7978a820976e">
+    <head>Scope and Contents</head>
+<p>The Place Papers in the Manuscript section of the British Museum consist of his own accounts, correspondence and materials in manuscript form, and the section reproduced on the microfilm consists of Place's narrative of the Reform Crisis, with accounts of events within and without Parliament. Mainly concerned with events in London, the papers contain many extracts from reports of meetings throughout the country and considerable detail on the National Political Union, of which Place was a founder and dominant figure. </p><p> The second part of the collection, which is in process of filming, consists of printed papers from the Place collection, sets 17 and 63, in the department of Printed Books. This consists of newspaper cuttings, placards, etc., on the subject of Parliamentary reform proceedings, political unions, the National Political Union, etc.</p>  </scopecontent>
+  <accessrestrict id="aspace_918189fce2f81e039c5d18d8b64f194b">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_e900af337e6d1bf9d34bb4be53d2a530">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_a146c206f4367e137f610d5bca3ce3aa">
+    <head>Preferred Citation</head>
+<p>Francis Place Papers on Microfilm #5421 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Labor unions -- Great Britain -- Sources.</subject>
+    <subject source="ingest">Great Britain -- Politics and government -- 1801-1900 -- Sources.</subject>
+    <persname audience="internal" source="ingest">Place, Francis, 1771-1854</persname>
+  </controlaccess>
+  <unitid type="bibid">2654472</unitid>
+  <dsc><c01 id="aspace_5d7cb09e618179391e3d2eadbb92803c" level="file"><did><unittitle>Place, Francis, 1771-1854: Papers of</unittitle><unitdate datechar="creation" normal="1771/1854" type="inclusive">1771-1854</unitdate><container id="aspace_d1e6d7d3cdef9361e6759640ef489468" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_30a926999f6acbde4075e15d3581cbf0"><head>Scope and Contents</head><p>Reel 1 -- positive</p></scopecontent></c01><c01 id="aspace_5626c1a40e4a22af8f885e19ca008e51" level="file"><did><unittitle>Place, Francis, 1771-1854: Papers of</unittitle><unitdate datechar="creation" normal="1771/1854" type="inclusive">1771-1854</unitdate><container id="aspace_cbb4302ec53437be4a7fcec075c01ffd" label="unspecified" type="reel">2</container></did><scopecontent id="aspace_bfd35b0ba9089061eb78bd6528c25b8c"><head>Scope and Contents</head><p>reel 2 -- positive</p></scopecontent></c01><c01 id="aspace_8a13ce8adfe9a1aef4f3bd78b482cf7a" level="file"><did><unittitle>Place, Francis, 1771-1854: Papers of</unittitle><unitdate datechar="creation" normal="1771/1854" type="inclusive">1771-1854</unitdate><container id="aspace_778430b5c071b973c3ee12f98d850f9b" label="unspecified" type="reel">3</container></did><scopecontent id="aspace_dbc974fa553a6c8f811fdb529685194b"><head>Scope and Contents</head><p>reel 3-- positive</p></scopecontent></c01><c01 id="aspace_a19e806e1bb921079a876b3a54aa095e" level="file"><did><unittitle>Place, Francis, 1771-1854: Papers of</unittitle><unitdate datechar="creation" normal="1771/1854" type="inclusive">1771-1854</unitdate><container id="aspace_d56d5aeda37a9b94edde6ecc2b584e0a" label="unspecified" type="reel">4</container></did><scopecontent id="aspace_f56c20095294c72ed863fb0654103244"><head>Scope and Contents</head><p>reel 4 -- positive</p></scopecontent></c01><c01 id="aspace_7064b0c28e9f0670cf84d9727a68b8fe" level="file"><did><unittitle>Place, Francis, 1771-1854: Papers of</unittitle><unitdate datechar="creation" normal="1771/1854" type="inclusive">1771-1854</unitdate><container id="aspace_c50c6fb0224901a41ef1f5ed382e5d23" label="unspecified" type="reel">5</container></did><scopecontent id="aspace_f6b1dc72a8ca8bd63f6f0a035e2120d0"><head>Scope and Contents</head><p>reel 5 -- positive</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

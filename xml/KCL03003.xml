@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL03003</eadid><filedesc><titlestmt><titleproper>Pezdek, Robert V. Associate Degree Program File <num>/3003</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 17, 2013</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:12:46 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Robert V. Pezdek Associate Degree Program File</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Pezdek, Robert V.</persname>
+    </origination>
+    <unitid>/3003</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1971/1971">1971-1971</unitdate>
+    <physdesc id="aspace_861cd5e19a1429a455e0b6e58ea25374" label="Quantity:">0.3 linear ft.</physdesc>
+    <physdesc id="aspace_e1debfd9ced7ff5ed672575168e48a0c" label="Forms of Material:">Administrative papers, minutes, reports, memoranda, notes.</physdesc>
+    <abstract id="aspace_7d53bfea5e3ac584f97866d9372754bf">Consists of Prof. Pezdek's files on the ILR Associates Degree.</abstract>
+    <langmaterial id="aspace_df38f2da86df36436a62c529a982e610">Collection material in English</langmaterial>
+    <unitid type="bibid">7924519</unitid>
+  </did>
+  <odd id="aspace_cdfa71a91c77ee4c5f478f85a83692a7">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel">http://www.ilr.cornell.edu/library/kheel</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, December 18, 2012</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, April 17, 2013</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_a65992c5ee0c702d6a20692c6d72dd87">
+    <head>Biographical / Historical</head>
+<p>A graduate of the University of Pittsburgh and Carnegie Tech, Robert V. Pezdek was the ILR Librarian at Cornell's School of Industrial and Labor Relations.</p>  </bioghist>
+  <accessrestrict id="aspace_b013ffc6eef0024de5bddadfef666727">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_6622b3515b12af8469d7b952d1b672fa">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_d7353140a26f271abc6c9c849b1c2d82">
+    <head>Preferred Citation</head>
+<p>Robert V. Pezdek Associate Degree Program File #/3003. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_68763c0ede1e7434d5baf676a4efe5f4">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04002.html"> /4002: New York State School of Industrial and Labor Relations (NYSSILR). Ad Hoc Committee on Associate Degree Program. Papers.</extref> /4053m: New York State School of Industrial and Labor Relations (NYSSILR). Report on the Off-Campus Labor Relations Credit Programs.</p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Education, Higher.</subject>
+    <persname audience="internal" source="ingest">Pezdek, Robert V.</persname>
+    <corpname audience="internal" source="ingest">New York State School of Industrial and Labor Relations --Faculty.</corpname>
+  </controlaccess>
+  <unitid type="bibid">7924519</unitid>
+  <dsc><c01 id="aspace_960531aef9f7f1af0103f58c04be2bb8" level="file"><did><unittitle>Associate Degree Program</unittitle><unitdate datechar="creation" normal="1971/1971">1971</unitdate><container id="aspace_5c1d33bd327f947ad327bac295277e60" label="unspecified" type="box">1</container><container id="aspace_700459fc582eeaa7a135535c82fa2d82" parent="aspace_5c1d33bd327f947ad327bac295277e60" type="folder">1</container></did><scopecontent id="aspace_f5c5994f786f3b3058c3f747345ae225"><head>Scope and Contents</head><p>Minutes, reports, and memoranda. April - June, 1971</p></scopecontent></c01><c01 id="aspace_5a5d4eec21c49704484d82daba17308d" level="file"><did><unittitle>Associate Degree Program</unittitle><unitdate datechar="creation" normal="1971/1971">1971</unitdate><container id="aspace_78b247302d06c7df00ea6b33ecd861ae" label="unspecified" type="box">1</container><container id="aspace_b2107757b861eac7bc6115f8f9a79a22" parent="aspace_78b247302d06c7df00ea6b33ecd861ae" type="folder">2</container></did><scopecontent id="aspace_465f523cee15428e2ade3cd6b1870da0"><head>Scope and Contents</head><p>Minutes, reports, memoranda, and notes. March - April, 1971</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

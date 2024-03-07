@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04078av</eadid><filedesc><titlestmt><titleproper>ILR School 40th Anniversary Audio cassettes <num>/4078 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>September 27, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:19:11 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILR School 40th Anniversary Audio cassettes</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">New York State School of Industrial and Labor Relations (NYSSILR)</corpname>
+    </origination>
+    <unitid>/4078 AV</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1986/1986">1986</unitdate>
+    <physdesc id="aspace_21fbe50f2af6a478278de75a188d35fa" label="Quantity:">1.3 linear ft.</physdesc>
+    <physdesc id="aspace_fde784bef8ec975c252730d3927a4a35" label="Forms of Material:">Audiovisual materials.</physdesc>
+    <abstract id="aspace_2200c05ea80a3fecffbd7638ad0a0d8d">Audio recordings from the celebration of the 40th anniversary of the ILR school</abstract>
+    <langmaterial id="aspace_c5fedc701c67ba0c98df69049402a399">Collection material in English</langmaterial>
+    <unitid type="bibid">8595142</unitid>
+  </did>
+  <odd id="aspace_1f789e2076c67b4b98d4fd8969d4f78f">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, May 05, 2015</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, September 27, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_d57ac10d92bd59e1f3863e2244d81b91">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_f361b7309ece4e1ee152450594a29c0f">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_880e16bdf743899dc6c028c2f24c050c">
+    <head>Preferred Citation</head>
+<p>ILR School 40th Anniversary Audio cassettes #/4078 AV. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_e1ce6771ff4b525fc38c08c5004e7e58">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04078.html"> /4078: ILR School 40th Anniversary Documents</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04078mb.html"> /4078 MB: ILR School 40th Anniversary Memorabilia</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04104oht.html"> /4104 OHT: ILR School 40th Anniversary Interviews</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <corpname source="ingest">New York State School of Industrial and Labor Relations</corpname>
+  </controlaccess>
+  <unitid type="bibid">8595142</unitid>
+  <dsc><c01 id="aspace_e6f63c39c608687c090116d01af7df97" level="file"><did><unittitle>40th Anniv. Sat. May 3, 1986 - Luncheon Speaker Douglas Fraser UAW</unittitle><container id="aspace_be117bb03cb7a300c40caf143bf3d84b" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_dba4996f2c84178629f807528ffbfbc6" level="file"><did><unittitle>40th Anniv. Sat., May 3, 1986 - Room 120 Ives - 2 pm</unittitle><container id="aspace_372af55166c56d531b7395a163fd863e" label="unspecified" type="box">2</container></did></c01><c01 id="aspace_b02a74724a99abd8ece8f04a28d77f2f" level="file"><did><unittitle>40th Anniv. Friday, May 2, 1986 - Room 120 Ives - 2 pm</unittitle><container id="aspace_f4508ae03085cfad32b5f806fb9375f8" label="unspecified" type="box">3</container></did></c01><c01 id="aspace_2801b2777384e2402bf632a09a2663af" level="file"><did><unittitle>40th Anniv. Friday May 2, 1986 - Room 120 Ives - 2 pm</unittitle><container id="aspace_4f3d9c5370edfc2926c88dfdcd2ec4ed" label="unspecified" type="box">4</container></did></c01><c01 id="aspace_ed111b3c479aef5c409783e958d94e9f" level="file"><did><unittitle>40th Anniv. Saturday May 3, 1986 - Room 110 Ives - 11 am</unittitle><container id="aspace_c7e8d9534624b620e10aed0737d416c9" label="unspecified" type="box">5</container></did></c01><c01 id="aspace_6075c4b96b5b9d050c82cf8ea2278512" level="file"><did><unittitle>40th Anniv. Sat., May 3, 1986 - Room 120 Ives - 10:30 am</unittitle><container id="aspace_fc18dd22e7dcb52f04a522ddc13b1cea" label="unspecified" type="box">6</container></did></c01><c01 id="aspace_a86f2dce52361fbc0564239fbec98fa0" level="file"><did><unittitle>40th Anniv. Saturday, May 3, 1986 - Room 120 Ives, - 2 pm</unittitle><container id="aspace_ef3ca61b15c5e525f0788a2adfe71b2b" label="unspecified" type="box">7</container></did></c01><c01 id="aspace_c7302e17646ed286347c9f48a683ac9a" level="file"><did><unittitle>40th Anniv. Saturday, May 3, 1986 - Room 120 Ives - 9 am</unittitle><container id="aspace_f76cabe37a7c082d31d270e190eef523" label="unspecified" type="box">8</container></did></c01><c01 id="aspace_87205e1f6ef3dc97806123f0d485e087" level="file"><did><unittitle>40th Anniv. Saturday, May 3, 1986 - Room 120 Ives - 9 am</unittitle><container id="aspace_835233abfac7e395d87328ef8eb8e2b5" label="unspecified" type="box">9</container></did></c01><c01 id="aspace_bd9cbaff030b77229299cb3f9d09ef08" level="file"><did><unittitle>40th Anniv. Sat., May 3, 1986 - Dinner Presentations Risley</unittitle><container id="aspace_64f155e4b1d8347737bc2220139ad766" label="unspecified" type="box">10</container></did></c01><c01 id="aspace_f417b6dd9df6088640c46ab7702462de" level="file"><did><unittitle>40th Anniv. Friday, May 2, 1986 - Dinner Speaker - Stephen Schlossberg, Dept. of Labor</unittitle><container id="aspace_98457b6eeeb1f675e3b4f2bf52c38b96" label="unspecified" type="box">11</container></did></c01><c01 id="aspace_3bf930c7fa28f005a0e527435df8af38" level="file"><did><unittitle>40th Anniv. Saturday, May 3, 1986 - Dinner Presentations Risley</unittitle><container id="aspace_4796686e66867acd4c652666216f958a" label="unspecified" type="box">12</container></did></c01></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05563p</eadid><filedesc><titlestmt><titleproper>Railroad Photographs <num>5563 P</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 18, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:52:00 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Railroad Photographs</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">South Carolina Railroad</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">East and West Railroad</corpname>
+    </origination>
+    <unitid>5563 P</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 folders</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1930/1939" type="inclusive">1930-1939</unitdate>
+    <physdesc id="aspace_d03aaf94a3399a04c0ea9a8e4c112882" label="Quantity:">0 linear ft.</physdesc>
+    <physdesc id="aspace_5caab3b755779d1a616895974604075b" label="Forms of Material:">Photographs.</physdesc>
+    <abstract id="aspace_4f14b95bc0e8790d69bc5c0bee17ef93">Collection of photographs illustrating the nature of American railroads in the late 1930s.</abstract>
+    <langmaterial id="aspace_6ec8ec7d6eecde5316ca9356bdb5cb24">Collection material in English</langmaterial>
+    <unitid type="bibid">5664261</unitid>
+  </did>
+  <odd id="aspace_5b996918d4f09fd98c0931ceff60d092">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 21, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 18, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <scopecontent id="aspace_0b87061b2de6feac20e06166ecd1da16">
+    <head>Scope and Contents</head>
+<p>Numbered set of 56 illustration and photographs documenting the history of railroading. Housed in collection 6037 P (box 3, folder 1).</p>  </scopecontent>
+  <accessrestrict id="aspace_468b9fcf411e12ca3f75cb5c13183f52">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_745833810d9381a0eda8f83562914215">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_86da0a9b314ca98d701ba3c7afdd6c91">
+    <head>Preferred Citation</head>
+<p>Railroad Photographs #5563 P. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Railroads -- United States--Photographs.</subject>
+    <subject source="ingest">Railroads -- Pictorial works -- United States.</subject>
+    <corpname audience="internal" source="ingest">South Carolina Railroad</corpname>
+    <corpname audience="internal" source="ingest">East and West Railroad</corpname>
+  </controlaccess>
+  <unitid type="bibid">5664261</unitid>
+  <dsc><c01 id="aspace_85399f57f0c0c415ac0d93cd8620fc83" level="file"><did><unittitle>56 photographs and other illustrations.</unittitle><container id="aspace_8455665bf87ac10c920417404f357c29" label="unspecified" type="box">1</container><container id="aspace_3d812dba807f81a23a3da38d17374dd8" parent="aspace_8455665bf87ac10c920417404f357c29" type="folder">1</container></did><scopecontent id="aspace_4bcddf63e83d32c7032dbeefb837adc0"><head>Scope and Contents</head><p>Numbered illustrations depicting various aspect of railroad history.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

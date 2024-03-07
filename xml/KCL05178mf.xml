@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05178mf</eadid><filedesc><titlestmt><titleproper>U.S. Department of Justice, Mails and Files Division, General Records Files #23-34-14, Section 1 on Microfilm <num>5178 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 08, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:36:18 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>U.S. Department of Justice, Mails and Files Division, General Records Files #23-34-14, Section 1 on Microfilm</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">U.S. Department of Justice</corpname>
+    </origination>
+    <unitid>5178 mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.11 cubic feet</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="0000/2999" type="inclusive">0000-2999</unitdate>
+    <physdesc id="aspace_98faddf85c1ce626befb8b06bd3e6ce9" label="Quantity:">1 microfilm reel</physdesc>
+    <physdesc id="aspace_a013e9b1b572c38ccf273e7ec121bf5c" label="Forms of Material:">Records (documents), microfilm.</physdesc>
+    <abstract id="aspace_d2de421279a99731a8ea7457e21f96ff">Several letters regarding a case against a group of men in Williamson County, Illinois - accused of posing as Government Officers.</abstract>
+    <langmaterial id="aspace_48f359746ba57749868e12511b6ce2de">Collection material in English</langmaterial>
+    <unitid type="bibid">5604322</unitid>
+  </did>
+  <odd id="aspace_9738ba99bf1d67ab6728890eb74873bc">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, May 02, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 08, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <scopecontent id="aspace_b5262e078f0beec25c46dbf22422c2d8">
+    <head>Scope and Contents</head>
+<p>This collection consists of several letters regarding a case against a group of men in Williamson County, Illinois - accused of posing as Government Officers.</p>  </scopecontent>
+  <accessrestrict id="aspace_de16ab71e64ee2122a0632e6a77426e4">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_6acf2dca9ec85adc2e41a40e2c2e8c26">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_034d28fe42ce691e9f8f68db7926edb3">
+    <head>Preferred Citation</head>
+<p>U.S. Department of Justice, Mails and Files Division, General Records Files #23-34-14, Section 1 on Microfilm #5178 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_2df4e94640774a8096ab42297c05e554">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05113.html"> 5113: Ralph T. Seward Arbitration Transcripts and Exhibits</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05204mf.html"> 5204 mf: Southern Tenant Farmers Union Records on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05494m.html"> 5494m: Archibald Cox Speech "The Place of Law in Labor Arbitration"</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05583-2.html"> 5583/2: Archives Organization File (AOF) Part 2</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05700.html"> 5700: Ralph T. Seward Additional Arbitration Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05779.html"> 5779: Ralph T. Seward Additional Arbitration Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-203.html"> 5780/203: ILGWU Jay Mazur Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05863mf.html"> 5863 mf: Department of Justice Investigative Files on Industrial Workers of the World, Part 1 on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05897mf.html"> 5897 mf: Strike Files of the U.S. Department of Justice, Pt. 1 on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05940mf.html"> 5940 mf: International Workers Order's Immigration and Naturalization Files on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05970.html"> 5970: Ralph Seward Additional Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06000-024mb.html"> 6000/024 MB: UNITE Local 23-25 Memorabilia</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06030.html"> 6030: Archival Collective Bargaining Agreements File</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06047.html"> 6047: Archives Information File</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06074mf.html"> 6074 mf: Records of the Immigration and Naturalization Service, Series A, Subject Correspondence Files. Part 2, 3, &amp; 4 on Microfilm</extref> 6440: Ralph T. Seward Collections 6454: Industrial Workers of the World Collections</p>  </relatedmaterial>
+  <controlaccess>
+    <corpname audience="internal" source="ingest">United States. Department of Justice.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5604322</unitid>
+  <dsc><c01 id="aspace_a489da7fcc55d31c1f6658f4a652b0da" level="file"><did><unittitle>U.S. Department of Justice, Mails &amp; Files Division. General Records Files #23-34-14, Section 1</unittitle><container id="aspace_03572e85756570dcb914f6b4b847c1d2" label="unspecified" type="reel">7</container></did></c01></dsc>
+</archdesc>
+</ead>

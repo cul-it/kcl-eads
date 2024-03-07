@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05371</eadid><filedesc><titlestmt><titleproper>State of New Jersey vs. The Traffic Telephone Workers Federation of New Jersey and the New Jersey Bell Telephone Company Records <num>5371</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 11, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:44:17 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>State of New Jersey vs. The Traffic Telephone Workers Federation of New Jersey and the New Jersey Bell Telephone Company Records</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Traffic Telephone Workers Federation of New Jersey</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">New Jersey Bell Telephone Company</corpname>
+    </origination>
+    <unitid>5371</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1947/1947">1947</unitdate>
+    <physdesc id="aspace_fd0fe7fdc34aa1d30fc9a1e1fe125349" label="Quantity:">0.3 linear ft.</physdesc>
+    <physdesc id="aspace_48d17911e7338dccfdd827a1337ab042" label="Forms of Material:">Records (documents).</physdesc>
+    <abstract id="aspace_45e9dec65ecb0648773ed7626e71b296">Briefs in case of Traffic Telephone Federation of New Jersey and United Public Workers of America, C.I.O., vs. State of New Jersey, U.S. District Court, District of New Jersey, Civil Action No. 10064, 1947.</abstract>
+    <langmaterial id="aspace_d33156f1ca5d5ac296f30c12a81f8448">Collection material in English</langmaterial>
+    <unitid type="bibid">5620114</unitid>
+  </did>
+  <odd id="aspace_d2302952933091f06a1d5d63a2d3f9a6">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, November 10, 2005</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 11, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_562ed1cc65b2c2930aaba19bb0f0920d">
+    <head>Biographical / Historical</head>
+<p>Of current interest to many scholars and politicians is the issue of unionization in government and the industries directly effecting the public health and safety, ie., the public utilities. Various formulas and solutions have been presented by both public and private sources, but most of these do not contain a generally applicable answer to the question of how to provide employees with the right to organize and bargain collectively and yet maintain the vital public services of these institutions. </p><p> After a wave of strikes in 1946, the State of New Jersey attempted to solve this problem through passage of a statute providing for seizure of struck public utilities and operation of these utilities by the government for the duration of the strike. This statute was amended in 1947 by a provision for compulsory arbitration of the issues of a work stoppage or the issues preventing new contract determination. A punitive penalty of ten thousand dollars per day was to be levied against any union which struck a public utility with an additional $250-500 penalty to be ordered against any person or persons who aided or abetted such a stoppage. An additional provision stated that each day of work stoppage was to be considered a new offense. </p><p> On April 7, 1947. the Traffic Telephone Workers Federation went on strike against the Bell Telephone Company in New Jersey. On April 10, the governor filed suit against the . Union for $10,000 under the terms of the public utilities statute. On the following day, officers of the Telephone Federation and several other employees of the telephone company were arrested and subsequently released on $500 bond. </p><p> A case was brought before the District Court by the American Civil Liberties Union to enjoin the application of the statute. An injunction was thereby ordered against the enforcement of the statute pending the determination of constitutionality by a higher court. The case was then appealed to the Supreme Court of the State of New Jersey. </p><p> In a memorandum opinion, Vice-Chancellor Bigelow of the Supreme Court upheld the constitutionality of the statute as a valid exercise of state police power and further stated that the seizure was of the "pro forma" or protective custody typo and, as such, did not deprive the parties "of their property without due process. The Supreme Court of New Jersey later upheld this opinion.</p>  </bioghist>
+  <scopecontent id="aspace_25a090087af10c50f8ef518c26951462">
+    <head>Scope and Contents</head>
+<p>Briefs in case of Traffic Telephone Federation of New Jersey and United Public Workers of America, C.I.O., vs. State of New Jersey, U.S. District Court, District of New Jersey, Civil Action No. 10064, 1947.</p>  </scopecontent>
+  <accessrestrict id="aspace_da2d0622810c79a0a90708ae70753f0a">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_999b35a307001876633f90501b70e57a">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_f289bc0c5e58e8f831f70f7d3ebae747">
+    <head>Preferred Citation</head>
+<p>State of New Jersey vs. The Traffic Telephone Workers Federation of New Jersey and the New Jersey Bell Telephone Company Records #5371. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Public utilities -- Employees -- Labor unions -- New Jersey.</subject>
+    <subject source="ingest">Arbitration, Industrial -- New Jersey.</subject>
+    <subject source="ingest">Collective labor agreements -- Public utilities -- New Jersey.</subject>
+    <corpname audience="internal" source="ingest">United States. District Court (New Jersey)</corpname>
+    <corpname audience="internal" source="ingest">United Public Workers of America.</corpname>
+    <corpname audience="internal" source="ingest">Traffic Telephone Federation of New Jersey.</corpname>
+    <corpname audience="internal" source="ingest">New Jersey Bell Telephone Company</corpname>
+  </controlaccess>
+  <unitid type="bibid">5620114</unitid>
+  <dsc><c01 id="aspace_4ce02512a5decda4c34387df6ec9345b" level="file"><did><unittitle>Brief of the American Civil Liberties Union, District Court</unittitle><unitdate datechar="creation" normal="1947/1947">1947</unitdate><container id="aspace_38daff397ea2efab201edee1f66c5cb7" label="unspecified" type="box">1</container><container id="aspace_aa1efc122765fb854dba73064709b6ed" parent="aspace_38daff397ea2efab201edee1f66c5cb7" type="folder">1</container></did></c01><c01 id="aspace_d8727fecca34e307af63352e3f682085" level="file"><did><unittitle>Brief of the Appellants, Supreme Court of New Jersey</unittitle><unitdate datechar="creation" normal="1947/1947">1947</unitdate><container id="aspace_a16a55b43f009865af862aa0facdde01" label="unspecified" type="box">1</container><container id="aspace_f48001c5ae2653cf749e78472bdc4f75" parent="aspace_a16a55b43f009865af862aa0facdde01" type="folder">2</container></did></c01><c01 id="aspace_8102a91bffc67bf1bca1f877aa650712" level="file"><did><unittitle>Telephone Company's Brief, Supreme Court of New Jersey</unittitle><unitdate datechar="creation" normal="1947/1947">1947</unitdate><container id="aspace_61d332c87e1441b208ed50fcf890d5c1" label="unspecified" type="box">1</container><container id="aspace_f306b2d706e25840679223b5a7fca589" parent="aspace_61d332c87e1441b208ed50fcf890d5c1" type="folder">3</container></did></c01><c01 id="aspace_50fa15dab979df8a249c4a27cdfdb969" level="file"><did><unittitle>Reply Brief of the Union, Supreme Court of New Jersey</unittitle><unitdate datechar="creation" normal="1947/1947">1947</unitdate><container id="aspace_b6a844ff98f2759ba8dcb81fb2f26c99" label="unspecified" type="box">1</container><container id="aspace_99f66f252e7563f695db2bb3a6906f78" parent="aspace_b6a844ff98f2759ba8dcb81fb2f26c99" type="folder">4</container></did></c01><c01 id="aspace_ec32a339082e304ec4e4e485d01e19c6" level="file"><did><unittitle>Motion to Allow American Civil Liberties Union to File Brief, Supreme Court of New Jersey</unittitle><unitdate datechar="creation" normal="1947/1947">1947</unitdate><container id="aspace_760a6c5cdb34ebffe5a642434db0d2dc" label="unspecified" type="box">1</container><container id="aspace_7c62af5de5c37d8843c9a757612a8dde" parent="aspace_760a6c5cdb34ebffe5a642434db0d2dc" type="folder">5</container></did></c01></dsc>
+</archdesc>
+</ead>

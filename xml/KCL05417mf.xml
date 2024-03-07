@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05417mf</eadid><filedesc><titlestmt><titleproper>AFT Local 2 Scrapbook on Microfilm <num>5417 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 12, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:46:03 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>AFT Local 2 Scrapbook on Microfilm</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">American Federation of Teachers, Local 2</corpname>
+    </origination>
+    <unitid>5417 mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.22 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1960/1962" type="inclusive">1960-1962</unitdate>
+    <physdesc id="aspace_ab08ba8a9e465b1e2a297ca1ce6ad35d" label="Quantity:">2 microfilm reels</physdesc>
+    <physdesc id="aspace_d9b823a561e93cad978c96f6459715c5" label="Forms of Material:">Scrapbooks, microfilm.</physdesc>
+    <abstract id="aspace_93e12ea8c332add762a2b04cec4af28b">Scrapbook of collective bargaining history of Local 2 of the American Federation of Teachers.</abstract>
+    <langmaterial id="aspace_a3905408296af05a8e7e0406397ea14e">Collection material in English</langmaterial>
+    <unitid type="bibid">5651171</unitid>
+  </did>
+  <odd id="aspace_402ad268e26ef56323486ba3ba279d0d">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, May 12, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 12, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_696c8c2c7a761872e9c8095955669d9c">
+    <head>Biographical / Historical</head>
+<p>The American Federation of Teachers (AFT) was started in Chicago, with eight locals signing on as AFL president Samuel Gompers welcomed the union into its fold in 1916. </p><p> AFT grew quickly in the beginning, chartering 174 locals in its first four years. The years following World War I saw school boards pressuring and intimidating teachers to resign from the union. </p><p> As membership dropped in the 1920s, the union continued to fight for tenure laws and academic freedom of the teachers whose beliefs were being investigated by political committees during the 'Red scare" hysteria following WWI. </p><p> The Depression years were not much better, low salaries and economic insecurity were issues needing attention. Female teachers found themselves faced with "contracts which still stipulated that an employed teacher must wear skirts of certain lengths, keep her galoshes buckled, not receive gentleman callers more than three times a week and teach a Sunday School class," said the American Teacher magazine. In some cases teachers were dismissed for joining the AFT or for working on school board election campaigns. </p><p> By 1932, the Norris-La Guardia Act outlawed yellow dog contracts, which made teachers promise not to join the union. </p><p> Starting with WWII the AFT worked hard to push war bond sales, war relief and air raid programs in schools. After the war the AFT continued to fight to improve the conditions of the schools and their teachers. </p><p> In the 1950s, loyalty oaths started up again. The AFT continued work on the civil rights movement, filing an amicus curiae brief in the historic 1954 Supreme Court desegregation case Brown v. Board of Education of Topeka, and expelling locals that had not followed an earlier mandate to desegregate. </p><p> During the 1960s, besides fighting for civil rights, the AFT and its affiliates worked at getting collective bargaining agreements with stubborn school boards. Also the first major strike by university professors in the United States and a one-day walkout by the United Federation of Teachers in New York City took place. Over 300 teacher strikes occurred throughout the country during the 10 years following the UFT's walkout. The national AFT grew from less than 60,000 members in 1960 to over 200,000 by the end of the decade. </p><p> The United Federation of Teachers (UFT) is the labor union that represents most teachers in New York City public schools. It was formerly known as the American Federation of Teachers, Local 2. The UFT was founded in 1960.</p>  </bioghist>
+  <scopecontent id="aspace_bf2863d8dacbbaee3415a666d51d64b5">
+    <head>Scope and Contents</head>
+<p>Scrapbook of collective bargaining history of Local 2 of the American Federation of Teachers.</p>  </scopecontent>
+  <accessrestrict id="aspace_b55bd46d4e98e65ac5b0a080596a95f1">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_d3b87255200b5ed15ed2e0cf97247bdc">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_92abf60f00aa8ef46f9a3b201aac5c8e">
+    <head>Preferred Citation</head>
+<p>AFT Local 2 Scrapbook on Microfilm #5417 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_088dcba08cd64f2589cacd9e03abe540">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05015.html"> 5015: Teachers Union of the City of New York Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05279.html"> 5279: AFT Local 2 Records</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <corpname audience="internal" source="ingest">United Federation of Teachers.</corpname>
+    <corpname source="ingest">American Federation of Teachers</corpname>
+  </controlaccess>
+  <unitid type="bibid">5651171</unitid>
+  <dsc><c01 id="aspace_91854482676d3eaa1933f40d0d7879b7" level="file"><did><unittitle>American Federation of Teachers, Local 12 - Scrapbooks of Collective Bargaining Hist. - 1960-1962</unittitle><unitdate datechar="creation" normal="1960/1962" type="inclusive">1960-1962</unitdate><container id="aspace_a38b3b0e540593bd3fc3b0c0d957fcb2" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_1ffc4c35deb26eb32206ef2ca9571b60"><head>Scope and Contents</head><p>positive</p></scopecontent></c01><c01 id="aspace_58af7cde64c80bc63f029b2f1afa0bf7" level="file"><did><unittitle>American Federation of Teachers, Local 12 - Scrapbooks of Collective Bargaining Hist. - 1960-1962</unittitle><unitdate datechar="creation" normal="1960/1962" type="inclusive">1960-1962</unitdate><container id="aspace_8cf7701ffffcae1e4a3609e377be4436" label="unspecified" type="reel">2</container></did><scopecontent id="aspace_bb8c257a4e6208904d87b548ab84d666"><head>Scope and Contents</head><p>negative</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

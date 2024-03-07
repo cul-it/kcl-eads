@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04207</eadid><filedesc><titlestmt><titleproper>Goldberg, Elaine Gruenfeld, ed. "The ILR School at Fifty: Voices of the Faculty, Alumni, and Friends" Monograph <num>/4207</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 04, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:23:46 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Elaine Gruenfeld Goldberg, ed. "The ILR School at Fifty: Voices of the Faculty, Alumni, and Friends" Monograph</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Goldberg, Elaine Gruenfeld</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">McKersie, Robert B.</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Miller, J. Gormly</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Aronson, Robert L.</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Julian, Robert R.</persname>
+    </origination>
+    <unitid>/4207</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1996/1996">1996</unitdate>
+    <physdesc id="aspace_3c6d6350e79670ee7835f455ae664f85" label="Quantity:">0.3 linear ft.</physdesc>
+    <physdesc id="aspace_887d0827a5e4785e73f863696cec2998" label="Forms of Material:">nonfiction.</physdesc>
+    <langmaterial id="aspace_1d1f79b2e794e3115107ef6817bfb8a2">Collection material in English</langmaterial>
+    <unitid type="bibid">8051426</unitid>
+  </did>
+  <odd id="aspace_b7db4e0be785322ce0f4a1c3bf199ffc">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 28, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 04, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_429f3fc94198cb1cf4fda78070b99a8f">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_c6e4f8da59644fd075251c3de0b6f996">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_dff05db8fa23ee44515dccbebc98d05c">
+    <head>Preferred Citation</head>
+<p>Elaine Gruenfeld Goldberg, ed. "The ILR School at Fifty: Voices of the Faculty, Alumni, and Friends" Monograph #/4207. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_80e0ebce3d0d5d0ce15d2b8f375aa6b4">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04179.html"> /4179: ILR School 50th Anniversary</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Miller, J. Gormly</persname>
+    <persname audience="internal" source="ingest">McKersie, Robert B.</persname>
+    <persname audience="internal" source="ingest">Aronson, Robert L.</persname>
+    <persname audience="internal" source="ingest">Julian, Robert R. (Robert Richard), 1931-</persname>
+    <persname audience="internal" source="ingest">Goldberg, Elaine Gruenfeld</persname>
+    <corpname source="ingest">New York State School of Industrial and Labor Relations</corpname>
+  </controlaccess>
+  <unitid type="bibid">8051426</unitid>
+  <dsc><c01 id="aspace_580fd978c7ad8a6ba3a4a87c3eeadecd" level="file"><did><unittitle>The ILR School at Fifty copy 1</unittitle><unitdate datechar="creation" normal="1996/1996">1996</unitdate><container id="aspace_6536ee6765fc6738d98a40af2e70a861" label="unspecified" type="box">1</container><container id="aspace_0268aee4137c82db0c6dfe42fed1967b" parent="aspace_6536ee6765fc6738d98a40af2e70a861" type="folder">1</container></did><scopecontent id="aspace_3963bd7c905ed66d117dcd7c07831411"><head>Scope and Contents</head><p>Book</p></scopecontent></c01><c01 id="aspace_687f81bdf017dfc886fa339ee911a38b" level="file"><did><unittitle>The ILR School at Fifty copy 2</unittitle><unitdate datechar="creation" normal="1996/1996">1996</unitdate><container id="aspace_95981efe3d7758db4a457dfaed030f4a" label="unspecified" type="box">1</container><container id="aspace_4b732a1d0fea0b10f0006c12a91e19b3" parent="aspace_95981efe3d7758db4a457dfaed030f4a" type="folder">2</container></did><scopecontent id="aspace_f46337b7c4315222bc8062ec1677f5ed"><head>Scope and Contents</head><p>Book</p></scopecontent></c01><c01 id="aspace_92c1431af86e6ced0a166f818c3beaaf" level="file"><did><unittitle>The ILR School at Fifty copy 3</unittitle><unitdate datechar="creation" normal="1996/1996">1996</unitdate><container id="aspace_4e0519ab160936e7a9c3d6c51f7fc690" label="unspecified" type="box">1</container><container id="aspace_1b4dc95d9a52086abc63ca6d00a3c020" parent="aspace_4e0519ab160936e7a9c3d6c51f7fc690" type="folder">3</container></did><scopecontent id="aspace_6293fb2260b5b46f29da5e4d94d831ff"><head>Scope and Contents</head><p>Book</p></scopecontent></c01><c01 id="aspace_a56a19a3215c00fdd7bec9fe8a851081" level="file"><did><unittitle>The ILR School at Fifty copy 4</unittitle><unitdate datechar="creation" normal="1996/1996">1996</unitdate><container id="aspace_7ab412bca4a91a307764ca76e994d42d" label="unspecified" type="box">1</container><container id="aspace_db4287a318d3a6f3661962d788c44c46" parent="aspace_7ab412bca4a91a307764ca76e994d42d" type="folder">4</container></did><scopecontent id="aspace_31e1610689151c5b3b312b8d6c073e71"><head>Scope and Contents</head><p>Book</p></scopecontent></c01><c01 id="aspace_177c6247d6a3dccba63b9641a0d564a2" level="file"><did><unittitle>The ILR School at Fifty copy 5</unittitle><unitdate datechar="creation" normal="1996/1996">1996</unitdate><container id="aspace_21ec91c2d20ac9927e58aef849673d22" label="unspecified" type="box">1</container><container id="aspace_5f1e3f569671257a7c62a3f7fd776de3" parent="aspace_21ec91c2d20ac9927e58aef849673d22" type="folder">5</container></did><scopecontent id="aspace_d96ebba1b092b121d15916d5bb49d7b4"><head>Scope and Contents</head><p>Book</p></scopecontent></c01><c01 id="aspace_62f853f6afaa3cf996371962d991968e" level="file"><did><unittitle>The ILR School at Fifty copy 6</unittitle><unitdate datechar="creation" normal="1996/1996">1996</unitdate><container id="aspace_711f8b9c740b1de82a87d5ced3f42133" label="unspecified" type="box">1</container><container id="aspace_bc9900a89cccc7beb46245dd05006aac" parent="aspace_711f8b9c740b1de82a87d5ced3f42133" type="folder">6</container></did><scopecontent id="aspace_12f6b38273aeebb5468f65529efa7db9"><head>Scope and Contents</head><p>Book</p></scopecontent></c01><c01 id="aspace_4ad3641a0fbdb91da2730bac65a1a963" level="file"><did><unittitle>The ILR School at Fifty copy 7</unittitle><unitdate datechar="creation" normal="1996/1996">1996</unitdate><container id="aspace_6ca7edcde4cb1b9c26f9a4c2f6a8c1c4" label="unspecified" type="box">1</container><container id="aspace_0c637ff25d16f16b35a39fc6e78ace45" parent="aspace_6ca7edcde4cb1b9c26f9a4c2f6a8c1c4" type="folder">7</container></did><scopecontent id="aspace_8496124ec5c83621bf5a2224a5b7127c"><head>Scope and Contents</head><p>Book</p></scopecontent></c01><c01 id="aspace_9cc33f5c9ba3cacead8076581e057b63" level="file"><did><unittitle>The ILR School at Fifty copy 8</unittitle><unitdate datechar="creation" normal="1996/1996">1996</unitdate><container id="aspace_1eb1bea31cdafc660a73a840b7267837" label="unspecified" type="box">1</container><container id="aspace_1694380005ff3694f36e66b5b3330964" parent="aspace_1eb1bea31cdafc660a73a840b7267837" type="folder">8</container></did><scopecontent id="aspace_2950d2767f43f10336d179e44e106f9a"><head>Scope and Contents</head><p>Book</p></scopecontent></c01><c01 id="aspace_33ebc3d34144f1ca6b59c6ea3409e845" level="file"><did><unittitle>The ILR School at Fifty copy 9</unittitle><unitdate datechar="creation" normal="1996/1996">1996</unitdate><container id="aspace_4a15fe84b11029722b4a908c2ad34e98" label="unspecified" type="box">1</container><container id="aspace_d97f1e5c662eb03c974752ce2bdd000a" parent="aspace_4a15fe84b11029722b4a908c2ad34e98" type="folder">9</container></did><scopecontent id="aspace_d6a9efb998a6fd9b35691d959f5e11b4"><head>Scope and Contents</head><p>Book</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

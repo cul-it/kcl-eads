@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05113</eadid><filedesc><titlestmt><titleproper>Seward, Ralph T. Arbitration Transcripts and Exhibits <num>5113</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 31, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:33:23 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Ralph T. Seward Arbitration Transcripts and Exhibits</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Seward, Ralph T.</persname>
+    </origination>
+    <unitid>5113</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1949/1950" type="inclusive">1949-1950</unitdate>
+    <physdesc id="aspace_16efe0d983e815296573ebc526ca95f9" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_37539515035475cd9d1c940f18697fc8" label="Forms of Material:">Transcripts, exhibits.</physdesc>
+    <abstract id="aspace_b83289b1a630e7e480bd2815b688f8e4">This was an arbitration before Ralph Seward, an impartial chairman, Dean Robert S. Stevens of the Cornell Law School, representing the company and Joseph D. McCue representing the union. The dispute arose as a result of the discharge of an employee and the issue was whether good and sufficient cause existed for the discharge. Hearings were held in New York City, January 5, 1950.</abstract>
+    <langmaterial id="aspace_c819b0b69fb36d7ac85b245a8c06efe7">Collection material in English</langmaterial>
+    <unitid type="bibid">5515502</unitid>
+  </did>
+  <odd id="aspace_6982874a9a0839265346288197b08c32">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 24, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 31, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_32047c5b653f0c57c05c0a19b8a21041">
+    <head>Biographical / Historical</head>
+<p>Arbitrator and mediator; member, National Mediation Service, National Defense Mediation Board; impartial umpire for cases involving the dairy, auto and steel industries, among others. </p><p> Ralph Seward (BA., Cornell University, 1927; MA., New York University, 1931; LLB., Columbia University, 1935) served as an attorney with the National Labor Relations Board (1936-1937) and was executive secretary (1937-1939) and general counsel (1939) of the New York State Labor Relations Board. He also served as chairman of the Board of Immigration Appeals, U.S. Department of Justice (1939-1941), as executive secretary, National Defense Mediation Board (1941-1942), and as associate public member of the U.S. National War Labor Board (1942) before going into private practice as an arbitrator and mediator. In addition to chairing two Emergency Boards of the National Mediation Service, Seward was impartial chairman for the metropolitan New York milk industry (1942-1944); impartial umpire for General Motors Corporation and the United Automobile Workers (1944-1947); chairman of the Board of Conciliation and Arbitration of United States Steel Corporation and United Steelworkers of America (1947-1949); impartial umpire for International Harvester Company and United Farm Equipment and Metal Workers of America (1949-1951); impartial umpire for Bethlehem Steel Corporation and the United Steelworkers of America (1952); and arbitrator and/or mediator in various other cases.</p>  </bioghist>
+  <bioghist id="aspace_1a27c94ce2e1fc856750422dab52c11a">
+    <head>Biographical / Historical</head>
+<p>This was an arbitration before Ralph Seward, an impartial chairman, Dean Robert S. Stevens of the Cornell Law School, representing the company and Joseph D. McCue representing the union. The dispute arose as a result of the discharge of an employee and the issue was whether good and sufficient cause existed for the discharge. Hearings were held in New York City, January 5, 1950.</p>  </bioghist>
+  <accessrestrict id="aspace_0ce11b2f8352686990ae48752f0d315b">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_c24c5a8d08831cc5a49a662fab13c097">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_d0e48f01b31c0b8229e52992a8d53673">
+    <head>Preferred Citation</head>
+<p>Ralph T. Seward Arbitration Transcripts and Exhibits #5113. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_454715fbdc580f2b0f8d041c583c89c4">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05069.html"> 5069: U.S. Wage Stabilization Board 1952 United Steelworkers of America Case</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05328.html"> 5328: Ralph T. Seward Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05700.html"> 5700: Ralph T. Seward Additional Arbitration Files</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Unfair labor practices -- New York (State) -- New York.</subject>
+    <subject source="ingest">Machinists -- New York (State) -- New York.</subject>
+    <subject source="ingest">Machinists -- Labor unions -- New York (State) -- New York.</subject>
+    <subject source="ingest">Collective labor agreements -- Machinists -- New York (State) -- New York.</subject>
+    <persname audience="internal" source="ingest">Backman, Jules, 1910-1982</persname>
+    <persname audience="internal" source="ingest">Davidson, Ray E.</persname>
+    <persname audience="internal" source="ingest">Dungan, Ralph A. (Ralph Anthony), 1923-2013</persname>
+    <persname audience="internal" source="ingest">Gilbert, Henry E., 1906-</persname>
+    <persname audience="internal" source="ingest">Lung, Charles</persname>
+    <persname audience="internal" source="ingest">Speirs, Neil P.</persname>
+    <persname audience="internal" source="ingest">Wolfe, James E.</persname>
+    <persname audience="internal" source="ingest">Seward, Ralph T. (Ralph Theodore), 1907-</persname>
+    <corpname audience="internal" source="ingest">Airline Dispatchers Association</corpname>
+    <corpname audience="internal" source="ingest">Allegheny Ludlum Steel Corporation</corpname>
+    <corpname source="ingest">Armco Steel Corporation</corpname>
+    <corpname audience="internal" source="ingest">Atchison, Topeka, and Santa Fe Railway Company</corpname>
+    <corpname audience="internal" source="ingest">Atlantic Coast Line Railroad Company</corpname>
+    <corpname audience="internal" source="ingest">Bethlehem Steel Corporation</corpname>
+    <corpname audience="internal" source="ingest">Brotherhood of Locomotive Engineers and Trainmen (U.S.)</corpname>
+    <corpname audience="internal" source="ingest">Brotherhood of Locomotive Firemen and Enginemen</corpname>
+    <corpname audience="internal" source="ingest">Capital Airlines</corpname>
+    <corpname audience="internal" source="ingest">Central of New Jersey Railroad Company</corpname>
+    <corpname audience="internal" source="ingest">Chesapeake and Ohio Railroad Company</corpname>
+    <corpname audience="internal" source="ingest">Chicago and North Western Railway Company</corpname>
+    <corpname audience="internal" source="ingest">Chicago, Burlington &amp; Quincy Railway Company</corpname>
+    <corpname audience="internal" source="ingest">Chicago, Milwaukee and St. Paul Railway Company</corpname>
+    <corpname audience="internal" source="ingest">Crucible Steel Company of America</corpname>
+    <corpname audience="internal" source="ingest">Denver and Rio Grande Western Railway Company</corpname>
+    <corpname audience="internal" source="ingest">Eastern Carriers' Conference Committee</corpname>
+    <corpname audience="internal" source="ingest">General Motors Corporation</corpname>
+    <corpname audience="internal" source="ingest">Illinois Central Railroad Company</corpname>
+    <corpname audience="internal" source="ingest">Industrial Union of Marine and Shipbuilding Workers of America</corpname>
+    <corpname audience="internal" source="ingest">Inland Steel Company</corpname>
+    <corpname audience="internal" source="ingest">International Association of Machinists</corpname>
+    <corpname audience="internal" source="ingest">International Brotherhood of Blacksmiths, Drop Forgers, and Helpers</corpname>
+    <corpname audience="internal" source="ingest">International Brotherhood of Electrical Workers.</corpname>
+    <corpname audience="internal" source="ingest">International Brotherhood of Teamsters, Chauffeurs, Warehousemen, and Helpers of America</corpname>
+    <corpname audience="internal" source="ingest">International Harvester Company</corpname>
+    <corpname audience="internal" source="ingest">International Union of Electrical, Radio and Machine Workers.</corpname>
+    <corpname audience="internal" source="ingest">Jones &amp; Laughlin Steel Company</corpname>
+    <corpname audience="internal" source="ingest">Kaiser Steel Corporation</corpname>
+    <corpname audience="internal" source="ingest">Kelly-Springfield Tire Company</corpname>
+    <corpname audience="internal" source="ingest">Missouri Pacific Railroad Company</corpname>
+    <corpname audience="internal" source="ingest">National Railway Labor Conference (U.S.)</corpname>
+    <corpname source="ingest">New York Central Railroad Company</corpname>
+    <corpname audience="internal" source="ingest">New York, Chicago &amp; St. Louis Railroad</corpname>
+    <corpname audience="internal" source="ingest">Order of Railway Conductors and Brakemen</corpname>
+    <corpname audience="internal" source="ingest">Panhandle &amp; Santa Fe Railway</corpname>
+    <corpname audience="internal" source="ingest">Pennsylvania Railroad</corpname>
+    <corpname audience="internal" source="ingest">Pittsburgh Steel Company</corpname>
+    <corpname audience="internal" source="ingest">Republic Steel Corporation</corpname>
+    <corpname audience="internal" source="ingest">Seaboard Air Line Railroad Company</corpname>
+    <corpname audience="internal" source="ingest">Sheet Metal Workers' International Association</corpname>
+    <corpname audience="internal" source="ingest">Sheffield Steel Company</corpname>
+    <corpname audience="internal" source="ingest">Southeastern Carriers' Conference Committee</corpname>
+    <corpname audience="internal" source="ingest">Southern Pacific Company</corpname>
+    <corpname audience="internal" source="ingest">St. Louis Southwestern Railway Company</corpname>
+    <corpname audience="internal" source="ingest">Swift &amp; Company</corpname>
+    <corpname audience="internal" source="ingest">Switchmen's Union of North America</corpname>
+    <corpname audience="internal" source="ingest">Trans World Airlines</corpname>
+    <corpname audience="internal" source="ingest">Trans-Continental Freight Bureau of North Pacific Coast Territory</corpname>
+    <corpname audience="internal" source="ingest">Union Pacific Railway Company</corpname>
+    <corpname audience="internal" source="ingest">United Construction Workers</corpname>
+    <corpname audience="internal" source="ingest">United Farm Equipment and Metal Workers of America</corpname>
+    <corpname audience="internal" source="ingest">United Packinghouse Workers of America</corpname>
+    <corpname audience="internal" source="ingest">United Rubber, Cork, Linoleum, and Plastic Workers of America</corpname>
+    <corpname audience="internal" source="ingest">United States. Presidential Railroad Commission.</corpname>
+    <corpname audience="internal" source="ingest">United States. Wage Stabilization Board.</corpname>
+    <corpname audience="internal" source="ingest">United States Steel Corporation</corpname>
+    <corpname audience="internal" source="ingest">United Steelworkers of America</corpname>
+    <corpname audience="internal" source="ingest">Western Carriers' Conference Committee</corpname>
+    <corpname audience="internal" source="ingest">Youngstown Sheet and Tube Company</corpname>
+    <corpname audience="internal" source="ingest">International Association of Machinists, Lodge 539.</corpname>
+    <corpname audience="internal" source="ingest">Yale &amp; Towne Manufacturing Company.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5515502</unitid>
+  <dsc><c01 id="aspace_ba0db1469b50c39b8fe2d61d416aec3b" level="file"><did><unittitle>Yale &amp; Towne Manufacturing Co. and Int'l. Association of Machinsts, Lodge 539</unittitle><unitdate datechar="creation" normal="1949/1949">1949</unitdate><container id="aspace_9ee0c07c6503a578657bf7f4979e7e52" label="unspecified" type="box">1</container><container id="aspace_e52ce1b72a5f484405b5b7c2d5e720aa" parent="aspace_9ee0c07c6503a578657bf7f4979e7e52" type="folder">1</container></did></c01><c01 id="aspace_622975186e5ec3795f14c043d0baa6b1" level="file"><did><unittitle>Case No. 49-973 Arbitrators</unittitle><container id="aspace_5bac1308ba3e3408a5148a00d94dfd06" label="unspecified" type="box">1</container><container id="aspace_c7efdc51d9562f8f02d37619d85c00b4" parent="aspace_5bac1308ba3e3408a5148a00d94dfd06" type="folder">2</container></did></c01><c01 id="aspace_9361f30dc7ffd1e4085e078b9bb2f78f" level="file"><did><unittitle>Arbitration in Grievance Case No. 49-973</unittitle><unitdate datechar="creation" normal="1950/1950">1950</unitdate><container id="aspace_5e704675ea3647302217c5e95455daec" label="unspecified" type="box">1</container><container id="aspace_bfaa69aa823de413644db342287b9b4e" parent="aspace_5e704675ea3647302217c5e95455daec" type="folder">3</container></did></c01><c01 id="aspace_db847fd052fb5a5df317c73a00b1a200" level="file"><did><unittitle>Arbitration Grievance Case No. 49-973</unittitle><unitdate datechar="creation" normal="1950/1950">1950</unitdate><container id="aspace_8fb0e714961ec8635dc8c89bc33f2df6" label="unspecified" type="box">1</container><container id="aspace_e8eeb5c1eef500ce52705a27d3c6dd48" parent="aspace_8fb0e714961ec8635dc8c89bc33f2df6" type="folder">4</container></did></c01></dsc>
+</archdesc>
+</ead>

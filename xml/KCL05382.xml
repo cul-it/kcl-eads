@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05382</eadid><filedesc><titlestmt><titleproper>Grievance Board Records <num>5382</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 11, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:44:44 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Grievance Board Records</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">New York State Department of Civil Service</corpname>
+    </origination>
+    <unitid>5382</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1956/1960" type="inclusive">1956-1960</unitdate>
+    <physdesc id="aspace_8b7d3c3fb182864e6bdcc654fa02ff43" label="Quantity:">0.3 linear ft.</physdesc>
+    <physdesc id="aspace_2ec99c776c17bc0c5bfd9808b6837ee6" label="Forms of Material:">Records (documents).</physdesc>
+    <abstract id="aspace_42d674380e58c9e007d7b0f30ec3fa83">Grievance Board reports and decisions.</abstract>
+    <langmaterial id="aspace_4386c1170628b5e4cbd02716cf8d06b3">Collection material in English</langmaterial>
+    <unitid type="bibid">5622225</unitid>
+  </did>
+  <odd id="aspace_2b5424a967de9e929547ed043c62567b">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, June 18, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 11, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_15bec31d1a0162d0e0ca073a7d757516">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_1b656d6c1ca87a847c1b14a5ce7f13f2">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_ab0e6b58d200a868b80ad01c83bb858d">
+    <head>Preferred Citation</head>
+<p>Grievance Board Records #5382. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Government employee unions--New York (N.Y.)</subject>
+    <subject source="ingest">Employee-management relations in government--New York (N.Y.)</subject>
+    <subject source="ingest">Grievance arbitration.</subject>
+    <corpname audience="internal" source="ingest">New York (State).</corpname>
+    <corpname audience="internal" source="ingest">New York (State). Department of Civil Service.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5622225</unitid>
+  <dsc><c01 id="aspace_81e8dbfddf9fff59712540953289b7dd" level="file"><did><unittitle>Reports</unittitle><unitdate datechar="creation" normal="1957/1959" type="inclusive">1957-1959</unitdate><container id="aspace_7c8a6e888b0e07b89db90944b90bc592" label="unspecified" type="box">1</container><container id="aspace_6a1a12e9b3185ee5d1b35927f3e1f1ef" parent="aspace_7c8a6e888b0e07b89db90944b90bc592" type="folder">1</container></did></c01><c01 id="aspace_59880df798c4dbbaa4daf968acdaeaa0" level="file"><did><unittitle>Decisions no.1-3</unittitle><unitdate datechar="creation" normal="1956/1956">1956</unitdate><container id="aspace_4457832ddead987abfcf407a5adde653" label="unspecified" type="box">1</container><container id="aspace_bd896450c85915fbd927e415053f795f" parent="aspace_4457832ddead987abfcf407a5adde653" type="folder">2</container></did></c01><c01 id="aspace_6bcae3cafa4ed334e7a8de4ccec9795d" level="file"><did><unittitle>Decisions no.4-8</unittitle><unitdate datechar="creation" normal="1957/1957">1957</unitdate><container id="aspace_f709ad00f2300210519375870b6700ca" label="unspecified" type="box">1</container><container id="aspace_400954123141599bd776e2396c56bda8" parent="aspace_f709ad00f2300210519375870b6700ca" type="folder">3</container></did></c01><c01 id="aspace_fc4d1c81de8fc62d76d9ef28bc12aed1" level="file"><did><unittitle>Decisions no.9-12</unittitle><unitdate datechar="creation" normal="1958/1958">1958</unitdate><container id="aspace_a562478be3bf0a3103bc130d1cbe4922" label="unspecified" type="box">1</container><container id="aspace_03047d3a7911de02ac6767a9093d4260" parent="aspace_a562478be3bf0a3103bc130d1cbe4922" type="folder">4</container></did></c01><c01 id="aspace_badbe0008687d6cf973bcfaa5e2693b6" level="file"><did><unittitle>Decisions no.13-21</unittitle><unitdate datechar="creation" normal="1959/1959">1959</unitdate><container id="aspace_c18edcfd92bf849577f6d8b956df40fb" label="unspecified" type="box">1</container><container id="aspace_de07ff71a61e1edc2b58abd911976635" parent="aspace_c18edcfd92bf849577f6d8b956df40fb" type="folder">5</container></did></c01><c01 id="aspace_95f2d249bd26f722be78b60facf10b5c" level="file"><did><unittitle>Decisions no.22-23</unittitle><unitdate datechar="creation" normal="1960/1960">1960</unitdate><container id="aspace_865810092fe5d9c19fdb1936b1e8f1a1" label="unspecified" type="box">1</container><container id="aspace_c54f6eae350d11fb89cfa6e15b97a519" parent="aspace_865810092fe5d9c19fdb1936b1e8f1a1" type="folder">6</container></did></c01></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05298</eadid><filedesc><titlestmt><titleproper>IAM vs. Northwest Airlines and Miscellaneous others Arbitration Proceedings <num>5298</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 11, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:41:33 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>IAM vs. Northwest Airlines and Miscellaneous others Arbitration Proceedings</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">U.S. National War Labor Board</corpname>
+    </origination>
+    <unitid>5298</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1940/1949" type="inclusive">1940-1949</unitdate>
+    <physdesc id="aspace_d835fd85b65cc6fa29d58c9bcba69a73" label="Quantity:">2 linear ft.</physdesc>
+    <physdesc id="aspace_4fa9ecc3195875bfefb883411843a0c1" label="Forms of Material:">Reports, pamphlets, correspondence, transcripts.</physdesc>
+    <abstract id="aspace_8b5f9252c4b2a3e5754a5a2d637615f0">Records consist of documentation of labor-management dispute settlement and wage stabilization cases brought before various mediation panels of the National and Region 2 War Labor Boards, as well as the Non-Ferrous Metals Commission of the U.S. National War Labor Board.</abstract>
+    <langmaterial id="aspace_32cd502bf5585da543d5b911bbcb8af5">Collection material in English</langmaterial>
+    <unitid type="bibid">2293704</unitid>
+  </did>
+  <odd id="aspace_8deb0e032a7681ed9379845310a6a604">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, February 25, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 11, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_dfaa9f224444a6e0fa495c5291a89df7">
+    <head>Biographical / Historical</head>
+<p>The National War Labor Board, a tripartite body established in 1942 by President Franklin D. Roosevelt, was charged with acting as an arbitration tribunal in labor-management dispute cases, thereby preventing work stoppages which might hinder the war effort. It was also responsible for determining wage adjustments in accordance with anti-inflationary wage stabilization criteria and policies. </p><p> The Board was initially divided into 12 Regional Administrative Boards which handled both labor dispute settlement and wage stabilization functions for specific geographic regions. The National Board further decentralized in 1943, when it established special tripartite commissions and panels to deal with particular industries on a national basis.</p>  </bioghist>
+  <scopecontent id="aspace_49345778e05d743d50851529b71e4c6f">
+    <head>Scope and Contents</head>
+<p>This collection reflects the Board's decision-making and internal communication processes, and documents Board policy on no-strike pledges, grievance and arbitration procedures, union security, management rights, maintenance of membership, anti-inflationary wage control policy, and fringe benefits. </p><p> The bulk of the collection consists of materials pertaining to labor dispute settlement cases. Includes awards, decisions, and reports and recommendations of mediation panels; hearings transcripts, and documents used as evidence in hearings; and statements, briefs and answers of employers and unions. Documents generated by the War Labor Board also include memoranda, press releases, bulletins and reports concerning directives for case handling, administrative procedures and regulations, and summaries of Board actions and decisions.</p>  </scopecontent>
+  <accessrestrict id="aspace_57e54a28d9ea2e0fbe30433332b4c654">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_dfc1e3ec54e4c97f3b9869785b0b3ceb">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_563d44bf620e06765880fbec72674dfe">
+    <head>Preferred Citation</head>
+<p>IAM vs. Northwest Airlines and Miscellaneous others Arbitration Proceedings #5298. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Arbitration, Industrial--United States--Cases.</subject>
+    <subject source="ingest">Mediation and conciliation, Industrial--United States--Cases.</subject>
+    <subject source="ingest">Wage-price policy--United States.</subject>
+    <subject source="ingest">War and emergency powers--United States.</subject>
+    <subject source="ingest">World War, 1939-1945--Economic aspects--United States.</subject>
+    <subject source="ingest">Arbitrators, Industrial.</subject>
+    <subject source="ingest">Absenteeism. Arbitration, Industrial. United States</subject>
+    <subject source="ingest">Arbitration, Industrial. Agricultural machine industry. United States.</subject>
+    <subject source="ingest">Arbitration, Industrial. Airlines. United States.</subject>
+    <subject source="ingest">Arbitration, Industrial. Aircraft industry. United States.</subject>
+    <subject source="ingest">Arbitration, Industrial. Brewing industry. United States.</subject>
+    <subject source="ingest">Arbitration, Industrial. Coal mining industry. United States.</subject>
+    <subject source="ingest">Arbitration, Industrial. Container industry. United States.</subject>
+    <subject source="ingest">Arbitration, Industrial. Copper mining. United States.</subject>
+    <subject source="ingest">Arbitration, Industrial. Cosmetics industry. United States.</subject>
+    <subject source="ingest">Arbitration, Industrial. Electric industries. United States.</subject>
+    <subject source="ingest">Arbitration, Industrial. Food industry. United States.</subject>
+    <subject source="ingest">Arbitration, Industrial. Fur trade. United States.</subject>
+    <subject source="ingest">Arbitration, Industrial. Glass manufacture. United States.</subject>
+    <subject source="ingest">Arbitration, Industrial. Iron industry. United States.</subject>
+    <subject source="ingest">Arbitration, Industrial. Machine industry. United States.</subject>
+    <subject source="ingest">Arbitration, Industrial. Meat industry. United States.</subject>
+    <subject source="ingest">Arbitration, Industrial. Metal-workers. United States.</subject>
+    <subject source="ingest">Arbitration, Industrial. Mining industry. United States.</subject>
+    <subject source="ingest">Arbitration, Industrial. Musicians. United States.</subject>
+    <subject source="ingest">Arbitration, Industrial. Nonferrous metal industries. United States.</subject>
+    <subject source="ingest">Arbitration, Industrial. Paint industry. United States.</subject>
+    <subject source="ingest">Arbitration, Industrial. Petroleum industry. United States.</subject>
+    <subject source="ingest">Arbitration, Industrial. Plumbing and heating industry. United States.</subject>
+    <subject source="ingest">Arbitration, Industrial. Potash industry. United States.</subject>
+    <subject source="ingest">Arbitration, Industrial. Public utilities. United States.</subject>
+    <subject source="ingest">Arbitration, Industrial. Retail trade. United States.</subject>
+    <subject source="ingest">Arbitration, Industrial. Shipbuilding industry. United States.</subject>
+    <subject source="ingest">Arbitration, Industrial. Steel industry. United States.</subject>
+    <subject source="ingest">Arbitration, Industrial. Stevedores. United States.</subject>
+    <subject source="ingest">Arbitration, Industrial. Telecommunication. United States.</subject>
+    <subject source="ingest">Arbitration, Industrial. Textile industry. New England.</subject>
+    <subject source="ingest">Arbitration, Industrial. Textile industry. United States.</subject>
+    <subject source="ingest">Arbitration, Industrial. Zinc mining. United States.</subject>
+    <subject source="ingest">Bargaining unit. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Checkoff. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Coal mining industry. United States. Military aspects.</subject>
+    <subject source="ingest">Collective bargaining. Musicians. United States.</subject>
+    <subject source="ingest">Collective bargaining. Radio broadcasting. United States.</subject>
+    <subject source="ingest">Collective labor agreements. Stevedores. United States.</subject>
+    <subject source="ingest">Collective labor agreements. Telecommunication. United States.</subject>
+    <subject source="ingest">Contracting out. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Defense contracts. United States.</subject>
+    <subject source="ingest">Employee fringe benefits. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Employee fringe benefits. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Employee fringe benefits. Telecommunication. United States.</subject>
+    <subject source="ingest">Employees, Dismissal of. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Employees, Transfer of. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Grievance procedures. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Grievance procedures. Telecommunication. United States.</subject>
+    <subject source="ingest">Hours of labor. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Hours of labor. Steel industry. United States.</subject>
+    <subject source="ingest">Hours of labor. Stevedores. United States.</subject>
+    <subject source="ingest">Insurance. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Insurance, Life. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Job descriptions. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Job security. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Job security. Fur trade. United States.</subject>
+    <subject source="ingest">Labor disputes. Musicians. United States.</subject>
+    <subject source="ingest">Labor disputes. Steel industry. United States.</subject>
+    <subject source="ingest">Labor disputes. Stevedores. United States.</subject>
+    <subject source="ingest">Labor productivity. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Layoffs. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Management rights. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Merchant marine. United States. Military aspects</subject>
+    <subject source="ingest">Mine safety. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Musicians. Salaries, etc. United States.</subject>
+    <subject source="ingest">Nonferrous metal industries. United States. Defense measures.</subject>
+    <subject source="ingest">Open and closed shop. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Open and closed shop. Steel industry. United States.</subject>
+    <subject source="ingest">Open and closed shop. Telecommunication. United States.</subject>
+    <subject source="ingest">Pensions. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Position classification. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Promotions. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Seniority, Employee. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Steel industry. Prices. United States.</subject>
+    <subject source="ingest">Steel industry. Technological innovations. United States.</subject>
+    <subject source="ingest">Steel industry. United States. Military aspects.</subject>
+    <subject source="ingest">Strikes and lockouts. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Strikes and lockouts. Coal mining industry. United States.</subject>
+    <subject source="ingest">Strikes and lockouts. Musicians. United States.</subject>
+    <subject source="ingest">Strikes and lockouts. Performing artists. United States.</subject>
+    <subject source="ingest">Strikes and lockouts. Steel industry. United States.</subject>
+    <subject source="ingest">Strikes and lockouts. Stevedores. United States.</subject>
+    <subject source="ingest">Technological innovations. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Trade-union dues. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Trade-union dues. Copper miners. United States.</subject>
+    <subject source="ingest">Trade-union dues. United States. Statistics.</subject>
+    <subject source="ingest">Trade-union security. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Trade-union security. United States.</subject>
+    <subject source="ingest">Trade-unions. Iron and steel workers. United States.</subject>
+    <subject source="ingest">Trade-unions. Stevedores. United States.</subject>
+    <subject source="ingest">Trade-unions. Telecommunications. United States.</subject>
+    <subject source="ingest">Trade-unions. United States. Recognition.</subject>
+    <subject source="ingest">Wages. Air lines. United States.</subject>
+    <subject source="ingest">Wages. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Wages. Coal mining industry. United States.</subject>
+    <subject source="ingest">Wages. Fur trade. United States.</subject>
+    <subject source="ingest">Wages. Nonferrous metal industries. United States.</subject>
+    <subject source="ingest">Wages. Steel industry. United States.</subject>
+    <subject source="ingest">Wages. Stevedores. United States.</subject>
+    <subject source="ingest">Wages. Telecommunication. United States.</subject>
+    <subject source="ingest">Wages. Textile industry. New England.</subject>
+    <subject source="ingest">Work assignments. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Work assignment. Stevedores. United States.</subject>
+    <subject source="ingest">Work rules. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">Workers' compensation. Arbitration, Industrial. United States.</subject>
+    <subject source="ingest">World War, 1939-1945. United States. Propaganda.</subject>
+    <subject source="ingest">World War, 1939-1945. United States. Songs and music.</subject>
+    <subject source="ingest">United States. Economic conditions. 1918-1945</subject>
+    <corpname audience="internal" source="ingest">A. D. Julliard Company.</corpname>
+    <corpname audience="internal" source="ingest">AFL-CIO. Metal Trades Dept.</corpname>
+    <corpname audience="internal" source="ingest">Aircraft Workers Union</corpname>
+    <corpname audience="internal" source="ingest">Amalgamated Workmen of America</corpname>
+    <corpname audience="internal" source="ingest">American Can Company</corpname>
+    <corpname audience="internal" source="ingest">American Communications Association</corpname>
+    <corpname audience="internal" source="ingest">American Federation of Musicians</corpname>
+    <corpname audience="internal" source="ingest">American Federation of Technical Engineers</corpname>
+    <corpname audience="internal" source="ingest">American Radiator and Standard Sanitary Corporation</corpname>
+    <corpname audience="internal" source="ingest">American Smelting and Refining Company</corpname>
+    <corpname audience="internal" source="ingest">Anaconda Copper Mining Company</corpname>
+    <corpname audience="internal" source="ingest">Appalachian Joint Conference</corpname>
+    <corpname audience="internal" source="ingest">Associated Fur Coat and Trimming Manufacturers</corpname>
+    <corpname audience="internal" source="ingest">Baker and Company, Inc.</corpname>
+    <corpname audience="internal" source="ingest">Bendix Corporation</corpname>
+    <corpname audience="internal" source="ingest">Bergen Point Iron Works</corpname>
+    <corpname audience="internal" source="ingest">Bethlehem Steel Corporation</corpname>
+    <corpname audience="internal" source="ingest">Brewers Board of Trade</corpname>
+    <corpname audience="internal" source="ingest">Brotherhood of Locomotive Firemen and Enginemen</corpname>
+    <corpname audience="internal" source="ingest">Brotherhood of Painters, Decorators, and Paperhangers of America.</corpname>
+    <corpname audience="internal" source="ingest">Brotherhood of Railroad Trainmen</corpname>
+    <corpname audience="internal" source="ingest">Celanese Chemical Company</corpname>
+    <corpname audience="internal" source="ingest">Celanese Corporation of America</corpname>
+    <corpname audience="internal" source="ingest">Chino Metal Trades Council of Grant County New Mexico</corpname>
+    <corpname audience="internal" source="ingest">Eagle Electrical Manufacturing Company, Inc.</corpname>
+    <corpname audience="internal" source="ingest">Electrical Transcription Manufacturers</corpname>
+    <corpname audience="internal" source="ingest">Empire Zinc Company</corpname>
+    <corpname audience="internal" source="ingest">Federation of Glass, Ceramic and Silica Sand Workers of America</corpname>
+    <corpname audience="internal" source="ingest">Ford Colliers Company</corpname>
+    <corpname audience="internal" source="ingest">Foremen's Association of America</corpname>
+    <corpname audience="internal" source="ingest">Fur Floor Boys and Shipping Clerks Union</corpname>
+    <corpname audience="internal" source="ingest">Furriers' Joint Council of New York</corpname>
+    <corpname audience="internal" source="ingest">General Cable Corporation</corpname>
+    <corpname audience="internal" source="ingest">General Electric Company</corpname>
+    <corpname audience="internal" source="ingest">Gulf Oil Corporation</corpname>
+    <corpname audience="internal" source="ingest">Helena Rubinstein, Inc.</corpname>
+    <corpname audience="internal" source="ingest">Industrial Union of Marine and Shipbuilding Workers of America</corpname>
+    <corpname audience="internal" source="ingest">Inland Steel Company</corpname>
+    <corpname audience="internal" source="ingest">Inspirational Consolidated Copper Company</corpname>
+    <corpname audience="internal" source="ingest">International Association of Bridge, Structural and Ornamental Iron Workers</corpname>
+    <corpname audience="internal" source="ingest">International Association of Machinists</corpname>
+    <corpname audience="internal" source="ingest">International Brotherhood of Boilermakers, Iron Ship Builders, Blacksmiths, Forgers, and Helpers</corpname>
+    <corpname audience="internal" source="ingest">International Brotherhood of Electrical Workers.</corpname>
+    <corpname audience="internal" source="ingest">International Brotherhood of Firemen and Oilers</corpname>
+    <corpname audience="internal" source="ingest">International Brotherhood of Teamsters, Chauffeurs, Warehousemen, and Helpers of America</corpname>
+    <corpname audience="internal" source="ingest">International Federation of Technical Engineers', Architects' and Draftsmen's Unions</corpname>
+    <corpname audience="internal" source="ingest">International Harvester Company</corpname>
+    <corpname audience="internal" source="ingest">International Longshoremen's and Warehousemen's Union</corpname>
+    <corpname audience="internal" source="ingest">International Longshoremen's Association</corpname>
+    <corpname audience="internal" source="ingest">International Union of Mine, Mill and Smelter Workers</corpname>
+    <corpname audience="internal" source="ingest">International Union of Operating Engineers</corpname>
+    <corpname audience="internal" source="ingest">International Union of United Brewery, Flour, Cereal, Soft Drink, and Distillery Workers of America</corpname>
+    <corpname audience="internal" source="ingest">International Union of United Brewery, Flour, Cereal, Soft Drink, and Distillery Workers of America. Utica Local.</corpname>
+    <corpname audience="internal" source="ingest">International Union, United Automobile Aircraft, and Agricultural Implement Workers of America</corpname>
+    <corpname audience="internal" source="ingest">International Union, United Automobile Workers of America (A.F. of L.)</corpname>
+    <corpname audience="internal" source="ingest">Iron Ore Miners Federal Labor Union</corpname>
+    <corpname audience="internal" source="ingest">Kennecott Copper Company</corpname>
+    <corpname audience="internal" source="ingest">Kings County Light and Gas Employees Union (N.Y.)</corpname>
+    <corpname audience="internal" source="ingest">Kings County (N.Y.)</corpname>
+    <corpname audience="internal" source="ingest">National Association of Broadcasters</corpname>
+    <corpname audience="internal" source="ingest">National Battery Company</corpname>
+    <corpname audience="internal" source="ingest">National Bearing Company</corpname>
+    <corpname audience="internal" source="ingest">National Union of United Aircraft Welders</corpname>
+    <corpname audience="internal" source="ingest">Northwest Airlines</corpname>
+    <corpname audience="internal" source="ingest">Pattern Makers' League of North America</corpname>
+    <corpname audience="internal" source="ingest">Petroleum Trades Employees Union</corpname>
+    <corpname audience="internal" source="ingest">Phelps Dodge Corporation</corpname>
+    <corpname audience="internal" source="ingest">Postal Cable Company</corpname>
+    <corpname audience="internal" source="ingest">R.H. Macy and Company</corpname>
+    <corpname audience="internal" source="ingest">Republic Steel Corporation</corpname>
+    <corpname audience="internal" source="ingest">Resurrection Mining Company</corpname>
+    <corpname audience="internal" source="ingest">Sheffield Farms Associates</corpname>
+    <corpname audience="internal" source="ingest">Sherwin-Williams Company</corpname>
+    <corpname audience="internal" source="ingest">Southern Appalachian Joint Wage Conference</corpname>
+    <corpname audience="internal" source="ingest">Southern Coal Producers Association</corpname>
+    <corpname audience="internal" source="ingest">Steel Workers Organizing Committee</corpname>
+    <corpname audience="internal" source="ingest">Swift and Company</corpname>
+    <corpname audience="internal" source="ingest">Textile Workers' Union of America</corpname>
+    <corpname audience="internal" source="ingest">United Mine Workers of America. United Clerical, Technical and Supervisory Employees of the Mining Industry.</corpname>
+    <corpname audience="internal" source="ingest">United Department Store, Delivery and Interior Employees of Greater New York</corpname>
+    <corpname audience="internal" source="ingest">United Electrical, Radio, and Machine Workers of America</corpname>
+    <corpname audience="internal" source="ingest">United Gas, Coke, and Chemical Workers' International Union</corpname>
+    <corpname audience="internal" source="ingest">United Mine Workers of America. District 20.</corpname>
+    <corpname audience="internal" source="ingest">United Office and Professional Workers of America, International.</corpname>
+    <corpname audience="internal" source="ingest">United Packinghouse Workers of America</corpname>
+    <corpname source="ingest">United States. Dept. of Agriculture.</corpname>
+    <corpname audience="internal" source="ingest">United States. Factfinding Board on the Pacific Longshore.</corpname>
+    <corpname audience="internal" source="ingest">United States. Factfinding Panel on the Bituminous Coal Industry.</corpname>
+    <corpname audience="internal" source="ingest">United States. Federal Communications Commission.</corpname>
+    <corpname audience="internal" source="ingest">United States. National War Labor Board (1942-1945)</corpname>
+    <corpname audience="internal" source="ingest">United States. National War Labor Board (1942-1945). Region 2.</corpname>
+    <corpname audience="internal" source="ingest">United States. Nonferrous Metals Commission.</corpname>
+    <corpname audience="internal" source="ingest">United States Potash Company</corpname>
+    <corpname audience="internal" source="ingest">United States Steel Corporation</corpname>
+    <corpname audience="internal" source="ingest">United Steelworkers of America</corpname>
+    <corpname audience="internal" source="ingest">Utah Copper Company</corpname>
+    <corpname audience="internal" source="ingest">Utility Workers Organization Committee</corpname>
+    <corpname audience="internal" source="ingest">Vanadium Corporation of America</corpname>
+    <corpname audience="internal" source="ingest">W. L. Maxson Corporation</corpname>
+    <corpname audience="internal" source="ingest">Waterfront Employers' Association</corpname>
+    <corpname audience="internal" source="ingest">West Coast Airframe</corpname>
+    <corpname audience="internal" source="ingest">Western Union Telegraph Company</corpname>
+    <corpname audience="internal" source="ingest">Wright Aeronautical Corporation</corpname>
+    <corpname audience="internal" source="ingest">Wright Aircraft Supervisors Association</corpname>
+    <corpname audience="internal" source="ingest">Youngstown Sheet and Tube Company</corpname>
+    <persname audience="internal" source="ingest">Lapatin, Anne</persname>
+    <persname audience="internal" source="ingest">Meyer, Arthur S., 1880-1955</persname>
+    <persname audience="internal" source="ingest">Miller, Neville, 1894-1977</persname>
+    <persname audience="internal" source="ingest">Paul, Lee G.</persname>
+  </controlaccess>
+  <unitid type="bibid">2293704</unitid>
+  <dsc><c01 id="aspace_50b5ea95b50bc7c250d367b11caa49c5" level="file"><did><unittitle>West Coast Airframe Companies</unittitle><unitdate datechar="creation" normal="1942/1942">1942</unitdate><container id="aspace_828ffc7b04808706c383ff857f6671be" label="unspecified" type="box">1</container><container id="aspace_578705d1a0e82eb2787baa29aad0979e" parent="aspace_828ffc7b04808706c383ff857f6671be" type="folder">1</container></did><scopecontent id="aspace_24913a830c03f5a4f8588d396b738644"><head>Scope and Contents</head><p>January 8 1942</p></scopecontent></c01><c01 id="aspace_51c24cc3614527c2ddac8f988b52a8f5" level="file"><did><unittitle>West Coast Airframe Companies</unittitle><unitdate datechar="creation" normal="1943/1943">1943</unitdate><container id="aspace_2c766299612e1f278757734741829528" label="unspecified" type="box">1</container><container id="aspace_cc7a27ee0b916ec01536f758d29ce129" parent="aspace_2c766299612e1f278757734741829528" type="folder">2</container></did><scopecontent id="aspace_84f71f8ccc1e5aba3a0948b4219fb03e"><head>Scope and Contents</head><p>January 9 1943</p></scopecontent></c01><c01 id="aspace_97d8c6940bb939ea48e76d890a237335" level="file"><did><unittitle>Stabilization of the National Economy Basic Documents, Folder 1 of 2</unittitle><unitdate datechar="creation" normal="1943/1943">1943</unitdate><container id="aspace_abc6c8b94cc28c7c2a32e0ed98e62118" label="unspecified" type="box">1</container><container id="aspace_61052ddcc71df2d01ad13ccf5d9f2351" parent="aspace_abc6c8b94cc28c7c2a32e0ed98e62118" type="folder">3</container></did><scopecontent id="aspace_21431a93045ca13962ac0ca56d783eea"><head>Scope and Contents</head><p>February 1943</p></scopecontent></c01><c01 id="aspace_39cec2b54a7261b4c25c60398bd4ec73" level="file"><did><unittitle>Stabilization of the National Economy Basic Documents, Folder 2 of 2</unittitle><unitdate datechar="creation" normal="1943/1943">1943</unitdate><container id="aspace_c4f4cd6c5ce67e454bf8bfe25ece1f83" label="unspecified" type="box">1</container><container id="aspace_72d8c978649afdff20a6fa1712d46425" parent="aspace_c4f4cd6c5ce67e454bf8bfe25ece1f83" type="folder">4</container></did><scopecontent id="aspace_24d5d26e25ad22d1f691d6bfb6f7f70a"><head>Scope and Contents</head><p>February 1943</p></scopecontent></c01><c01 id="aspace_711e14a2cf6513246a0e41162cefc3d2" level="file"><did><unittitle>American Steel Foundries, et. al. Case 14-47, et. al.</unittitle><unitdate datechar="creation" normal="1944/1944">1944</unitdate><container id="aspace_352c9ed871ce75dce8e35c80fb67f82d" label="unspecified" type="box">1</container><container id="aspace_e887dd41b38812a0f7f9095bb31bf413" parent="aspace_352c9ed871ce75dce8e35c80fb67f82d" type="folder">5</container></did><scopecontent id="aspace_88d8bf3f986a458d93798693466dd05c"><head>Scope and Contents</head><p>October 11 1944</p></scopecontent></c01><c01 id="aspace_672a07030e7d5363f8ebee3abb39481b" level="file"><did><unittitle>Bethlehem Steel Company Case No. 111-2170-D</unittitle><unitdate datechar="creation" normal="1944/1944">1944</unitdate><container id="aspace_14119a7626f480b4f9cfdcb75252e8b3" label="unspecified" type="box">1</container><container id="aspace_2d4b5e67b8858e8d6ffa251e7d75465e" parent="aspace_14119a7626f480b4f9cfdcb75252e8b3" type="folder">6</container></did></c01><c01 id="aspace_276664e0f241bf62ad6b9cf339f92dac" level="file"><did><unittitle>Butler Brothers, et al Case 14-82 et al</unittitle><unitdate datechar="creation" normal="1944/1944">1944</unitdate><container id="aspace_0d49547118a5256adcd93d1d06bb1619" label="unspecified" type="box">1</container><container id="aspace_486e15c7e2bbe4b92c9c23fba02d2c91" parent="aspace_0d49547118a5256adcd93d1d06bb1619" type="folder">7</container></did></c01><c01 id="aspace_59eafe0dccf505e7716c79583f5c3fbc" level="file"><did><unittitle>The Central Indiana Case, Case No. 13-350-D</unittitle><unitdate datechar="creation" normal="1944/1944">1944</unitdate><container id="aspace_92358d9d5fe3b3673fe1c01cc50593f7" label="unspecified" type="box">1</container><container id="aspace_2caea08defd48159b7c6f0cfa5781270" parent="aspace_92358d9d5fe3b3673fe1c01cc50593f7" type="folder">8</container></did></c01><c01 id="aspace_59b9bb1fae190685ea103bdddf95d2aa" level="file"><did><unittitle>Ford Collieries Company, et al. Case No. 111-10258-D</unittitle><unitdate datechar="creation" normal="1944/1944">1944</unitdate><container id="aspace_b9c97c2a224b938e10ac1e02f15b4097" label="unspecified" type="box">1</container><container id="aspace_182238d4012922788238c8143756bf3e" parent="aspace_b9c97c2a224b938e10ac1e02f15b4097" type="folder">9</container></did></c01><c01 id="aspace_4c28287bba2a7ddbcc32b50e3535405b" level="file"><did><unittitle>General Electric, et al</unittitle><unitdate datechar="creation" normal="1944/1944">1944</unitdate><container id="aspace_01aa5a6ef4ff5c7bc6cb42a81979601b" label="unspecified" type="box">1</container><container id="aspace_aadf647481babd47f2704d3ff913dcd3" parent="aspace_01aa5a6ef4ff5c7bc6cb42a81979601b" type="folder">10</container></did></c01><c01 id="aspace_791b625b7484d4aa205ee849d644c62e" level="file"><did><unittitle>Little Steel Formula Vol. 1</unittitle><unitdate datechar="creation" normal="1944/1944">1944</unitdate><container id="aspace_faaca44f6b34a473cb676c3650fdd513" label="unspecified" type="box">1</container><container id="aspace_f5863071b91d89481e9f431bf2ea9754" parent="aspace_faaca44f6b34a473cb676c3650fdd513" type="folder">11</container></did><scopecontent id="aspace_9cd8a92ac5726d418848f7db1ab354c4"><head>Scope and Contents</head><p>April 4 1944</p></scopecontent></c01><c01 id="aspace_cbaeea8cc47894b380780c331f98959a" level="file"><did><unittitle>Little Steel Formula Vol. 2</unittitle><unitdate datechar="creation" normal="1944/1944">1944</unitdate><container id="aspace_42113358fc1ada60310fe1e018a9793d" label="unspecified" type="box">1</container><container id="aspace_a0078c8949e23e888c663a72293887fc" parent="aspace_42113358fc1ada60310fe1e018a9793d" type="folder">12</container></did><scopecontent id="aspace_53dface056c6c46720e65cf63baf1d30"><head>Scope and Contents</head><p>April 5 1944</p></scopecontent></c01><c01 id="aspace_6d6e79354101013d375e7b8ff408e3e5" level="file"><did><unittitle>Little Steel Formula Vol. 3</unittitle><unitdate datechar="creation" normal="1944/1944">1944</unitdate><container id="aspace_fd936a48030a3c16887a467f76464ea2" label="unspecified" type="box">1</container><container id="aspace_4de81bc898e6c468459538e44685d071" parent="aspace_fd936a48030a3c16887a467f76464ea2" type="folder">13</container></did><scopecontent id="aspace_cf532e809d1208396124afa6c4359bfe"><head>Scope and Contents</head><p>April 6 1944</p></scopecontent></c01><c01 id="aspace_fdf17c7b1409c84fb2c0488e1801ce58" level="file"><did><unittitle>Packard Motor Car Company, Case No. 111-5436-D</unittitle><unitdate datechar="creation" normal="1944/1944">1944</unitdate><container id="aspace_38a9b27d3600b0b988f96d2105de424c" label="unspecified" type="box">1</container><container id="aspace_846cadc45e944e0ed6e17f1959eaceb7" parent="aspace_38a9b27d3600b0b988f96d2105de424c" type="folder">14</container></did></c01><c01 id="aspace_abf308092c85b93c96e7fe17b8882a52" level="file"><did><unittitle>Republic Steel Corporation, Case No. 5-D-486, File No. 111-4748-D</unittitle><unitdate datechar="creation" normal="1944/1944">1944</unitdate><container id="aspace_df99f837769ada658493318a03478050" label="unspecified" type="box">1</container><container id="aspace_66d9d74041c1c64f92c590473704ba21" parent="aspace_df99f837769ada658493318a03478050" type="folder">15</container></did></c01><c01 id="aspace_540df8c61f5fb94a54c660da8456543c" level="file"><did><unittitle>Timken Roller Bearing Company, Case No. 14-363</unittitle><unitdate datechar="creation" normal="1944/1944">1944</unitdate><container id="aspace_e9984c1c51d7c78b8dc5e241c25fc633" label="unspecified" type="box">1</container><container id="aspace_89a801391ce61e1f94a6a77cb15b149b" parent="aspace_e9984c1c51d7c78b8dc5e241c25fc633" type="folder">16</container></did></c01><c01 id="aspace_6f4a34018d4c359d8b8fcf889bfefac4" level="file"><did><unittitle>United Steel Workers of America, Case No. 111-6230-D, 14-1 et al</unittitle><unitdate datechar="creation" normal="1944/1944">1944</unitdate><container id="aspace_0df3b91e49405f6263da9ab3f53962d1" label="unspecified" type="box">1</container><container id="aspace_e222837e1bac5eaf3599451f94d3245a" parent="aspace_0df3b91e49405f6263da9ab3f53962d1" type="folder">17</container></did></c01><c01 id="aspace_bafed083c38d6b1318b66b911051b62c" level="file"><did><unittitle>United Steelworkers of America, Case No. 111-6230-D; 14-10;14-23;14-72;14-107</unittitle><unitdate datechar="creation" normal="1944/1944">1944</unitdate><container id="aspace_b804e7212c4bfbb1ff552eeaacebc07f" label="unspecified" type="box">1</container><container id="aspace_9ceaff63b778b787a88ca944a1d3253e" parent="aspace_b804e7212c4bfbb1ff552eeaacebc07f" type="folder">18</container></did></c01><c01 id="aspace_75859b059215c3b10521f003a9383fbf" level="file"><did><unittitle>United Steelworkers of America, Case No. 111-6230-D 14-24; 14-322; 14-338; 14-229</unittitle><unitdate datechar="creation" normal="1944/1944">1944</unitdate><container id="aspace_1c555a17494d76a3cdc2c5deba2103b9" label="unspecified" type="box">1</container><container id="aspace_03b22ae0e6481dc1223f67720b18fa5d" parent="aspace_1c555a17494d76a3cdc2c5deba2103b9" type="folder">19</container></did></c01><c01 id="aspace_016f8972ee9ad9dfc9704c9fd6d7fbb5" level="file"><did><unittitle>National Labor Relations Board, Emily C. Brown</unittitle><unitdate datechar="creation" normal="1943/1944" type="inclusive">1943-1944</unitdate><container id="aspace_40d749d6e4d0be87de6f654e52292e93" label="unspecified" type="box">1</container><container id="aspace_ec4e2e60dfb91587c9bfb15182dbe75d" parent="aspace_40d749d6e4d0be87de6f654e52292e93" type="folder">20</container></did><scopecontent id="aspace_4279dc9e1bc303c361cc6cd92b802e8d"><head>Scope and Contents</head><p>Folder 1 of 2</p></scopecontent></c01><c01 id="aspace_1d2ec9c121eab8b4a8f1cf19096cc78e" level="file"><did><unittitle>National Labor Relations Board, Emily C. Brown</unittitle><unitdate datechar="creation" normal="1943/1944" type="inclusive">1943-1944</unitdate><container id="aspace_d3a0eb941c316e064dc9590cfc845903" label="unspecified" type="box">1</container><container id="aspace_96050c6abe22ba6cab75723d90ff19b2" parent="aspace_d3a0eb941c316e064dc9590cfc845903" type="folder">21</container></did><scopecontent id="aspace_5ea0cd3c180d20cd09ae46afb3b5afba"><head>Scope and Contents</head><p>Folder 2 of 2</p></scopecontent></c01><c01 id="aspace_6667af53c5a0bbc024b1b9e3e0855cd4" level="file"><did><unittitle>Burnside Steel Foundry Company, Case No. 111-3249-D</unittitle><unitdate datechar="creation" normal="1945/1945">1945</unitdate><container id="aspace_687b0802d6f525c1319172a921d28698" label="unspecified" type="box">1</container><container id="aspace_e11cd3f509f29bd20c2b61a53480811f" parent="aspace_687b0802d6f525c1319172a921d28698" type="folder">22</container></did><scopecontent id="aspace_b8b54301ebf549e565286c2c45284683"><head>Scope and Contents</head><p>June 15 1945</p></scopecontent></c01><c01 id="aspace_7afa09b2f6ac0a88508ba05bc7097ab8" level="file"><did><unittitle>Butler Brothers et al, Case No. 111-6230-D</unittitle><unitdate datechar="creation" normal="1945/1945">1945</unitdate><container id="aspace_d445817a891579ab2a9c88b4684f6f4a" label="unspecified" type="box">1</container><container id="aspace_54db80f613a90f009e82ed1101232f86" parent="aspace_d445817a891579ab2a9c88b4684f6f4a" type="folder">23</container></did></c01><c01 id="aspace_ddb5dda708d9fb579be83372d48779cf" level="file"><did><unittitle>Carnegie-Illinois Steel Corporation, Case No. 111-7404-D</unittitle><unitdate datechar="creation" normal="1945/1945">1945</unitdate><container id="aspace_787721e69b63a08841755bef5cc65b4b" label="unspecified" type="box">1</container><container id="aspace_cac1de83d8c5c954aaa2cb34241e5cd5" parent="aspace_787721e69b63a08841755bef5cc65b4b" type="folder">24</container></did></c01><c01 id="aspace_19b2fdc57e629b0e8824ee3bb356d75e" level="file"><did><unittitle>Jones and Laughlin Steel Corporation, Case No. 111-6230-D</unittitle><unitdate datechar="creation" normal="1945/1945">1945</unitdate><container id="aspace_2aabe4587e2ad86b1cc4e33126c8f246" label="unspecified" type="box">1</container><container id="aspace_45206c147dccc1a9cb336cd930441faf" parent="aspace_2aabe4587e2ad86b1cc4e33126c8f246" type="folder">25</container></did><scopecontent id="aspace_03b746f65901f064bb4b8f538a76b9ac"><head>Scope and Contents</head><p>March 7 1945</p></scopecontent></c01><c01 id="aspace_25085960fe6a5cdde872f1f8665621a3" level="file"><did><unittitle>Pittsburgh Plate Glass Company, et al, Case No. 111-15751-D</unittitle><unitdate datechar="creation" normal="1945/1945">1945</unitdate><container id="aspace_e60d0a57f007b09ed347491b27e35fbb" label="unspecified" type="box">2</container><container id="aspace_6e3540754f5e9ae82b66afef2fb2d69a" parent="aspace_e60d0a57f007b09ed347491b27e35fbb" type="folder">1</container></did></c01><c01 id="aspace_3997072fe565097de83700eea6407d8e" level="file"><did><unittitle>Pittsburgh Plate Glass Company, Case No. 8-L-1720</unittitle><unitdate datechar="creation" normal="1945/1945">1945</unitdate><container id="aspace_ca9d45d1aa248fbc65c7291fa708fb39" label="unspecified" type="box">2</container><container id="aspace_1da8743d515f749117b5cff59d119023" parent="aspace_ca9d45d1aa248fbc65c7291fa708fb39" type="folder">2</container></did></c01><c01 id="aspace_3a1282ce06b4354fa8402ad0ddc7885a" level="file"><did><unittitle>Truscon Steel</unittitle><unitdate datechar="creation" normal="1945/1945">1945</unitdate><container id="aspace_88d2cda4d6c62480a78621473eecb03e" label="unspecified" type="box">2</container><container id="aspace_2c3e2770fedbcdcd97e091a482d7e22d" parent="aspace_88d2cda4d6c62480a78621473eecb03e" type="folder">3</container></did></c01><c01 id="aspace_add1f697455a729344c08e7e5253af0d" level="file"><did><unittitle>Northwest Airlines, Vol. 1 and 2</unittitle><unitdate datechar="creation" normal="1946/1946">1946</unitdate><container id="aspace_d99492ac131710e465b1464be32f26c0" label="unspecified" type="box">2</container><container id="aspace_91225f4586cbe201880055f733b883f1" parent="aspace_d99492ac131710e465b1464be32f26c0" type="folder">4</container></did></c01><c01 id="aspace_2c9891d970ecb85b2fe74160ca33a6b0" level="file"><did><unittitle>Northwest Airlines, Vol. 3 and 4</unittitle><unitdate datechar="creation" normal="1946/1946">1946</unitdate><container id="aspace_fe28ec7f7d1a055446cd6de1f9e4c35a" label="unspecified" type="box">2</container><container id="aspace_b044d304b035b0385946b3276cb3a435" parent="aspace_fe28ec7f7d1a055446cd6de1f9e4c35a" type="folder">5</container></did></c01><c01 id="aspace_75c867c68512dcb4f71e98069016f0c4" level="file"><did><unittitle>Northwest Airlines, Vol. 5 and 6</unittitle><unitdate datechar="creation" normal="1946/1946">1946</unitdate><container id="aspace_6d9e2e469451e6747c9c16b4f8a81dbd" label="unspecified" type="box">2</container><container id="aspace_c09a0928b779eb2cbc450fdb5436f937" parent="aspace_6d9e2e469451e6747c9c16b4f8a81dbd" type="folder">6</container></did></c01><c01 id="aspace_49ad701c879518ffba5aa8d6b29a53a4" level="file"><did><unittitle>Northwest Airlines, Vol. 7 and 8</unittitle><unitdate datechar="creation" normal="1946/1946">1946</unitdate><container id="aspace_dc5bb3bf2c44b33e28cb52e10a42663f" label="unspecified" type="box">2</container><container id="aspace_85d5d7c4b90a06384d579f19a097706d" parent="aspace_dc5bb3bf2c44b33e28cb52e10a42663f" type="folder">7</container></did></c01><c01 id="aspace_ea1e7eff32d3abe07621a35d356cbb72" level="file"><did><unittitle>Northwest Airlines, Vol. 9 and 10</unittitle><unitdate datechar="creation" normal="1946/1946">1946</unitdate><container id="aspace_50387789150491ae1d5c68282206fc30" label="unspecified" type="box">2</container><container id="aspace_2044b763a97a5a840fa64c3d6b7fa100" parent="aspace_50387789150491ae1d5c68282206fc30" type="folder">8</container></did></c01><c01 id="aspace_038dcc8ccfb681df9f170a0dc8207c64" level="file"><did><unittitle>Northwest Airlines, Vol. 11 and 12</unittitle><unitdate datechar="creation" normal="1946/1946">1946</unitdate><container id="aspace_afcaf9c3ee506372d62c4b7bd77b40df" label="unspecified" type="box">2</container><container id="aspace_ac7d400560a2c4f9c4709d9ee5888a06" parent="aspace_afcaf9c3ee506372d62c4b7bd77b40df" type="folder">9</container></did></c01><c01 id="aspace_349b535011e3776d37356a22679b0af9" level="file"><did><unittitle>Northwest Airlines, Vol. 13 and 14</unittitle><unitdate datechar="creation" normal="1946/1946">1946</unitdate><container id="aspace_8c9785af45bd03bcc87c72fef498175b" label="unspecified" type="box">2</container><container id="aspace_aefa7955f2753776c54a9b7e2e7060d8" parent="aspace_8c9785af45bd03bcc87c72fef498175b" type="folder">10</container></did></c01><c01 id="aspace_dc148dec2531c8ec9c41f494726a17cf" level="file"><did><unittitle>Report to the President by the Emergency Board appointed September 18, 1946</unittitle><unitdate datechar="creation" normal="1946/1946">1946</unitdate><container id="aspace_c12841413a8e340d58d3b2d95959c9c5" label="unspecified" type="box">2</container><container id="aspace_cc4bd32405a1f9d26201c6fa4f67f9bc" parent="aspace_c12841413a8e340d58d3b2d95959c9c5" type="folder">11</container></did><scopecontent id="aspace_bf62a27acbfdf8d5eaf4b3330b2cc0e5"><head>Scope and Contents</head><p>October 7 1946</p></scopecontent></c01><c01 id="aspace_53dc93adb010468dc6c56ab06f3405eb" level="file"><did><unittitle>Foreman's Association of America</unittitle><container id="aspace_bdc2e1ac1067cfaae0a11f44d3a4d039" label="unspecified" type="box">2</container><container id="aspace_64124065d95392636fb4cbf8dca5e2f2" parent="aspace_bdc2e1ac1067cfaae0a11f44d3a4d039" type="folder">12</container></did></c01><c01 id="aspace_cfb2137e743d4d59fae7f0d44dcfa3a0" level="file"><did><unittitle>Summary of Significant Board Decisions, Complete Set 1-18, Vol. 1</unittitle><unitdate datechar="creation" normal="1943/1944" type="inclusive">1943-1944</unitdate><container id="aspace_56b60bcea9a0451f01d245eaa0f7c909" label="unspecified" type="box">2</container><container id="aspace_0ecf4e2f5c1545a9bf76f0ae0dac174e" parent="aspace_56b60bcea9a0451f01d245eaa0f7c909" type="folder">13</container></did><scopecontent id="aspace_a80302c0f98539ae532afdb9d58fede9"><head>Scope and Contents</head><p>Folder 1 of 2</p></scopecontent></c01><c01 id="aspace_012bda62a72563fb46ae318c28fb434c" level="file"><did><unittitle>Summary of Significant Board Decisions, Complete Set No. 1-18, Vol. 1</unittitle><unitdate datechar="creation" normal="1943/1945" type="inclusive">1943-1945</unitdate><container id="aspace_aa7c4e23eaa698b0310f70bcfe945a67" label="unspecified" type="box">2</container><container id="aspace_0ba59bd76ac685971f25ebdff7713b2f" parent="aspace_aa7c4e23eaa698b0310f70bcfe945a67" type="folder">14</container></did><scopecontent id="aspace_a18158ddfe1385c49ee05771e371f9bb"><head>Scope and Contents</head><p>Folder 2 of 2</p></scopecontent></c01><c01 id="aspace_e2aef3346ee28c07e55d9a1a40416f9d" level="file"><did><unittitle>Summary of Significant Board Decisions, Complete Set No. 1-18, Vol. 2</unittitle><unitdate datechar="creation" normal="1943/1945" type="inclusive">1943-1945</unitdate><container id="aspace_be872c4b22e8353ade8ea83782ee3ea5" label="unspecified" type="box">2</container><container id="aspace_83e01e172098b687ef56fcc6d8aacae0" parent="aspace_be872c4b22e8353ade8ea83782ee3ea5" type="folder">15</container></did><scopecontent id="aspace_07b6d8f0cc60052345789098f9735c50"><head>Scope and Contents</head><p>Folder 1 of 2</p></scopecontent></c01><c01 id="aspace_016d1cf68b57354dbf24b6bcc67e769a" level="file"><did><unittitle>Summary of Significant Board Decisions, Complete Set No. 1-18, Vol. 2</unittitle><unitdate datechar="creation" normal="1943/1945" type="inclusive">1943-1945</unitdate><container id="aspace_be496d434932146dff00225ba370e8be" label="unspecified" type="box">2</container><container id="aspace_8c43e09fb757138e9f4501047d16077b" parent="aspace_be496d434932146dff00225ba370e8be" type="folder">16</container></did><scopecontent id="aspace_47bd5e6d84c782ebac41de7dc98c3830"><head>Scope and Contents</head><p>Folder 2 of 2</p></scopecontent></c01><c01 id="aspace_26e738f9315691eb9c7755bb1d740686" level="file"><did><unittitle>War Labor Board Newsletter</unittitle><unitdate datechar="creation" normal="1943/1943">1943</unitdate><container id="aspace_3cd7afc8dcb6c5613d2613dfff441cc0" label="unspecified" type="box">2</container><container id="aspace_90537b3a75e9003bc74672a154d0e8ef" parent="aspace_3cd7afc8dcb6c5613d2613dfff441cc0" type="folder">17</container></did><scopecontent id="aspace_89dbd725efa11a3fc06401bf4f35b571"><head>Scope and Contents</head><p>Folder 1 of 4</p></scopecontent></c01><c01 id="aspace_002237964af80fb2e8a9797552e8db3e" level="file"><did><unittitle>War Labor Board Newsletter</unittitle><unitdate datechar="creation" normal="1943/1943">1943</unitdate><container id="aspace_4b8537430cf5c75cc2322d3b8da6c8fe" label="unspecified" type="box">2</container><container id="aspace_ebd581e00d96e975a21a46f3cc4b8358" parent="aspace_4b8537430cf5c75cc2322d3b8da6c8fe" type="folder">18</container></did><scopecontent id="aspace_4cc34dc10715937a41d9e3ac1b9df5bb"><head>Scope and Contents</head><p>Folder 2 of 4</p></scopecontent></c01><c01 id="aspace_44ab5b901c8de44b38142d0d00e5b905" level="file"><did><unittitle>War Labor Board Newsletter</unittitle><unitdate datechar="creation" normal="1944/1944">1944</unitdate><container id="aspace_205ea78c4361209956115c77379f27e0" label="unspecified" type="box">2</container><container id="aspace_1e0576954612c9b4045fccfc2f32511f" parent="aspace_205ea78c4361209956115c77379f27e0" type="folder">19</container></did><scopecontent id="aspace_57f0a84a676ec486468ac3303f0c6b93"><head>Scope and Contents</head><p>Folder 3 of 4</p></scopecontent></c01><c01 id="aspace_25eb3d052883150bff153a538dcf171d" level="file"><did><unittitle>War Labor Board Newsletter</unittitle><unitdate datechar="creation" normal="1944/1945" type="inclusive">1944-1945</unitdate><container id="aspace_7d74a1841f09768cb78ddde9fa857638" label="unspecified" type="box">2</container><container id="aspace_f28c5f14ddfcd2ee96da03c076f413ea" parent="aspace_7d74a1841f09768cb78ddde9fa857638" type="folder">20</container></did><scopecontent id="aspace_53ff462c0a42b81253b15a9c7c086dc6"><head>Scope and Contents</head><p>Folder 4 of 4</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

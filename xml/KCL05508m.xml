@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05508m</eadid><filedesc><titlestmt><titleproper>Tanner, Hilda Hubert Papers <num>5508m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 14, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:49:34 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Hilda Hubert Tanner Papers</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Tanner, Hilda Hubert</persname>
+    </origination>
+    <unitid>5508m</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 folders</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="0000/2999" type="inclusive">0000-2999</unitdate>
+    <physdesc id="aspace_350fd229683e4957cf8596410c14799c" label="Quantity:">1 file folder.</physdesc>
+    <physdesc id="aspace_08e819368e1ddad956d1a2e94fe4c366" label="Forms of Material:">Papers (documents).</physdesc>
+    <abstract id="aspace_e8214156e3e19687c686167871b51771">Photocopies of labor essays and songs.</abstract>
+    <langmaterial id="aspace_2f0216411fa4875bf8c9f003220a8433">Collection material in English</langmaterial>
+    <unitid type="bibid">5658197</unitid>
+  </did>
+  <odd id="aspace_d390f7d44baca1c03182c4e06d2b07bd">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 21, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 14, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <scopecontent id="aspace_e893ef971dc19c5b7d5c8305b0952b80">
+    <head>Scope and Contents</head>
+<p>Photocopies of essays and songs on work in Fall River an Lowell, Massachusetts; Bennington, Vermont; Wilder and Soddy, Tennessee; and Hyden, Kentucky.</p>  </scopecontent>
+  <accessrestrict id="aspace_f9e96779df46556324d4f39946779591">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_8ecd963dbfba1767b1517cee0948c3b7">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_f778129f675e64d608b5a3ee295431d8">
+    <head>Preferred Citation</head>
+<p>Hilda Hubert Tanner Papers #5508m. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Clothing workers -- Labor unions -- United States.</subject>
+    <subject source="ingest">Strikes and lockouts -- Clothing trade -- United States.</subject>
+    <persname audience="internal" source="ingest">Tanner, Hilda Hubert</persname>
+  </controlaccess>
+  <unitid type="bibid">5658197</unitid>
+  <dsc><c01 id="aspace_405fcc23f1470381fb39364545c5c64a" level="file"><did><unittitle>Photocopies of labor essays and songs</unittitle><container id="aspace_e5cc1077f7c23993dd9f8e7573978064" label="unspecified" type="box">1</container></did><scopecontent id="aspace_5a6f6efd2035d2e75cf9d2a4fa67147b"><head>Scope and Contents</head><p>Undated</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

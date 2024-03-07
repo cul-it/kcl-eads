@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05250</eadid><filedesc><titlestmt><titleproper>William Goff Caples Speeches <num>5250</num></titleproper><author>Compiled by R. Miles</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 22, 2017</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:39:45 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>William Goff Caples Speeches</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Caples, William Goff</persname>
+    </origination>
+    <unitid>5250</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1950/1968" type="inclusive">1950-1968</unitdate>
+    <physdesc id="aspace_15861212bb5ba64564be59e5c2df80f4" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_91acfd92a75d5b8f5fc2e5b5da1580f9" label="Forms of Material:">Speeches (documents), transcripts .</physdesc>
+    <abstract id="aspace_1872eae9b99f0390366567a4808a623a">Consists chiefly of copies of speeches made by Caples (few originals, few reprints) before workingmen's associations, management conferences, civic and social groups, and educational institutes in his capacity as an Inland Steel Company executive.</abstract>
+    <langmaterial id="aspace_e1d878f61bbe7b946b07693d7bbd84a5">Collection material in English</langmaterial>
+    <unitid type="bibid">2293768</unitid>
+  </did>
+  <odd id="aspace_4195f8bcf16b49f22cdd773f74dba6b8">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>R. Miles, April 28, 2003</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, February 22, 2017</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_181e4a70e565c7e2788432b1aca4fe0a">
+    <head>Biographical / Historical</head>
+<p>William Goff Caples was born in Pittsburgh October 4, 1909. He graduated from Kenyon College in 1930 and from Northwestern University Law School in 1933. He was admitted to the Illinois bar in 1933 and practiced in Chicago from 1933 to 1938.</p><p> From 1938 to 1942 he was general attorney to the Continental Casualty Company. He served overseas with the Army Engineer Corps during the war and was discharged to the Reserves as Lt.Col. in 1946.</p><p> He was manager of industrial relations at Inland Steel Company from 1946-1950, president and director of its subsidiary, Inland Steel Container Company from 1950-53, returning to Inland Steel Company as vice president in 1953.</p><p> He has been president of the Chicago Board of Education and of the United Charities of Chicago. Mr. Caples is very active in many industrial relations and humanitarian groups. His present activities include memberships in: the Advisory Council of the New York State School of Industrial and Labor Relations, the American Iron and Steel Institute, American Management Association, Industrial Relations Research Association, and Industrial Relations Association of Chicago.</p><p> His publications are: "The Traditional Role of Management," Current History, July 1965; "The Economy, Our Government and Collective Bargaining," Reporting, March 1965; "A Management Viewpoint," Annals of the American Academy of Political and Social Science, January 1961. His interests have been: Collective Bargaining, Personnel Administration and Industrial Sociology.</p><p> In September 1968 he became president of Kenyon College in Gambier, Ohio.</p><p> Sources: Who's Who in America, 1968-69;' Membership Directory, 1966 of the Industrial Relations Research Association and the Wall Street Journal.</p>  </bioghist>
+  <scopecontent id="aspace_b228c63d5f427ced891f01dc28c4665a">
+    <head>Scope and Contents</head>
+<p>The speeches deal with employee benefits plans, employment security, collective bargaining, industrial management, economic education, women workers, training, staffing and minority workers, frustration, pensions, labor and materials security, social problems, race relations, social change, middle management, social security, automation, collectivism, union mergers, recruitment, management development, management policy, education and opportunity, industrial relations and public opinion, female education, labor education, the iron and steel industry, labor-management cooperation, union policy, labor legislation, technological changes, executive ability, prejudice, equal employment opportunity, job choice, management responsibility, education policy, unemployment, industrial economics, personnel management, discrimination in employment, older workers, retirement, on-the-job training, and human, industrial, and public relations.</p>  </scopecontent>
+  <accessrestrict id="aspace_dd02ca33b58fcd1e469d7d82f17e5165">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_538fef5b466b7fe9a0a8b495ceba95b7">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_83a483bc71ae22a5459fc31be4c81251">
+    <head>Preferred Citation</head>
+<p>William Goff Caples Speeches #5250. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Age and employment--United States.</subject>
+    <subject source="ingest">Automation--Social aspects--United States.</subject>
+    <subject source="ingest">Collective bargaining--United States.</subject>
+    <subject source="ingest">Discrimination in employment--United States.</subject>
+    <subject source="ingest">Educational equalization--United States.</subject>
+    <subject source="ingest">Employee fringe benefits--United States.</subject>
+    <subject source="ingest">Employees--Training of--United States.</subject>
+    <subject source="ingest">Executives--Training of--United States.</subject>
+    <subject source="ingest">Industrial management--United States.</subject>
+    <subject source="ingest">Job security--United States.</subject>
+    <subject source="ingest">Labor laws and legislation--United States.</subject>
+    <subject source="ingest">Middle managers--United States.</subject>
+    <subject source="ingest">Minorities--Employment--United States.</subject>
+    <subject source="ingest">Personnel management--United States.</subject>
+    <subject source="ingest">Psychology, Industrial--United States.</subject>
+    <subject source="ingest">Public relations--United States.</subject>
+    <subject source="ingest">Retirement--United States.</subject>
+    <subject source="ingest">Social security--United States.</subject>
+    <subject source="ingest">Technological innovations--United States.</subject>
+    <subject source="ingest">Unemployment--United States.</subject>
+    <subject source="ingest">Vocational guidance--United States.</subject>
+    <subject source="ingest">Women--Education--United States.</subject>
+    <subject source="ingest">Women--Employment--United States.</subject>
+    <subject source="ingest">Executives.</subject>
+    <subject source="ingest">Personnel directors.</subject>
+    <subject source="ingest">Industrial relations. United States. Public opinion.</subject>
+    <subject source="ingest">Labor-management cooperation. United States.</subject>
+    <subject source="ingest">Steel industry. United States.</subject>
+    <subject source="ingest">Trade-union merger. United States.</subject>
+    <subject source="ingest">Workers' education. United States.</subject>
+    <subject source="ingest">United States. Race relations.</subject>
+    <subject source="ingest">United States. Social conditions.</subject>
+    <persname audience="internal" source="ingest">Caples, William Goff, 1909-</persname>
+    <corpname audience="internal" source="ingest">Inland Steel Company</corpname>
+  </controlaccess>
+  <unitid type="bibid">2293768</unitid>
+  <dsc><c01 id="aspace_0ee6e9cdc34971b3ea24d661636b2acd" level="file"><did><unittitle>Speches</unittitle><unitdate datechar="creation" normal="1950/1951" type="inclusive">1950-1951</unitdate><container id="aspace_b0b5a72ae33a3f6c4c8dc3fdbd34e065" label="unspecified" type="box">1</container><container id="aspace_5972f033274410a5e7e1a28afeac8222" parent="aspace_b0b5a72ae33a3f6c4c8dc3fdbd34e065" type="folder">1</container></did></c01><c01 id="aspace_6e8d58b9b98046ac0086c11d563c6dc3" level="file"><did><unittitle>Speches</unittitle><unitdate datechar="creation" normal="1952/1952">1952</unitdate><container id="aspace_ff1e40a5701decbcf2fa80c25c7c2418" label="unspecified" type="box">1</container><container id="aspace_83f5c965c3c317e03ce269f859806cea" parent="aspace_ff1e40a5701decbcf2fa80c25c7c2418" type="folder">2</container></did></c01><c01 id="aspace_b41ea0298e3e6f04b8acc08e4d7f1c6b" level="file"><did><unittitle>Speches</unittitle><unitdate datechar="creation" normal="1953/1954" type="inclusive">1953-1954</unitdate><container id="aspace_ef520d2bd73fe8ff5fd5ff40519da86e" label="unspecified" type="box">1</container><container id="aspace_545310cdc02f7b47be40eddef0a158bc" parent="aspace_ef520d2bd73fe8ff5fd5ff40519da86e" type="folder">3</container></did></c01><c01 id="aspace_02d1e3c4cd3623596c760f8b07ff7aeb" level="file"><did><unittitle>Speches</unittitle><unitdate datechar="creation" normal="1955/1955">1955</unitdate><container id="aspace_68135829f6ef6eabb28af15f743bde64" label="unspecified" type="box">1</container><container id="aspace_96e86c1b44dff1360da364c808fa413c" parent="aspace_68135829f6ef6eabb28af15f743bde64" type="folder">4</container></did></c01><c01 id="aspace_e2c8393a8eefa29b477367c79f6304c2" level="file"><did><unittitle>Speches</unittitle><unitdate datechar="creation" normal="1956/1956">1956</unitdate><container id="aspace_6f074d1e74f2da041739d0f37d7a695a" label="unspecified" type="box">1</container><container id="aspace_6c6472da07e83425a9af4bc7a68f9691" parent="aspace_6f074d1e74f2da041739d0f37d7a695a" type="folder">5</container></did></c01><c01 id="aspace_0c9daa84fa15a4706959a379e1cd6624" level="file"><did><unittitle>Speches</unittitle><unitdate datechar="creation" normal="1957/1958" type="inclusive">1957-1958</unitdate><container id="aspace_1f04d2c2c4363fdb32837eb7972e357f" label="unspecified" type="box">1</container><container id="aspace_49b5023a2fa84c93e055eefba07add13" parent="aspace_1f04d2c2c4363fdb32837eb7972e357f" type="folder">6</container></did></c01><c01 id="aspace_65ad2fce0de2eab19d866465d8b768c6" level="file"><did><unittitle>Speches</unittitle><unitdate datechar="creation" normal="1959/1959">1959</unitdate><container id="aspace_660b9c0813cdde4ba9a82138ca0817a6" label="unspecified" type="box">1</container><container id="aspace_68e561250679b067bd3ad38834957943" parent="aspace_660b9c0813cdde4ba9a82138ca0817a6" type="folder">7</container></did></c01><c01 id="aspace_db1dad911c5867c8fe0b9f21d2415928" level="file"><did><unittitle>Speches</unittitle><unitdate datechar="creation" normal="1960/1960">1960</unitdate><container id="aspace_3f8a6ca4cc5f25f6a1a8ab58b9bff9c0" label="unspecified" type="box">2</container><container id="aspace_8a750f39bba8fb90304a02ec24de2bbd" parent="aspace_3f8a6ca4cc5f25f6a1a8ab58b9bff9c0" type="folder">1</container></did></c01><c01 id="aspace_0a9a50b649ad6eadeb3802e6e83154a3" level="file"><did><unittitle>Speches</unittitle><unitdate datechar="creation" normal="1961/1961">1961</unitdate><container id="aspace_f927e4bd11b6ed2b334c1a19fccb4b7d" label="unspecified" type="box">2</container><container id="aspace_93845748f35ce8a32813275bf3a4755a" parent="aspace_f927e4bd11b6ed2b334c1a19fccb4b7d" type="folder">2</container></did></c01><c01 id="aspace_b636527c765ee243be55eeaf7346814f" level="file"><did><unittitle>Speches</unittitle><unitdate datechar="creation" normal="1962/1962">1962</unitdate><container id="aspace_cdef6c80b672c9a6ca32e079b3e0993c" label="unspecified" type="box">2</container><container id="aspace_2db7a7b7a433ab9b0c8be8f7f7d9acbf" parent="aspace_cdef6c80b672c9a6ca32e079b3e0993c" type="folder">3</container></did></c01><c01 id="aspace_4d6b3dce9944a31e4e04d1d226e80a25" level="file"><did><unittitle>Speches</unittitle><unitdate datechar="creation" normal="1963/1963">1963</unitdate><container id="aspace_530cab37e8ad90a667600e2bbbf24f10" label="unspecified" type="box">2</container><container id="aspace_087af5fcd941b6c5c5d2a6a3d8f28981" parent="aspace_530cab37e8ad90a667600e2bbbf24f10" type="folder">4</container></did></c01><c01 id="aspace_aca8c867ff572cb5cf29e15ef228e719" level="file"><did><unittitle>Speches</unittitle><unitdate datechar="creation" normal="1964/1964">1964</unitdate><container id="aspace_28555117f22b8b4037adbadec92bc65c" label="unspecified" type="box">2</container><container id="aspace_586176d0e0d3fca94c1c5cc3316d9062" parent="aspace_28555117f22b8b4037adbadec92bc65c" type="folder">5</container></did></c01><c01 id="aspace_18d55a113fdb664441261f197519fd68" level="file"><did><unittitle>Speches</unittitle><unitdate datechar="creation" normal="1965/1965">1965</unitdate><container id="aspace_b602372945127bc8ed34d88eccbeb56d" label="unspecified" type="box">2</container><container id="aspace_adafe6ef357c082111799f976a54ca2c" parent="aspace_b602372945127bc8ed34d88eccbeb56d" type="folder">6</container></did></c01><c01 id="aspace_a241bcea4b2196d9465ffcac0e2ec767" level="file"><did><unittitle>Speches</unittitle><unitdate datechar="creation" normal="1966/1966">1966</unitdate><container id="aspace_5f17d5a1992c9625ad48c6cf4563ce71" label="unspecified" type="box">2</container><container id="aspace_75eaa0ef295191c33e5b216d9aa2a541" parent="aspace_5f17d5a1992c9625ad48c6cf4563ce71" type="folder">7</container></did></c01><c01 id="aspace_fdb9c5d073f11531d9c376c0f3e63e9e" level="file"><did><unittitle>Speches</unittitle><unitdate datechar="creation" normal="1967/1968" type="inclusive">1967-1968</unitdate><container id="aspace_c820bf3986cd214ba2e9a9294772ab2b" label="unspecified" type="box">2</container><container id="aspace_bd18547d73171656f280fcf610a3e21c" parent="aspace_c820bf3986cd214ba2e9a9294772ab2b" type="folder">8</container></did></c01></dsc>
+</archdesc>
+</ead>

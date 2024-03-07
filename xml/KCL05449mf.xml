@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05449mf</eadid><filedesc><titlestmt><titleproper>J. F. Miller "Report to Joseph Wood, General Manager, Pennsylvania Lines West of Pittsburgh, on the 1894 Strike of the American Railroad Union" (222 p) on Microfilm <num>5449 mf</num></titleproper><author>Compiled by E. Parker</author><sponsor>This collection was processed with the help of generous funding from the National Historical Publications and Records Commission (NHPRC).</sponsor></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 08, 2017</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:47:14 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>J. F. Miller "Report to Joseph Wood, General Manager, Pennsylvania Lines West of Pittsburgh, on the 1894 Strike of the American Railroad Union" (222 p) on Microfilm</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Miller, J. F.</persname>
+    </origination>
+    <unitid>5449 mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.22 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1894/1894">1894</unitdate>
+    <physdesc id="aspace_66d514244806aa59b8a95866310e6c6a" label="Quantity:">2 microfilm reels</physdesc>
+    <physdesc id="aspace_df626728e7e7e1af2ef87fd3ab14c73a" label="Forms of Material:">Records (documents), microfilm.</physdesc>
+    <abstract id="aspace_21ad5f841a6cb520f86c327b9288e429">Two hundred and twenty-two page report on the 1894 Pullman Strike, written for Joseph Wood, General Manager of the Pennsylvania Lines West of Pittsburgh, South West System, by J. F. Miller, General Superintendent of the same.</abstract>
+    <langmaterial id="aspace_e28868da0b1b6a034d058eb706c8c537">Collection material in English</langmaterial>
+    <unitid type="bibid">8216734</unitid>
+  </did>
+  <odd id="aspace_63da09f1d886acc32159b6f27f58a424">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>E. Parker, August 08, 2017</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>E. Parker, August 08, 2017</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_aba0b949946194f259242a9f86a768cb">
+    <head>Biographical / Historical</head>
+<p>The Pullman Strike was a nationwide railroad strike and boycott that took place from May 11, 1894 to August 1894. </p><p> The Pullman Palace Car Company built railroad cars at its main factory just south of Chicago, Illinois, in the company town of Pullman. The majority of Pullman employees lived in the company town. As a company town, all housing, shops, churches, libraries, and other civic institutions were owned by the Pullman Company, which set the rates of rent, groceries, and other amenities. After the Panic of 1893 and the ensuing financial depression, the Pullman Company faced decreased demand for their product and in response slashed wages by about 25 percent while making no changes to the cost of living for their employees. The employees, fearing starvation, approached the owner of the company, George Pullman, to try to negotiate a solution. However, Mr. Pullman declined to make any changes or to engage in arbitration. In response, the Pullman employees walked off the job on May 11, 1894. Although only about 35 percent of the Pullman employees were represented by the American Railway Union [ARU] at the time of the walkout, the ARU and its president, Eugene V. Debs, promised to support the Pullman manufacturing workers in any action they took. Notably, the ARU did not extend the same courtesy to the African-American sleeping car porters employed by the Pullman Company. </p><p> To support the Pullman employees who walked off the job, the ARU launched a nationwide boycott in which ARU members refused to run any train containing a Pullman car. By the end of June 1894, over 125,000 railroad workers on 29 different lines had walked off the job. The hope was that the railroad companies would force Pullman to compromise with his employees. Instead, the railroad companies coordinated their response, made sure that every train, passenger or freight, was pulling a Pullman car, and began hiring strikebreakers. </p><p> The ARU members on strike had agreed to continue to operate trains carrying U.S. mail, if there were no Pullman cars attached to the same train. The railroad companies' decision to add a Pullman car to every train meant that U.S. mail was not being delivered, and gave the federal government a pretext to intervene. Additionally, there was mounting public pressure to intervene as the strike and the boycott effectively crippled all railroads west of Chicago and rioting, vandalism, and looting became associated with the actions of the strikers. In early July, President Grover Cleveland sent troops to Chicago to break up the strike. At the same time, Eugene V. Debs was placed under injunction by circuit court judges, preventing him or other union leaders from communicating with their members. Debs, who had been urging restraint and decrying violence to his members, was suddenly unable to legally communicate with them and dissuade them from rash actions. </p><p> The arrival of the federal troops in Chicago on July 3, 1894 infuriated the strikers, and they and their sympathizers responded by destroying railroad property, overturning railcars, and creating barriers to block the troops from reaching the train yards. Violence exploded in the south side of Chicago, and at rail yards around the country, as the strikers and the federal troops clashed. Thirty strikers were killed, fifty-seven were wounded, over $80 million in property damage was caused, and the strikers had lost more than $1 million in wages. </p><p> Thanks to the intervention of the federal government, the strike was effectively broken by mid-July, and the Pullman employees returned to their jobs in August after agreeing to sign a pledge that they would never again try to join a union.</p>  </bioghist>
+  <scopecontent id="aspace_e3f3c7468ff272b5e189d66433e4bb79">
+    <head>Scope and Contents</head>
+<p>Inclusive date range: 1894 </p><p> Bulk dates: 1894 </p><p> This collection consists of the microfilm copy of a detailed report on the Pullman Strike of 1894. It includes an introductory analysis of Eugene V. Debs, George W. Howard, and a history of the American Railway Union. The report also recounts the history of the events preceding the strike and relates a day-by-day narrative of the strike. The report discusses officers and employees who were prominent in serving the company during the strike. Finally, the report offers a statistical analysis of the events, the strike's effect on business, and an essay discussing possible long-term consequences of the strike. This report was written on behalf of a railroad company, so there is a strong anti-labor bias throughout the report. </p><p> The microfilm has an Analytical Table of Contents on pp. i-v and an Index to Chief Topics on pp. vi-x. </p><p> Introduction, pages 1-22 </p><p> Daily Narrative, pages 23-122 </p><p> Closing Scenes and Incidents, pages 123-134 </p><p> Officers and Employees Prominent in Serving the Company, pages 135-149 </p><p> Statistics, pages 150-194 </p><p> General Remarks, pages 195-222 </p><p> Photographs showing damage to railroad property: </p><p> "28th Street," one photograph following page 100 </p><p> "59th Street Yard," three photographs between pages 126-127</p>  </scopecontent>
+  <processinfo id="aspace_0332b6590a2b8820df1dd9aaca1f2d7f">
+    <head>Processing Information</head>
+<p>A negative copy is available upon request. Collection was microfilmed on July 2, 1974 by Cornell's Photo Services from the original monograph, which was written in 1894.</p>  </processinfo>
+  <accessrestrict id="aspace_b714b3268d6acd78021f8f3401850537">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_4b61506d54afe8655c26c2b9de3e688e">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_eb2d0c6d15189066b4ce02f8c632e9e9">
+    <head>Preferred Citation</head>
+<p>J. F. Miller "Report to Joseph Wood, General Manager, Pennsylvania Lines West of Pittsburgh, on the 1894 Strike of the American Railroad Union" (222 p) on Microfilm #5449 mf. Kheel Center for Labor- Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Railroads--Employees--Labor unions--Pennsylvania</subject>
+    <subject source="ingest">Strikes and lockouts--Railroads</subject>
+    <subject source="ingest">Pullman Strike, 1894</subject>
+    <persname audience="internal" source="ingest">Miller, J. F.</persname>
+    <persname audience="internal" source="ingest">Wood, Joseph</persname>
+    <persname audience="internal" source="ingest">Debs, Eugene V.</persname>
+    <persname audience="internal" source="ingest">Howard, George W.</persname>
+    <corpname audience="internal" source="ingest">American Railway Union</corpname>
+    <corpname audience="internal" source="ingest">Pennsylvania Lines West of Pittsburgh, South West System</corpname>
+  </controlaccess>
+  <unitid type="bibid">8216734</unitid>
+  <dsc><c01 id="aspace_e3e75823da2d42cbebe965b4fd8f7b55" level="file"><did><unittitle>J.F. Miller "1894 Strike of the American Railroad Union"</unittitle><unitid>1</unitid><container id="aspace_7783d9953f85c79f2d8fed1da4fd6d88" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_b048d86c7a7c3c6157993bc3306a61b8"><head>Scope and Contents</head><p>positive</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

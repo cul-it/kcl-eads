@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05454</eadid><filedesc><titlestmt><titleproper>Arbitration Awards in Higher Education <num>5454</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 13, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:47:29 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Arbitration Awards in Higher Education</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Weisberger, June</persname>
+    </origination>
+    <unitid>5454</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1971/1974" type="inclusive">1971-1974</unitdate>
+    <physdesc id="aspace_c064d34a0d878dfd1c1877b356170b04" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_cacc4cbef666a48fddccfedc68c9b5c2" label="Forms of Material:">Records (documents).</physdesc>
+    <abstract id="aspace_776e4875451b9b2099f7f046bc69a194">Arbitration awards in higher education in New York State and Pennsylvania.</abstract>
+    <langmaterial id="aspace_a38bc1013ada9eb391ea5cc95f75b183">Collection material in English</langmaterial>
+    <unitid type="bibid">5690612</unitid>
+  </did>
+  <odd id="aspace_1ec4753bd76a378bbf25a99e6f539797">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, December 03, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 13, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <scopecontent id="aspace_7f921f81fcae0876da65c375eaf4dabd">
+    <head>Scope and Contents</head>
+<p>This collection consists of arbitration awards in higher education in New York State and Pennsylvania. Awards were rendered in cases in the State University of New York (SUNY) System, City University of New York (CUNY), community colleges in New York State, and institutions of higher education in Pennsylvania. The cases date from the early 1970s.</p>  </scopecontent>
+  <accessrestrict id="aspace_f75050c11d1b0f5ca4fa431f7a56cedd">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_8e5991ad3729251c10242815485d2ffe">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_a53a8d68a2dfa6587aa4186e42c58dba">
+    <head>Preferred Citation</head>
+<p>Arbitration Awards in Higher Education #5454. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Arbitration and award--United States.</subject>
+    <subject source="ingest">Arbitration and award--United States--Cases.</subject>
+    <subject source="ingest">Collective labor agreements--Education, Higher--United States.</subject>
+    <persname audience="internal" source="ingest">Weisberger, June.</persname>
+  </controlaccess>
+  <unitid type="bibid">5690612</unitid>
+  <dsc><c01 id="aspace_a0bd240681395179a9c52baa40bef5d4" level="file"><did><unittitle>Awards: SUNY cases</unittitle><unitdate datechar="creation" normal="1973/1974" type="inclusive">1973-1974</unitdate><container id="aspace_ec507cd11b46783d0e07ce0d40faa211" label="unspecified" type="box">1</container><container id="aspace_4a064d77754acd8310df02e1fab7534d" parent="aspace_ec507cd11b46783d0e07ce0d40faa211" type="folder">1</container></did></c01><c01 id="aspace_bf8c6582bcee5232885e62f648ce1462" level="file"><did><unittitle>Awards: CUNY cases</unittitle><unitdate datechar="creation" normal="1971/1973" type="inclusive">1971-1973</unitdate><container id="aspace_eee114694a11469c5bb44eff534a4339" label="unspecified" type="box">1</container><container id="aspace_9716d123551ce5f2d42d5847eeba9617" parent="aspace_eee114694a11469c5bb44eff534a4339" type="folder">2</container></did></c01><c01 id="aspace_8e4b81474c6d71a1ea611f7f9774a76f" level="file"><did><unittitle>Awards: Community Colleges, New York State</unittitle><unitdate datechar="creation" normal="1971/1974" type="inclusive">1971-1974</unitdate><container id="aspace_bb81161306fa40c664663276317c17cc" label="unspecified" type="box">1</container><container id="aspace_fdef13a492d0e3aef2a51fbc581c2644" parent="aspace_bb81161306fa40c664663276317c17cc" type="folder">3</container></did></c01><c01 id="aspace_bb83b98b8d9e768091e647acb32f8af9" level="file"><did><unittitle>Awards: Higher Education, Pennsylvania</unittitle><unitdate datechar="creation" normal="1972/1974" type="inclusive">1972-1974</unitdate><container id="aspace_9e115e216401edbe18a0af8cb77fca89" label="unspecified" type="box">1</container><container id="aspace_58121776c5233d855b20154fb5285f40" parent="aspace_9e115e216401edbe18a0af8cb77fca89" type="folder">4</container></did></c01></dsc>
+</archdesc>
+</ead>

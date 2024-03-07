@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04320mb</eadid><filedesc><titlestmt><titleproper>ILR School General Memorabilia <num>/4320 MB</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 04, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:28:04 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILR School General Memorabilia</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">New York State School of Industrial and Labor Relations (NYSSILR)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Kheel Center for Labor-Management Documentation and Archives</corpname>
+    </origination>
+    <unitid>/4320 MB</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2.17 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1990/2002" type="inclusive">1990-2002</unitdate>
+    <physdesc id="aspace_a911da3bd2d93eba5a5429241df9c341" label="Quantity:">0.8 linear ft.</physdesc>
+    <physdesc id="aspace_dcb6014e4ffa2796a45ac990d4c610f7" label="Forms of Material:">Memorabilia.</physdesc>
+    <abstract id="aspace_de1e2105337d0b8eae2a28531f42f2ce">Miscellaneous ILR School memorabilia</abstract>
+    <langmaterial id="aspace_f7e2bd06500634518ef83f3a804ae55a">Collection material in English</langmaterial>
+    <unitid type="bibid">9130873</unitid>
+  </did>
+  <odd id="aspace_f5b35ef7c07d4307bae28d65bd382386">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 28, 2015</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 04, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_decdea3931c74a15ffda517cbaa90f12">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_e2a20884e595d0e1f823058beb53fc50">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_00271e9cde3a91a09f17e78fc731eb5f">
+    <head>Preferred Citation</head>
+<p>ILR School General Memorabilia #/4320 MB. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <corpname source="ingest">New York State School of Industrial and Labor Relations</corpname>
+    <corpname audience="internal" source="ingest">Kheel Center for Labor-Management Documentation and Archives</corpname>
+  </controlaccess>
+  <unitid type="bibid">9130873</unitid>
+  <dsc><c01 id="aspace_256b2bad90d7a9cb001b6d434b3725a2" level="file"><did><unittitle>T-shirt -- "Martin P. Catherwood Library ILR School Cornell University"</unittitle><container id="aspace_39d62812b604c7d470b80cf9df62039a" label="unspecified" type="box">1</container><container id="aspace_dd295f92abd8eac53757f34e3cbeec48" parent="aspace_39d62812b604c7d470b80cf9df62039a" type="folder">4</container></did><scopecontent id="aspace_312cac45dddc262f5ca84c814f9bf3b6"><head>Scope and Contents</head><p>gray t-shirt with red lettering</p></scopecontent></c01><c01 id="aspace_96a32331508906aab42dfeb93455c5d9" level="file"><did><unittitle>Bumper sticker -- "Cornell School of Industrial and Labor Relations"</unittitle><container id="aspace_bee85b356be48d8781511e8ba9fcac53" label="unspecified" type="box">1</container><container id="aspace_f527407e7b4600c7a2f436fdc1614b61" parent="aspace_bee85b356be48d8781511e8ba9fcac53" type="folder">3</container></did><scopecontent id="aspace_7e01d25f3507769224d8f846f40eb5ab"><head>Scope and Contents</head><p>red with white letters</p></scopecontent></c01><c01 id="aspace_b1d0028336ab54e545b4020a674a63e6" level="file"><did><unittitle>NYS AFL-CIO - 125 Anniversary paper weight</unittitle><unitdate datechar="creation" normal="1990/1990">1990</unitdate><container id="aspace_ec205c1a474c26db8148c1e4692576da" label="unspecified" type="box">1</container><container id="aspace_9797e3ddfa63b9576cd28ec2523894b1" parent="aspace_ec205c1a474c26db8148c1e4692576da" type="folder">1</container></did></c01><c01 id="aspace_a291e9b6b3311974a2a8946c0be51d21" level="file"><did><unittitle>Mug - Work in progress: the changing American workplace [ILR 1945-46, ILR 1995-96]</unittitle><unitdate datechar="creation" normal="1996/1996">1996</unitdate><container id="aspace_30231fc3b5e1858b13f9ec5bd10861dc" label="unspecified" type="box">1</container><container id="aspace_91e2e10b065b170d0fc40414d9f7bca9" parent="aspace_30231fc3b5e1858b13f9ec5bd10861dc" type="folder">2</container></did></c01><c01 id="aspace_c83435eea75587db2c3ddd56157aa748" level="file"><did><unittitle>Pizza Bowl 2002 T-Shirt</unittitle><unitdate datechar="creation" normal="2002/2002">2002</unitdate><container id="aspace_f93b8afa92f83cc0d45c6ea75d11e313" label="unspecified" type="box">2</container><container id="aspace_fa25d42a4da289f2e574808d4ec96999" parent="aspace_f93b8afa92f83cc0d45c6ea75d11e313" type="folder">1</container></did><scopecontent id="aspace_714ebcb296cd9c7a3917a6ee7967268d"><head>Scope and Contents</head><p>green with white lettering</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

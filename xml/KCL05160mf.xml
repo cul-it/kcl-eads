@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05160mf</eadid><filedesc><titlestmt><titleproper>Alben Barkley Esch-Cummins Bill Correspondence on Microfilm <num>5160 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 07, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:35:33 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Alben Barkley Esch-Cummins Bill Correspondence on Microfilm</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Barkley, Alben</persname>
+    </origination>
+    <unitid>5160 mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.22 cubic feet</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="0000/2999" type="inclusive">0000-2999</unitdate>
+    <physdesc id="aspace_916f9c4e0fb54339fdb72a5ff0b68feb" label="Quantity:">2 microfilm reels</physdesc>
+    <physdesc id="aspace_98b3e7aa150fda9cfae89848e2150b52" label="Forms of Material:">Records (documents), correspondence, microfilm.</physdesc>
+    <abstract id="aspace_40a6f063afce1931889624c5cbc0110e">Selected correspondence on Railroad Legislation. Includes correspondence relative to the Transportation Act of 1920 (Esch-Cummins Act) and the Barkley-Howell Bill of 1924.</abstract>
+    <langmaterial id="aspace_23d5e3e6791adfe236641e18be2e13a5">Collection material in English</langmaterial>
+    <unitid type="bibid">5600810</unitid>
+  </did>
+  <odd id="aspace_9f5f46787d8e2dc660ec3ffe06676c79">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, May 01, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 07, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_a2da79104992a63f99b7574e3dd9eaf7">
+    <head>Biographical / Historical</head>
+<p>Alben William Barkley (November 24, 1877 April 30, 1956) was a lawyer and politician from Kentucky who served in both houses of Congress and as the 35th Vice President of the United States from 1949 to 1953.</p>  </bioghist>
+  <scopecontent id="aspace_2feebbd82cf4f4078947782b486e7f98">
+    <head>Scope and Contents</head>
+<p>Selected correspondence on Railroad Legislation. Includes correspondence relative to the Transportation Act of 1920 (Esch-Cummins Act) and the Barkley-Howell Bill of 1924. A negative copy is available upon request.</p>  </scopecontent>
+  <accessrestrict id="aspace_88e8eaec1514f19e16a016cf80c99529">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_3bfc7959c8f24f822c4632579bd938cc">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_d9b90aaff3794cc4afaa663cfa3a37d9">
+    <head>Preferred Citation</head>
+<p>Alben Barkley Esch-Cummins Bill Correspondence on Microfilm #5160 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_f69f339f0c194da45cd0ac807f465a72">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05478.html"> 5478: AFL-CIO Railway Employees' Department Records</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Barkley, Alben William, 1877-1956</persname>
+  </controlaccess>
+  <unitid type="bibid">5600810</unitid>
+  <dsc><c01 id="aspace_c44f42390324cec400d6f150bf75c5df" level="file"><did><unittitle>Barkley Papers</unittitle><container id="aspace_fddb26ee97478d7fa7a1af03f29b87c9" label="unspecified" type="reel">2</container></did><scopecontent id="aspace_864e386a9030abb03da4a1cf8eec3dc4"><head>Scope and Contents</head><p>Positive</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

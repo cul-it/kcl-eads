@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05049</eadid><filedesc><titlestmt><titleproper>Nielsen, Waldo J. Collection of Utility Workers Organization in New York Materials <num>5049</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 04, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:30:55 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Waldo J. Nielsen Collection of Utility Workers Organization in New York Materials</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Nielsen, Waldo J.</persname>
+    </origination>
+    <unitid>5049</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1934/1976" type="inclusive">1934-1976</unitdate>
+    <physdesc id="aspace_7cf78f94af77e835f716326d1bdfaa20" label="Quantity:">0.3 linear ft.</physdesc>
+    <physdesc id="aspace_cc0cb2215638c3c7d57aaf6f1484b919" label="Forms of Material:">Records (documents).</physdesc>
+    <abstract id="aspace_c72251a98cf3170b88d34ec57602110a">Newsletters and other periodical publications of Utility workers' unions, most in New York State.</abstract>
+    <langmaterial id="aspace_c825b97cc767beee443bbecc43c0e1c0">Collection material in English</langmaterial>
+    <unitid type="bibid">5975951</unitid>
+  </did>
+  <odd id="aspace_3bb484f0ee06553228a2c9b5bcc9384a">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, November 06, 2012</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 04, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_45d5e5466aa1785085981f52020dcb69">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_f143e2bbd8692ec94c27d8fcc755125d">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_fff295d952c0b17353be7da2981b09b6">
+    <head>Preferred Citation</head>
+<p>Waldo J. Nielsen Collection of Utility Workers Organization in New York Materials #5049. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_b176b74eb70ee12aa666e42a8d795b14">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05493.html"> 5493: Elmer E. Hilpert Arbitration Papers</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Arbitration, Industrial</subject>
+    <subject source="ingest">Public utilities--Employees--Labor unions--United States.</subject>
+    <subject source="ingest">Public utilities--United States--Employees.</subject>
+    <persname audience="internal" source="ingest">Cole, David Lawrence, 1902-1977.</persname>
+    <persname audience="internal" source="ingest">Wallen, Saul, 1910-1969</persname>
+    <persname audience="internal" source="ingest">Whiting, Dudley E.</persname>
+    <corpname audience="internal" source="ingest">Flight Engineers' International Association</corpname>
+    <corpname audience="internal" source="ingest">Trans World Airlines</corpname>
+    <corpname audience="internal" source="ingest">United States. Emergency Board No. 123.</corpname>
+    <corpname audience="internal" source="ingest">Utility Workers Union of America.</corpname>
+    <corpname audience="internal" source="ingest">Powermen</corpname>
+    <corpname audience="internal" source="ingest">Utility Worker News</corpname>
+    <corpname audience="internal" source="ingest">Utility Workers Bulletin</corpname>
+    <corpname audience="internal" source="ingest">Utility Post</corpname>
+    <corpname audience="internal" source="ingest">Brotherhood Record</corpname>
+    <corpname audience="internal" source="ingest">Edison Equity News</corpname>
+    <corpname audience="internal" source="ingest">Utility Worker News</corpname>
+    <corpname audience="internal" source="ingest">Consolidated Edison Company of New York, inc.</corpname>
+    <corpname audience="internal" source="ingest">International Brotherhood of Electrical Workers</corpname>
+    <corpname audience="internal" source="ingest">Brooklyn Union Gas Company</corpname>
+    <corpname audience="internal" source="ingest">Edison Electric Light Company</corpname>
+    <corpname audience="internal" source="ingest">Edison Electric Light Company. Equity Local 100</corpname>
+    <corpname audience="internal" source="ingest">Edison Electric Light Company. Brooklyn Local 102</corpname>
+    <corpname audience="internal" source="ingest">Edison Electric Light Company. Queens Local 103</corpname>
+  </controlaccess>
+  <unitid type="bibid">5975951</unitid>
+  <dsc><c01 id="aspace_c7dab7ddfa2c53aac7383c8f5505bdb7" level="file"><did><unittitle>Powdermen</unittitle><unitdate datechar="creation" normal="1934/1934" type="inclusive">1934-1934</unitdate><container id="aspace_4d4e245301f062764476be325be7d846" label="unspecified" type="box">1</container><container id="aspace_655041afa0606d7033fb1e7e38211efd" parent="aspace_4d4e245301f062764476be325be7d846" type="folder">1</container></did><scopecontent id="aspace_5e124005cb81892c2aab7050c59c78c0"><head>Scope and Contents</head><p>(Utility Employees) April and July 1934</p></scopecontent></c01><c01 id="aspace_121a15b28393ac4dca7d2cbcc1504176" level="file"><did><unittitle>Edison Equity News</unittitle><unitdate datechar="creation" normal="1934/1935" type="inclusive">1934-1935</unitdate><container id="aspace_c4e56fe98ea7292111ca66d3641b099d" label="unspecified" type="box">1</container><container id="aspace_133ef37995950c51fd31a5f48b05f9b0" parent="aspace_c4e56fe98ea7292111ca66d3641b099d" type="folder">2</container></did><scopecontent id="aspace_3702ba610046bdd6459a59bd6863d719"><head>Scope and Contents</head><p>(Equity Local 100, Utility Employees) No. 3,4 1935; No. 2,3,4,6 1934</p></scopecontent></c01><c01 id="aspace_f13e56c0f32c38b21645038869fbc7b0" level="file"><did><unittitle>Utility Workers News</unittitle><unitdate datechar="creation" normal="1935/1935">1935</unitdate><container id="aspace_dc0304de66a016c66011073e8aee012f" label="unspecified" type="box">1</container><container id="aspace_beb219f0ff19fe1bd42ed6931aba88ea" parent="aspace_dc0304de66a016c66011073e8aee012f" type="folder">3</container></did><scopecontent id="aspace_57fe2c7293b44c226b6b08cf224bed55"><head>Scope and Contents</head><p>(Locals 100,102,103 Utility Workers.) No. 1, 1935 (Special Issue)</p></scopecontent></c01><c01 id="aspace_f6c20ac4d821ecec6863dc1a98528566" level="file"><did><unittitle>Utility Workers Bulletin</unittitle><unitdate datechar="creation" normal="1936/1936">1936</unitdate><container id="aspace_2aa62ec07f28f70a486e3c5f77764784" label="unspecified" type="box">1</container><container id="aspace_66dd9fe0ce7895e90da5686e9f8a1554" parent="aspace_2aa62ec07f28f70a486e3c5f77764784" type="folder">4</container></did><scopecontent id="aspace_e7f3255d8ba0489141bf465387bde828"><head>Scope and Contents</head><p>(NY Regional Board of Brotherhood of Utility Workers.) No. 2, 1936</p></scopecontent></c01><c01 id="aspace_af52ba242d94a452f8a8c1294a650005" level="file"><did><unittitle>Utility Post (Independent Gas and Electric Union)</unittitle><unitdate datechar="creation" normal="1938/1940" type="inclusive">1938-1940</unitdate><container id="aspace_7f681229ff440197adf02251195dfe05" label="unspecified" type="box">1</container><container id="aspace_b7f5f3e065ade6ebafff4d7b011d452d" parent="aspace_7f681229ff440197adf02251195dfe05" type="folder">5</container></did><scopecontent id="aspace_01a24df55a632d2afb6186e6c11d9b9c"><head>Scope and Contents</head><p>v.1:no.1-9 (1938); v.2:no.1, 3 (1939); v.3:no.3 (1940)</p></scopecontent></c01><c01 id="aspace_f6edad1310925a1d3cebdd39167a4710" level="file"><did><unittitle>Brotherhood Record (Brotherhood of Consolidated Edison Employees)</unittitle><unitdate datechar="creation" normal="1940/1940">1940</unitdate><container id="aspace_b460e8bd0657bc08dcdef36b66156e56" label="unspecified" type="box">1</container><container id="aspace_d98960271f83525e35f4bf8ca704c67d" parent="aspace_b460e8bd0657bc08dcdef36b66156e56" type="folder">6</container></did><scopecontent id="aspace_f59116d309ed19a335d0da99a35ba767"><head>Scope and Contents</head><p>v.1:no.1 (1940)</p></scopecontent></c01><c01 id="aspace_98119e08ea0ab0260cc47fb3f1bfe7bd" level="file"><did><unittitle>Metropolitan Club Retired Employees. Consolidated Edison of New York</unittitle><container id="aspace_c8f5d03a02c306ee5f319f92d844bff0" label="unspecified" type="box">1</container><container id="aspace_2043a8b86f046b41f0b69abbcaf97804" parent="aspace_c8f5d03a02c306ee5f319f92d844bff0" type="folder">7</container></did></c01><c01 id="aspace_ff1efc3ad7f5e510dc00e34b5c05b4d4" level="file"><did><unittitle>Newsletters and miscellaneous</unittitle><unitdate datechar="creation" normal="1972/1976" type="inclusive">1972-1976</unitdate><container id="aspace_7da48af5cd46d35a83b32e3bcb1ea881" label="unspecified" type="box">1</container><container id="aspace_c4fc6bb9f37a755e403bfca63b7c6535" parent="aspace_7da48af5cd46d35a83b32e3bcb1ea881" type="folder">8</container></did></c01><c01 id="aspace_5b9b3807422211e52782a93db17c9c76" level="file"><did><unittitle>"My Experiences in Unionism in the Utility Industry" by Jens P. Nielson</unittitle><container id="aspace_1fa735c8bbcd4e748791ba768f36b448" label="unspecified" type="box">1</container><container id="aspace_5ab488bea0da1e5c71d7ba85c86dc7c3" parent="aspace_1fa735c8bbcd4e748791ba768f36b448" type="folder">9</container></did><scopecontent id="aspace_e9c787d62b60367618b49b17149d3a3e"><head>Scope and Contents</head><p>By J. P. Nielsen 22p.</p></scopecontent></c01><c01 id="aspace_14c5f64b28718137b917edc8c52d3cc3" level="file"><did><unittitle>Broadsides Local 1-2 Utility Workers</unittitle><container id="aspace_bca3a59ded7c4019895bb1ad233bd732" label="unspecified" type="box">1</container><container id="aspace_e0b94513bbd6c47ff8b532bd489a81ce" parent="aspace_bca3a59ded7c4019895bb1ad233bd732" type="folder">10</container></did></c01><c01 id="aspace_dfaa4568b82c691ad6b42d954dcdce73" level="file"><did><unittitle>Correspondence with Fred Javitz and other</unittitle><container id="aspace_82ba2562012318af2e2ee7923dc24d9e" label="unspecified" type="box">1</container><container id="aspace_748435566e29b01e99b83b5754fa21a9" parent="aspace_82ba2562012318af2e2ee7923dc24d9e" type="folder">11</container></did><scopecontent id="aspace_b2880537a89113a1732e5454adb175bd"><head>Scope and Contents</head><p>Regarding retirement program at Con Edison</p></scopecontent></c01><c01 id="aspace_bf7bef4fcdf60f8d5acb8f9662efcdf1" level="file"><did><unittitle>News clippings</unittitle><unitdate datechar="creation" normal="1934/1938" type="inclusive">1934-1938</unitdate><container id="aspace_5c3ec4f25f9ae827e3e4b2c28bd5793f" label="unspecified" type="box">1</container><container id="aspace_530a5ddbedfec64fcf1d6a4ffa2ad827" parent="aspace_5c3ec4f25f9ae827e3e4b2c28bd5793f" type="folder">12</container></did></c01><c01 id="aspace_f6c4782ecf5271bef34130e7228ee69d" level="file"><did><unittitle>Other correspondence</unittitle><unitdate datechar="creation" normal="1938/1938">1938</unitdate><container id="aspace_b54c6f333b5987745316f5e327b4bf18" label="unspecified" type="box">1</container><container id="aspace_4427ce38494a61defd634dada483db9e" parent="aspace_b54c6f333b5987745316f5e327b4bf18" type="folder">13</container></did><scopecontent id="aspace_badf922485cde52fcb44ca3fb6de1df1"><head>Scope and Contents</head><p>Regarding independent gas and electric union affiliating with Utility Workers.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

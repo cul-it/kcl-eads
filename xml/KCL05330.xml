@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05330</eadid><filedesc><titlestmt><titleproper>The Maritime Industry Strike Files <num>5330</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 11, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:42:54 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>The Maritime Industry Strike Files</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">American Merchant Marine Institute</corpname>
+    </origination>
+    <unitid>5330</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1965/1965">1965</unitdate>
+    <physdesc id="aspace_881c8522f77eb0ddd0f6d9b946d68331" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_bb2d678485d5f112e41ff4e6cee2ac06" label="Forms of Material:">Case files, records (documents) .</physdesc>
+    <abstract id="aspace_683ef1bcfd3cc3de4205773a5eb9b08c">Includes miscellaneous union-produced documents having to do with the Maritime Industry Strike of 1965 and related matters.</abstract>
+    <langmaterial id="aspace_29f90407daabc8684033c5028471d36a">Collection material in English</langmaterial>
+    <unitid type="bibid">2294721</unitid>
+  </did>
+  <odd id="aspace_b62b1b32897f246e276870293a98e250">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 03, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 11, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_4cc85662b8827688cb4282fbd7a20351">
+    <head>Biographical / Historical</head>
+<p>This maritime strike lasted seventy-five days and ivolved three unions and eight companies. </p><p> The unions involved were the Marine Engineers Beneficial Association (MEBA); the international Association of Masters, Mates and Pilots (MMP); and the American Radio Association. The companies involved included the United States Line Company; Lykes Brothers Steamship Company; Grace Lines, Inc.; Moore-McCormack Lines, Inc.; the Gulf and South American Steamship Company, Inc.; Farrell Lines, Inc.; Prudential Steamship Lines, Inc.; and Broomfield Steamship Company. The American Merchant Marine Institute (AMMI), as bargaining agent, represented the eight government subsidized lines. The negotiations involved pensions, manning problems on automated ships, and the demand by the companies for new grievance-arbitration machinery.</p>  </bioghist>
+  <scopecontent id="aspace_3e995abcee3fa0b9ed120e9db7cb84b5">
+    <head>Scope and Contents</head>
+<p>The materials deal chiefly with MEBA and include news releases concerning negotiation efforts of Ralph E. Casey (president, AMMI) and Jesse M. Calhoon (president, MEBA); also news releases conerning various contract proposal rejections and statements made on strike issues. Additionally, reports to MEBA membership; memoranda; and miscellaneous materials. Maritime Trades Department (MTD) items include news releases regarding statements on the strike by Peter M. McGavin (executive secretary and treasurer, MTD), and Paul Hall (president, MTD). </p><p> Documents relating to the MMP include a joint statement by Lloyd W. Sheldon (president, MMP), and William R. Steinberg (president, American Radio Association); news releases regarding the MMP agreement with the Tanker Service Committee, ending the tanker industry's 23-day shut-down; and issues of the newspaper THE MASTER, MATE AND PILOT. A National Maritime Union of America (NMU) file includes an NMU proposal for a merger of unions of unlicensed seamen; a joint statement on the amalgamation of the NMU, American Radio Association, MMP, United Marine Division, and Brotherhood of Marine Officers; and clippings. Materials of the American Merchant Marine Institute (AMMI) include news releases and statements by Ralph E. Casey on behalf of the steamship companies which he represented in contract negotiations; and clippings.</p>  </scopecontent>
+  <accessrestrict id="aspace_b058d0e6ccc7b9afaa42e273ce8e5419">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_a013ae5efc9c94a8d3a065dfbeaa0908">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_254ea66b4e030dbe5dd93f9c9c29a107">
+    <head>Preferred Citation</head>
+<p>The Maritime Industry Strike Files #5330. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Labor unions--Merchant seamen--United States.</subject>
+    <subject source="ingest">Collective bargaining. Merchant marine. United States.</subject>
+    <subject source="ingest">Grievance procedures. Merchant marine. United States.</subject>
+    <subject source="ingest">Merchant marine. United States. Manning of vessels.</subject>
+    <subject source="ingest">Merchant seamen.</subject>
+    <subject source="ingest">Strikes and lockouts. Merchant marine. United States.</subject>
+    <subject source="ingest">Trade- unions. Merchant seamen. United States.</subject>
+    <subject source="ingest">Wages. Merchant marine. United States.</subject>
+    <persname audience="internal" source="ingest">Calhoon, Jesse M.</persname>
+    <persname audience="internal" source="ingest">Casey, Ralph E.</persname>
+    <persname audience="internal" source="ingest">Hall, Paul</persname>
+    <persname audience="internal" source="ingest">McGaven, Peter M.</persname>
+    <persname audience="internal" source="ingest">Sheldon, Lloyd W.</persname>
+    <corpname audience="internal" source="ingest">American Merchant Marine Institute, Inc.</corpname>
+    <corpname audience="internal" source="ingest">International Organization of Masters, Mates, and Pilots</corpname>
+    <corpname audience="internal" source="ingest">National Marine Engineers' Beneficial Association</corpname>
+    <corpname audience="internal" source="ingest">National Maritime Union of America</corpname>
+  </controlaccess>
+  <unitid type="bibid">2294721</unitid>
+  <dsc><c01 id="aspace_6965fd87e516ab7dd8afc56d90aae82b" level="file"><did><unittitle>MEBA - April, May, June</unittitle><unitdate datechar="creation" normal="1965/1965">1965</unitdate><container id="aspace_f162ffeace4033074716749101304697" label="unspecified" type="box">1</container><container id="aspace_373c5f0df2c8104ac4fcfd97ff0c64c9" parent="aspace_f162ffeace4033074716749101304697" type="folder">1</container></did></c01><c01 id="aspace_0cba01fd7994228b4147e299a9a264c2" level="file"><did><unittitle>MEBA - July, August</unittitle><unitdate datechar="creation" normal="1965/1965">1965</unitdate><container id="aspace_8db56b77ede3b9d3b266e988381bc80c" label="unspecified" type="box">1</container><container id="aspace_19676f0207863a00f8cd4a2ed804eb6b" parent="aspace_8db56b77ede3b9d3b266e988381bc80c" type="folder">2</container></did></c01><c01 id="aspace_a4426a466ae9df6c57cbee4d70c9de26" level="file"><did><unittitle>Maritime Trades Department Masters, Mates &amp; Pilots National Maritime Union</unittitle><unitdate datechar="creation" normal="1965/1965">1965</unitdate><container id="aspace_c9a281788ee42e10b085d01edcd1e736" label="unspecified" type="box">1</container><container id="aspace_c87aef8b90eda482a31d3570790c288f" parent="aspace_c9a281788ee42e10b085d01edcd1e736" type="folder">3</container></did></c01><c01 id="aspace_a8fdd9f0fe37f7bdcd4450c82ef9314f" level="file"><did><unittitle>American Marine Engineer Department of Labor Diebold Reports Maritime Administration</unittitle><unitdate datechar="creation" normal="1965/1965">1965</unitdate><container id="aspace_9bf0684f4f57bf9acd9fd93124e5e04f" label="unspecified" type="box">1</container><container id="aspace_46ade5b4499e40c0e774607eb749c763" parent="aspace_9bf0684f4f57bf9acd9fd93124e5e04f" type="folder">4</container></did></c01><c01 id="aspace_938199e80c606a066c4321cbf2fe9b14" level="file"><did><unittitle>American Merchant Marine Institute American Maritime Association</unittitle><unitdate datechar="creation" normal="1965/1965">1965</unitdate><container id="aspace_fbc1186132309d941e774d4bf2ed4845" label="unspecified" type="box">2</container><container id="aspace_d20c38de5c17107940d8197f0311dd3c" parent="aspace_fbc1186132309d941e774d4bf2ed4845" type="folder">1</container></did></c01><c01 id="aspace_88ca82c99f20a599b4d4ca4c0fa1ba80" level="file"><did><unittitle>Newspaper Clippings - June</unittitle><unitdate datechar="creation" normal="1965/1965">1965</unitdate><container id="aspace_3139db76a37ceda29aa2186f0a30901d" label="unspecified" type="box">2</container><container id="aspace_8fa8ca6f012182fe6970d27d3d5a0519" parent="aspace_3139db76a37ceda29aa2186f0a30901d" type="folder">2</container></did></c01><c01 id="aspace_fbadbfd0437a143f199fabc2c66cea43" level="file"><did><unittitle>Newspaper Clippings - July</unittitle><unitdate datechar="creation" normal="1965/1965">1965</unitdate><container id="aspace_6fc01416bf8de3d5ed71ce8fe7ce20a0" label="unspecified" type="box">2</container><container id="aspace_3001c8c055ddec14e8ea58ddcf33bab5" parent="aspace_6fc01416bf8de3d5ed71ce8fe7ce20a0" type="folder">3</container></did></c01><c01 id="aspace_4fe920f633025005a89f2f94c1861c94" level="file"><did><unittitle>Newspaper Clippings - August</unittitle><unitdate datechar="creation" normal="1965/1965">1965</unitdate><container id="aspace_34abe7a787ac631fc9bb91dc4cb75fbc" label="unspecified" type="box">2</container><container id="aspace_1aa7ff3e2863c1936d695af65f947a69" parent="aspace_34abe7a787ac631fc9bb91dc4cb75fbc" type="folder">4</container></did></c01></dsc>
+</archdesc>
+</ead>

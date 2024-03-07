@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05567</eadid><filedesc><titlestmt><titleproper>Abt, Henry E. "A Study of Wholesale Trades Under N.R.A." Manuscript <num>5567</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 18, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:52:08 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Henry E. Abt "A Study of Wholesale Trades Under N.R.A." Manuscript</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Abt, Henry E.</persname>
+    </origination>
+    <unitid>5567</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1936/1936">1936</unitdate>
+    <physdesc id="aspace_c0ec1f98c4109b4beac10fd588a2c788" label="Quantity:">0.3 linear ft.</physdesc>
+    <physdesc id="aspace_f68f14041b554aee6decc3234a6f1e2a" label="Forms of Material:">Records (documents).</physdesc>
+    <abstract id="aspace_6222d2d7bc1a3684b13854ea73b0cace">"A Study of Wholesale Trades under the National Recovery Administration" by Howard Edward Abt of the Industry Studies Section, within the U.S. Department of Commerce's Office of the National Recovery Administration, Division of Review. 547 pages.</abstract>
+    <langmaterial id="aspace_c6e77c377be70a7c2d37b94a17913279">Collection material in English</langmaterial>
+    <unitid type="bibid">5664271</unitid>
+  </did>
+  <odd id="aspace_e7193d555b5091990c291b7c73504b0b">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, April 17, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 18, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <scopecontent id="aspace_912f0e9bf62669bb2732908455e95df7">
+    <head>Scope and Contents</head>
+<p>This collection consists of one bound volume, "A Study of Wholesale Trades under the National Recovery Administration." Authored by Howard Edward Abt of the Industry Studies Section, within the U.S. Department of Commerce's Office of the National Recovery Administration, Division of Review, the study was completed on March 19, 1936. </p><p> According to a note in the volume, the study is "the unedited triplicate copy of the manuscript which the author retained when the others were filed for review and publication. Such changes as will appear in the mimeographed edition were effected by editors and reviewers after the original manuscript was tendered by the author to M.D. Vincent, Coordinator of the Industry Studies Section." The volume is 547 pages.</p>  </scopecontent>
+  <accessrestrict id="aspace_e3f49456fcc8017e55a8e0349c3f09b2">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_481af7053f0802c50f46b4349a6787e2">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_519bcc46fef3452af45bf579362528eb">
+    <head>Preferred Citation</head>
+<p>Henry E. Abt "A Study of Wholesale Trades Under N.R.A." Manuscript #5567. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Wholesale trade -- United States.</subject>
+    <persname audience="internal" source="ingest">Abt, Henry Edward, 1904-1962</persname>
+    <corpname audience="internal" source="ingest">United States. National Recovery Administration</corpname>
+  </controlaccess>
+  <unitid type="bibid">5664271</unitid>
+  <dsc><c01 id="aspace_a22c2c3f2a9890652efb938578c19d45" level="file"><did><unittitle>A Study of Wholesale Trades Under the National Recovery Administration</unittitle><unitdate datechar="creation" normal="1936/1936">1936</unitdate><container id="aspace_a0e8493acf1fe4c914b47be4f7b27cc3" label="unspecified" type="box">1</container><container id="aspace_429607f1c499cf110420467429a63eba" parent="aspace_a0e8493acf1fe4c914b47be4f7b27cc3" type="folder">1</container></did><scopecontent id="aspace_b9c6f11a6faf3396d3e60b975615adb7"><head>Scope and Contents</head><p>547 pages</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

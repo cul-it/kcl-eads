@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL03076</eadid><filedesc><titlestmt><titleproper>ILR School ILR Report <num>/3076</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 22, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:15:32 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILR School ILR Report</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">New York State School of Industrial and Labor Relations (NYSSILR)</corpname>
+    </origination>
+    <unitid>/3076</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1964/1974" type="inclusive">1964-1974</unitdate>
+    <physdesc id="aspace_81ebd7d369fd99451a7e2b7c1ff92dc3" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_0d8797dcd02ddead78529453487b23ec" label="Forms of Material:">Records (documents).</physdesc>
+    <abstract id="aspace_c7b2be9b42f3696756f47e3157819e7e">Consists of copies of the "Industrial and Labor Relations Report", ILR School annual reports, and special reports on the 25th anniversary of the ILR School.</abstract>
+    <langmaterial id="aspace_b6effd231699f9fc69e63db843ce876d">Collection material in English</langmaterial>
+    <unitid type="bibid">8436909</unitid>
+  </did>
+  <odd id="aspace_28cb3448087eee2fb04b8e7da100781e">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 15, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, February 22, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_468bbae13bcae0434464929a48d45802">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_b20e5166ea88eaf5a3c98f4fd10543c2">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_972609a007b1cf6d76f25c6d7a2bda45">
+    <head>Preferred Citation</head>
+<p>ILR School ILR Report #/3076. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_ce0bb8408edbfdb67d33067e66900f02">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL03012.html"> /3012: Alice Cook Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL03035.html"> /3035: Eric Polisar Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04004.html"> /4004: ILR School Librarian's Office Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04009.html"> /4009: ILR School Administrative Assistant Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04014.html"> /4014: ILR School Dean's Office Additional Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04064.html"> /4064: Kurt Hanslowe Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04085.html"> /4085: Milton R. Konvitz Additional Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04149.html"> /4149: William Foote Whyte Additional Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04154.html"> /4154: Robert Risley Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04158.html"> /4158: John P. Windmuller Additional Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04164.html"> /4164: Harrison M. Trice Additional Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04194.html"> /4194: ILR School Dean's Office Additional Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04236.html"> /4236: Vernon Briggs Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04236pubs.html"> /4236 PUBS: Vernon Briggs Publications</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619-027.html"> 5619/027: ACTWU Communications and Public Relations Department Burt Beck Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-150.html"> 5780/150: ILGWU Carl Proper Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-152.html"> 5780/152: ILGWU David Melman Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06007.html"> 6007: U.S. Department of Labor Office of American Workplace Labor Management Cooperation Collected Publications</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <corpname source="ingest">New York State School of Industrial and Labor Relations</corpname>
+  </controlaccess>
+  <unitid type="bibid">8436909</unitid>
+  <dsc><c01 id="aspace_07f7cfcc4bd8de14112fe9e34cad1bd7" level="file"><did><unittitle>Report; The Right to Strike: How Far Does it Go?</unittitle><unitdate datechar="creation" normal="1974/1974">1974</unitdate><container id="aspace_eb3decb526b82d5776deaa93c071498f" label="unspecified" type="box">1</container><container id="aspace_f866d453c82830455b59110a5f224371" parent="aspace_eb3decb526b82d5776deaa93c071498f" type="folder">1</container></did></c01><c01 id="aspace_190aa2064b4447883bc248615b8aec94" level="file"><did><unittitle>Report; 25th Anniversary Events</unittitle><unitdate datechar="creation" normal="1971/1971">1971</unitdate><container id="aspace_0d05ecdafa3eabb16a885cda12eb7d13" label="unspecified" type="box">1</container><container id="aspace_957aa34f98c900a873afffaa4f32c0af" parent="aspace_0d05ecdafa3eabb16a885cda12eb7d13" type="folder">2</container></did></c01><c01 id="aspace_237d52448ed66325bbae90f86475ec2a" level="file"><did><unittitle>Annual Report NYSILR</unittitle><unitdate datechar="creation" normal="1968/1969" type="inclusive">1968-1969</unitdate><container id="aspace_67f79e3470e1651a94b3ff3f6e89448e" label="unspecified" type="box">1</container><container id="aspace_3801a9184cabb475f725d81f591178e1" parent="aspace_67f79e3470e1651a94b3ff3f6e89448e" type="folder">3</container></did></c01><c01 id="aspace_6ba33a9766e535c5b3529bf93800d8f3" level="file"><did><unittitle>Annual Report NYSILR</unittitle><unitdate datechar="creation" normal="1969/1970" type="inclusive">1969-1970</unitdate><container id="aspace_ca3e6c0fa84ce674a3c4817b37f93472" label="unspecified" type="box">1</container><container id="aspace_8ceffb166731ae032eef2e58d3f86538" parent="aspace_ca3e6c0fa84ce674a3c4817b37f93472" type="folder">4</container></did></c01><c01 id="aspace_d2d44b001d2fccc70a6470937e8c60b9" level="file"><did><unittitle>ILR Report Twenty-fifth Anniversary Year</unittitle><unitdate datechar="creation" normal="1970/1970">1970</unitdate><container id="aspace_bede27a5e15a50a2cffc6215decf62a7" label="unspecified" type="box">1</container><container id="aspace_a2af2416d4386972d32faea5b91dbac0" parent="aspace_bede27a5e15a50a2cffc6215decf62a7" type="folder">5</container></did></c01><c01 id="aspace_8fb9965b324030d8dc5ffe0350d7452a" level="file"><did><unittitle>Industrial and Labor Relations Report</unittitle><unitdate datechar="creation" normal="1967/1968" type="inclusive">1967-1968</unitdate><container id="aspace_d96d7f8025f3d487f3cc182c6266f0ab" label="unspecified" type="box">1</container><container id="aspace_a910843925d4fc39ff3502971aed9516" parent="aspace_d96d7f8025f3d487f3cc182c6266f0ab" type="folder">6</container></did></c01><c01 id="aspace_9beca9ece9428c6dbe8972927443b260" level="file"><did><unittitle>Industrial and Labor Relations Report</unittitle><unitdate datechar="creation" normal="1964/1965" type="inclusive">1964-1965</unitdate><container id="aspace_0ce1469d44d5d0bba24627da00bb89bc" label="unspecified" type="box">1</container><container id="aspace_582a3501832bda483a5d010b47ae41c7" parent="aspace_0ce1469d44d5d0bba24627da00bb89bc" type="folder">7</container></did></c01><c01 id="aspace_e685b2e51dd46e955ff6ca8f446d4cbf" level="file"><did><unittitle>Industrial and Labor Relations Report</unittitle><unitdate datechar="creation" normal="1966/1967" type="inclusive">1966-1967</unitdate><container id="aspace_a7d961259aa9b56ee61d24275eb27dc3" label="unspecified" type="box">1</container><container id="aspace_8a99b714713d990ee95a97b397021dbc" parent="aspace_a7d961259aa9b56ee61d24275eb27dc3" type="folder">8</container></did></c01></dsc>
+</archdesc>
+</ead>

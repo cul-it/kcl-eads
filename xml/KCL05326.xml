@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05326</eadid><filedesc><titlestmt><titleproper>U.S. Department of Labor Wage and Hour and Public Contracts Division Special Industry Committee #31 Records <num>5326</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 11, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:42:43 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>U.S. Department of Labor Wage and Hour and Public Contracts Division Special Industry Committee #31 Records</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">U.S. Department of Labor U.S. Department of Labor. Wage and Hour Division.</corpname>
+    </origination>
+    <unitid>5326</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1957/1957">1957</unitdate>
+    <physdesc id="aspace_ce998fd6e04cedfc005fcc2cd899e725" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_d2d4c829d992f9a5379fa046afd05548" label="Forms of Material:">Records (documents).</physdesc>
+    <abstract id="aspace_89f2e1b359412e25e906c8ddf5cd75bb">Orders, exhibits, and reports of Special Industry Committee 31.</abstract>
+    <langmaterial id="aspace_c6ccb2ffef2a3f3d35954150a205c77d">Collection material in English</langmaterial>
+    <unitid type="bibid">5971770</unitid>
+  </did>
+  <odd id="aspace_c332f1211fb2cd6a44878f3e2b0bdbb5">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 13, 2005</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 11, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_1ca8f05cae0a1c51416c8957e98ba7e3">
+    <head>Biographical / Historical</head>
+<p>The U.S. Secretary of Labor appointed Industry Committee #31 to consider the question of minimuim wage rates for the Puerto Rican industries included in Administrative Order #483 issued on May 22, 1957 and hearings were begun on July 8, 1957.</p>  </bioghist>
+  <accessrestrict id="aspace_e0251144bcd5cc0c0efdc94846803b8c">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_0c9fa5008837ecf011b58122161ad78c">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_26df5d4cc2b0ffcfb73d442ebeda637f">
+    <head>Preferred Citation</head>
+<p>U.S. Department of Labor Wage and Hour and Public Contracts Division Special Industry Committee #31 Records #5326. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_5dbb26c452784f1910cbcc64945a279d">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05320.html"> 5320: U.S. Department of Labor Wage and Hour and Public Contracts Division</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05321.html"> 5321: U.S. Department of Labor Wage and Hour and Public Contracts Division Special Industry Committee #12 Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05322.html"> 5322: U.S. Department of Labor Wage and Hour and Public Contracts Division Special Industry Committee #13 Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05323.html"> 5323: U.S. Department of Labor Wage and Hour and Public Contracts Division Special Industry Committee #14 Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05324.html"> 5324: U.S. Department of Labor Wage and Hour and Public Contracts Division Special Industry Committee #15 Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05325.html"> 5325: U.S. Department of Labor Wage and Hour and Public Contracts Division Special Industry Committee #16 Records</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <corpname audience="internal" source="ingest">United States. Department of Labor</corpname>
+    <corpname audience="internal" source="ingest">United States. Wage and Hour and Public Contracts Division. Special Industry Committee 31.</corpname>
+    <corpname audience="internal" source="ingest">United States. Wage and Hour and Public Contracts Division.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5971770</unitid>
+  <dsc><c01 id="aspace_c923a54b86e6d2c16a28b3b94e27afbd" level="file"><did><unittitle>Order establishing the committee and rules and regulations under which committee operated.</unittitle><unitdate datechar="creation" normal="1957/1957">1957</unitdate><container id="aspace_f0ec0c3025569387669831cc322fc388" label="unspecified" type="box">1</container><container id="aspace_ff869bc329b5ff81662eef6e1d9c1bd8" parent="aspace_f0ec0c3025569387669831cc322fc388" type="folder">1</container></did><scopecontent id="aspace_f81121b3fff7b7d286a89cf2577c93b3"><head>Scope and Contents</head><p>Administrative Order #483 issued on May 22, 1957</p></scopecontent></c01><c01 id="aspace_f9e2e8b58dd981067d4f9f8adeff3334" level="file"><did><unittitle>Exhibits and report of Industry Committee 31 A, Handkerchief, Square Scarf and Art Linen Industry.</unittitle><unitdate datechar="creation" normal="1957/1957">1957</unitdate><container id="aspace_059bae10ef3bdfabed8df2b138678ba4" label="unspecified" type="box">1</container><container id="aspace_ec56f57008347d45f3f01a2ea0990dfe" parent="aspace_059bae10ef3bdfabed8df2b138678ba4" type="folder">2</container></did><scopecontent id="aspace_4a9c4d30e1ad7abc6701e09f74a839c9"><head>Scope and Contents</head><p>hearings were begun on July 8, 1957.</p></scopecontent></c01><c01 id="aspace_40422ce403aef535e3f25760bfb049b6" level="file"><did><unittitle>Exhibits and report of Industry Committee 31 B, Women's and Children's Underwear and Women's Blouse and Neckwear Industry.</unittitle><unitdate datechar="creation" normal="1957/1957">1957</unitdate><container id="aspace_9571f1ca307dea7016d0e3ad4a7fe72d" label="unspecified" type="box">1</container><container id="aspace_43e79c7b06321212b58b178e11232b46" parent="aspace_9571f1ca307dea7016d0e3ad4a7fe72d" type="folder">3</container></did><scopecontent id="aspace_9d85187a7c0ec4904bc348921719434a"><head>Scope and Contents</head><p>hearings were begun on July 8, 1957.</p></scopecontent></c01><c01 id="aspace_b05178ec704af2bd88965002e633eb16" level="file"><did><unittitle>Exhibits and report of Industry Committee 31 C, Children's Dress and Related Products Industry</unittitle><unitdate datechar="creation" normal="1957/1957">1957</unitdate><container id="aspace_0b38fb7f4c778361f9ba85d966516afb" label="unspecified" type="box">1</container><container id="aspace_7e0a9be5a9524094e03eca286b252f8a" parent="aspace_0b38fb7f4c778361f9ba85d966516afb" type="folder">4</container></did><scopecontent id="aspace_2079d72e03c3c11bea2dbd1d5d2273f0"><head>Scope and Contents</head><p>hearings were begun on July 8, 1957.</p></scopecontent></c01><c01 id="aspace_a1b2bd895536bc130159f18433370560" level="file"><did><unittitle>Exhibits and report of Industry Committee 31 D, Needlework and Fabricated Textile Products Industry.</unittitle><unitdate datechar="creation" normal="1957/1957">1957</unitdate><container id="aspace_a1bb0de1cb25df32a5f44dfefd6b44ad" label="unspecified" type="box">1</container><container id="aspace_c950a3d2b8fa7df7531db473d14e4dcf" parent="aspace_a1bb0de1cb25df32a5f44dfefd6b44ad" type="folder">5</container></did><scopecontent id="aspace_84e9033e68d3510eef1ce03bee8cad51"><head>Scope and Contents</head><p>hearings were begun on July 8, 1957.</p></scopecontent></c01><c01 id="aspace_ee3f499ec6685363acee3805facf168f" level="file"><did><unittitle>Exhibits and report of Industry Committee Sweater and Knit Swimwear Industry.</unittitle><unitdate datechar="creation" normal="1957/1957">1957</unitdate><container id="aspace_a5e6fe504ae13afb71c186b02349e59c" label="unspecified" type="box">1</container><container id="aspace_611452f6945a3633dccc201cad3a5232" parent="aspace_a5e6fe504ae13afb71c186b02349e59c" type="folder">6</container></did><scopecontent id="aspace_14b8b1f9316cbb30b90dfc3ca16aee8b"><head>Scope and Contents</head><p>hearings were begun on July 8, 1957.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

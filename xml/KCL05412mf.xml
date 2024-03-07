@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05412mf</eadid><filedesc><titlestmt><titleproper>Western Federation of Miners and International Mine, Mill and Smelter Workers Records on Microfilm <num>5412 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 12, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-07 19:45:51 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Western Federation of Miners and International Mine, Mill and Smelter Workers Records on Microfilm</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Western Federation of Miners (WFM)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">International Union of Mine, Mill, and Smelter Workers (Mine Mill)</corpname>
+    </origination>
+    <unitid>5412 mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1903/1955" type="inclusive">1903-1955</unitdate>
+    <physdesc id="aspace_fc2f7cf6ec506897d6fc897efe3981d7" label="Quantity:">9 microfilm reels</physdesc>
+    <physdesc id="aspace_94809ce9f0cc91ee9836a49d4bad9544" label="Forms of Material:">Broadsides (notices), photographs, microfilm.</physdesc>
+    <abstract id="aspace_13385ee544813232de26888ec5a77d1a">Union governance documents (constitutions and collective agreements) and publications, correspondence, tapes of radio broadcasts, reports and other documents regarding the history of the non-ferrous metals industry</abstract>
+    <langmaterial id="aspace_b23b98299deaf040d15272bb7b89def4">Collection material in English</langmaterial>
+    <unitid type="bibid">3834437</unitid>
+  </did>
+  <odd id="aspace_0c25c526eb871d56d92800b83fe76970">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, May 08, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 12, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_92846ce289e82a82295b6ea76aef3bb8">
+    <head>Biographical / Historical</head>
+<p>Documents collected by Professor Vernon H. Jensen for his work on the non-ferrous metals industry. The Western Federation of Miners (WFM) and its successor, the International Union of Mine, Mill and Smelter Workers (IUMMSW) were historically considered the radical wing of the non-ferrous metals miners' unions. </p><p> Professor Jensen (Ph.D., Univ. of California, 1939) taught labor economics at the University of Colorado between 1937 and 1945 and was a public panel member of the National War Labor Board during World War II. He was appointed to the faculty of the New York State School of Industrial and Labor Relations at Cornell University in 1946, where he remained for the balance of his academic career. He is an authority on collective bargaining and has written extensively on the history of labor relations on the waterfront and in the non-ferrous metals industry. The documents in this collection were gathered primarily for the latter project.</p>  </bioghist>
+  <bioghist id="aspace_562b7e5269b91710f0d74ed23af23caf">
+    <head>Biographical / Historical</head>
+<p>The Western Federation of Miners (WFM) was founded in 1893 by the Butte, Montana Miners' Union (WFM No. 1) and other Western hard rock miners' unions in Utah, Colorado, Montana, Idaho, Nevada, and South Dakota, in response to two decades of violent opposition by various mining corporations, and the federal, state and local governments. </p><p> An independent union until its affiliation with the American Federation of Labor in 1896, the WFM broke away from the A.F. of L. two years later, when it sponsored the Western Labor Union. It formed part of the Industrial Workers of the World from 1905-1907, re-affiliating with the A.F. of L. in 1911, at which time it changed its name to the International Union of Mine, Mill and Smelter Workers (IUMMSW). An early affiliate of the Congress of Industrial Organizations (CIO), it was expelled from that organization in 1950. In 1967, the IUMMSW merged with the United Steelworkers of America.</p>  </bioghist>
+  <scopecontent id="aspace_e394dc829a68af06ce1a3d3dbc5abc9f">
+    <head>Scope and Contents</head>
+<p>Consist of union governance documents (constitutions and collective agreements) and publications. Also, correspondence, tapes of radio broadcasts, reports and other documents regarding the history of the non-ferrous metals industry; union organizing and strikes; the murder, imprisonment, persecution, and deportation of aliens and striking miners; court trials of William "Big Bill" Haywood and other WFM miners (1903-1907); rivalry between the WFM and the Industrial Workers of the World; the secession of the Ansonia Brass Workers from the IUMMSW (1947-1948); the split between the CIO and the IUMMSW (1947-1952); and the Butte, Montana miners rank and file revolt (1955). </p><p>  Documents regarding the history of the non-ferrous metals industry in the western United States.</p>  </scopecontent>
+  <accessrestrict id="aspace_868093a2465d155bd6dee129a6ad6bec">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_7c0a56c55bd91014135e6664c154859c">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_d042ca8e238fe36bb85c556dfc6a9306">
+    <head>Preferred Citation</head>
+<p>Western Federation of Miners and International Mine, Mill and Smelter Workers Records on Microfilm #5412 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_2393c8d7f09be288329e7b50bafc7a07">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05412.html"> 5412: Western Federation of Miners Parker Trial Proceedings on CD</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Foreign workers z United States.</subject>
+    <subject source="ingest">Nonferrous metal industries z United States.</subject>
+    <subject source="ingest">Miners.</subject>
+    <subject source="ingest">Copper miners.</subject>
+    <persname audience="internal" source="ingest">Haywood, Big Bill, 1869-1928.</persname>
+    <persname audience="internal" source="ingest">Jensen, Vernon H.</persname>
+    <persname audience="internal" source="ingest">Ansonia Brass Workers' Union.</persname>
+    <corpname audience="internal" source="ingest">Congress of Industrial Organizations (U.S.)</corpname>
+    <corpname audience="internal" source="ingest">Industrial Workers of the World.</corpname>
+    <corpname audience="internal" source="ingest">International Union of Mine, Mill, and Smelter Workers.</corpname>
+    <corpname audience="internal" source="ingest">Western Federation of Miners</corpname>
+  </controlaccess>
+  <unitid type="bibid">3834437</unitid>
+  <dsc><c01 id="aspace_bd60e83c49462db45dda5e794f2d6bda" level="file"><did><unittitle>Record Group C-25: Haywood Transcript</unittitle><container id="aspace_fd1816fc2191d37ee1547d911c4ebb2e" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_9c41bf8dd4b606bf19e20f8af7570a8f"><head>Scope and Contents</head><p>reel #1 of 7 -- positive</p></scopecontent></c01><c01 id="aspace_e3e5f5a2028486f2e855091da98d805e" level="file"><did><unittitle>Record Group C-25: Haywood Transcript</unittitle><container id="aspace_cf5627a89bab58fc391dfea4c8ec01da" label="unspecified" type="reel">2</container></did><scopecontent id="aspace_1e8c4c35b8877b4c0b2d14a397bc9139"><head>Scope and Contents</head><p>reel #2 of 7</p></scopecontent></c01><c01 id="aspace_45c8c7a44efeb93c1b0df036baac12a5" level="file"><did><unittitle>Record Group C-25: Haywood Transcript</unittitle><container id="aspace_b9d8a406f1437d84238e4323009579d9" label="unspecified" type="reel">3</container></did><scopecontent id="aspace_7a2b8f7e4618762edb828d3a4efcbe7e"><head>Scope and Contents</head><p>reel #3 of 7 -- positive</p></scopecontent></c01><c01 id="aspace_e58d4d5145db1a2b46b3e7e85f721468" level="file"><did><unittitle>Record Group C-25: Parker Trial Proceedings</unittitle><container id="aspace_565d6484848ce00fd96bb1288491e860" label="unspecified" type="reel">4</container></did><scopecontent id="aspace_22fa70d3b4db4d7f2996af47a2ae5035"><head>Scope and Contents</head><p>reel #4 of 7 (2 copies) -- positive</p></scopecontent></c01><c01 id="aspace_754739588262100f3bf1f1de5eb91b36" level="file"><did><unittitle>Record Group C-25: Governor's Report on the Cripple Creek Strike</unittitle><container id="aspace_44696a5d0f2ccd5dc0e42d412bcf31b5" label="unspecified" type="reel">5</container></did><scopecontent id="aspace_78899ef682123c6ec4d44c4380d41fab"><head>Scope and Contents</head><p>reel #5 of 7 -- positive</p></scopecontent></c01><c01 id="aspace_0c8d3f64fc9ba9546bb603578bec3c0f" level="file"><did><unittitle>Record Group C-25: Pinkerton Reports on the WFM</unittitle><container id="aspace_e89d8060ad2244faf41cefac830a743c" label="unspecified" type="reel">6</container></did><scopecontent id="aspace_fdfb57e79e70c7af36430b1718124b0a"><head>Scope and Contents</head><p>reel #6 of 7 -- positive</p></scopecontent></c01><c01 id="aspace_51bc83502624606a538c39a2b8a23978" level="file"><did><unittitle>Record Group C-25: Factional Dispute Within Local 445, IUMMSW</unittitle><container id="aspace_331b086a9c0a9a6b6566dc4c43542d9d" label="unspecified" type="reel">7</container></did><scopecontent id="aspace_e0f39544c072efcb6dfe8a0dfd7d191f"><head>Scope and Contents</head><p>reel #7 of 7 (2 copies) -- negative</p></scopecontent></c01><c01 id="aspace_4946a8a33c2f315c2b45f38bc1273f2b" level="file"><did><unittitle>Factional Dispute within Local 445, IUMMSW</unittitle><container id="aspace_a037998321b0e538159242bff1c39a67" label="unspecified" type="reel">8</container></did></c01><c01 id="aspace_e34fb4e6c3263fdc01717b2b1b40537b" level="file"><did><unittitle>Parker Trial Proceedings (copy 2 of reel #4): 16 mm</unittitle><container id="aspace_787708973ea33de500e3a40b5a1b0266" label="unspecified" type="reel">9</container></did></c01></dsc>
+</archdesc>
+</ead>
