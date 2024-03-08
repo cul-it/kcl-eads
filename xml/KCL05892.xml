@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05892</eadid><filedesc><titlestmt><titleproper>Auburn (NY) Area Labor Council Records <num>5892</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 17, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:14:18 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Auburn (NY) Area Labor Council Records</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Auburn (NY) Area Labor Council</corpname>
+    </origination>
+    <unitid>5892</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.89 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1929/1986" type="inclusive">1929-1986</unitdate>
+    <physdesc id="aspace_c8991ef9f0ac17a75388123a3e13b025" label="Quantity:">1.8 linear ft.</physdesc>
+    <physdesc id="aspace_fac798ce7d8ca120bb2f2a2553f09ecc" label="Forms of Material:">Records (documents).</physdesc>
+    <langmaterial id="aspace_b6b48144fcbe2a5058c8c8c61e186985">Collection material in English</langmaterial>
+    <unitid type="bibid">5725210</unitid>
+  </did>
+  <odd id="aspace_f0b2dbbd151dea13433fc63dc89014f5">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 28, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 17, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_49f9a887c08821de31a20267b182841e">
+    <head>Biographical / Historical</head>
+<p>Auburn (N.Y.) Area Labor Council is part the New York State AFL-CIO which is a federation of 3,000 affiliated public sector, private sector, and building trades unions throughout the state, representing 2.5 million members, retirees and their families</p>  </bioghist>
+  <accessrestrict id="aspace_15b3e3496bfeb5937c71fd41a2d7b393">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_738094399e0bb2cf3f8c8b12ab3ad317">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_dd444218097ebdb40185f9e4f90607cf">
+    <head>Preferred Citation</head>
+<p>Auburn (NY) Area Labor Council Records #5892. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_8f4295f212cd8b5329b987ffd808f3fc">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05892av.html"> 5892 AV: Auburn (NY) Area Labor Council Audio-Visual Materials</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05892mb.html"> 5892 MB: Auburn (NY) Area Labor Council Memorabilia</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05892mf.html"> 5892 mf: Auburn (NY) Area Labor Council "Meeting Minutes of the Auburn (NY) Area Labor Council" and Amalgamated Meat Cutters, Butcher Workmen and Affiliated Crafts of North America on Microfilm</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Municipal officials and employees, Labor unions, New York (State), Auburn.</subject>
+    <subject source="ingest">Transport workers, Labor unions, New York (State), Auburn</subject>
+    <subject source="ingest">Insurance companies, Employees, Labor unions, New York (State), Auburn.</subject>
+    <subject source="ingest">Construction workers, Labor unions, New York (State), Auburn.</subject>
+    <corpname audience="internal" source="ingest">Auburn (N.Y.). Area Labor Council.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5725210</unitid>
+  <dsc><c01 id="aspace_e4cfaa53da5867140f02f6f477866d0c" level="file"><did><unittitle>Auburn Area Labor Council Miscellaneous Papers</unittitle><unitdate datechar="creation" normal="1957/1978" type="inclusive">1957-1978</unitdate><container id="aspace_ba48892e5de9e2552821ebd9e77006cb" label="unspecified" type="box">1</container><container id="aspace_9989ff1a05f25227f32c45b35e57a834" parent="aspace_ba48892e5de9e2552821ebd9e77006cb" type="folder">1</container></did></c01><c01 id="aspace_42f57a11d66b4f8ccdc1aa78867040f2" level="file"><did><unittitle>Miscellaneous Auburn Newspaper Clippings pertaining to AFL-CIO</unittitle><unitdate datechar="creation" normal="1982/1983" type="inclusive">1982-1983</unitdate><container id="aspace_3a3aabb1ec4148a4b6d1ff164fab22b6" label="unspecified" type="box">1</container><container id="aspace_9f161a023c35e0136c284c05865a5af3" parent="aspace_3a3aabb1ec4148a4b6d1ff164fab22b6" type="folder">2</container></did></c01><c01 id="aspace_5b6aa4330fa1a4885455b6df18215b2a" level="file"><did><unittitle>Auburn Labor Council Correspondence</unittitle><unitdate datechar="creation" normal="1958/1979" type="inclusive">1958-1979</unitdate><container id="aspace_8de33206241f1704451c321f78dbe0ab" label="unspecified" type="box">1</container><container id="aspace_ea0f9a7ff62e95d05295d1cf4395d959" parent="aspace_8de33206241f1704451c321f78dbe0ab" type="folder">3</container></did></c01><c01 id="aspace_b025b3468635d240d6e2199697fd9f8d" level="file"><did><unittitle>Auburn Labor Council Meeting Minutes</unittitle><unitdate datechar="creation" normal="1961/1986" type="inclusive">1961-1986</unitdate><container id="aspace_5d5834e76d06d52687202adcd55ec20d" label="unspecified" type="box">1</container><container id="aspace_acd8ec3342486564cc5beb948cbf69db" parent="aspace_5d5834e76d06d52687202adcd55ec20d" type="folder">4</container></did></c01><c01 id="aspace_7f5a95c9487084fe6caa1a861b144c8c" level="file"><did><unittitle>Auburn Labor Council Subject File</unittitle><unitdate datechar="creation" normal="1960/1975" type="inclusive">1960-1975</unitdate><container id="aspace_dc2c0352119aa00515ac8cf07de4f874" label="unspecified" type="box">1</container><container id="aspace_e8f717f56be6280e7c6a075d65fa25fc" parent="aspace_dc2c0352119aa00515ac8cf07de4f874" type="folder">5</container></did></c01><c01 id="aspace_4873cabb237abb5196f3cca7978de9a3" level="file"><did><unittitle>Auburn Labor Council Publications and Documents</unittitle><unitdate datechar="creation" normal="1929/1929">1929</unitdate><container id="aspace_4e9428be4c05e976f3af1a4b99bee116" label="unspecified" type="box">1</container><container id="aspace_bdbe6cfe2993a1227a253b0ebaa7937c" parent="aspace_4e9428be4c05e976f3af1a4b99bee116" type="folder">6</container></did></c01><c01 id="aspace_a772b6534ae92571fef5a13cfe807f4c" level="file"><did><unittitle>Minutes of the Auburn Labor Council</unittitle><unitdate datechar="creation" normal="1950/1953" type="inclusive">1950-1953</unitdate><container id="aspace_b8c9cc604714fab2474cb34656b0f749" label="unspecified" type="box">1</container><container id="aspace_475b1de26586e3d48b025e9cdc589a21" parent="aspace_b8c9cc604714fab2474cb34656b0f749" type="folder">7</container></did><scopecontent id="aspace_651a157644eb184fbc927aa4947c4f11"><head>Scope and Contents</head><p>Bound book, handwritten</p></scopecontent></c01><c01 id="aspace_ca83e45693aa42329a4570459f0e973c" level="file"><did><unittitle>AFL-CIO Union Label Cartoons</unittitle><container id="aspace_37aa84c49166b2ccfe3dda0618cfc73f" label="unspecified" type="box">2</container></did></c01><c01 id="aspace_33a3631c4ae6ce0958779231a10789b9" level="file"><did><unittitle>AFL Union Label Dept., Certificates, Charters, Union Label poster - Auburn, NY</unittitle><container id="aspace_7dbeb3eec4ba921b84400fbaff310429" label="unspecified" type="box">3</container></did><c02 id="aspace_199ddb48ce4722613d5aed915141f9c0" level="file"><did><unittitle>AFL Union Label Dept., Certificates, Charters, Union Label poster - Auburn, NY ; 1 oversize photo of Bro. of Painters, sorted from box of 'misc. photos' that was housed over mapcase</unittitle><container id="aspace_30c79ed0d8317c16ae19c091e00cebf9" label="unspecified" type="box">3</container><container id="aspace_06f258d15674daf61a3ad9337c014bfb" parent="aspace_30c79ed0d8317c16ae19c091e00cebf9" type="folder">1</container></did></c02></c01><c01 id="aspace_ee3b0d639dfaf08328a43c0fde54821f" level="file"><did><unittitle>AFL-CIO Union Label Cartoons</unittitle><container id="aspace_a185439379de7850577410e2d3082cb2" label="unspecified" type="box">4</container></did></c01><c01 id="aspace_1bfc2a4b6d3061c5f937fe20e738c614" level="file"><did><unittitle>Auburn Federation of Labor ; Meat cutters Local No.2 ; Officers C.I.O. - (photos) - s1904 ; [rolled photo] - 93rd Convention of the NY State Federation of Labor - June 25-28, 1956</unittitle><container id="aspace_b0217ebfbfd6d2fc34b002360f2ad22c" label="unspecified" type="box">4</container><container id="aspace_53a215fb5e33e0dd4d087f05df78cf94" parent="aspace_b0217ebfbfd6d2fc34b002360f2ad22c" type="folder">1</container></did><scopecontent id="aspace_db95129fabbe57a140d0e53ae1a48fb4"><head>Scope and Contents</head><p>items removed from box 1</p></scopecontent></c01><c01 id="aspace_4da12ae0a41ec84cdb2c9cd07d882dfa" level="file"><did><unittitle>Auburn, NY Area Labor Council</unittitle><container id="aspace_fe95462b91dbeea7a2bfbc951b973ebf" label="unspecified" type="box">4</container><container id="aspace_4c350daf7a5692055d310de93f5e7a8a" parent="aspace_fe95462b91dbeea7a2bfbc951b973ebf" type="folder">2</container></did><scopecontent id="aspace_8471d951074c819f4a613083f4698400"><head>Scope and Contents</head><p>removed from Bx 3/Map case 9</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

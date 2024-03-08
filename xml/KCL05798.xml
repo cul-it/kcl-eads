@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05798</eadid><filedesc><titlestmt><titleproper>Babiskin, William A. Arbitration Files <num>5798</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 17, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:10:40 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>William A. Babiskin Arbitration Files</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Babiskin, William A.</persname>
+    </origination>
+    <unitid>5798</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2 cubic feet</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="0000/2999" type="inclusive">0000-2999</unitdate>
+    <physdesc id="aspace_64622473b22dbffc513a3e1fc39fedfc" label="Quantity:">2 linear ft.</physdesc>
+    <physdesc id="aspace_f253be1fe318267566e9e30beb42c27c" label="Forms of Material:">Case files, collective labor agreements.</physdesc>
+    <abstract id="aspace_7a5c90466ce91552fd556bded79b5a98">Collective labor agreements</abstract>
+    <langmaterial id="aspace_9d314d16bbe91baeee6eb855a7d9434d">Collection material in English</langmaterial>
+    <unitid type="bibid">3125088</unitid>
+  </did>
+  <odd id="aspace_2daf798110a1680397afeb8b51a634bf">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, March 03, 2015</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 17, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_d9d78409fb8bec884b25e32e5c9574ca">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_0bd35a0c960ef293c121c8c6f5328160">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_96c0bcbe27b98edf235c87a8aa21a736">
+    <head>Preferred Citation</head>
+<p>William A. Babiskin Arbitration Files #5798. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_bd05f3b22746911d790a4bd49abad1dc">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05775.html"> 5775: NAA Records</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Arbitration, Industrial--United States--Sources.</subject>
+    <persname audience="internal" source="ingest">Babiskin, William A.</persname>
+    <persname audience="internal" source="ingest">Vedder, James</persname>
+    <corpname audience="internal" source="ingest">Rutgers University</corpname>
+    <corpname audience="internal" source="ingest">Civil Service Employees Association (N.Y.)</corpname>
+  </controlaccess>
+  <unitid type="bibid">3125088</unitid>
+  <dsc><c01 id="aspace_796286a68569bc3e1b73844ed0109cdb" level="file"><did><unittitle>CSEA and State University of New York - Grievant James Vedder Transcript Vol. 1</unittitle><container id="aspace_783ee196c2dfab5b69c5f9136b421446" label="unspecified" type="box">1</container><container id="aspace_e92a305a4764efdd8f44c64109d566d3" parent="aspace_783ee196c2dfab5b69c5f9136b421446" type="folder">1</container></did></c01><c01 id="aspace_18a212da54d517466bb7578024477945" level="file"><did><unittitle>CSEA and State University of New York - Grievant James Vedder Transcript Vol. 2</unittitle><container id="aspace_e20905f873aa3232252617ac0bb67b0f" label="unspecified" type="box">1</container><container id="aspace_302dadefff7261983217b3ff72abd972" parent="aspace_e20905f873aa3232252617ac0bb67b0f" type="folder">2</container></did></c01><c01 id="aspace_3ac35657bb946d2c54bce0e3ef32db1f" level="file"><did><unittitle>CSEA and State University of New York - Grievant James Vedder Transcript Vol. 3</unittitle><container id="aspace_43e97271c1612b2952e7ac2300635f36" label="unspecified" type="box">1</container><container id="aspace_aa6eef2aa4f81846d7f52bb20fe144a5" parent="aspace_43e97271c1612b2952e7ac2300635f36" type="folder">3</container></did></c01><c01 id="aspace_cf0892fe6cbd8fc75f91f6f8dcfb8e8d" level="file"><did><unittitle>CSEA and State University of New York - Grievant James Vedder Transcript Vol. 4</unittitle><container id="aspace_0bac8d2c39389190c4be81d45a5277b1" label="unspecified" type="box">1</container><container id="aspace_deeca97cdbd0d7f36234e2c02c45b311" parent="aspace_0bac8d2c39389190c4be81d45a5277b1" type="folder">4</container></did></c01><c01 id="aspace_336b72aa400546005fd8ade8b50bc5e2" level="file"><did><unittitle>Niagara Mohawk Power Corporation</unittitle><container id="aspace_f35a602072ca16fe6755af7f9e59570f" label="unspecified" type="box">1</container><container id="aspace_d74183c44e3dbcca90527da81d96d497" parent="aspace_f35a602072ca16fe6755af7f9e59570f" type="folder">5</container></did></c01><c01 id="aspace_41e0ffdf4b59ac2f5020289afd07cfbb" level="file"><did><unittitle>DAKA, Teacher's College</unittitle><container id="aspace_9df771d9064062d61d52418b4bc40598" label="unspecified" type="box">1</container><container id="aspace_30abc2ddf76101b7206232449941644f" parent="aspace_9df771d9064062d61d52418b4bc40598" type="folder">6</container></did></c01><c01 id="aspace_9aa15cc0b6d255f0ddf751573dd6fa2f" level="file"><did><unittitle>Daka</unittitle><container id="aspace_f79fb5cc908afd85b404a742d9dc6d41" label="unspecified" type="box">1</container><container id="aspace_43eb9471f69e0abf101d6bcfd456644c" parent="aspace_f79fb5cc908afd85b404a742d9dc6d41" type="folder">7</container></did></c01><c01 id="aspace_60622a7777a4851a930f3af718f5e49d" level="file"><did><unittitle>State University of New York (Albany)</unittitle><container id="aspace_298796c3204311b1ae4294d4269a440a" label="unspecified" type="box">1</container><container id="aspace_57547ca018c1220e7aeddfbfa0736630" parent="aspace_298796c3204311b1ae4294d4269a440a" type="folder">8</container></did></c01><c01 id="aspace_fc249dea3c836383b9a28ae828b693b5" level="file"><did><unittitle>New York City Board of Education</unittitle><container id="aspace_9ec865f282a16f4d71d8e74f14012b88" label="unspecified" type="box">2</container><container id="aspace_b9da5cd9d434f4f1a622b0fd3ae8b614" parent="aspace_9ec865f282a16f4d71d8e74f14012b88" type="folder">1</container></did></c01><c01 id="aspace_9201bc38b7e87f2ab2dca897f8897038" level="file"><did><unittitle>New York City Board of Education</unittitle><container id="aspace_f9704ace84fec57f3fc0d7e5eb3e6b13" label="unspecified" type="box">2</container><container id="aspace_bd5de559211cf35cf70eb0555a06443f" parent="aspace_f9704ace84fec57f3fc0d7e5eb3e6b13" type="folder">2</container></did></c01><c01 id="aspace_e1c8dfacd209408859c4630e624a8ca9" level="file"><did><unittitle>Bay Shore</unittitle><container id="aspace_51e60497ef8cd03a887139347cec01a9" label="unspecified" type="box">2</container><container id="aspace_d92bfef2e4151e6f523ca61299b5012c" parent="aspace_51e60497ef8cd03a887139347cec01a9" type="folder">3</container></did></c01><c01 id="aspace_b593b5ee5028870afbb28f9d6f2a2f98" level="file"><did><unittitle>Bay Shore</unittitle><container id="aspace_4360d98a0e46d6ca557b98eb3f624857" label="unspecified" type="box">2</container><container id="aspace_d4db83599c63500e9638e9f586decdd3" parent="aspace_4360d98a0e46d6ca557b98eb3f624857" type="folder">4</container></did></c01><c01 id="aspace_07605fb6c01cd15e5a1e43b50bd91b5b" level="file"><did><unittitle>Bay Shore</unittitle><container id="aspace_2ec95974140ccd8a365738311fe70aef" label="unspecified" type="box">2</container><container id="aspace_6fdcbfe47f406032a96c325a93249f8c" parent="aspace_2ec95974140ccd8a365738311fe70aef" type="folder">5</container></did></c01><c01 id="aspace_9da919da2c2a638ca58f744cd0149396" level="file"><did><unittitle>Rutgers University</unittitle><container id="aspace_08a3e8cb8b7f69dd36d60177aa6f4619" label="unspecified" type="box">2</container><container id="aspace_dd54c3aea157626d376b8e6b219157ad" parent="aspace_08a3e8cb8b7f69dd36d60177aa6f4619" type="folder">6</container></did></c01><c01 id="aspace_4ce9e005daf58abc8d6c0ac775157cd6" level="file"><did><unittitle>Rutgers University</unittitle><container id="aspace_57f499e9aaab745ca83d192a98e24776" label="unspecified" type="box">2</container><container id="aspace_6537be6b6e5baa59d9c8e8cb07741ca2" parent="aspace_57f499e9aaab745ca83d192a98e24776" type="folder">7</container></did></c01><c01 id="aspace_d07491231e293a2948f97a41641e1a20" level="file"><did><unittitle>Rutgers University</unittitle><container id="aspace_1b1e8ddb821760c358cf4f3dd722ca21" label="unspecified" type="box">2</container><container id="aspace_4402e36a36b777d1e4c0c7c23cdfc63e" parent="aspace_1b1e8ddb821760c358cf4f3dd722ca21" type="folder">8</container></did></c01><c01 id="aspace_45c909fa26df8f14774467f681f83215" level="file"><did><unittitle>Rutgers University</unittitle><container id="aspace_69203a608ee5677dec421be461b7ba9d" label="unspecified" type="box">2</container><container id="aspace_1ecaa64907ef7693ddceed28ef83f2e9" parent="aspace_69203a608ee5677dec421be461b7ba9d" type="folder">9</container></did></c01><c01 id="aspace_92e8b9e1453ec4c7525bef5d424462cc" level="file"><did><unittitle>Rutgers University Exhibits (1 of 2)</unittitle><container id="aspace_3a16320d18ea635aef81761b1e9de48a" label="unspecified" type="box">2</container><container id="aspace_9140f73d56e926701077d3e4e1321092" parent="aspace_3a16320d18ea635aef81761b1e9de48a" type="folder">10</container></did></c01><c01 id="aspace_533188434c391cdcb4fa818ca173c49a" level="file"><did><unittitle>Rutgers University Exhibits (2 of 2)</unittitle><container id="aspace_e24c26574a5efa9b29e5111c824dab09" label="unspecified" type="box">2</container><container id="aspace_f4872af579e015a44f247ad69b302294" parent="aspace_e24c26574a5efa9b29e5111c824dab09" type="folder">11</container></did></c01></dsc>
+</archdesc>
+</ead>

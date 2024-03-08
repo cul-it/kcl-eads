@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06330mb</eadid><filedesc><titlestmt><titleproper>Johnson, Lawrence R. Missouri Pacific Railroad and Railroad Union Memorabilia <num>6330 MB</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 26, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:44:04 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Lawrence R. Johnson Missouri Pacific Railroad and Railroad Union Memorabilia</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Johnson, Lawrence R.</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Missouri Pacific Railroad (MOPAC)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Brotherhood of Railroad Trainmen (BRT)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Order of Railway Conductors (ORC)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">United Transportation Union (UTU)</corpname>
+    </origination>
+    <unitid>6330 MB</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.17 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1970/1970">1970</unitdate>
+    <physdesc id="aspace_d74b4c43cd7dea7972ec685e8f35c387" label="Quantity:">1.17 linear ft.</physdesc>
+    <physdesc id="aspace_5883e2a69de1bc17be657291707529d7" label="Forms of Material:">655: Memorabilia.</physdesc>
+    <langmaterial id="aspace_340db2740bdac77b804d3840736c7f82">Collection material in English</langmaterial>
+    <unitid type="bibid">7541343</unitid>
+  </did>
+  <odd id="aspace_f79e26e6ca81f0a863dad3fb20c10a2d">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 18, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, August 26, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_d5d7319188ff308182f508073a403054">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_95dfaa26a03584627944bbd7743867bb">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_6c1038664fb60d93d18d060b1fbaaeba">
+    <head>Preferred Citation</head>
+<p>Lawrence R. Johnson Missouri Pacific Railroad and Railroad Union Memorabilia #6330 MB. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Railroads--Employees--Labor unions</subject>
+    <persname audience="internal" source="ingest">Johnson, Lawrence R.</persname>
+    <corpname audience="internal" source="ingest">Brotherhood of Railroad Trainmen</corpname>
+    <corpname audience="internal" source="ingest">Missouri Pacific Railroad Company</corpname>
+    <corpname audience="internal" source="ingest">United Transportation Union</corpname>
+  </controlaccess>
+  <unitid type="bibid">7541343</unitid>
+  <dsc><c01 id="aspace_80ccd4d91d29e315aa16d1d1f956c030" level="file"><did><unittitle>Funeral badges</unittitle><container id="aspace_78d15fc690782db6c948e22e21af3903" label="unspecified" type="box">1</container><container id="aspace_f24059c3b50aebd11e0c6e7abcbb97eb" parent="aspace_78d15fc690782db6c948e22e21af3903" type="Folder">1</container></did><scopecontent id="aspace_d490bd0d8025d919c14e4ec0626c20b4"><head>Scope and Contents</head><p>5 - Jefferson City, Lodge No. 637 B. of R.T.</p></scopecontent></c01><c01 id="aspace_8bd820a5569d6959e15ce1f116e7863c" level="file"><did><unittitle>Union buttons, tie clip, coin</unittitle><container id="aspace_868e89b9a39b092c4d8522904aa31d1b" label="unspecified" type="box">1</container><container id="aspace_08f13cc3e97e881e92f36f282b802f21" parent="aspace_868e89b9a39b092c4d8522904aa31d1b" type="Folder">2</container></did><scopecontent id="aspace_05a1503223e19cf1c257f9e7524d3153"><head>Scope and Contents</head><p>12-buttons ; 1-pen top ; 1-tie clip ; 1-gold coin</p></scopecontent></c01><c01 id="aspace_8a81e484a28a4a7aa6537d9c7fa48133" level="file"><did><unittitle>Pocket protectors, coasters, pen, pencil</unittitle><container id="aspace_77f0c4b713bb5c546e12b35626f50438" label="unspecified" type="box">1</container><container id="aspace_5e89a42905ca1bdd77c4b1bc49c4a298" parent="aspace_77f0c4b713bb5c546e12b35626f50438" type="Folder">3</container></did></c01><c01 id="aspace_8eca3ffee49f9e958729cc46a3d5e849" level="file"><did><unittitle>UTU - Union cards and stickers</unittitle><container id="aspace_bb1c7666e45ab11a2b327d93dbdc9d26" label="unspecified" type="box">1</container><container id="aspace_f6646fc0a3e2a6519bdaf50f47270465" parent="aspace_bb1c7666e45ab11a2b327d93dbdc9d26" type="Folder">4</container></did></c01><c01 id="aspace_76afb8cc9157b172cf1c14500187f277" level="file"><did><unittitle>Union dues receipts</unittitle><container id="aspace_17d9f50826eb5e25adac0f518f50a269" label="unspecified" type="box">1</container><container id="aspace_bd24d0f7ef1be4824e635f932983ef07" parent="aspace_17d9f50826eb5e25adac0f518f50a269" type="Folder">5</container></did></c01><c01 id="aspace_de7d301358ba428d0e73db99d00e279f" level="file"><did><unittitle>Deck of cards, portfolios</unittitle><container id="aspace_9ecc4e21ab40ea4f0bcd800f2ee3f70a" label="unspecified" type="box">1</container><container id="aspace_be6eefa9e2f756d5eba838f6982c090a" parent="aspace_9ecc4e21ab40ea4f0bcd800f2ee3f70a" type="Folder">6</container></did></c01><c01 id="aspace_2dee5d7f604fa851213685a7b133e1e5" level="file"><did><unittitle>UTU calendars</unittitle><container id="aspace_70b357818e2efb5603cb57a0e3a32941" label="unspecified" type="box">1</container><container id="aspace_e43852f48c6d0944496541804246fdfb" parent="aspace_70b357818e2efb5603cb57a0e3a32941" type="Folder">7</container></did></c01><c01 id="aspace_140c71a7ed76673b20e7e5fbe0dcc0b6" level="file"><did><unittitle>UTU - Service Pins</unittitle><container id="aspace_1aab1e30c7ec842b1fac473e901f2de6" label="unspecified" type="box">1</container><container id="aspace_1c117a22d39df991fc8c46042a88b345" parent="aspace_1aab1e30c7ec842b1fac473e901f2de6" type="Folder">8</container></did><scopecontent id="aspace_12a908f241c08a470af0065d5901b548"><head>Scope and Contents</head><p>Service Pins for 10, 20, 30l 40, 45, 50, 55 years of Service and one UTUPAC pin</p></scopecontent></c01><c01 id="aspace_4cda33a3a0f5e5d357c60a147f3a960b" level="file"><did><unittitle>Calendar Art - 1970</unittitle><container id="aspace_404f824b61dc65ea3011f27f01756e6d" label="unspecified" type="box">2</container><container id="aspace_9c72fb014c6f051491b4a0b7425f9f80" parent="aspace_404f824b61dc65ea3011f27f01756e6d" type="Folder">1</container></did></c01><c01 id="aspace_ca4a1a0e73f6842a282890dfb14c861d" level="file"><did><unittitle>UTU, Public Relations, Dept. of Education Portfolio</unittitle><container id="aspace_2a2180ed76a4fa67a1cc2273e28a55d7" label="unspecified" type="box">2</container><container id="aspace_3bd59983f574e61737d8a384f3d599dd" parent="aspace_2a2180ed76a4fa67a1cc2273e28a55d7" type="Folder">2</container></did></c01><c01 id="aspace_97b54d22d1d563736a44afe3998da1fc" level="file"><did><unittitle>UTU Stickers</unittitle><container id="aspace_c45bae13e5e80f7b8d373c099eb1affa" label="unspecified" type="box">2</container><container id="aspace_64afe875a5432bbe50fcdf0b4b3407f9" parent="aspace_c45bae13e5e80f7b8d373c099eb1affa" type="Folder">3</container></did></c01><c01 id="aspace_c22a780a096e28a318b78828dc48fa97" level="file"><did><unittitle>Misc.</unittitle><container id="aspace_837cf970f9057efb23543aeff0be1925" label="unspecified" type="box">2</container><container id="aspace_f6c7ebf40e22417a18a75fe123bb6834" parent="aspace_837cf970f9057efb23543aeff0be1925" type="Folder">4</container></did></c01><c01 id="aspace_e97462537ea082fbb3d2de6cad9d4408" level="file"><did><unittitle>Calendars</unittitle><container id="aspace_362c453e92382c3756b641228a4cc00e" label="unspecified" type="box">2</container><container id="aspace_45c29587782666b24ee233dba1435d14" parent="aspace_362c453e92382c3756b641228a4cc00e" type="Folder">5</container></did></c01><c01 id="aspace_96dc1a6dc99833790b946925c382a2f2" level="file"><did><unittitle>Picture and Cartoon</unittitle><container id="aspace_f8e926ef7f9527012fdd099e7107125c" label="unspecified" type="box">2</container><container id="aspace_72d39024aa9a2587e4dc32828b09331a" parent="aspace_f8e926ef7f9527012fdd099e7107125c" type="Folder">6</container></did><scopecontent id="aspace_e57c8db25c047a2a5efd4345630bc89f"><head>Scope and Contents</head><p>Picture-Birthplace of the Brotherhood of Railroad Trainmen, September 23, 1883, Oneonta, New York ; Cartoon-The Origin of Collective Bargaining</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

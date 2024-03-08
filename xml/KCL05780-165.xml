@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05780-165</eadid><filedesc><titlestmt><titleproper>ILGWU Governor Smith's Hearings and Arbitration with Various Associations Records <num>5780/165</num></titleproper><author>Compiled by R. Miles</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 15, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:06:14 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILGWU Governor Smith's Hearings and Arbitration with Various Associations Records</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">International Ladies' Garment Workers' Union (ILGWU)</corpname>
+    </origination>
+    <unitid>5780/165</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1924/1924">1924</unitdate>
+    <physdesc id="aspace_d79a4fa32950bba0d84cc3d489667ee2" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_2c7c685d00f7193066038bcec72f738f" label="Forms of Material:">Records (documents).</physdesc>
+    <abstract id="aspace_6cf1c3e39fa4513c9c0a43817ef34aa5">The collection consists of the records regarding the hearings of the Special Commission of Arbitration on July 15, 1924.</abstract>
+    <langmaterial id="aspace_f3ec0202eda06c420758ad70bc74b73c">Collection material in English</langmaterial>
+    <unitid type="bibid">6323064</unitid>
+  </did>
+  <odd id="aspace_f1604273e52f1f60a7ec53ca16bdf204">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>R. Miles, June 08, 2009</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 15, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_f80d77034fa9a4e85a065f58154a9fd1">
+    <head>Biographical / Historical</head>
+<p>The International Ladies' Garment Workers' Union was once one of the largest labor unions in the United States founded in 1900 by local union delegates representing about 2,000 members in cities in the northeastern United States. It was one of the first U.S. Unions to have a membership consisting of mostly females, and it played a key role in the labor history of the 1920s and 1930s. The union is generally referred to as the "ILGWU" or the "ILG". The ILGWU grew in geographical scope, membership size, and political influence to become one of the most powerful forces in American organized labor by mid-century. Representing workers in the women's garment industry, the ILGWU worked to improve working and living conditions of its members through collective bargaining agreements, training programs, health care facilities, cooperative housing, educational opportunities, and other efforts. The ILGWU merged with the Amalgamated Clothing and Textile Workers Union in 1995 to form the Union of Needle trades, Industrial and Textile Employees (UNITE). UNITE merged with the Hotel Employees and Restaurant Employees Union (HERE) in 2004 to create a new union known as UNITE HERE. The two unions that formed UNITE in 1995 represented only 250,000 workers between them, down from the ILGWU's peak membership of 450,000 in 1969.</p>  </bioghist>
+  <bioghist id="aspace_3893f435ae5e856e8bfc011d01335488">
+    <head>Biographical / Historical</head>
+<p>Beginning in March 1924, the ILGWU and the Joint Board of Cloak and Dressmakers' Union began negotiations with the Merchants' Ladies' Garment Association (jobbers), the Cloak, Suit and Skirt Manufacturers' Protective Association (manufacturers), and the American Cloak and Suit Manufacturers' Association (sub-manufacturers). When no agreement could be reached by June 1924, New York Governor Alfred E. Smith appointed a Special Advisory Commission consisting of George Gordon Battle (Chairman), Herbert Lehman, Arthur Wolf, Lindsay Rogers, and Bernard Schientag (State Industrial Commissioner). Representing the union and associations were Morris Hillquit (ILGWU), Samuel Blumberg (Merchants' Ladies' Garment Association) and William Klein (Cloak and Suit Manufacturers' Protective Association). Public hearings took place between June 17 and June 25, and on June 27, recommendations were submitted. Accepted by the union, sub-manufacturers, and manufacturers, the jobbers refused until July 7, 1924 when the Merchants' Association agreed to the terms of the Governors' Commission.</p>  </bioghist>
+  <scopecontent id="aspace_90cb83f78c0108e1f78b2bf256135a49">
+    <head>Scope and Contents</head>
+<p>The collection contains the typed transcripts from the hearings of the Special Commission appointed by Governor Smith to investigate and arbitrate the existing differences between the ILGWU and the associations of manufacturers and jobbers. Taking place at the office of the State Labor Department in New York City, the records contain hearings that date between July 15, 1924 and October 27, 1924. In the form of questions and answers between the Special Commission and the representatives of the ILGWU and manufacturers' associations, discussion focuses on the role of designers within manufacturing, conditions in the industry, the responsibility of jobbers and sub-manufacturers, and salary and wages. </p><p> For more information on the Governor's Advisory Commission, also see 5780/161 Governor's Advisory Commission on the Cloak, Suit, and Skirt Industry in New York records 1924-1959. This collection contains the first hearing of the Special Commission on June 17, 1924 to study the situation in the Cloak and Suit Industry and be able to offer recommendations to avert any impending strike. The hearings are in bound volumes and include June 17-19, 1924; June 20-23, 1924; June 24-July 11, 1924; July 15-August 1, 1924; August 12-October 2, 1924; and January 2-April 15, 1925. </p><p> The Hearings continue into 1925, and additionally, there is the final Report of the Investigation from March 10, 1925. There are also additional reports that were created as the result of the investigation including "Wages and Wage Scales, 1925," Final Recommendations from May 1926, the Meeting of the Special Mediation Commission in the New York Cloak and Suit Industry from March 6, 1926 (same individuals involved). </p><p> Much of the same information can also be found in collection 6036/009 Governor's Advisory Commission. Cloak, Suit and Skirt Industry.</p>  </scopecontent>
+  <accessrestrict id="aspace_845ea7d70e564df7034ee5e10fc5621f">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_6069922f6eb40d28235e12b328c37275">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_47fa4a3f14c7b6c7fdb585d95e4448f8">
+    <head>Preferred Citation</head>
+<p>ILGWU Governor Smith's Hearings and Arbitration with Various Associations Records #5780/165. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_b87695dc079fe2b12abc730f14e5436c">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780.html"> 5780: ILGWU records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-161.html"> 5780/161: ILGWU New York Cloak Joint Board's Advisory Commission on the Cloak, Suit, and Skirt Industry in New York Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06036-009.html"> 6036/009: Governor's Advisory Commission on the Cloak, Suit and Skirt Industry</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Women's clothing industry -- New York (State) -- New York.</subject>
+    <subject source="ingest">Women's clothing industry -- United States.</subject>
+    <subject source="ingest">Clothing workers -- Labor unions -- New York (State) -- New York.</subject>
+    <subject source="ingest">Clothing workers -- Labor unions -- United States.</subject>
+    <subject source="ingest">Clothing workers -- New York (State) -- New York.</subject>
+    <subject source="ingest">Clothing workers -- United States.</subject>
+    <subject source="ingest">Arbitration, Industrial -- New York (State) -- New York.</subject>
+    <subject source="ingest">Arbitration, Industrial -- United States.</subject>
+    <subject source="ingest">Industrial relations -- New York (State) -- New York.</subject>
+    <subject source="ingest">Industrial relations -- United States.</subject>
+    <persname source="ingest">Smith, Alfred Emanuel, 1873-1944.</persname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union.</corpname>
+  </controlaccess>
+  <unitid type="bibid">6323064</unitid>
+  <dsc><c01 id="aspace_29d2123eb423ca88fbd89bb1beb92253" level="file"><did><unittitle>Hearings of special commission of arbitration.</unittitle><unitdate datechar="creation" normal="1924/1924">1924</unitdate><container id="aspace_ceeb59152a099f91d4b7d5dd49e3b454" label="unspecified" type="box">1</container><container id="aspace_27bc2139bea2d6209d69af55d4306b91" parent="aspace_ceeb59152a099f91d4b7d5dd49e3b454" type="folder">1</container></did><scopecontent id="aspace_15a87a5758f5c5cb33a9442d9c50f436"><head>Scope and Contents</head><p>July 15, 1924. ILGWU and Various Manufacturers. pp. 704-851</p></scopecontent></c01><c01 id="aspace_a7db91602e5165823abbed425a78432b" level="file"><did><unittitle>Hearings of special commission of arbitration.</unittitle><unitdate datechar="creation" normal="1924/1924">1924</unitdate><container id="aspace_8602c5b09d2562d6a9e5608254dd6478" label="unspecified" type="box">1</container><container id="aspace_041c1d1aa8bcfc8d62e22209affc0eea" parent="aspace_8602c5b09d2562d6a9e5608254dd6478" type="folder">2</container></did><scopecontent id="aspace_9e0fad5913ade600839065f6501eff52"><head>Scope and Contents</head><p>July 15, 1924. ILGWU and Various Manufacturers. pp. 852-1006</p></scopecontent></c01><c01 id="aspace_dcd052940576b6195701f4e862d0e3c5" level="file"><did><unittitle>Hearings of special commission of arbitration.</unittitle><unitdate datechar="creation" normal="1924/1924">1924</unitdate><container id="aspace_c4c887696051c3bdeceea38e1a5ea6e9" label="unspecified" type="box">1</container><container id="aspace_b59ae82065fbf0077188f44d6215a5e4" parent="aspace_c4c887696051c3bdeceea38e1a5ea6e9" type="folder">3</container></did><scopecontent id="aspace_7ecdc7998f6c26c856c61a9e98bd06cf"><head>Scope and Contents</head><p>July 15, 1924. ILGWU and Various Manufacturers. pp. 1007-1126</p></scopecontent></c01><c01 id="aspace_1a340cf867d40009950465c3e63dcc96" level="file"><did><unittitle>Hearings of special commission of arbitration.</unittitle><unitdate datechar="creation" normal="1924/1924">1924</unitdate><container id="aspace_6d7cfc9a587872660a8c02b4eee34961" label="unspecified" type="box">1</container><container id="aspace_9c8ee4a28c995e2842f6bb6c0bc56374" parent="aspace_6d7cfc9a587872660a8c02b4eee34961" type="folder">4</container></did><scopecontent id="aspace_e222e6ec2e52b4d6009246f5dca3c99a"><head>Scope and Contents</head><p>July 15, 1924. ILGWU and Various Manufacturers. pp. 1127-1238</p></scopecontent></c01><c01 id="aspace_3e8c55d46a754ff2ac2e29fbad67f1e6" level="file"><did><unittitle>Hearings of special commission of arbitration.</unittitle><unitdate datechar="creation" normal="1924/1924">1924</unitdate><container id="aspace_bd79c9e98934ecb51adf0c4b5a0a9c65" label="unspecified" type="box">1</container><container id="aspace_ea7c6469a93da1376ce76879cbe2bf78" parent="aspace_bd79c9e98934ecb51adf0c4b5a0a9c65" type="folder">5</container></did><scopecontent id="aspace_5796b936610b869740e7f550d81ad2c1"><head>Scope and Contents</head><p>July 15, 1924. ILGWU and Various Manufacturers. pp. 1244-1238</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05780-170</eadid><filedesc><titlestmt><titleproper>ILGWU. People v. Benedict Macri. Legal transcripts and scrapbook, <num>5780/170</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>July 2011</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:06:25 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILGWU. People v. Benedict Macri Legal transcripts and scrapbook</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname source="ingest">International Ladies' Garment Workers' Union.</corpname>
+    </origination>
+    <unitid>5780/170</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1949/1957" type="inclusive">1949-1957.</unitdate>
+    <physdesc id="aspace_9bd508ad7e4c15cf11a9294b4b451da3" label="Quantity:">1 linear foot</physdesc>
+    <physdesc id="aspace_cdacfbc3177b1574b3ef4e7cc0a75ad6" label="Forms of Material:">Records, scrapbook.</physdesc>
+    <abstract id="aspace_cf59c15a95742b45e215125e0090ffa7">Collection consists of materials pertaining to the 1949 murder of William Lurye, an organizer for the ILGWU, and the 1951 trial of Benedict Macri, who was acquitted of the crime. Documents include a scrapbook of news clippings on the case, a wanted poster for the fugitive suspect John Giusto, and the court transcript of Macri's trial.</abstract>
+    <langmaterial id="aspace_cc5a520f02fc36ad6a495b2b5da373ff">Collection material in English</langmaterial>
+    <unitid type="bibid">5521628</unitid>
+  </did>
+  <odd id="aspace_93d54faef399a88f06481e18fbf8bc95">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183<extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref><extref xlink:href="http://www.ilr.cornell.edu/library/kheel">http://www.ilr.cornell.edu/library/kheel</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff</item>
+      </defitem>
+      <defitem>
+        <label>Date completed:</label>
+        <item>1999</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Casey Westerman, 2003Cheryl Beredo, July 2011</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_6c271f2ea40d87e56d19cf27b119ad3d">
+    <head>Biographical / Historical</head>
+<p>The International Ladies' Garment Workers' Union was founded in New York City in 1900 by mostly Socialist immigrant workers who sought to unite the various crafts in the growing women's garment industry. The union soon reflected changes in the sector and rapidly organized thousands of unskilled and semi-skilled women, mostly Jewish and Italian young immigrants. Exemplifying the "new unionism," the ILGWU led two of the most widespread and best-known industrial strikes of the early Twentieth Century: the shirtwaist makers' strike of 1909 in New York City and the cloak makers' strike of 1910 in Chicago. The union also tried to adapt to the fragmented and unstable nature of the industry. It adopted the "protocol of peace," a system of industrial relations that attempted to ensure stability and limit strikes and production disruption by providing for an arbitration system to resolve disputes.</p><p> The ILGWU exemplified the European-style social unionism of its founding members. They pursued bread and butter issues but provided educational opportunities, benefits, and social programs to union members as well. In 1919, the ILGWU became the first American union to negotiate an unemployment compensation fund that was contributed to by its employers. The ILGWU also pioneered in the establishment of an extremely progressive health care program for its members which included not only regional Union Health Centers but also a resort for union workers, known as Unity House. The Union also had an imaginative and pioneering Education Department which not only trained workers in traditional union techniques, but provided courses in citizenship and the English language.</p><p> David Dubinsky, an immigrant from Belarus who came to the US in 1911, provided strong leadership that led to unprecedented growth in the union during his presidency from 1932 to 1966. He led the union through successful internal anti-communist struggles, built on the ascendancy of industrial unionism by encouraging the formation of the Committee for Industrial Organization, and helped the union become an important political force in New York City and state politics, and in the national Democratic Party and Liberal Party as well.</p><p> In the period following the Second World War, the union suffered a decline in membership as manufacturers avoided unionization and took advantage of less expensive labor by moving shops from the urban centers in the northeast to the south, and later abroad. The ethnic and racial character of the ILGWU also changed as European immigrants were supplanted by Asians, Latin Americans, African- Americans, and immigrants from the Caribbean.</p><p> In July 1995 the ILGWU merged with the Amalgamated Clothing and Textile Workers Union (ACTWU) at a joint convention, forming UNITE (Union of Needletrades, Industrial and Textile Employees). At the time the new union had a membership of about 250,000 in the United States, Canada, and Puerto Rico.</p>  </bioghist>
+  <scopecontent id="aspace_96c8ae39a1677be3f21cf68a38361309">
+    <head>Scope and Contents</head>
+<p>Collection consists of materials pertaining to the 1949 murder of William Lurye, an organizer for the ILGWU, and the 1951 trial of Benedict Macri, who was acquitted of the crime. Documents include a scrapbook of news clippings on the case, a wanted poster for the fugitive suspect John Giusto, and the court transcript of Macri's trial.</p>  </scopecontent>
+  <accessrestrict id="aspace_a4e182a0dba6047e13d172f84c71783c">
+    <head>Conditions Governing Access</head>
+<p>The ILGWU Records, except for publications and materials produced for publication, are restricted. Materials created prior to twenty years from the current date are open to researchers only with prior written permission from the Director of the Kheel Center; materials created during the past twenty-years are closed; the minutes of the General Executive Board are closed. For more information contact the Kheel Center.</p>  </accessrestrict>
+  <prefercite id="aspace_537e30f43b6336de43abb867976a1e28">
+    <head>Preferred Citation</head>
+<p>ILGWU. People v. Benedict Macri. Legal transcripts and scrapbook. 5780/170. Kheel Center for Labor-Management Documentation and Archives, Martin P. Catherwood Library, Cornell University.</p>  </prefercite>
+  <relatedmaterial id="aspace_4407e7703a1ee7e002ee7d8ec8722878">
+    <head>Related Materials</head>
+<p>5780. IGLWU records</p><p> 5780/127. ILGWU. America's Next Great Designer Award. Scrapbooks</p><p> 5780/128. ILGWU. Women's Wear Daily. Scrapbooks</p><p> 5780/160. ILGWU. Scrapbooks</p><p> 5780/160mf. ILGWU. American Labor Party news article scrapbook. Microfilm</p>  </relatedmaterial>
+  <odd id="aspace_17fe9eb34e45758571bba18a57c32044">
+    <head>General</head>
+<p>"Permanent deposit"</p>  </odd>
+  <controlaccess>
+    <subject source="ingest">Women's clothing industry--United States.</subject>
+    <subject source="ingest">Labor unions--Clothing workers--United States.</subject>
+    <subject source="ingest">Clothing workers--United States.</subject>
+    <subject source="ingest">Industrial relations--United States.</subject>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union.</corpname>
+    <persname audience="internal" source="ingest">Giusto, John.</persname>
+    <persname audience="internal" source="ingest">Lurye, William.</persname>
+    <persname audience="internal" source="ingest">Macri, Benedict.</persname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5521628</unitid>
+  <dsc><c01 id="aspace_d069ae3a7d88c3d07acd1696ecefd295" level="file"><did><unittitle>Scrapbook: Lurye Case.</unittitle><unitdate datechar="creation" normal="1949/1957" type="inclusive">1949-1957</unitdate><container id="aspace_c26bec8a604adcf0d77e764f6011c6b1" label="unspecified" type="box">1</container><container id="aspace_478069f84e5bbd168e68705bf7c0be53" parent="aspace_c26bec8a604adcf0d77e764f6011c6b1" type="folder">1</container></did><scopecontent id="aspace_1a523516dd2316a9a7395237c7cc413b"><head>Scope and Contents</head><p>Contains news clippings pertaining to William Lurye's murder and the trial of Benedict Macri. May 10, 1949 - November 19, 1957.</p></scopecontent></c01><c01 id="aspace_e1df69f86acfe7f77d3b360be89aa4d0" level="file"><did><unittitle>Poster: New York City Police Department, Detective Division Circular No. 3,</unittitle><unitdate datechar="creation" normal="1949/1949">1949</unitdate><container id="aspace_141208ac66949f5a8bae4c67d8e17af3" label="unspecified" type="box">1</container><container id="aspace_048781ba786ab31311bf4ce975be49bc" parent="aspace_141208ac66949f5a8bae4c67d8e17af3" type="folder">2</container></did><scopecontent id="aspace_b43cd22d25e26ae3e7378664a277769e"><head>Scope and Contents</head><p>June 28, 1949. Wanted for Homicide: John Giusto for murder of William Lurye.</p></scopecontent></c01><c01 id="aspace_e4d8e2b991b0dd9a39271afcc0dcf6cd" level="file"><did><unittitle>Report of the trial of Benedict Macri, indicted for the murder of William Lurye</unittitle><unitdate datechar="creation" normal="1951/1951">1951</unitdate><container id="aspace_3e6e485d31c6cdb2797c629219aa25bd" label="unspecified" type="box">1</container><container id="aspace_08b1e5ac2b395be085e7754e20ffa936" parent="aspace_3e6e485d31c6cdb2797c629219aa25bd" type="folder">3</container></did><scopecontent id="aspace_27a4c8979a305284fa26eee31c7e7ea3"><head>Scope and Contents</head><p>Court of General Sessions of the County of New York, New York, Oct. 4-29, 1951. Typescript volume. October 4-18, 1951.</p></scopecontent></c01><c01 id="aspace_70f4b591d9b955d130410602a11f5bf8" level="file"><did><unittitle>Report of the trial of Benedict Macri, indicted for the murder of William Lurye</unittitle><unitdate datechar="creation" normal="1951/1951">1951</unitdate><container id="aspace_00aa0ad8c8ab18e9faa7fd105d63c299" label="unspecified" type="box">1</container><container id="aspace_d250f98fe0cbf831cb7917ecfee2c8dc" parent="aspace_00aa0ad8c8ab18e9faa7fd105d63c299" type="folder">4</container></did><scopecontent id="aspace_5501eadd8f74c1b31373acf85d644d49"><head>Scope and Contents</head><p>Court of General Sessions of the County of New York, New York, Oct. 4-29, 1951. Typescript volume. October 19-29, 1951.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

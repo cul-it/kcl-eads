@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06091av</eadid><filedesc><titlestmt><titleproper>Greenbaum, Marcia Audio-Visual Materials <num>6091 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 28, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:28:57 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Marcia Greenbaum Audio-Visual Materials</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Greenbaum, Marcia</persname>
+    </origination>
+    <unitid>6091 AV</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.89 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1990/1992" type="inclusive">1990-1992</unitdate>
+    <physdesc id="aspace_1b932bdb087c45fef4a63d57153e1a45" label="Quantity:">1.9 linear ft.</physdesc>
+    <physdesc id="aspace_aa1c8d285303d00b57464c2f1491894f" label="Forms of Material:">Audiovisual materials.</physdesc>
+    <langmaterial id="aspace_db58cee71e17f1c3987b141d0323063d">Collection material in English</langmaterial>
+    <unitid type="bibid">8233948</unitid>
+  </did>
+  <odd id="aspace_d4a35b144ca844477638fb5ab53ee0c2">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, August 21, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 28, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_3074f1481f178bba38925e9a55a28321">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_06c39ac07a73ac2b6e116c6f976cec51">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_8459af1e920084e73167c81ae9808e19">
+    <head>Preferred Citation</head>
+<p>Marcia Greenbaum Audio-Visual Materials #6091 AV. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_e03f628449da42354dd4508f53c821d5">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06091.html"> 6091: Marcia Greenbaum Papers</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Greenbaum, Marcia L.</persname>
+  </controlaccess>
+  <unitid type="bibid">8233948</unitid>
+  <dsc><c01 id="aspace_97d0b39207b05d4139226df42c0e8371" level="file"><did><unittitle>ABCC Hearing - Boston Garden - Tape 1</unittitle><container id="aspace_b0efc6c6dacd825423c38e9c7a5d53ae" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_8afaa92e819be828892e06b69f4ab608" level="file"><did><unittitle>ABCC Hearing - Boston Garden - Tape 2</unittitle><container id="aspace_ff2be20884b39b21372736f21e2c1312" label="unspecified" type="box">2</container></did></c01><c01 id="aspace_ddb85fd2c76e9d980456cebc5c67a7e5" level="file"><did><unittitle>ABCC Hearing - Boston Garden - Tape 3</unittitle><container id="aspace_7721131a0fb7c55c04d7e2ab31639747" label="unspecified" type="box">3</container></did></c01><c01 id="aspace_7e41dd99cbbed723c8c86042275b0360" level="file"><did><unittitle>Newton/Police - 9/6/1977</unittitle><unitdate datechar="creation" normal="1977/1977">1977</unitdate><container id="aspace_49a0f728043b2db6c222a544ff260030" label="unspecified" type="box">4</container></did></c01><c01 id="aspace_9855e9da6aaf5acb0558c2eac373ad3e" level="file"><did><unittitle>unknown</unittitle><container id="aspace_7c48ece25a4f1aac5d367595bcfb8b9d" label="unspecified" type="box">5</container></did><scopecontent id="aspace_6b00fc7fdfa821406c2a1b2d443e75a7"><head>Scope and Contents</head><p>handwriting on tape is very hard to read, but, it is labeled</p></scopecontent></c01><c01 id="aspace_dcee5c0620c26fa51bdadc0dbed7a423" level="file"><did><unittitle>Grievance in Hammond Construction - January 13, 1977</unittitle><unitdate datechar="creation" normal="1977/1977">1977</unitdate><container id="aspace_5dc10fac781846bb24ea2b8799c7daa1" label="unspecified" type="box">6</container></did></c01><c01 id="aspace_b35442696ab8019d04b9f1e7d1518d30" level="file"><did><unittitle>Newton/Police -- 10/3/1977</unittitle><unitdate datechar="creation" normal="1977/1977">1977</unitdate><container id="aspace_ac83ed5ecff3f4d73a2ead7f8b69107c" label="unspecified" type="box">7</container></did></c01><c01 id="aspace_b289115bafcb1d7e5ff4d86e56726d82" level="file"><did><unittitle>Fred Bradley</unittitle><container id="aspace_c773ea0ea05a55b610673a2fa96bdeb2" label="unspecified" type="box">8</container></did></c01><c01 id="aspace_3c3ef0b301dbe005d9164c3e40ca5179" level="file"><did><unittitle>Tape for Parent Case - Chandler Evans</unittitle><container id="aspace_2878d44c37c76898482519962310788a" label="unspecified" type="box">9</container></did></c01><c01 id="aspace_5aee68fb5614b011842f7db102810880" level="file"><did><unittitle>Roger Dean</unittitle><container id="aspace_40b4614d3c67610aa4d75d007cc0086d" label="unspecified" type="box">10</container></did></c01><c01 id="aspace_15cd3ffc2fffa2a08ff5cb964490d0a5" level="file"><did><unittitle>Newton/Police - 9/27/1977</unittitle><unitdate datechar="creation" normal="1977/1977">1977</unitdate><container id="aspace_553a07410cbbb03651a0d05fed7537ef" label="unspecified" type="box">11</container></did></c01><c01 id="aspace_5ea5d9fd2ace19d4d96980c4f8f4efae" level="file"><did><unittitle>Newton/Police - 9/27/1977</unittitle><unitdate datechar="creation" normal="1977/1977">1977</unitdate><container id="aspace_bc9fe91ef6e62c3074572551f4fd1645" label="unspecified" type="box">12</container></did></c01><c01 id="aspace_3a8b8d0f09c625d9df8e8a462d2a796d" level="file"><did><unittitle>Union X3 - Piece of Steel Plate from a Flexographic I S machine - with polymer</unittitle><unitid>1</unitid><container id="aspace_edae7ee3a68b459587864adb0123f33f" label="unspecified" type="box">13</container></did></c01><c01 id="aspace_b7f59d8c54acfb33142df441aeee67e4" level="file"><did><unittitle>Union X2 - Piece of an Aluminum Plate from a 290 Letter flex Machine with Photopolymer Raised Type</unittitle><unitid>2</unitid><container id="aspace_4eed4584dba5b7a623fb6f3ddd64c197" label="unspecified" type="box">13</container></did></c01><c01 id="aspace_0b3c613f4ce10168464e05aa1da74632" level="file"><did><unittitle>Ruff in Blades Baham - open reel audio tape</unittitle><unitid>3</unitid><container id="aspace_635d2a359e6d22d07cdb03ddd13edaad" label="unspecified" type="box">13</container></did></c01><c01 id="aspace_a9bc7a4243f3db22bdedde3cd918b59b" level="file"><did><unittitle>South America: Route and Terminal Area Briefing -- 2/92 -- found in box 65 of 6091, and moved here</unittitle><unitid>4</unitid><unitdate datechar="creation" normal="1992/1992">1992</unitdate><container id="aspace_d316bb8d7b64f1a3c04a623d257c072e" label="unspecified" type="box">13</container></did></c01><c01 id="aspace_10e6b08e2393c3f79fec6274ac99f458" level="file"><did><unittitle>Amy Gizzarelli Termination/State of R.I.</unittitle><container id="aspace_91920eacff9a0e319a440f07c19fdb8a" label="unspecified" type="box">14</container></did><scopecontent id="aspace_6068ee6ba8fe64ad79836766edc5c3a6"><head>Scope and Contents</head><p>This cassette was discovered in box 95, ff 8 of 6091, and moved to here</p></scopecontent></c01><c01 id="aspace_46b45b7b587ea4d21f8d9ea5965d70aa" level="file"><did><unittitle>Guy D. Bateman - 6/7/90, LEB ARPT Mngr. - 7/15/90</unittitle><unitdate datechar="creation" normal="1990/1990">1990</unitdate><container id="aspace_b293127bf2fd5b8586d3f40d50e21ff5" label="unspecified" type="box">15</container></did><scopecontent id="aspace_9c852acee6646ea6b667a588adf729dc"><head>Scope and Contents</head><p>This cassette was discovered in box 45, ff 7 of 6091, and moved to here</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

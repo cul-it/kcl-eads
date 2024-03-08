@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06000-020p</eadid><filedesc><titlestmt><titleproper>UNITE Research Department Photographs <num>6000/020 P</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 30, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:20:01 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>UNITE Research Department Photographs</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Union of Needletrades, Industrial and Textile Employees (UNITE)</corpname>
+    </origination>
+    <unitid>6000/020 P</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1954/1977" type="inclusive">1954-1977</unitdate>
+    <physdesc id="aspace_eb0b3ea8cc23b0ffc0f0002d3060c0fb" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_f1b0d6e8c91d26593e96e12393dbd973" label="Forms of Material:">Photographs.</physdesc>
+    <langmaterial id="aspace_24219883accd10b9647114ad9f48e029">Collection material in English</langmaterial>
+    <unitid type="bibid">5751529</unitid>
+  </did>
+  <odd id="aspace_ee60dec80ccaaa3d2218968e1eaec05e">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, April 12, 2012</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 30, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_3468d7899096c53f015d2dc478735db5">
+    <head>Biographical / Historical</head>
+<p>UNITE, the Union of Needle Trades, Industrial, and Textile Employees was formed in 1995 after a merger between the International Ladies' Garment Workers Union (ILGWU) and the Amalgamated Clothing and Textile Workers Union (ACTWU). </p><p> In 2004 they announced they would merge with the Hotel Employees and Restaurant Employees Union (HERE) which created UNITE HERE. </p><p> Jay Mazur served as president of UNITE from its beginning until his retirement in 2001. Bruce Raynor was elected president at that time and served until the HERE merger.</p>  </bioghist>
+  <scopecontent id="aspace_8c00e934bcc243aa7fe5e591e21ca1ae">
+    <head>Scope and Contents</head>
+<p>This is a collection of over one hundred photographs showing members on strike in Eutaw, Alabama; Miami, Florida; and New Berry, South Carolina; plus other locations that are unlabeled.</p>  </scopecontent>
+  <accessrestrict id="aspace_d081adf0ba029b90cbe5679c754cb8c4">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_c58b984c6af3ecda88b88e4d8ab17025">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_34b95daf4796d6d0d7627ac707a9b306">
+    <head>Preferred Citation</head>
+<p>UNITE Research Department Photographs #6000/020 P. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_b12cd8964a21e976c6339ca6e219a12f">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06000-020.html"> 6000/020: UNITE Research Department Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06000-014.html"> 6000/014: UNITE Research Department Chronological Correspondence Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06000-003.html"> 6000/003: UNITE Research Department Historic Files</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Collective bargaining--Clothing industry--New York (State)</subject>
+    <subject source="ingest">Collective bargaining--Textile industry--New York (State)</subject>
+    <subject source="ingest">Textile workers--Labor unions--New York (State)</subject>
+    <subject source="ingest">Clothing workers--Labor unions--New York (State)</subject>
+    <subject source="ingest">Strikes and lockouts</subject>
+    <corpname audience="internal" source="ingest">Union of Needletrades, Industrial, and Textile Employees.</corpname>
+    <corpname audience="internal" source="ingest">Amalgamated Clothing and Textile Workers Union --Archives</corpname>
+    <corpname audience="internal" source="ingest">Amalgamated Clothing Workers of America --Archives</corpname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union --Archives</corpname>
+    <corpname audience="internal" source="ingest">Textile Workers Union of America --Archives</corpname>
+    <corpname audience="internal" source="ingest">Union of Needletrades, Industrial, and Textile Employees --Archives</corpname>
+    <corpname audience="internal" source="ingest">Union of Needletrades, Industrial, and Textile Employees. Research Department--Archives</corpname>
+    <corpname audience="internal" source="ingest">UNITE HERE (Organization) --Archives</corpname>
+  </controlaccess>
+  <unitid type="bibid">5751529</unitid>
+  <dsc><c01 id="aspace_9a51fe8fc181d646438d5405bd7c6280" level="file"><did><unittitle>Eutaw, Alabama strikes - 1977</unittitle><unitdate datechar="creation" normal="1977/1977">1977</unitdate><container id="aspace_54e608b2fcecba995c71f9fb301b819c" label="unspecified" type="box">1</container><container id="aspace_14d3b21b897e277b3ba7b82607f5d6e2" parent="aspace_54e608b2fcecba995c71f9fb301b819c" type="folder">1</container></did><scopecontent id="aspace_b98348358ba53b1a4f36e05717d87c3c"><head>Scope and Contents</head><p>5 photographs</p></scopecontent></c01><c01 id="aspace_bd766ecbb7891a59f531d9747461ce95" level="file"><did><unittitle>Miami, ca. 1954</unittitle><unitdate datechar="creation" normal="1954/1954">1954</unitdate><container id="aspace_8933dfa70f8de801eedc4d0387fc0a72" label="unspecified" type="box">1</container><container id="aspace_f807e5e979dfe98ccaa29ea34e54274e" parent="aspace_8933dfa70f8de801eedc4d0387fc0a72" type="folder">2</container></did><scopecontent id="aspace_f25e77d31cf8e108212cd99ab765d91e"><head>Scope and Contents</head><p>5 photographs</p></scopecontent></c01><c01 id="aspace_3cca389c092eccddb9fabfb4bf159302" level="file"><did><unittitle>Newberry Garment Strike - Newberry, SC - 1955</unittitle><unitdate datechar="creation" normal="1955/1955">1955</unitdate><container id="aspace_5c779c7405ec52e190e5d61a4d85b5b0" label="unspecified" type="box">1</container><container id="aspace_1d28e6d0d985828207e710357b8f368b" parent="aspace_5c779c7405ec52e190e5d61a4d85b5b0" type="folder">3</container></did><scopecontent id="aspace_a26b5fd795ce83733885ed8f89580ea2"><head>Scope and Contents</head><p>Newberry, South Carolina - ACWA, 1955 -- 4 photographs</p></scopecontent></c01><c01 id="aspace_7e4449746a6fc0d3ea11ec7968b5576e" level="file"><did><unittitle>New Berry, South Carolina - ACWA Organizing Strike - 1955</unittitle><unitdate datechar="creation" normal="1955/1955">1955</unitdate><container id="aspace_836092cf257ca7399bede7a0cd79eeaa" label="unspecified" type="box">1</container><container id="aspace_3e4c61ed59236bb2417d890bbdfca8f0" parent="aspace_836092cf257ca7399bede7a0cd79eeaa" type="folder">4</container></did><scopecontent id="aspace_4c4b701599608c2af596db0534b33281"><head>Scope and Contents</head><p>50 photographs</p></scopecontent></c01><c01 id="aspace_6477b1ed5edc9f44290cab06dbcdc501" level="file"><did><unittitle>Miscellaneous photographs</unittitle><container id="aspace_3c6cc1ed073fdfbb7cf81e025f41f3a7" label="unspecified" type="box">1</container><container id="aspace_72a8eb657e23dc0af3433e632d32857a" parent="aspace_3c6cc1ed073fdfbb7cf81e025f41f3a7" type="folder">5</container></did><scopecontent id="aspace_2b762b04d800e688985ab0fd4b62ad3f"><head>Scope and Contents</head><p>42 photographs</p></scopecontent></c01><c01 id="aspace_cf271f7e107504779d3e035c5cedcbc2" level="file"><did><unittitle>Miscellaneous photographs</unittitle><container id="aspace_9960f524b4778f8c5b1a526ab3451fa9" label="unspecified" type="box">1</container><container id="aspace_cac2b3dc5e89692c081188c41f04b990" parent="aspace_9960f524b4778f8c5b1a526ab3451fa9" type="folder">6</container></did><scopecontent id="aspace_6e10bacc6b6214faec62ebc0010ace13"><head>Scope and Contents</head><p>8 photographs</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

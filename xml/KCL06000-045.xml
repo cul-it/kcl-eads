@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06000-045</eadid><filedesc><titlestmt><titleproper>UNITE Southern Regional Joint Board Records <num>6000/045</num></titleproper><author>Compiled by R. Miles.</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 30, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:21:20 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>UNITE Southern Regional Joint Board Records</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Union of Needletrades, Industrial and Textile Employees (UNITE)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">UNITE Southern Regional Joint Board</corpname>
+    </origination>
+    <unitid>6000/045</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1997/2003" type="inclusive">1997-2003</unitdate>
+    <physdesc id="aspace_51a63c97d50edc988c6c49ec577192f1" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_bfe67eb3a7677ad34b857378856d7d2a" label="Forms of Material:">Files, records.</physdesc>
+    <langmaterial id="aspace_e8d433586ff7e1fb2edd2b741d0cd2f9">Collection material in English</langmaterial>
+    <unitid type="bibid">6766713</unitid>
+  </did>
+  <odd id="aspace_73215adc1b4c67b30ca75ba96336ec54">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>R. Miles., October 30, 2015</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 30, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_dad902d278716475e1a005f5fa3e765b">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_173013dd3248177b11ce63ff03b64983">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_e2fbd3b9a001e93389ce69848c762f74">
+    <head>Preferred Citation</head>
+<p>UNITE Southern Regional Joint Board Records #6000/045. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_0bddc0d59245d171e6bb2b7f0b6737cb">
+    <head>Related Materials</head>
+<p>Related Collections:</p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Clothing industry--New York (State)--New York</subject>
+    <subject source="ingest">Clothing industry--United States.</subject>
+    <subject source="ingest">Clothing workers--Labor unions--New York (State)--New York</subject>
+    <subject source="ingest">Clothing workers--Labor unions--United States.</subject>
+    <subject source="ingest">Textile industry--New York (State)--New York</subject>
+    <subject source="ingest">Textile industry--United States.</subject>
+    <subject source="ingest">Textile workers--Labor unions--New York (State)--New York</subject>
+    <subject source="ingest">Textile workers--Labor unions--United States.</subject>
+    <corpname audience="internal" source="ingest">Union of Needletrades, Industrial and Textile Employees</corpname>
+    <corpname audience="internal" source="ingest">Union of Needletrades, Industrial and Textile Employees --Constitutions.</corpname>
+  </controlaccess>
+  <unitid type="bibid">6766713</unitid>
+  <dsc><c01 id="aspace_dc9aaf5c1d6f881eb8c7b0b49815c24c" level="file"><did><unittitle>Sidney Hillman Foundation. Prize Award Program.</unittitle><unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate><container id="aspace_09c099dd803562b5f30961cbfe7f76fa" label="unspecified" type="box">1</container><container id="aspace_f9d9e9d3b457a24362a740941bf9c5d8" parent="aspace_09c099dd803562b5f30961cbfe7f76fa" type="folder">1</container></did></c01><c01 id="aspace_29b590543494a47181af1ebd1143909b" level="file"><did><unittitle>UNITE. Constitution. English.</unittitle><unitdate datechar="creation" normal="2003/2003">2003</unitdate><container id="aspace_15483945b60b96d477bfd778fbda557e" label="unspecified" type="box">1</container><container id="aspace_8d6571abbd6ca72411aa4926be0b1951" parent="aspace_15483945b60b96d477bfd778fbda557e" type="folder">2</container></did></c01><c01 id="aspace_ce896a24e182dd5a900fb88c67620c6c" level="file"><did><unittitle>UNITE. Constitution. French.</unittitle><unitdate datechar="creation" normal="2003/2003">2003</unitdate><container id="aspace_12e877e5ce1176ce60ac4c386f131643" label="unspecified" type="box">1</container><container id="aspace_71105af5876d6b0d65b6cb1b01e67201" parent="aspace_12e877e5ce1176ce60ac4c386f131643" type="folder">3</container></did></c01><c01 id="aspace_8c660cfea7902b809dc610bd509a75b7" level="file"><did><unittitle>UNITE. Constitution. Spanish.</unittitle><unitdate datechar="creation" normal="2003/2003">2003</unitdate><container id="aspace_22c4ce782be35510aaf6e5a43163b29f" label="unspecified" type="box">1</container><container id="aspace_41a2f57313c3d7eabdf364f49a63729e" parent="aspace_22c4ce782be35510aaf6e5a43163b29f" type="folder">4</container></did></c01><c01 id="aspace_d13f40084449c18301efb3f5cfefef81" level="file"><did><unittitle>UNITE. Directory of Products Made by Our Members.</unittitle><unitdate datechar="creation" normal="1997/1997">1997</unitdate><container id="aspace_bb17f1095dab7feb0181f612b93b3743" label="unspecified" type="box">1</container><container id="aspace_47c1f23b57c7af2d83b2ddaf672fb61e" parent="aspace_bb17f1095dab7feb0181f612b93b3743" type="folder">5</container></did></c01><c01 id="aspace_48e0f8e2ea7587bba91defbda4fa16ba" level="file"><did><unittitle>UNITE. General Executive Board. Meeting Materials.</unittitle><unitdate datechar="creation" normal="2003/2003">2003</unitdate><container id="aspace_4e879a32f3b1beac2e581e4239a98fef" label="unspecified" type="box">1</container><container id="aspace_a0f136354d229650c5b76b20cefd4d29" parent="aspace_4e879a32f3b1beac2e581e4239a98fef" type="folder">6</container></did></c01><c01 id="aspace_a2707e305c5457d1e7fe971b87380a29" level="file"><did><unittitle>UNITE. Proceedings of the 2nd Convention. Vol. 1.</unittitle><unitdate datechar="creation" normal="2003/2003">2003</unitdate><container id="aspace_ae6b66c455b39dcccc334e4f30ea0ed5" label="unspecified" type="box">1</container><container id="aspace_5a326485b403b4b62989c876dca301e0" parent="aspace_ae6b66c455b39dcccc334e4f30ea0ed5" type="folder">7</container></did></c01><c01 id="aspace_71a26525b4378773f00aecf7350f54ca" level="file"><did><unittitle>UNITE. Proceedings of the 2nd Convention. Vol. 2.</unittitle><unitdate datechar="creation" normal="2003/2003">2003</unitdate><container id="aspace_644d4e8d3d43e3b2eb729d782853fa02" label="unspecified" type="box">1</container><container id="aspace_8695108791cd59a57d3e2a96ca2c068c" parent="aspace_644d4e8d3d43e3b2eb729d782853fa02" type="folder">8</container></did></c01><c01 id="aspace_6f8a815ac7b913f13b83facbeb944af9" level="file"><did><unittitle>UNITE. Proceedings of the 2nd Convention. Vol. 3.</unittitle><unitdate datechar="creation" normal="2003/2003">2003</unitdate><container id="aspace_c417d3e3be854c4d8bb359d7342fd7d6" label="unspecified" type="box">1</container><container id="aspace_108abafc04951cce0af9fcece7a3ee14" parent="aspace_c417d3e3be854c4d8bb359d7342fd7d6" type="folder">9</container></did></c01><c01 id="aspace_34dd7e7e94b259f1f2393bd64485fc3e" level="file"><did><unittitle>UNITE. Shops by State and Congressional District.</unittitle><unitdate datechar="creation" normal="1998/1998">1998</unitdate><container id="aspace_fde0fb33e76c5324d9eb9a5837441111" label="unspecified" type="box">1</container><container id="aspace_0063021b8f618d23ab8d77584dea577f" parent="aspace_fde0fb33e76c5324d9eb9a5837441111" type="folder">10</container></did></c01><c01 id="aspace_6e0e293af8ec073cbf03c1381af06fbd" level="file"><did><unittitle>UNITE. Shops by State and Congressional District.</unittitle><unitdate datechar="creation" normal="2002/2002">2002</unitdate><container id="aspace_5b6ecf4d30fa30edb61c039b187941ae" label="unspecified" type="box">1</container><container id="aspace_1171626964884e4c56f91e2a587a880f" parent="aspace_5b6ecf4d30fa30edb61c039b187941ae" type="folder">11</container></did></c01></dsc>
+</archdesc>
+</ead>

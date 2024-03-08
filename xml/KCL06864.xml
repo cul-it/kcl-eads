@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06864</eadid><filedesc><titlestmt><titleproper>Vogel, Robert M. Collection of Textile Industry Records <num>6864</num></titleproper><author>Compiled by M. Clark</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 09, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:49:53 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Robert M. Vogel Collection of Textile Industry Records</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Vogel, Robert M.</persname>
+    </origination>
+    <unitid>6864</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1720/1937" type="inclusive">1720-1937</unitdate>
+    <physdesc id="aspace_44e8a31031f2be761f1739cad687ef96" label="Quantity:">0.2 linear ft.</physdesc>
+    <physdesc id="aspace_58ee7c5652358450bb9549b5843df775" label="Forms of Material:">Correspondence, letterheads, records (documents) .</physdesc>
+    <abstract id="aspace_141c7ab36ae8c0b1051c30a9a373ccf7">Collection of materials related to the textile industry including Amoskeag Co. blank forms. Comparisons of wages between foreign and American printeries. Correspondence to H. Saltonstall, Treasurer, Pacific Mills, Boston. Letter from Jess Chandler of Methuen, Mass. to his niece. Document from an unidentified compiler in England describing loss of money from uncertainty of finding a purchaser for winding engines because of threats of throwsters to destroy engines. Letter from Bent, treasurer of Mason Machine Works, Taunton, Mass., to Chace at Bourne Mills in Fall River, Mass. Also includes a letter, from H &amp; B (Howard and Bullough) American Machine Company, Pawtucket, R.I., to Lawrence Anderson, Superintendent, Laurel Lake Mills, Fall River</abstract>
+    <langmaterial id="aspace_acce33d2b97cfc0ef80a88fbf154b912">Collection material in English</langmaterial>
+    <unitid type="bibid">11021677</unitid>
+  </did>
+  <odd id="aspace_bd0dee2dbb7f2a5fe3439d34a00bc682">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>M. Clark, September 05, 2019</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Marcie Farwell, October 09, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <scopecontent id="aspace_2d26a09da0bffaf6fff6ec4958813cd8">
+    <head>Scope and Contents</head>
+<p>Collection of materials related to the textile industry including Amoskeag Co. blank forms. Comparisons of wages between foreign and American printeries. Correspondence to H. Saltonstall, Treasurer, Pacific Mills, Boston. Letter from Jess Chandler of Methuen, Mass. addressed to Chandler's niece, April 26, 1937. Document from an unidentified compiler in England describing loss of money from uncertainty of finding a purchaser for winding engines because of threats of throwsters to destroy engines. Bent, treasurer of Mason Machine Works, Taunton, Mass., writes to Chace at Bourne Mills in Fall River, Mass., about measurements of belts for cards and railway heads. Also includes a letter, dated Nov. 19, 1927, from H &amp; B (Howard and Bullough) American Machine Company, Pawtucket, R.I., to Lawrence Anderson, Superintendent, Laurel Lake Mills, Fall River. H &amp; B Co. was a builder of cotton machinery.</p>  </scopecontent>
+  <custodhist id="aspace_0c99b7dc3489cca523f82eca6c798ae7">
+    <head>Custodial History</head>
+<p>American Textile History Museum Collection, gift of Robert M. Vogel.</p>  </custodhist>
+  <accessrestrict id="aspace_b812e9eef23605eafa63a50780e4e940">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_36af223e78ba28dbd813fe3d6126e13f">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_5fdcec147e0702381b82c01cd4e6a029">
+    <head>Preferred Citation</head>
+<p>Robert M. Vogel Collection of Textile Industry Records #6864. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_754f2e6c4afa1522bf0bf8a8737754a7">
+    <head>Related Materials</head>
+<p>Related Collections: 6864 G: Robert M. Vogel Collection of Textile Industry Graphics 6864 P: Robert M. Vogel Collection of Textile Industry Photographs 6864 PUBS: Robert M. Vogel Collection of Textile Industry Publications</p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Cotton machinery industry</subject>
+    <subject source="ingest">Cotton manufacture</subject>
+    <subject source="ingest">Cotton technology -- General</subject>
+    <subject source="ingest">Industrial relations</subject>
+    <subject source="ingest">Industries</subject>
+    <subject source="ingest">Invoices</subject>
+    <subject source="ingest">Labor</subject>
+    <subject source="ingest">Mill superintendents</subject>
+    <subject source="ingest">Ribbon industry</subject>
+    <subject source="ingest">Silk industry</subject>
+    <subject source="ingest">Silk technology-General</subject>
+    <subject source="ingest">Textile industry</subject>
+    <subject source="ingest">Textile machinery industry</subject>
+    <subject source="ingest">Textile workers</subject>
+    <subject source="ingest">Woolen and worsted finishing</subject>
+    <subject source="ingest">Woolen and worsted machinery</subject>
+    <subject source="ingest">Woolen and worsted manufacture</subject>
+    <subject source="ingest">Other cloth fabrication methods</subject>
+    <subject source="ingest">Opening and dusting</subject>
+    <subject source="ingest">Wool technology -- General</subject>
+    <subject source="ingest">Fall River (Mass.)</subject>
+    <subject source="ingest">Pawtucket (R.I.)</subject>
+    <subject source="ingest">Taunton (Mass.)</subject>
+    <persname audience="internal" source="ingest">Charles H. Robie.</persname>
+    <persname audience="internal" source="ingest">Courtney, M. M.</persname>
+    <persname audience="internal" source="ingest">Vogel, Robert M.</persname>
+    <corpname audience="internal" source="ingest">American Detective Service Company.</corpname>
+    <corpname audience="internal" source="ingest">Amoskeag Manufacturing Company.</corpname>
+    <corpname audience="internal" source="ingest">Bourne Mills (Fall River, Mass.)</corpname>
+    <corpname audience="internal" source="ingest">Greenville Cotton Mills Company (Greenville, S.C.)</corpname>
+    <corpname audience="internal" source="ingest">Howard &amp; Bullough American Machine Company.</corpname>
+    <corpname audience="internal" source="ingest">L. Dannenbaum's Son &amp; Company.</corpname>
+    <corpname audience="internal" source="ingest">Laurel Lake Mills (Fall River, Mass.)</corpname>
+    <corpname audience="internal" source="ingest">M.T. Stevens &amp; Sons Co., Inc.</corpname>
+    <corpname audience="internal" source="ingest">Mason Machine Works.</corpname>
+    <corpname audience="internal" source="ingest">Pine Tree Silk Mills (Philadelphia, Pa.)</corpname>
+  </controlaccess>
+  <unitid type="bibid">11021677</unitid>
+  <dsc><c01 id="aspace_c5292c8bc6993c8108ba61990ff60f29" level="file"><did><unittitle>Comparisons of wages</unittitle><unitdate datechar="creation" normal="1884/1893" type="inclusive">1884-1893</unitdate><container id="aspace_18e4e98a3e363b0e1a3d63dc7144ee85" label="unspecified" type="box">1</container><container id="aspace_1596cb33402b573a0fa82cd957177eb4" parent="aspace_18e4e98a3e363b0e1a3d63dc7144ee85" type="folder">1</container></did><scopecontent id="aspace_05239f7c391aba7eacc69926f1c0d517"><head>Scope and Contents</head><p>Comparisons of wages between foreign and American printeries. Includes a list of wage rates by job, particularly of printers and weavers. Companies mentioned include Cocheco Manufacturing Co., Dover, N.H., and Merrimack Print Works, Lowell, Mass., as well as four unnamed print works in Scotland.</p></scopecontent></c01><c01 id="aspace_660a81d3f0a11120144c19092f37f944" level="file"><did><unittitle>Letter from Jess Chandler of Meuthen, Mass. To niece -- re: his career in textile industry</unittitle><unitdate datechar="creation" normal="1937/1937">1937</unitdate><container id="aspace_4cadb07b153094b3e88ca3f748a00bae" label="unspecified" type="box">1</container><container id="aspace_cfd638167dc04dc70f321ed63807654c" parent="aspace_4cadb07b153094b3e88ca3f748a00bae" type="folder">2</container></did><scopecontent id="aspace_b4e24b92b3ac3c09b911d88322499176"><head>Scope and Contents</head><p>Letter indicates that Chandler's father was the first to build this type of loom in the area.</p></scopecontent></c01><c01 id="aspace_9a3407e75126f227cc9c471cd294e2a1" level="file"><did><unittitle>Johnson &amp; Colby Letter</unittitle><unitdate datechar="creation" normal="1856/1856">1856</unitdate><container id="aspace_1be875f0b168de05197acccafd4c440c" label="unspecified" type="box">1</container><container id="aspace_be5a2d88701fc3ba9e7b00cb7ebd4b74" parent="aspace_1be875f0b168de05197acccafd4c440c" type="folder">3</container></did><scopecontent id="aspace_94658c6d8953ea512a8ce30bd5dedb4e"><head>Scope and Contents</head><p>Letter is addressed to Mr. Batchelder and discusses the price of wool</p></scopecontent></c01><c01 id="aspace_2f328d957cdcf58be4ac4b303bb768bd" level="file"><did><unittitle>Batchelder, Samuel - Correspondence</unittitle><unitdate datechar="creation" normal="1861/1863" type="inclusive">1861-1863</unitdate><container id="aspace_40bf9c04fde89ae26b961983b2b167a7" label="unspecified" type="box">1</container><container id="aspace_f276a7c206bfe93922f56a7745696665" parent="aspace_40bf9c04fde89ae26b961983b2b167a7" type="folder">4</container></did><scopecontent id="aspace_48fa5474105f3b8edd59c796e33201eb"><head>Scope and Contents</head><p>Addressed to Mr.Crombie discussing sale and purchase of cotton and wool, 1862- 63 (includes comment on recruiting workers from Manchester, England).</p></scopecontent></c01><c01 id="aspace_978d379fe9bf8d8add3f3b075d9f6071" level="file"><did><unittitle>Silk winders petition - ca. 1720</unittitle><unitdate datechar="creation" normal="1720/1720">1720</unitdate><container id="aspace_215634ff727fbce50057db4b55b83531" label="unspecified" type="box">1</container><container id="aspace_40a5b5a1fd8079c5d3b21e7f57853f96" parent="aspace_215634ff727fbce50057db4b55b83531" type="folder">5</container></did><scopecontent id="aspace_2fb3db8dd181f0fc4efeada5599b7c3c"><head>Scope and Contents</head><p>Document from an unidentified compiler in England describing loss of money from uncertainty of finding a purchaser for winding engines because of threats of throwsters to destroy engines. Also outlines advantages to throwsters and the poor in using and managing engines</p></scopecontent></c01><c01 id="aspace_571c9537ffd2d70408911de491871a54" level="file"><did><unittitle>William Bent of mason Machine Works to George Chase, Bourne Mills, 1882 -- A&amp;B American Machine Co. to Lawrence Anderson, Laurel Lake Mills, 1927 (2 letters)</unittitle><unitdate datechar="creation" normal="1882/1927" type="inclusive">1882-1927</unitdate><container id="aspace_0385cf762d3b136aa04e9842ffbed086" label="unspecified" type="box">1</container><container id="aspace_643bd6184d96703ba9e0c28325f36b0f" parent="aspace_0385cf762d3b136aa04e9842ffbed086" type="folder">6</container></did><scopecontent id="aspace_4f8fc6a0d63ec1d11945ff9b09eb7d1e"><head>Scope and Contents</head><p>Bent, treasurer of Mason Machine Works, Taunton, Mass., writes to Chace at Bourne Mills in Fall River, Mass., about measurements of belts for cards and railway heads. Collection also includes a letter, dated Nov. 19, 1927, from H &amp; B (Howard and Bullough) American Machine Company, Pawtucket, R.I., to Lawrence Anderson, Superintendent, Laurel Lake Mills, Fall River. H &amp; B Co. was a builder of cotton machinery. Letter concerns a blueprint showing proposed arrangement of hopper bale opener, condensor, lattice and fan.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

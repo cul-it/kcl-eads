@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05618p</eadid><filedesc><titlestmt><titleproper>Wrege, Charles D. History of Management Collection of Midvale Steel Company Photographs <num>5618 P</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 21, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 15:48:08 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Charles D. Wrege History of Management Collection of Midvale Steel Company Photographs</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Wrege, Charles D.</persname>
+    </origination>
+    <unitid>5618 P</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1884/1954" type="inclusive">1884-1954</unitdate>
+    <physdesc id="aspace_002a95cc0a273705ae20edb264ee2382" label="Quantity:">0.3 linear ft.</physdesc>
+    <physdesc id="aspace_d9e537656007418a3b19ce009bfd555d" label="Forms of Material:">Photographs.</physdesc>
+    <abstract id="aspace_9abae38c3550c20a9fbc03ec33353015">Includes Frederick W. Taylor, Henry S. Dennison, Midvale Steel Company site, buildings, surrounding areas, executives, offices, workers, train shipments, dining areas, laboratories, steam hammers, scientific management processes, medical services, steel working processes, munitions production, etc.</abstract>
+    <langmaterial id="aspace_7b0d8c6fb391d7ae49b270db359472dd">Collection material in English</langmaterial>
+    <unitid type="bibid">7941004</unitid>
+  </did>
+  <odd id="aspace_93a33ccfb847e4105efef83d4ea934e1">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, January 10, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 21, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_e148db47785cc2a05e0cf793c7943f71">
+    <head>Biographical / Historical</head>
+<p>Charles "Chuck" Wrege finished his undergraduate degree in Upsala College, obtained his Masters degree at the New School fo Social Research and another Masters of Business Administration and his Ph.D. at NYU. He taught industrial management at Rutgers University for 30 years. He became a renowned historian, researcher and writer. He is regarded as a "National Treasure" by many in his field because of his expertise and the seminal research he has done in the area of management history.</p>  </bioghist>
+  <scopecontent id="aspace_6391ec7c202228f045fb895a6f842668">
+    <head>Scope and Contents</head>
+<p>Includes Frederick W. Taylor, Henry S. Dennison, Midvale Steel Company site, buildings, surrounding areas, executives, offices, workers, train shipments, dining areas, laboratories, steam hammers, scientific management processes, medical services, steel working processes, munitions production, etc.</p>  </scopecontent>
+  <accessrestrict id="aspace_06212f1366d7b417d2bd747897c718c5">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_0264df628084fa08e19f41958a4cc1c3">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_a76935a6f42935bcf544a02be2481aac">
+    <head>Preferred Citation</head>
+<p>Charles D. Wrege History of Management Collection of Midvale Steel Company Photographs #5618 P. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_aee82955cb9b7fea18cbda5fdeae5b72">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05167.html"> 5167: Charles D. Wrege Hawthorne Studies Research Data</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05618.html"> 5618: Charles D. Wrege Research Papers Regarding History of Management</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06012.html"> 6012: Charles D. Wrege Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06012av.html"> 6012 AV: Charles D. Wrege Collection of Audio-Visual Materials</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06012m.html"> 6012m: Charles D. Wrege "Facts and Fallacies of Hawthorne" Doctoral Dissertation.</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06013p.html"> 6013 P: Charles D. Wrege Collection of Midvale Steel Company Photographic Negatives</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06014.html"> 6014: Charles D. Wrege Collection of History of Management Documents</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06014p.html"> 6014 P: Charles D. Wrege Collection of History of Management Photographs</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06054.html"> 6054: Charles D. Wrege Collection of Additional Taylor Charts</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06271.html"> 6271: Charles D. Wrege Collection of International Management Institute Correspondence</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06304.html"> 6304: Charles Wrege Collection of Midvale Steel Company Index Cards</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Dennison, Henry S. (Henry Sturgis), 1877-1952</persname>
+    <persname audience="internal" source="ingest">Taylor, Frederick Whitaker, 1866-1952.</persname>
+    <persname audience="internal" source="ingest">Wrege, Charles D.</persname>
+    <corpname audience="internal" source="ingest">Midvale Steel Company -- Photographs</corpname>
+  </controlaccess>
+  <unitid type="bibid">7941004</unitid>
+  <dsc><c01 id="aspace_c4f6857814ea6cc53bcb251d24cef203" level="file"><did><unittitle>Midvale Steel Co. P1-9</unittitle><container id="aspace_1f4db690fe8cf756c81fc208dd4eebb4" label="unspecified" type="box">1</container><container id="aspace_37988dbfded3109556b9ec7842f97f3f" parent="aspace_1f4db690fe8cf756c81fc208dd4eebb4" type="folder">1</container></did><scopecontent id="aspace_be29578aee9b34b6f6b764edd7604768"><head>Scope and Contents</head><p>9 photographs</p></scopecontent></c01><c01 id="aspace_0d9b8d3668c22ba73cef66f0d586cabd" level="file"><did><unittitle>Midvale Steel Co. P10-20</unittitle><container id="aspace_75c4a1dcdc741ea4cce68c9500463eb8" label="unspecified" type="box">1</container><container id="aspace_5e500434f42148617ba040d0f94b48e6" parent="aspace_75c4a1dcdc741ea4cce68c9500463eb8" type="folder">2</container></did><scopecontent id="aspace_e1c08a68379f065cdaf6da061dcc0788"><head>Scope and Contents</head><p>9 photographs</p></scopecontent></c01><c01 id="aspace_1f34e7643be110d2658e78d671d3a27f" level="file"><did><unittitle>Midvale Steel Co. P21-29</unittitle><container id="aspace_f55b2f57f802e67aacba2aeae03dc1e2" label="unspecified" type="box">1</container><container id="aspace_5f3137fa8aead19b257253f510e26b15" parent="aspace_f55b2f57f802e67aacba2aeae03dc1e2" type="folder">3</container></did><scopecontent id="aspace_69864b72788697fc839f5d58d80b1974"><head>Scope and Contents</head><p>9 photographs</p></scopecontent></c01><c01 id="aspace_8a7fe9939aada38faf42d61d1b6afced" level="file"><did><unittitle>Midvale Steel Co. P30-38</unittitle><container id="aspace_6ee2fdb73db7405f036b020688e1bf0d" label="unspecified" type="box">1</container><container id="aspace_00506a93c8a4530bc516379312b4ce82" parent="aspace_6ee2fdb73db7405f036b020688e1bf0d" type="folder">4</container></did><scopecontent id="aspace_c4d6e5ef139071eef334aba97f43de27"><head>Scope and Contents</head><p>9 photographs</p></scopecontent></c01><c01 id="aspace_70a7beb56bd9abd5a4af4dedfd08a992" level="file"><did><unittitle>Midvale Steel Co. P39-49</unittitle><container id="aspace_e3b8a385ae314bb07df86769c1d31bf1" label="unspecified" type="box">1</container><container id="aspace_4d9d1cb442083ebbca9b26e2f4bafb31" parent="aspace_e3b8a385ae314bb07df86769c1d31bf1" type="folder">5</container></did><scopecontent id="aspace_2ffaae64020e7bf289f0d0ff6aa56772"><head>Scope and Contents</head><p>11 photographs</p></scopecontent></c01><c01 id="aspace_b7bb423b00ede0415123439925813f06" level="file"><did><unittitle>Midvale Steel Co.</unittitle><container id="aspace_fd133d4671b379b8751fcb848f505766" label="unspecified" type="box">1</container><container id="aspace_1490e94847b90937ca268b5da8d871b7" parent="aspace_fd133d4671b379b8751fcb848f505766" type="folder">6</container></did></c01><c01 id="aspace_5e295d1eefe6dfd460b09d90bcf5891b" level="file"><did><unittitle>Images digitized from the collection.</unittitle><container id="aspace_d08388e6a85580f00abb7d69dcd85166" label="unspecified" type="box">2</container></did></c01></dsc>
+</archdesc>
+</ead>

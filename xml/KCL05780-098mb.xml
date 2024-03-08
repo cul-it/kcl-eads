@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05780-098mb</eadid><filedesc><titlestmt><titleproper>ILGWU Paintings, Photographs, and Memorabilia <num>5780/098 MB</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 11, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:03:23 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILGWU Paintings, Photographs, and Memorabilia</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">International Ladies' Garment Workers' Union (ILGWU)</corpname>
+    </origination>
+    <unitid>5780/098 MB</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3.22 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1965/1975" type="inclusive">1965-1975</unitdate>
+    <physdesc id="aspace_7d461b301d6184e9e288aaaeabf2e2ca" label="Quantity:">2 linear ft.</physdesc>
+    <physdesc id="aspace_5954868ec804cc605a8ba16849338284" label="Forms of Material:">Records (documents), memorabilia.</physdesc>
+    <abstract id="aspace_21eb841dc55d98baedef49d88f8d6303">This collection contains correspondence, memoranda, and reports relating to the Political Department's lobbying activities in Washington, D.C. Also contained in this collection are letters and receipts documenting campaign contributions, alphabetical files on states, as well as files on local unions, joint boards, and regional departments. The records of the Political Department also contain ephemeral printed material relating to political campaigns, including pamphlets, posters, and fliers.</abstract>
+    <langmaterial id="aspace_b47ced0908aeee759979bf84ccde3bee">Collection material in English</langmaterial>
+    <unitid type="bibid">5493155</unitid>
+  </did>
+  <odd id="aspace_f9cf968e9f0161352f931f648057e2c2">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, March 07, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 11, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_ba50a3e411200d8c10262b5b56c846cb">
+    <head>Biographical / Historical</head>
+<p>The International Ladies' Garment Workers' Union was once one of the largest labor unions in the United States founded in 1900 by local union delegates representing about 2,000 members in cities in the northeastern United States. It was one of the first U.S. Unions to have a membership consisting of mostly females, and it played a key role in the labor history of the 1920s and 1930s. The union is generally referred to as the "ILGWU" or the "ILG". The ILGWU grew in geographical scope, membership size, and political influence to become one of the most powerful forces in American organized labor by mid-century. Representing workers in the women's garment industry, the ILGWU worked to improve working and living conditions of its members through collective bargaining agreements, training programs, health care facilities, cooperative housing, educational opportunities, and other efforts. The ILGWU merged with the Amalgamated Clothing and Textile Workers Union in 1995 to form the Union of Needle trades, Industrial and Textile Employees (UNITE). UNITE merged with the Hotel Employees and Restaurant Employees Union (HERE) in 2004 to create a new union known as UNITE HERE. The two unions that formed UNITE in 1995 represented only 250,000 workers between them, down from the ILGWU's peak membership of 450,000 in 1969.</p>  </bioghist>
+  <accessrestrict id="aspace_d777a2d0661cafa890a630bce8fe1198">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_eac585023909f6e1e8aac9debbcdb8f9">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_e3fd1ec8d1d6b8a9ce02cbf602f3792f">
+    <head>Preferred Citation</head>
+<p>ILGWU Paintings, Photographs, and Memorabilia #5780/098 MB. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_044b9103b7501fe830ef1dcca325b2d6">
+    <head>Related Materials</head>
+<p>Related Collections: All 5780 Collections</p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Women's clothing industry--United States.</subject>
+    <subject source="ingest">Clothing workers--Labor unions--United States.</subject>
+    <subject source="ingest">Clothing workers--United States.</subject>
+    <subject source="ingest">Industrial relations--United States.</subject>
+    <persname source="ingest">Carey, Hugh L.</persname>
+    <persname audience="internal" source="ingest">Dubinsky, David, 1892-1982.</persname>
+    <persname audience="internal" source="ingest">Dubrow, Evelyn</persname>
+    <persname audience="internal" source="ingest">Fiene, Ernest, 1894-1966</persname>
+    <persname audience="internal" source="ingest">Gompers, Samuel, 1850-1924</persname>
+    <persname audience="internal" source="ingest">Green, William, 1872-1952</persname>
+    <persname audience="internal" source="ingest">Loeb, Mitchell</persname>
+    <persname audience="internal" source="ingest">Schlesinger, Benjamin, 1876-1932</persname>
+    <persname audience="internal" source="ingest">Sigman, Morris, 1880-1931</persname>
+    <persname audience="internal" source="ingest">Stulberg, Louis, 1901-1977</persname>
+    <persname audience="internal" source="ingest">Wells, David</persname>
+    <corpname audience="internal" source="ingest">AFL-CIO</corpname>
+    <corpname source="ingest">International Ladies' Garment Workers' Union</corpname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union --Collectibles</corpname>
+    <corpname audience="internal" source="ingest">Jewish Labor Committee (U.S.)</corpname>
+    <corpname audience="internal" source="ingest">Labor Federation of Jewish Workers</corpname>
+    <corpname audience="internal" source="ingest">National Coat and Suit Industry Recovery Board (U.S.)</corpname>
+  </controlaccess>
+  <unitid type="bibid">5493155</unitid>
+  <dsc><c01 id="aspace_81a180a67c2a925c29a4f524317d8cee" level="file"><did><unittitle>4 paintings stored in upright container (see listing)</unittitle><container id="aspace_7fdd0a8ca8dd74cce84ba2f5d680d839" label="unspecified" type="box">1</container><container id="aspace_2779278eaf016e2ccb5303833b374336" parent="aspace_7fdd0a8ca8dd74cce84ba2f5d680d839" type="folder">1</container></did><scopecontent id="aspace_6c72116c0859039aac2aa35b68e83380"><head>Scope and Contents</head><p>Morris Sigman painting ; Benjamin Sclesinger painting ; David Dubinsky, black and white drawing ; President Louis Stulberg painting</p></scopecontent></c01><c01 id="aspace_d4f85c8fa46d394f5b1050d09d1e828a" level="file"><did><unittitle>65 Trees in the Histadruth Forest in the name of David Dubinsky: embellished metal frame and announcement</unittitle><container id="aspace_7a4868f4d67afa315cc7d886a80811b1" label="unspecified" type="box">3</container><container id="aspace_3e5906a881cf4a63ee2085ec3aec01e1" parent="aspace_7a4868f4d67afa315cc7d886a80811b1" type="folder">1</container></did></c01><c01 id="aspace_cd53cbd4a767ded67d58024ba603e6b0" level="file"><did><unittitle>Testimonial to David Dubinsky: In appreciation of service by Jewish Labor Committee of Chicago</unittitle><container id="aspace_1480edb901dd5a18eaed765397a6039c" label="unspecified" type="box">3</container><container id="aspace_067c439f52574dff193029607ec12452" parent="aspace_1480edb901dd5a18eaed765397a6039c" type="folder">2</container></did></c01><c01 id="aspace_3c57029423520136abbfb5e9a42b8109" level="file"><did><unittitle>Sketch of David Dubinsky</unittitle><container id="aspace_77e1713a755d9de2501be0c1b7c67b85" label="unspecified" type="box">3</container><container id="aspace_7ff124c449c8e0c939c543b055cbf7ee" parent="aspace_77e1713a755d9de2501be0c1b7c67b85" type="folder">3</container></did><scopecontent id="aspace_2bba76abc3f198398e797a245b183eb5"><head>Scope and Contents</head><p>Black and white drawing of President David Dubinsky</p></scopecontent></c01><c01 id="aspace_cc87f630edb4e8792f4e0689efe48242" level="file"><did><unittitle>David Dubinsky Awards</unittitle><container id="aspace_0e42fe10edbd9ddbeb849335b63a5f53" label="unspecified" type="box">4</container><container id="aspace_cc444defc12ba2b7d9ef97f2d5d21075" parent="aspace_0e42fe10edbd9ddbeb849335b63a5f53" type="folder">1</container></did><scopecontent id="aspace_142eaeea612140232e0777eeb8839056"><head>Scope and Contents</head><p>(formerly box 8) -- Presented to David Dubinsky in Deep Appreciation of his role in creating and sustaining the Jewish Labor Committee, November 16, 1973 ; Resolution of the American Federation of Labor and Congress of Industrial Organizations on David Dubinsky…February 16, 1970 ; United-Italian American Labor Council, Inc. Four Freedoms Award…December 21, 1961 ; Proclamation, State of New York, Executive Chamber…October 9th, 1979 ; The General Assembly of the Citizens gathered in extraordinary session unanimously deliberated to confer the title of Honorary Founder… ; David Dubinsky is recognized by Gov. Silvio Ascari of the Federazione Unitaria Italiana Lavoratori Abbigliamento (FUILA) for 25 years as President of the ILGWU. June 13, 1957. [In Italian]</p></scopecontent></c01><c01 id="aspace_3654f0e98805826a7917ecf7bcbe1b03" level="file"><did><unittitle>Portrait - unlabeled</unittitle><container id="aspace_98627a95b563062ef11c76c313b3c55a" label="unspecified" type="box">4</container><container id="aspace_f6c762cf75a565f260030f00288f7774" parent="aspace_98627a95b563062ef11c76c313b3c55a" type="folder">2</container></did><scopecontent id="aspace_71d77ed9eea1e675876512b17148097d"><head>Scope and Contents</head><p>formerly in box 4</p></scopecontent></c01><c01 id="aspace_f8b23412649507d05b463c5a0dd87017" level="file"><did><unittitle>David Dubinsky Plaque from Dress Presser's Union - Local 60</unittitle><unitdate datechar="creation" normal="1952/1952">1952</unitdate><container id="aspace_3c90da0c8b9990e9e58015754cfb5154" label="unspecified" type="box">4</container><container id="aspace_b677a5e52d316e8470f8e55507bce588" parent="aspace_3c90da0c8b9990e9e58015754cfb5154" type="folder">3</container></did><scopecontent id="aspace_8e78ac4fa0f4fc5e872917a452c37959"><head>Scope and Contents</head><p>formerly box 6 - Likeness of David Dubinsky's face from ILGWU, Local 60, Dress Pressers, by Arturo Sofo, Feb. 22, 1952</p></scopecontent></c01><c01 id="aspace_fcd69630ec9359b6e664e53233561f2d" level="file"><did><unittitle>Silver Anniversary TributeDavid Dubinsky: National Coat and Suit Industry Recovery Board (1961)</unittitle><unitdate datechar="creation" normal="1961/1961">1961</unitdate><container id="aspace_af63dbab8bd33999ca5a8c9fe96dfacc" label="unspecified" type="box">4</container><container id="aspace_1c9ef73a723e5ad8baf4f59c30d649ed" parent="aspace_af63dbab8bd33999ca5a8c9fe96dfacc" type="folder">4</container></did><scopecontent id="aspace_a12ba9ebdbdafd85f5ac1d09f3875e2c"><head>Scope and Contents</head><p>formerly box 7</p></scopecontent></c01><c01 id="aspace_a529c2a40d28b6d1d8ce7e76d0a468c6" level="file"><did><unittitle>Plaque - Presented to David Dubinsky - Honorary President of ILGWUon the occasion of the 30th Anniversary of their Liberation - May 8th, 1945 [New York, May 4, 1975]</unittitle><unitdate datechar="creation" normal="1975/1975">1975</unitdate><container id="aspace_12d36dca0ea93a2e2709faeb06afb9b7" label="unspecified" type="box">9</container><container id="aspace_93c346442180208eef3c85f62a597175" parent="aspace_12d36dca0ea93a2e2709faeb06afb9b7" type="folder">1</container></did></c01><c01 id="aspace_e9c87fd4f65e6715d2938f9414030b0c" level="file"><did><unittitle>Plaque: The Board of Trustees of Brandeis University Salutes David Dubinsky and names him a Fellow of Brandis University17th day of October nineteen hundred and 56</unittitle><unitdate datechar="creation" normal="1956/1956">1956</unitdate><container id="aspace_7a55ef5b65751f283076ee324466905a" label="unspecified" type="box">9</container><container id="aspace_e02bba401f3915d015ed97993615c939" parent="aspace_7a55ef5b65751f283076ee324466905a" type="folder">2</container></did></c01><c01 id="aspace_451b09085a863e88d86c9c0c3880fcc1" level="file"><did><unittitle>Plaque: David Dubinsky You're The Greatest Wilkes Barre Pittston Nanticoke ILGWU Great Dress Strike</unittitle><container id="aspace_a65c8243983bbd78c31e0dc3d77d875f" label="unspecified" type="box">9</container><container id="aspace_377df6f693a5fc2ce68f69908e9ff591" parent="aspace_a65c8243983bbd78c31e0dc3d77d875f" type="folder">3</container></did></c01><c01 id="aspace_0dd26883396ecbe1ac9865c99d8a3537" level="file"><did><unittitle>Plaque: Leadership award of the International Rescue Committee to David DubinskyJanuary 27, 1965</unittitle><unitdate datechar="creation" normal="1965/1965">1965</unitdate><container id="aspace_ab3990fe23d08f6e578ee09451fa55dd" label="unspecified" type="box">9</container><container id="aspace_c07ebd5da1f54d3d6ef84bbf9dfb1b4f" parent="aspace_ab3990fe23d08f6e578ee09451fa55dd" type="folder">4</container></did></c01><c01 id="aspace_911305d0cc3e81ea75e230c583697835" level="file"><did><unittitle>Sketches of Morris Sigman and Benjamin Schlesinger</unittitle><container id="aspace_b8cf4891661a7e77fb5a7299f2489339" label="unspecified" type="box">14</container><container id="aspace_a526e0903d9c4f0924cfea63e71343d6" parent="aspace_b8cf4891661a7e77fb5a7299f2489339" type="folder">1</container></did></c01></dsc>
+</archdesc>
+</ead>

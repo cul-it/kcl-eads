@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06317-005</eadid><filedesc><titlestmt><titleproper>Kheel Center Triangle Fire Centennial Commemoration Collection W4 New Music Booklets <num>6317/005</num></titleproper><author>Compiled by R. Miles</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>September 01, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:42:09 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Kheel Center Triangle Fire Centennial Commemoration Collection W4 New Music Booklets</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Kheel Center</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Remember the Triangle Fire Coalition</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">W4 New Music</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Frey, Matt</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Chappell, Christopher</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Price, Chen</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Stein, Sam</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Hansen, Tim</persname>
+    </origination>
+    <unitid>6317/005</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 folders</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="2011/2011">2011</unitdate>
+    <physdesc id="aspace_f85a5d312480c2080b5d062bc7d7a0d4" label="Quantity:">1 file folder</physdesc>
+    <physdesc id="aspace_9331758801211d184b8f15983890cc38" label="Forms of Material:">Publications, music.</physdesc>
+    <langmaterial id="aspace_290863b3f0aa2bb42eac24a620a5316f">Collection material in English</langmaterial>
+    <unitid type="bibid">7504517</unitid>
+  </did>
+  <odd id="aspace_34017467236f51a8883b133dd13daa01">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>R. Miles, July 21, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, September 01, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_d956333e8bd67004d1b2f5ae683b3865">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_6f53547a7c778bf904a09cb945afeb2f">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_b86e0b50872ebdc5860fa65d75f46633">
+    <head>Preferred Citation</head>
+<p>Kheel Center Triangle Fire Centennial Commemoration Collection W4 New Music Booklets #6317/005. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_8b19dffabdfa1204d41ca44161d3c670">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06317.html"> 6317: Kheel Center Triangle Fire Centennial Commemoration Collection</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06317mb.html"> 6317 MB: Kheel Center Triangle Fire Centennial Commemoration Collection Memorabilia</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06317pubs.html"> 6317 PUBS: Kheel Center Triangle Fire Centennial Commemoration Collection Publications</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06317-005av.html"> 6317/005 AV: Kheel Center Triangle Fire Centennial Commemoration Collection W4 New Music Audio-Visual Materials</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Clothing trade--New York (State)--New York--History--20th century</subject>
+    <subject source="ingest">Strikes and lockouts--New York (State)--New York--History--20th century</subject>
+    <subject source="ingest">Fires--New York (State)--New York--History--20th century</subject>
+    <persname audience="internal" source="ingest">Chappell, Christopher</persname>
+    <persname audience="internal" source="ingest">Frey, Matthew</persname>
+    <persname audience="internal" source="ingest">Hansen, Tim</persname>
+    <persname audience="internal" source="ingest">Price, Chen</persname>
+    <persname audience="internal" source="ingest">Stein, Sam</persname>
+    <corpname audience="internal" source="ingest">Triangle Shirtwaist Company --Fire, 1911</corpname>
+  </controlaccess>
+  <unitid type="bibid">7504517</unitid>
+  <dsc><c01 id="aspace_d5ed942f12f8c5560e2195b519d6eb66" level="file"><did><unittitle>W4 New Music</unittitle><unitdate datechar="creation" normal="2011/2011">2011</unitdate><container id="aspace_1f722a1ac042ff75154d289ae768ae30" label="unspecified" type="box">1</container><container id="aspace_2ff743bf400dc640b8c75fd6af2efe3e" parent="aspace_1f722a1ac042ff75154d289ae768ae30" type="Folder">1</container></did><c02 id="aspace_b7e2d043be275c01d5cac5ab6c296924" level="file"><did><unittitle>Item 1: Triangle Fire Memorial Concert</unittitle><unitdate datechar="creation" normal="2011/2011">2011</unitdate><physdesc id="aspace_31bff959e10aa6e8189cf54d0edfb2cc" label="Format:">Broadsides</physdesc><container id="aspace_4151b30e0df12700db6a383524699ab8" label="unspecified" type="box">1</container><container id="aspace_6516aa1f22a5226041e1bb28c51f9c3c" parent="aspace_4151b30e0df12700db6a383524699ab8" type="Folder">1</container></did><scopecontent id="aspace_cb859cf120da124e0d32d2d2084e4d09"><head>Scope and Contents</head><p>Advertisement for the March 27, 2011 concert. 2 copies</p><p> Format: Broadsides.</p></scopecontent></c02><c02 id="aspace_101930ae3e978901d7d885063eccae5a" level="file"><did><unittitle>Item 2: Triangle Shirtwaist Factory Fire Memorial Concert</unittitle><unitdate datechar="creation" normal="2011/2011">2011</unitdate><physdesc id="aspace_bce2afcaa070ad7262af0da9b5eca74f" label="Format:">Program</physdesc><container id="aspace_7c7b5abe9c8691419e096810d30d301b" label="unspecified" type="box">1</container><container id="aspace_ec1ed53cc44070f29f5aee22dee6e4a9" parent="aspace_7c7b5abe9c8691419e096810d30d301b" type="Folder">1</container></did><scopecontent id="aspace_c99fa3f62c1623182fbe5996e9617dc8"><head>Scope and Contents</head><p>Program for the March 27, 2011 concert. 2 copies.</p><p> Format: Program.</p></scopecontent></c02><c02 id="aspace_5c9acb54312302656230b5378d01d5af" level="file"><did><unittitle>Item 3: Ghosts in the Ashes: Mov. I - III</unittitle><unitdate datechar="creation" normal="2011/2011">2011</unitdate><physdesc id="aspace_e3fe58924bc54f28b40f59d790579679" label="Format:">Musical score</physdesc><container id="aspace_285baf049910101171151c93d626e847" label="unspecified" type="box">1</container><container id="aspace_afe6071061cd38275cace82c8badfb9a" parent="aspace_285baf049910101171151c93d626e847" type="Folder">1</container></did><scopecontent id="aspace_21551717526c143deefc6e54565d8f08"><head>Scope and Contents</head><p>Musical score by Christopher Chappell</p><p> Format: Musical score.</p></scopecontent></c02><c02 id="aspace_b0f44b2ae8ee9cd358112a9b5a0a9fad" level="file"><did><unittitle>Item 4: Descent</unittitle><unitdate datechar="creation" normal="2011/2011">2011</unitdate><physdesc id="aspace_d8f2feceda22707a3193bb2928447b20" label="Format:">Musical score</physdesc><container id="aspace_e800ee26cedcdf4333d17d96b3acadc0" label="unspecified" type="box">1</container><container id="aspace_fff03128140ebd0b371671ca0b828533" parent="aspace_e800ee26cedcdf4333d17d96b3acadc0" type="Folder">1</container></did><scopecontent id="aspace_52f0d0578ea7157a902df7257819e942"><head>Scope and Contents</head><p>Musical score by Matt Frey</p><p> Format: Musical score.</p></scopecontent></c02><c02 id="aspace_bce33af19ba52ec315230a158ff21e78" level="file"><did><unittitle>Item 5: Pretty Machines</unittitle><unitdate datechar="creation" normal="2011/2011">2011</unitdate><physdesc id="aspace_cdc72fb61051b01e1b6a50cc27fab36a" label="Format:">Musical score</physdesc><container id="aspace_33929754578b4870b182f0de1b73085b" label="unspecified" type="box">1</container><container id="aspace_4673ff8efcc68c166be9fb8c82b1b411" parent="aspace_33929754578b4870b182f0de1b73085b" type="Folder">1</container></did><scopecontent id="aspace_acdf6d374e84e337d000abea389ce939"><head>Scope and Contents</head><p>Musical score by Molly Herron</p><p> Format: Musical score.</p></scopecontent></c02><c02 id="aspace_a1e41bc903534c7f677c3fd2ede3834b" level="file"><did><unittitle>Item 6: Triangle: for one actress and two singers</unittitle><unitdate datechar="creation" normal="2011/2011">2011</unitdate><physdesc id="aspace_d9085ecb29221b9ef6bf910656615d78" label="Format:">Text</physdesc><container id="aspace_a8aa6eaccee662bfa41575cf3e5d5d45" label="unspecified" type="box">1</container><container id="aspace_3ee395596107372fce9720c6147c7829" parent="aspace_a8aa6eaccee662bfa41575cf3e5d5d45" type="Folder">1</container></did><scopecontent id="aspace_a5393efb5779888d4438e3b2de859116"><head>Scope and Contents</head><p>Script, score, and blocking by Sonia Megias</p><p> Format: Text.</p></scopecontent></c02></c01></dsc>
+</archdesc>
+</ead>

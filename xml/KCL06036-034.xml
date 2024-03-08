@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06036-034</eadid><filedesc><titlestmt><titleproper>Durham Fuller, Mabel. Interview. <num>6036/034</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 25, 2013</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:25:43 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Durham Fuller, Mabel. Interview</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Fields, Jill</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Durham Fuller, Mabel</persname>
+    </origination>
+    <unitid>6036/034</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1993/1993">1993</unitdate>
+    <physdesc id="aspace_f369f9f7713ebceaa72b71ce64ebec43" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_c5f5214f155e805bb826c5bd365ea9bf" label="Forms of Material:">Oral history.</physdesc>
+    <abstract id="aspace_73a22e6211431e21f05eeed5f29eb0ed">The collection consists of an oral history interview with Mabel Durham Fuller.</abstract>
+    <langmaterial id="aspace_f878415bf96087b0fd88992322561b88">Collection material in English</langmaterial>
+    <unitid type="bibid">5770055</unitid>
+  </did>
+  <odd id="aspace_64b35e2195a4607ff9e5b8d7833d49e2">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel">http://www.ilr.cornell.edu/library/kheel</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 06, 2011</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kathryn Dowgiewicz, March 25, 2013</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_b642400b5789c7e831f50d3edd5d1f56">
+    <head>Biographical / Historical</head>
+<p>Founded in 1900 by local union delegates representing about 2,000 members in cities in the northeastern United States, the ILGWU grew in geographical scope, membership size, political influence to become one of the most powerful forces in American organized labor by mid-century. Representing workers in the women's garment industry, the ILGWU worked to improve working and living conditions of its members through collective bargaining agreements, training programs, health care facilities, cooperative housing, educational opportunities, and other efforts. In 1995, the ILGWU merged with the Amalgamated Clothing and Textile Workers Union (ACTWU) to form the Union of Needletrades, Industrial and Textile Employees (UNITE).</p>  </bioghist>
+  <bioghist id="aspace_20c5cd386b66f03e7e090002c89d362e">
+    <head>Biographical / Historical</head>
+<p>Mabel Durham Fuller was born on April 1, 1905 in Kingston, New York, where she attended the local public schools of Kingston and Yonkers. She was an operator in an undergarment factory before the shop was unionized, and after it was organized, Fuller became the shop chairlady. She was a member of the Undergarment and Negligee Workers Union, Local 62 and elected to the Executive Board in 1937. As a member of the Board, Fuller served on the Finance Committee and Sick Benefit Committee. She was also elected as a delegate to attend several ILGWU National Conventions. Fuller attended the Hudson Shore Labor School, as well as the U.S. Army Administration school from 1944-1945, and was the first woman to attend the Harvard Trade Union Institute where she was a fellow from 1945-1946. Fuller became the first African American staff member of the Education Department in 1946. In the Education Department, Fuller helped to plan and direct programs that aimed at improving the image of the union not only to the members, but also to the public. </p><p> Fuller was an American National Red Cross instructor, chair of the Women's Service Brigade during World War II, delegate to the Negro Labor Committee, member of the Committee for Civil Rights, the Urban League, the NAACP, and the Liberal Party.</p>  </bioghist>
+  <scopecontent id="aspace_9e55c74fadc606c5bf9da02a00de70dd">
+    <head>Scope and Contents</head>
+<p>The collection consists of six cassette tapes containing the audio recording of Jill Fields interview with Mabel Durham Fuller.</p>  </scopecontent>
+  <accessrestrict id="aspace_d5d2cf01038007065288268c42de1c5d">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_0ec9af4d7ae1ef717a3ab315dd7a0df2">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_9bd17cedbef19710b44a924a6d01f2f7">
+    <head>Preferred Citation</head>
+<p>Durham Fuller, Mabel. Interview. #6036/034. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_43697439587dcd617c68ea2079f89505">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780.html"> 5780: ILGWU records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-021.html"> 5780/021: ILGWU. Local 62 records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-022.html"> 5780/022: ILGWU. Local 62 correspondence</extref> 6036/034 OH: Durham Fuller, Mabel. Oral History Interviews conducted by P. Sinclair, February 22, 1988. Audiocassettes.</p>  </relatedmaterial>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Fuller, Mabel.</persname>
+    <persname audience="internal" source="ingest">Fields, Jill.</persname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union -- Archives.</corpname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union. -- Local 62 (New York, N.Y.) -- Archives.</corpname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union. -- Educational Dept. -- Archives.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5770055</unitid>
+  <dsc><c01 id="aspace_3b078df9b3eef886ecf4e7ecac9bab8f" level="file"><did><unittitle>Interview with Mabel Durham Fuller</unittitle><container id="aspace_61971e02f9ca81975d5c22ecd61287bb" label="unspecified" type="box">1</container><container id="aspace_52bb6d1bf821bbf689a4cf02fec2ba09" parent="aspace_61971e02f9ca81975d5c22ecd61287bb" type="folder">1</container></did><scopecontent id="aspace_d802b23e4ccc8eee79aa03666e7f8386"><head>Scope and Contents</head><p>Ca. 1993; Part 1</p></scopecontent></c01><c01 id="aspace_76a3c832b88bf74b70f6ce58011afe01" level="file"><did><unittitle>Interview with Mabel Durham Fuller</unittitle><container id="aspace_3f93543a198841d340998ddba67ad4ab" label="unspecified" type="box">1</container><container id="aspace_cba5b0df189a7ebd56be33ad9b0b381d" parent="aspace_3f93543a198841d340998ddba67ad4ab" type="folder">2</container></did><scopecontent id="aspace_0834f0d06f59653b9158611eb1706852"><head>Scope and Contents</head><p>Ca. 1993; Part 2</p></scopecontent></c01><c01 id="aspace_722dc4f73e28a3ddd5a5912fddc84ced" level="file"><did><unittitle>Interview with Mabel Durham Fuller</unittitle><container id="aspace_85fdcb9e2e4aa0bd305385c0afe1022c" label="unspecified" type="box">1</container><container id="aspace_c716cdcfe7c6bc43412172156c294531" parent="aspace_85fdcb9e2e4aa0bd305385c0afe1022c" type="folder">3</container></did><scopecontent id="aspace_9a7859d6394fa3bec017c45bd432a9b0"><head>Scope and Contents</head><p>Ca. 1993; Part 3</p></scopecontent></c01><c01 id="aspace_a9f380e5e3ee691400b288221d98f0ea" level="file"><did><unittitle>Interview with Mabel Durham Fuller</unittitle><container id="aspace_5e51787c8723addadc11bb4733c76806" label="unspecified" type="box">1</container><container id="aspace_2b8edc891c961acf67f414709e9d224f" parent="aspace_5e51787c8723addadc11bb4733c76806" type="folder">4</container></did><scopecontent id="aspace_454b9a4b5892f42eb7c267c2ef52ea0e"><head>Scope and Contents</head><p>Ca. 1993; Part 4</p></scopecontent></c01><c01 id="aspace_143a521dc13f16650dd804b5bc8ed3b4" level="file"><did><unittitle>Interview with Mabel Durham Fuller</unittitle><container id="aspace_017d2dc9c2c70ef8b4a5c295d89112ea" label="unspecified" type="box">1</container><container id="aspace_e1af692bd800407f2b12b9508f8c09e6" parent="aspace_017d2dc9c2c70ef8b4a5c295d89112ea" type="folder">5</container></did><scopecontent id="aspace_412be53ff6fd3228f82afef5a5fecbda"><head>Scope and Contents</head><p>Ca. 1993; Part 5</p></scopecontent></c01><c01 id="aspace_2a8756f69cec9a60a7081117c2f96357" level="file"><did><unittitle>Interview with Mabel Durham Fuller</unittitle><container id="aspace_7c4d534f515cada70d79643efa5a10c0" label="unspecified" type="box">1</container><container id="aspace_83b7ec50ca12bb6911e498e128e3047d" parent="aspace_7c4d534f515cada70d79643efa5a10c0" type="folder">6</container></did><scopecontent id="aspace_0d44220fea5771a890eb14053ca30bc8"><head>Scope and Contents</head><p>Ca. 1993; Part 6</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

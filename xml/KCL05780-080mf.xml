@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05780-080mf</eadid><filedesc><titlestmt><titleproper>ILGWU Convention Records on Microfilm <num>5780/080 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 2011</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:02:21 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILGWU Convention Records on Microfilm</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname source="ingest">International Ladies' Garment Workers' Union.</corpname>
+    </origination>
+    <unitid>5780/080 mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1900/1929" type="inclusive">1900-1929</unitdate>
+    <physdesc id="aspace_9facca5705cc44076857ccef5ed7657f" label="Quantity:">5 microfilm reels</physdesc>
+    <physdesc id="aspace_de4f22d8783b7f2024de3f3fb6ca85b5" label="Forms of Material:">Reports, microfilm.</physdesc>
+    <abstract id="aspace_0f5d267da1e661c24a787054f4292a24">Contains reports and proceedings of the conventions of the International Ladies' Garment Workers' Union.</abstract>
+    <langmaterial id="aspace_46ffbaaf5cdd2a874df2ac993ee07b80">Collection material in English</langmaterial>
+    <unitid type="bibid">7108021</unitid>
+  </did>
+  <odd id="aspace_7d618709fed5fdb614641125a0f84674">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183<extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref><extref xlink:href="http://www.ilr.cornell.edu/library/kheel">http://www.ilr.cornell.edu/library/kheel</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff</item>
+      </defitem>
+      <defitem>
+        <label>Date completed:</label>
+        <item>March 2011</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Cheryl Beredo, March 2011</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_18a2e6e2f59c6ada4bc54fa2795a4515">
+    <head>Biographical / Historical</head>
+<p>The International Ladies' Garment Workers' Union was founded in New York City in 1900 by mostly Socialist immigrant workers who sought to unite the various crafts in the growing women's garment industry. The union soon reflected changes in the sector and rapidly organized thousands of unskilled and semi-skilled women, mostly Jewish and Italian young immigrants. Exemplifying the "new unionism," the ILGWU led two of the most widespread and best-known industrial strikes of the early Twentieth Century: the shirtwaist makers' strike of 1909 in New York City and the cloak makers' strike of 1910 in Chicago. The union also tried to adapt to the fragmented and unstable nature of the industry. It adopted the "protocol of peace," a system of industrial relations that attempted to ensure stability and limit strikes and production disruption by providing for an arbitration system to resolve disputes.</p><p> The ILGWU exemplified the European-style social unionism of its founding members. They pursued bread and butter issues but provided educational opportunities, benefits, and social programs to union members as well. In 1919, the ILGWU became the first American union to negotiate an unemployment compensation fund that was contributed to by its employers. The ILGWU also pioneered in the establishment of an extremely progressive health care program for its members which included not only regional Union Health Centers but also a resort for union workers, known as Unity House. The Union also had an imaginative and pioneering Education Department which not only trained workers in traditional union techniques, but provided courses in citizenship and the English language.</p><p> David Dubinsky, an immigrant from Belarus who came to the US in 1911, provided strong leadership that led to unprecedented growth in the union during his presidency from 1932 to 1966. He led the union through successful internal anti-communist struggles, built on the ascendancy of industrial unionism by encouraging the formation of the Committee for Industrial Organization, and helped the union become an important political force in New York City and state politics, and in the national Democratic Party and Liberal Party as well.</p><p> In the period following the Second World War, the union suffered a decline in membership as manufacturers avoided unionization and took advantage of less expensive labor by moving shops from the urban centers in the northeast to the south, and later abroad. The ethnic and racial character of the ILGWU also changed as European immigrants were supplanted by Asians, Latin Americans, African- Americans, and immigrants from the Caribbean.</p><p> In July 1995 the ILGWU merged with the Amalgamated Clothing and Textile Workers Union (ACTWU) at a joint convention, forming UNITE (Union of Needletrades, Industrial and Textile Employees). At the time the new union had a membership of about 250,000 in the United States, Canada, and Puerto Rico.</p>  </bioghist>
+  <scopecontent id="aspace_0911b8f5de3ebc6116a495cf642ab95d">
+    <head>Scope and Contents</head>
+<p>Contains reports and proceedings of the conventions of the International Ladies' Garment Workers' Union.</p>  </scopecontent>
+  <accessrestrict id="aspace_e626dfc407e90c0421fe85d8b5227cab">
+    <head>Conditions Governing Access</head>
+<p>The ILGWU Records, except for publications and materials produced for publication, are restricted. Materials created prior to twenty years from the current date are open to researchers only with prior written permission from the Director of the Kheel Center; materials created during the past twenty-years are closed; the minutes of the General Executive Board are closed. For more information contact the Kheel Center.</p>  </accessrestrict>
+  <prefercite id="aspace_0868850641a3d7d4db520c2e2e2d72a5">
+    <head>Preferred Citation</head>
+<p>ILGWU Convention Records on Microfilm, 5780/080 mf. Kheel Center for Labor-Management Documentation and Archives, Martin P. Catherwood Library, Cornell University.</p>  </prefercite>
+  <relatedmaterial id="aspace_521464d5f75509ba2a1c59a285e54f56">
+    <head>Related Materials</head>
+<p>5780. ILGWU Records</p><p> 5780/072. ILGWU. Constitutions and dues books</p><p> 5780/080. ILGWU. Convention records</p><p> 5780/193 PUBS. ILGWU. Convention publications</p>  </relatedmaterial>
+  <odd id="aspace_99ad6f536b3b2afbb02fbf883ec39b9f">
+    <head>General</head>
+<p>"Permanent deposit"</p>  </odd>
+  <controlaccess>
+    <subject source="ingest">Women's clothing industry--United States.</subject>
+    <subject source="ingest">Labor unions--Clothing workers--United States.</subject>
+    <subject source="ingest">Clothing workers--United States.</subject>
+    <subject source="ingest">Industrial relations--United States.</subject>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union.</corpname>
+  </controlaccess>
+  <unitid type="bibid">7108021</unitid>
+  <dsc><c01 id="aspace_a48715186b9125c617656e6ecd4829a6" level="file"><did><unittitle>Report of Proceedings of Annual Convention.</unittitle><unitdate datechar="creation" normal="1900/1918" type="inclusive">1900-1918</unitdate><container id="aspace_6c7910836ee46a3f9fda096c9fcf953c" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_0d3db12cd973cddcbd2f3d53460b8074"><head>Scope and Contents</head><p>1st Convention, June 3, 1900 - 14th Convention, May 20th - June 1, 1918. Positive.</p></scopecontent></c01><c01 id="aspace_997a85fdba3aea130155447ed7f26414" level="file"><did><unittitle>Report of Proceedings of Annual Convention.</unittitle><unitdate datechar="creation" normal="1920/1925" type="inclusive">1920-1925</unitdate><container id="aspace_76be20fc9d972ef91a2020d6e3f90062" label="unspecified" type="reel">2</container></did><scopecontent id="aspace_b8ec3b61109c34e2138279cf4f52a010"><head>Scope and Contents</head><p>15th Convention, May 3-15, 1920 - 18th Convention, November 30 - December 17, 1925. Positive.</p></scopecontent></c01><c01 id="aspace_ae0d8742f7e4b361fc90608f89dce689" level="file"><did><unittitle>Report of Proceedings of Annual Convention.</unittitle><unitdate datechar="creation" normal="1928/1929" type="inclusive">1928-1929</unitdate><container id="aspace_c9557ceb63b62bfd82f880c4f2e11e1b" label="unspecified" type="reel">3</container></did><scopecontent id="aspace_c294035c06ac927393e051e4765ae7ea"><head>Scope and Contents</head><p>19th Convention, May 7-17, 1928 - 20th Convention, December 2-10, 1929. Positive.</p></scopecontent></c01><c01 id="aspace_e3710c15c4685ed497257429636b5ea0" level="file"><did><unittitle>ILGWU Report and Proceedings</unittitle><unitid>1</unitid><unitdate datechar="creation" normal="1901/1902" type="inclusive">1901-1902</unitdate><container id="aspace_a6def38907695ae60f73e405747ee79c" label="unspecified" type="reel">4</container></did><scopecontent id="aspace_252b9e21098c3bccd080eb282d00ea23"><head>Scope and Contents</head><p>2nd Convention (1901) and 3rd Convention (1902). Negative.</p></scopecontent></c01><c01 id="aspace_91e8158aa6f0289af33da470fb16b698" level="file"><did><unittitle>Quarterly Financial Report of ILGWU</unittitle><unitid>2</unitid><unitdate datechar="creation" normal="1902/1903" type="inclusive">1902-1903</unitdate><container id="aspace_ecae654e88bb1044bb8d9b6baae9bb6d" label="unspecified" type="reel">4</container></did><scopecontent id="aspace_cfa7895a775a96f86080512b5d33d2ba"><head>Scope and Contents</head><p>June-Sept. 1902; Sept.-Dec. 1902; Dec. 1092 - March 1903. Negative.</p></scopecontent></c01><c01 id="aspace_35f10c643ed9f658dfacd5e15b8953c8" level="file"><did><unittitle>ILGWU Report and Proceedings</unittitle><unitid>3</unitid><unitdate datechar="creation" normal="1903/1903">1903</unitdate><container id="aspace_b5b5af9c68495a56dbe6d1d75cce9d76" label="unspecified" type="reel">4</container></did><scopecontent id="aspace_37a99c0fe6b32b82c26b371033f536ab"><head>Scope and Contents</head><p>4th Convention (1903). Negative.</p></scopecontent></c01><c01 id="aspace_ae8bffc831ea0e1e56d9474504a16489" level="file"><did><unittitle>Report of Secretary-Treasurer</unittitle><unitid>4</unitid><unitdate datechar="creation" normal="1902/1903" type="inclusive">1902-1903</unitdate><container id="aspace_10dc70f32b166da7610f3541eeb364ce" label="unspecified" type="reel">4</container></did><scopecontent id="aspace_225b4e3963d90ee183d1905f398d6b12"><head>Scope and Contents</head><p>June 1902 - May 1903. Negative.</p></scopecontent></c01><c01 id="aspace_65a5d4132bbcccc204527d31e8b34977" level="file"><did><unittitle>Convention proceedings ILGWU</unittitle><unitdate datechar="creation" normal="1900/1918" type="inclusive">1900-1918</unitdate><container id="aspace_8706b5c2239bdc74f4b3b09141e48975" label="unspecified" type="reel">5</container></did><scopecontent id="aspace_aa64a68ff048d68db42cda7715dec642"><head>Scope and Contents</head><p>1st Convention, June 3, 1900 - 14th Convention, May 20th - June 1, 1918. Negative.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

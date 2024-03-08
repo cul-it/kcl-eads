@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06202oh</eadid><filedesc><titlestmt><titleproper>New York State AFL-CIO Paul Cole Interviews Oral History on Minidiscs <num>6202 OH</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 25, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:36:47 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>New York State AFL-CIO Paul Cole Interviews Oral History on Minidiscs</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Cole, Paul M.</persname>
+    </origination>
+    <unitid>6202 OH</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="2006/2006">2006- 2006</unitdate>
+    <physdesc id="aspace_f20d5903adf8a755694359f86a7b9ad3" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_46621c8ba5b39f133a79aadf919c968b" label="Forms of Material:">Audiovisual materials,CD-ROMs.</physdesc>
+    <langmaterial id="aspace_6905fdbbdb444421ae12787fdd478998">Collection material in English</langmaterial>
+    <unitid type="bibid">7994945</unitid>
+  </did>
+  <odd id="aspace_57ca65c106fe262cdd6704befaf93cab">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, August 20, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, August 25, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_0960c8a2ff92e28f63d24e126ec6b263">
+    <head>Biographical / Historical</head>
+<p>David Lawrence Cole was a graduate of Harvard University (BS., 1921) and Fairleigh Dickinson University (LL.B., 1924, LL.D., 1964.) Although he practiced law in Paterson, N.J. from 1926 until his death as senior partner in the law firm of Cole, Berman &amp; Belksy, David Cole will chiefly be remembered for a distinguished career as a government arbitrator and mediator. In this field he served on numerous state and federal boards and in various governmental agencies. Cole was chairman of the New Jersey State Board of Mediation; a public member of Region 2, United States War Labor Board; and chairman of the Presidential Boards of Inquiry in the bituminous coal industry (1948) and in the longshore industry (1953, 1968). Cole was also a member or chairman of numerous Presidential Emergency Boards which settled disputes in the railroad and airline industries (1948-1958); the chairman of the conciliation service for the New York City transit service (1961-1965); director of the Federal Mediation and Conciliation Service (1952-1953); chairman of the New Jersey Governor's Committee on Public Utility Strike Service (1952-1953); member of the President's Labor-Management Advisory Committee (1961-1964); and member of the New York Governor's Public Employee Relations Committee (1966-1968), which established the New York State Public Employee Relations Board. Cole was also appointed as chairman of the President's Commission on Industrial Peace in 1973. </p><p> Beyond his public service, Mr. Cole was active as a counsel for employer groups in the textile industry (1926-1942) and as an impartial chairman for other labor-management contract disputes. He was also impartial arbitrator for the AFL-CIO Internal Disputes Plan (1954-1976), served as a visiting professor at the New York State School of Industrial and Labor Relations at Cornell University (1954-1955) and was Kestenbaum lecturer at Harvard in 1962. Mr. Cole was the author of INDUSTRIAL PEACE (1963).</p>  </bioghist>
+  <accessrestrict id="aspace_8ef322e450335761da1cc04cc33c07ef">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_cb7bbad80eac42adf93f706bfedaec7c">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_c0cd0ad7a506294c9d1e72f3b1a7bec6">
+    <head>Preferred Citation</head>
+<p>New York State AFL-CIO Paul Cole Interviews Oral History on Minidiscs #6202 OH. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Cole, Paul</persname>
+    <persname audience="internal" source="ingest">Seeber, Ronald Leroy</persname>
+    <corpname audience="internal" source="ingest">New York State AFL-CIO</corpname>
+  </controlaccess>
+  <unitid type="bibid">7994945</unitid>
+  <dsc><c01 id="aspace_c09fe9b1a154d01109a8608123f04201" level="file"><did><unittitle>Paul Cole Interview, 7//13/06 / Interviewer: Prof. Ronald Seeber</unittitle><unitdate datechar="creation" normal="2006/2006">2006</unitdate><container id="aspace_a3d205fa837608613c3becdfcf4ea901" label="unspecified" type="box">1</container><container id="aspace_df43e8182854d9f049a2d670310620c5" parent="aspace_a3d205fa837608613c3becdfcf4ea901" type="Folder">1</container></did></c01><c01 id="aspace_eb21c475dab277dd55c1bf1b7c2bb9d9" level="file"><did><unittitle>Paul Cole Interview, 7//13/06 / Interviewer: Prof. Ronald Seeber</unittitle><unitdate datechar="creation" normal="2006/2006">2006</unitdate><container id="aspace_f525a2a1a5a4d874be1da89527a3ef4e" label="unspecified" type="box">1</container><container id="aspace_9f073d6b01aa48ca4b9ad5da7c69a560" parent="aspace_f525a2a1a5a4d874be1da89527a3ef4e" type="Folder">2</container></did></c01><c01 id="aspace_c42ee368d9f11e9b03098a6cb1918f82" level="file"><did><unittitle>Paul Cole, Ronald Seeber Interview (1)</unittitle><container id="aspace_6c82c2479cdb2429cc410718a0cdad8a" label="unspecified" type="box">1</container><container id="aspace_6d66ac650a810a69f650142674869828" parent="aspace_6c82c2479cdb2429cc410718a0cdad8a" type="Folder">3</container></did></c01><c01 id="aspace_cf306af2929a9049ca2c90c795ddc1e4" level="file"><did><unittitle>Paul Cole, Ronald Seeber Interview (2)</unittitle><container id="aspace_ed4677824266789eda575d1d2b016eac" label="unspecified" type="box">1</container><container id="aspace_7c4baf0b1511e4ed287a5e94b8e24a3b" parent="aspace_ed4677824266789eda575d1d2b016eac" type="Folder">4</container></did></c01><c01 id="aspace_155367eb2d9cfd4192d886aa9d7d9bc0" level="file"><did><unittitle>Paul Cole, Ronald Seeber Interview (3)</unittitle><container id="aspace_b82691859d53a67df47de40c49149999" label="unspecified" type="box">1</container><container id="aspace_2a583e343690a02147d6aa1fa7e771d3" parent="aspace_b82691859d53a67df47de40c49149999" type="Folder">5</container></did></c01><c01 id="aspace_6a9e6502f801f1b4b2c37ddcb64bd157" level="file"><did><unittitle>Paul Cole, Ronald Seeber Interview (4)</unittitle><container id="aspace_e2c33e9aeca47747b28df6e22e1138bb" label="unspecified" type="box">1</container><container id="aspace_904cfa6537c24885a91c90aee62d2786" parent="aspace_e2c33e9aeca47747b28df6e22e1138bb" type="Folder">6</container></did></c01><c01 id="aspace_c5d9b82253597cb1cd1b6f4b12b4b875" level="file"><did><unittitle>Paul Cole, Ronald Seeber Interview (5)</unittitle><container id="aspace_c71824b17e1a8ddc1ce4ef06f7a37da1" label="unspecified" type="box">1</container><container id="aspace_8ee010f871be6e9f947ef5403918c6da" parent="aspace_c71824b17e1a8ddc1ce4ef06f7a37da1" type="Folder">7</container></did></c01><c01 id="aspace_2d44349c6dc12e72b8e4d273f8572b9a" level="file"><did><unittitle>Paul Cole, Ronald Seeber Interview (6)</unittitle><container id="aspace_5cd3e3906ca2a46595adb65ab536bc93" label="unspecified" type="box">1</container><container id="aspace_ce187313fc74279525e81d1cbde2f5f2" parent="aspace_5cd3e3906ca2a46595adb65ab536bc93" type="Folder">8</container></did></c01><c01 id="aspace_7a735ab8c1d7efd7e7d6d3a517b13657" level="file"><did><unittitle>Paul Cole, Ronald Seeber Interview (7)</unittitle><container id="aspace_0136d24d0d6534bfb321c842de7580bf" label="unspecified" type="box">1</container><container id="aspace_50d521b4cabe8db03d6b634c7010ac7e" parent="aspace_0136d24d0d6534bfb321c842de7580bf" type="Folder">9</container></did></c01></dsc>
+</archdesc>
+</ead>

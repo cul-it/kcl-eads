@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05780mf</eadid><filedesc><titlestmt><titleproper>ILGWU Robert Lazar's Guide to the Records on Microfilm <num>5780 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>June 26, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:09:27 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILGWU Robert Lazar's Guide to the Records on Microfilm</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">International Ladies' Garment Workers' Union (ILGWU)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Lazar, Robert</persname>
+    </origination>
+    <unitid>5780 mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.11 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1984/1984">1984</unitdate>
+    <physdesc id="aspace_d5ad7ac4191545482c552b617f952c1f" label="Quantity:">1 microfilm reel</physdesc>
+    <physdesc id="aspace_a8e69e9a2213119093986f1311911ea4" label="Forms of Material:">Microfilm, records (documents).</physdesc>
+    <abstract id="aspace_9ed609114b479de2c0e8ee57581fd8f4">This collection includes records and papers by union locals and officers of the ILGWU: Local 10 (Amalgamated Ladies' Garment Cutters Union); David Dubinsky (President) Papers; Louis Stulberg (General Secretary Treasurer) Papers; Frederick F. Umhey (Exectutive Secretary) Papers; Morris Sigman (President) Papers; Benjamin Schlesinger (President) Papers; Local 10 Records (Managers Correspondence); Local 9 (Cloak &amp; Suit Finishers Union) (Managers Correspondence); Local 22 Zimmerman, Charles S. - Dressmakers' Union Records; ILGWWU General Executive Board Minutes; New York Cloak Joint Board Records; Local 22 Records; Luigi Antonini (General Secretary, Italian Dressmakers' Union Local 89) Papers; Local 40 (Beltmakers' Union) Records; Upper South Dept. Baltimore Joint Board; Local 48 (Italian Cloakmakers Union) Records, Local 72, 192 - Toronto Cloak Joint Board Records, Locals 14, 68, 83, 92, 94; Chicago Joint Board Records; Joint Board Dress &amp; Waistmakers' Union of Greater New York; Cleveland Joint Board Records; Education Department Records (Fannia M. Cohn, Executive Secretary); Gus Tyler (Assistant President) Records; Local 105 Records; Local 155 Records; Boston Joint Board Records; Research Department - Collection Document; Southeast Region Records; Union Health Center Records; Miscellaneous; International Relations Department (henoch Mendelsund, Director) Records; San Francisco Joint Board Records. A negative copy is available upon request.</abstract>
+    <langmaterial id="aspace_3ae222a298d4ddbeb0a78e7a32070398">Collection material in English</langmaterial>
+    <unitid type="bibid">8918134</unitid>
+  </did>
+  <odd id="aspace_8093e7f2704f7b68897abdec78afee9a">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, June 26, 2019</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, June 26, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_5efa6a28d8dd8b868a3b8e5021167c4b">
+    <head>Biographical / Historical</head>
+<p>The International Ladies' Garment Workers' Union was once one of the largest labor unions in the United States founded in 1900 by local union delegates representing about 2,000 members in cities in the northeastern United States. It was one of the first U.S. Unions to have a membership consisting of mostly females, and it played a key role in the labor history of the 1920s and 1930s. The union is generally referred to as the "ILGWU" or the "ILG". The ILGWU grew in geographical scope, membership size, and political influence to become one of the most powerful forces in American organized labor by mid-century. Representing workers in the women's garment industry, the ILGWU worked to improve working and living conditions of its members through collective bargaining agreements, training programs, health care facilities, cooperative housing, educational opportunities, and other efforts. The ILGWU merged with the Amalgamated Clothing and Textile Workers Union in 1995 to form the Union of Needle trades, Industrial and Textile Employees (UNITE). UNITE merged with the Hotel Employees and Restaurant Employees Union (HERE) in 2004 to create a new union known as UNITE HERE. The two unions that formed UNITE in 1995 represented only 250,000 workers between them, down from the ILGWU's peak membership of 450,000 in 1969.</p>  </bioghist>
+  <scopecontent id="aspace_b5f172f33aa36992ac089d3313badf51">
+    <head>Scope and Contents</head>
+<p>This collection includes records and papers by union locals and officers of the ILGWU: </p><p> Local 10 (Amalgamated Ladies' Garment Cutters Union); David Dubinsky (President) Papers; Louis Stulberg (General Secretary Treasurer) Papers; Frederick F. Umhey (Exectutive Secretary) Papers; Morris Sigman (President) Papers; Benjamin Schlesinger (President) Papers; Local 10 Records (Managers Correspondence); Local 9 (Cloak &amp; Suit Finishers Union) (Managers Correspondence); Local 22 Zimmerman, Charles S. - Dressmakers' Union Records; ILGWWU General Executive Board Minutes; New York Cloak Joint Board Records; Local 22 Records; Luigi Antonini (General Secretary, Italian Dressmakers' Union Local 89) Papers; Local 40 (Beltmakers' Union) Records; Upper South Dept. Baltimore Joint Board; Local 48 (Italian Cloakmakers Union) Records, Local 72, 192 - Toronto Cloak Joint Board Records, Locals 14, 68, 83, 92, 94; Chicago Joint Board Records; Joint Board Dress &amp; Waistmakers' Union of Greater New York; Cleveland Joint Board Records; Education Department Records (Fannia M. Cohn, Executive Secretary); Gus Tyler (Assistant President) Records; Local 105 Records; Local 155 Records; Boston Joint Board Records; Research Department - Collection Document; Southeast Region Records; Union Health Center Records; Miscellaneous; International Relations Department (henoch Mendelsund, Director) Records; San Francisco Joint Board Records. </p><p> A negative copy is available upon request.</p>  </scopecontent>
+  <accessrestrict id="aspace_e1d5d0d50d00dd241436028c4b92f3b2">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_35321c3d9ffeb2f419b3e800cc1efcfe">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_f36a7f2fc96fec00dc35abb5274dbb8a">
+    <head>Preferred Citation</head>
+<p>ILGWU Robert Lazar's Guide to the Records on Microfilm #5780 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Clothing workers x Labor unions z United States.</subject>
+    <persname audience="internal" source="ingest">Lazar, Robert.</persname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union.</corpname>
+  </controlaccess>
+  <unitid type="bibid">8918134</unitid>
+  <dsc><c01 id="aspace_4c546c39877cd7e2895339ad749b1e54" level="file"><did><unittitle>Robert Lazar's original 1984 guide to the ILGWU collection</unittitle><container id="aspace_b1c8f9700dfb027aa12148eaa511f117" label="unspecified" type="reel">1</container></did></c01></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06183av</eadid><filedesc><titlestmt><titleproper>Gonzalez, Paul Collection of International Association of Machinists and Aerospace Workers Audio-Visual Materials <num>6183 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>January 30, 2014</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:34:37 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Paul Gonzalez Collection of International Association of Machinists and Aerospace Workers Audio-Visual Materials</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Gonzalez, Paul</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">International Association of Machinists and Aerospace Workers</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">IAM</corpname>
+    </origination>
+    <unitid>6183 AV</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.72 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1992/1998" type="inclusive">1992-1998</unitdate>
+    <physdesc id="aspace_97c3d81c3a1cf5e2c023d073313cb79f" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_a615cea2617ef91759a519cdbca8d63a" label="Forms of Material:">Audio cassette tapes, video cassette tapes.</physdesc>
+    <langmaterial id="aspace_55fd8520d3933775bcbb957a4a1ee5c9">Collection material in English</langmaterial>
+    <unitid type="bibid">5835559</unitid>
+  </did>
+  <odd id="aspace_cbbe3c5c953b98f9962f402074a48e4a">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel">http://www.ilr.cornell.edu/library/kheel</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, November 07, 2012</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, January 30, 2014</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_0ce7ee7f5944edb69cc7d962be403eae">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_ff80f6ece4151694e03f96adcdfa053d">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_418c77195f388dbe3f63491fd9bafbd1">
+    <head>Preferred Citation</head>
+<p>Paul Gonzalez Collection of International Association of Machinists and Aerospace Workers Audio-Visual Materials #6183 AV. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_b04e888d23cdd6e4861b371b5e3aed93">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06183.html"> 6183: Paul Gonzalez Collection of International Association of Machinists and Aerospace Workers (IAM). Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06183mb.html">6183 MB: Paul Gonzalez Collection of International Association of Machinists and Aerospace Workers (IAM). Memorabilia</extref></p>  </relatedmaterial>
+  <unitid type="bibid">5835559</unitid>
+  <dsc><c01 id="aspace_ea96c4a64db52edb662f0b7ec7d980f6" level="file"><did><unittitle>"Pants on Fire"</unittitle><container id="aspace_e6c800fa7e44f6ce8d0e8713a4c7dcd7" label="unspecified" type="box">1</container><container id="aspace_1e0c5ebf23363d43fbe69ea584071ba6" parent="aspace_e6c800fa7e44f6ce8d0e8713a4c7dcd7" type="folder">1</container></did><scopecontent id="aspace_2fba49897bfb9b70bb1e72d254e70879"><head>Scope and Contents</head><p>#2. Las Vegas. 3:45</p></scopecontent></c01><c01 id="aspace_faab3df74367d1d38a834dad8cdabb93" level="file"><did><unittitle>"Community Scene with Barbara Oldwine."</unittitle><container id="aspace_c73963bb5666c7da0e6a3f5252eaf856" label="unspecified" type="box">1</container><container id="aspace_6a894930247262341ee963ac2beb3e0e" parent="aspace_c73963bb5666c7da0e6a3f5252eaf856" type="folder">2</container></did><scopecontent id="aspace_7ec611820aca0f22edddf0415d1d35cf"><head>Scope and Contents</head><p>Plant closing</p></scopecontent></c01><c01 id="aspace_872979f3b3230d6452cb293532600ffe" level="file"><did><unittitle>Community Picnic</unittitle><container id="aspace_fbd211f316e5fa0b3b450cd4fa06d3e7" label="unspecified" type="box">1</container><container id="aspace_e06f2ba9fd7066bcfe31e2dcecdd49e0" parent="aspace_fbd211f316e5fa0b3b450cd4fa06d3e7" type="folder">3</container></did></c01><c01 id="aspace_64cdacebfdbef5db377001c28475d84a" level="file"><did><unittitle>IAM Headquarters, Upper Marlboro, MD. Lodge 1807 pickets</unittitle><unitdate datechar="creation" normal="1995/1995">1995</unitdate><container id="aspace_6d9a16bb0273f5fe88e3a0ba630bd4ba" label="unspecified" type="box">1</container><container id="aspace_509b1fca499344b3263d6d483a00b0ab" parent="aspace_6d9a16bb0273f5fe88e3a0ba630bd4ba" type="folder">4</container></did><scopecontent id="aspace_46e7756199abcf2ab9b31de949f3f738"><head>Scope and Contents</head><p>June 12, 1995. Jack Webb</p></scopecontent></c01><c01 id="aspace_515ed8aded3b6d7b884f8e7b5d225b03" level="file"><did><unittitle>GAF Meetings in Waverly</unittitle><unitdate datechar="creation" normal="1992/1992">1992</unitdate><container id="aspace_4cf6c10132dd3b5ad12423f742da99cf" label="unspecified" type="box">1</container><container id="aspace_fa8d770967089fd2b3f14aa25ced31aa" parent="aspace_4cf6c10132dd3b5ad12423f742da99cf" type="folder">5</container></did><scopecontent id="aspace_6fa6a6b0a619a36d4258266616c89ece"><head>Scope and Contents</head><p>Pickets and Ozalid Corp.J.C. Legeon. March 2, 1992.</p></scopecontent></c01><c01 id="aspace_6256a8b3ec9b0abc99a5391ff0baf74d" level="file"><did><unittitle>Southern Tier This Week</unittitle><unitdate datechar="creation" normal="1998/1998">1998</unitdate><container id="aspace_9dbe52db0b799ec67a3fe8cca40ccea8" label="unspecified" type="box">1</container><container id="aspace_6c3f3ac851af4b3db41d34cb016eed5a" parent="aspace_9dbe52db0b799ec67a3fe8cca40ccea8" type="folder">6</container></did><scopecontent id="aspace_e943587bac996652f47a499a95e049d5"><head>Scope and Contents</head><p>March 8, 1998</p></scopecontent></c01><c01 id="aspace_1db606b470704fb7c1f29514b1b9cc19" level="file"><did><unittitle>Ozalid: Paul Gonzalez, Jake Webb, Mitch Cuvatolo</unittitle><container id="aspace_d36e0efe2b1015ce55e1a6474987383a" label="unspecified" type="box">1</container><container id="aspace_8b99cd88e98a4c6bb55f44e13628fa95" parent="aspace_d36e0efe2b1015ce55e1a6474987383a" type="folder">7</container></did></c01></dsc>
+</archdesc>
+</ead>

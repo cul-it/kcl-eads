@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05616amf</eadid><filedesc><titlestmt><titleproper>Rubinow, Isaac Max Selected Files on Microfilm <num>5616 (A) mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>June 06, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 15:47:58 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Isaac Max Rubinow Selected Files on Microfilm</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Rubinow, Isaac Max</persname>
+    </origination>
+    <unitid>5616 (A) mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1892/1945" type="inclusive">1892-1945</unitdate>
+    <physdesc id="aspace_8eb43cdc66ed50f12bf41aa0041c12bd" label="Quantity:">3 microfilm reels</physdesc>
+    <physdesc id="aspace_d69dfedd4beef9eb32d53df2074b9e0d" label="Forms of Material:">Records (documents), case files, microfilm.</physdesc>
+    <abstract id="aspace_72be901d480e0fa6c5b57b71af5c7c4a">Scrapbooks copied to microfilm.</abstract>
+    <langmaterial id="aspace_ea600d8dffede1d27b93d0a81da60eae">Collection material in English</langmaterial>
+    <unitid type="bibid">3338510</unitid>
+  </did>
+  <odd id="aspace_e6eb51e019ffec3fd346b483a64fd6b1">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, June 06, 2019</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, June 06, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_79848c20380c0f048903c03c96d0f82e">
+    <head>Biographical / Historical</head>
+<p>Isaac Max Rubinow (18751936) was a leading theorist on social insurance and one of the most influential writers on the subject. Rubinow was an MD, and held a Ph.D. in economics from Columbia University. </p><p> His work impacted a generation of social reformers, including President Theodore Roosevelt, who used Rubinow's work in drafting the Progressive Party platform in 1912. The Progressive Party was the first of its kind to call for social insurance. </p><p> Rubinow was a Russian Jew who immigrated to the United States in 1893, at the age of 18. He trained as a medical doctor at Columbia University and New York University Medical School. When he grew frustrated with not being able to help his patients lessen their economic woes, he decided to change professions. </p><p> He became employed as an economic expert in the U.S. Dept. of Agriculture's Bureau of Statistics, Division of Foreign Markets, he wrote extensively about the development of the Russian wheat market and the impact of growing Russian wheat exports on U.S. and world markets. </p><p> Later employed as an actuary, Rubinow was very important in the formation of the Casualty Actuarial and Statistical Society of America in 1914, which is known as Casualty Actuarial Society today.</p>  </bioghist>
+  <accessrestrict id="aspace_9a324cc4b132e0510059c39919ec4b6c">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_9bcefaf8323d1c36d75880f09032e68c">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_9f86b4d43faaddf87957dba3d5f92157">
+    <head>Preferred Citation</head>
+<p>Isaac Max Rubinow Selected Files on Microfilm #5616 (A) mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_dc70a527e18b2ef630add43cd2db6697">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05001.html"> 5001: American Association for Labor Legislation Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05001mf.html"> 5001 mf: American Association for Labor Legislation Records on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05001pam.html"> 5001 PAM: American Association for Labor Legislation Pamphlet File</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05616.html"> 5616: Isaac Max Rubinow Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05616oh.html"> 5616 OH: Isaac Max Rubinow Oral History</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Social security -- United States.</subject>
+    <persname audience="internal" source="ingest">Rubinow, I. M. (Isaac Max), 1875-1936</persname>
+  </controlaccess>
+  <unitid type="bibid">3338510</unitid>
+  <dsc><c01 id="aspace_907e4b9b490c2b2466b0c830fc5da579" level="file"><did><unittitle>Selected Files.</unittitle><container id="aspace_3e613635d25802af9d8500d541bb44be" label="unspecified" type="reel">1</container></did></c01><c01 id="aspace_39b225f7e657594488d19ebf56643917" level="file"><did><unittitle>Selected Files. Copy 2.</unittitle><container id="aspace_c9ea8e492641b98003c5d5c7c2272706" label="unspecified" type="reel">2</container></did></c01><c01 id="aspace_ec99a24ac76b1b5f8108290c3ca1add5" level="file"><did><unittitle>Clipping scrapbook.</unittitle><container id="aspace_a4558da2b54c3a5c5a45eb02f241e7c9" label="unspecified" type="reel">3</container></did></c01></dsc>
+</archdesc>
+</ead>

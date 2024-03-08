@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05650mf</eadid><filedesc><titlestmt><titleproper>National Civic Federation Howell-Barkley Bill Correspondence on Microfilm <num>5650 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 25, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 15:52:08 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>National Civic Federation Howell-Barkley Bill Correspondence on Microfilm</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">National Civic Federation</corpname>
+    </origination>
+    <unitid>5650 mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.11 cubic feet</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="0000/2999" type="inclusive">0000-2999</unitdate>
+    <physdesc id="aspace_81778199593d8967042da69716657c36" label="Quantity:">1 microfilm reel</physdesc>
+    <physdesc id="aspace_372682c36f475741e9aa8756d467b6d9" label="Forms of Material:">Records (documents), microfilm.</physdesc>
+    <abstract id="aspace_1b2e9b693c052b9c76156bb0ade883fd">Microfilm of National Civic Federation Howell-Barkley Bill Correspondence</abstract>
+    <langmaterial id="aspace_b746d0c5cf31a9dcbc059719f6551ce6">Collection material in English</langmaterial>
+    <unitid type="bibid">5685203</unitid>
+  </did>
+  <odd id="aspace_c63dcda8211a23e49bbb0a13a600a8a0">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, May 21, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 25, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_8559d51f1a5164fb52bc0dec217d774c">
+    <head>Biographical / Historical</head>
+<p>The National Civic Federation (NCF) was an American economic organization founded in 1900 which brought together chosen representatives of big business and organized labor, as well as consumer advocates to solve labor disputes.</p>  </bioghist>
+  <accessrestrict id="aspace_f62603739afe6ca3229915e33060ec60">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_d37dd90ffc0c642b79d9738400def386">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_679af5ae8469388e8c4614c0a8e33939">
+    <head>Preferred Citation</head>
+<p>National Civic Federation Howell-Barkley Bill Correspondence on Microfilm #5650 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_364dffd927c14613117d0bf2aeb776e2">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04073.html"> /4073: James O. Morris Office Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05001.html"> 5001: American Association for Labor Legislation Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05001mf.html"> 5001 mf: American Association for Labor Legislation Records on Microfilm</extref> <extref xlink:href="https://rmc.library.cornell.edu/EAD/htmldocs/KCL05001pam.html"> 5001 PAM: American Association for Labor Legislation Pamphlet File</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05277.html"> 5277: Workers Education Bureau of America Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05474.html"> 5474: National Civic Federation Pamphlets</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05502mf.html"> 5502 mf: John Mitchell Papers on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05541.html"> 5541: Philip Taft Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05583-1.html"> 5583/1: Archives Organization File (AOF) Part 1</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-176p.html"> 5780/176 P: ILGWU Communications Department Photographs</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05863mf.html"> 5863 mf: Department of Justice Investigative Files on Industrial Workers of the World, Part 1 on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05918mf.html"> 5918 mf: Minutes of the Executive Council of AFL, Pt. 2 on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06046.html"> 6046: Archives Union File (AUF)</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06047.html"> 6047: Archives Information File</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <corpname audience="internal" source="ingest">National Civic Federation.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5685203</unitid>
+  <dsc><c01 id="aspace_4debdf70eb7f7f77c3ccecd2280f03be" level="file"><did><unittitle>National Civic Federation. Howell-Barkley Bill Correspondence</unittitle><container id="aspace_09f6d1b54dbfc9cef678852edeba2439" label="unspecified" type="reel">1</container></did></c01></dsc>
+</archdesc>
+</ead>

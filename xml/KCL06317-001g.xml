@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06317-001g</eadid><filedesc><titlestmt><titleproper>Kheel Center Triangle Fire Centennial Commemoration Collection Remember the Triangle Fire Coalition Graphics <num>6317/001 G</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 26, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:41:55 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Kheel Center Triangle Fire Centennial Commemoration Collection Remember the Triangle Fire Coalition Graphics</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Kheel Center</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Remember the Triangle Fire Coalition</corpname>
+    </origination>
+    <unitid>6317/001 G</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.11 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="2011/2011">2011</unitdate>
+    <physdesc id="aspace_87d6ff48f4b6470c801d55c704e76896" label="Quantity:">0.1 linear ft.</physdesc>
+    <physdesc id="aspace_97e96cc19966bf21abbcde5a70394e0b" label="Forms of Material:">Graphics.</physdesc>
+    <langmaterial id="aspace_b86a1839287d69d9a37a07fe93c1bbe0">Collection material in English</langmaterial>
+    <unitid type="bibid">7199174</unitid>
+  </did>
+  <odd id="aspace_238941977c217a98d0e75c41049a2135">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, March 22, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, August 26, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_5fd785d96d4557e46b7256055f2794e1">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_c9b80504d031f7a8a35bc1cf9d6a47e9">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_e9739f52cba94821dbf99099d22c6a85">
+    <head>Preferred Citation</head>
+<p>Kheel Center Triangle Fire Centennial Commemoration Collection Remember the Triangle Fire Coalition Graphics #6317/001 G. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_039d8bd124936d85a57d2eefb99070c0">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06317.html"> 6317: Kheel Center Triangle Fire Centennial Commemoration Collection</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06317mb.html"> 6317 MB: Kheel Center Triangle Fire Centennial Commemoration Collection Memorabilia</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06317pubs.html"> 6317 PUBS: Kheel Center Triangle Fire Centennial Commemoration Collection Publications</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06317-001.html"> 6317/001: Kheel Center Triangle Fire Centennial Commemoration Collection Remember the Triangle Fire Coalition Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06317-001av.html"> 6317/001 AV: Kheel Center Triangle Fire Centennial Commemoration Collection Remember the Triangle Fire Coalition Audio-Visual Materials</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06317-001mb.html"> 6317/001 MB: Kheel Center Triangle Fire Centennial Commemoration Collection Remember the Triangle Fire Coalition Memorabilia</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06317-001pubs.html"> 6317/001 PUBS: Kheel Center Triangle Fire Centennial Commemoration Collection Remember the Triangle Fire Coalition Publications</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Clothing trade--New York (State)--New York--History--20th century</subject>
+    <subject source="ingest">Strikes and lockouts--New York (State)--New York--History--20th century</subject>
+    <subject source="ingest">Fires--New York (State)--New York--History--20th century</subject>
+    <corpname audience="internal" source="ingest">Remember the Triangle Fire Coalition</corpname>
+    <corpname audience="internal" source="ingest">Triangle Shirtwaist Company --Fire, 1911</corpname>
+  </controlaccess>
+  <unitid type="bibid">7199174</unitid>
+  <dsc><c01 id="aspace_e1d8e2c8e552257c9eae238d9a159043" level="file"><did><unittitle>Kheel Center Triangle Fire Centennial Commemoration Collection. Remember the Triangle Fire Coalition. Graphics</unittitle><container id="aspace_8daa72bc0515e751984e5ce1cfd2a637" label="unspecified" type="box">1</container><container id="aspace_105d9364696691748173af0bb5479fa0" parent="aspace_8daa72bc0515e751984e5ce1cfd2a637" type="Folder">1</container></did><scopecontent id="aspace_34868627d8464648bd214598ab815e71"><head>Scope and Contents</head><p>8 broadsides and posters to commemorate the 100th Anniv. of the Triangle Fire</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

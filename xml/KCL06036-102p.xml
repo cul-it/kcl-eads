@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06036-102p</eadid><filedesc><titlestmt><titleproper>Fabio Schettini ILGWU Photographs <num>6036/102 P</num></titleproper><author>Compiled by E. Parker</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>June 05, 2018</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:26:47 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Fabio Schettini ILGWU Photographs</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Schettini, Fabio, :International Ladies' Garment Workers' Union (ILGWU)</persname>
+    </origination>
+    <unitid>6036/102 P</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.89 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1944/1971" type="inclusive">1944-1971</unitdate>
+    <physdesc id="aspace_cfce5be46161fe6c0e0f0846a0e87019" label="Quantity:">0.7 linear ft.</physdesc>
+    <physdesc id="aspace_0a3d7bb1ab08c0dbe68ad04afc663f8c" label="Forms of Material:">Photographs.</physdesc>
+    <abstract id="aspace_febd1eb2490295a9d301694e4eeee869">This collection consists of photographs documenting Fabio Schettini's involvment in the ILGWU, the AFL-CIO, the Liberal Party of New York, and his work on the mayoral campaign of John Lindsay.</abstract>
+    <langmaterial id="aspace_8ddff2b7e0cadedeb266ac4af64f32d0">Collection material in English</langmaterial>
+    <unitid type="bibid">10377602</unitid>
+  </did>
+  <odd id="aspace_9ab5d3d1e13a397f07cfe42da024d426">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>E. Parker, June 05, 2018</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>E. Parker, June 05, 2018</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_feaf58ac3a7bcebaaaf3b9ff4abc76dc">
+    <head>Biographical / Historical</head>
+<p>The International Ladies' Garment Workers' Union was once one of the largest labor unions in the United States founded in 1900 by local union delegates representing about 2,000 members in cities in the northeastern United States. It was one of the first U.S. Unions to have a membership consisting of mostly females, and it played a key role in the labor history of the 1920s and 1930s. The union is generally referred to as the "ILGWU" or the "ILG". The ILGWU grew in geographical scope, membership size, and political influence to become one of the most powerful forces in American organized labor by mid-century. Representing workers in the women's garment industry, the ILGWU worked to improve working and living conditions of its members through collective bargaining agreements, training programs, health care facilities, cooperative housing, educational opportunities, and other efforts. The ILGWU merged with the Amalgamated Clothing and Textile Workers Union in 1995 to form the Union of Needle trades, Industrial and Textile Employees (UNITE). UNITE merged with the Hotel Employees and Restaurant Employees Union (HERE) in 2004 to create a new union known as UNITE HERE. The two unions that formed UNITE in 1995 represented only 250,000 workers between them, down from the ILGWU's peak membership of 450,000 in 1969.</p>  </bioghist>
+  <bioghist id="aspace_b812f9b5c9d15aafba5ab81647027617">
+    <head>Biographical / Historical</head>
+<p>Fabio Schettini was born in Brooklyn, New York on September 26, 1909. He earned his Bachelor of Science fron City College in 1943. Mr. Schettini joined ILGWU Local 48 in May 1944, where his mother-in-law was already a member. He worked as a business agent, price adjuster, and union organizer for the ILGWU. Mr. Schettini participated in the Mirror Coat Strike in 1949 and organized for the ILGWU in Bensonhurst neighborhood in Brooklyn. </p><p> According to his ILGWU autobiography (see Collection 5087/177, Box 2, Folder 30), he "learned [his] trade in Italy for four years and had [his] entire education in the evening schools of New York City. [He] was for 16 years a member of the Amalgamated Clothing Workers of America." </p><p> In 1964, he ran for New York State Assembly as the Liberal Party candidate, loosing to Democrat Noah Goldstein. In 1965, he ran for New York City Council as a Liberal Party candidate and campaigned for Republican John Lindsay's mayoral campaign. </p><p> Mr. Schettini was married to Antoinette Schettini. Together they had five children: Roland, Elaine, Linda, Nicholas, and Terry. His widow and children donated the materials in this collection.</p>  </bioghist>
+  <bioghist id="aspace_ae03bf66070b493c40960617e0d12064">
+    <head>Biographical / Historical</head>
+<p>Local 48 of the International Ladies' Garment Workers' Union (ILGWU), also known as the Italian Cloakmakers' Union, was chartered by members of Local 1 and Local 35 in 1916 and based in New York, New York. As membership and industry declined in the 1970s, the local became Local 48 United Coat, Suit and Allied Garment Workers' Union of Brooklyn, Queens and Staten Island (coat and suit workers in all crafts in Brooklyn, Queens and Staten Island), and later Local 48 Coat, Suit, Dress, Rainwear and Allied Workers Union of North Brooklyn. In late 1981, the Joint Board approved a measure to dissolve Local 48, and Local 89 was renamed Local 89-48 to honor the historic significance of the Italian cloakmakers.</p>  </bioghist>
+  <scopecontent id="aspace_2841bbe04e25f51629f9dd4d17216897">
+    <head>Scope and Contents</head>
+<p>This collection consists of photographs documenting Mr. Schettini's participation in various ILGWU conferences and conventions, his support of John Lindsay during his run for mayor of New York City, and his attendence at other union events. Of note are the panoramic pictures documenting the attendees of ILGWU conventions in Atlantic City, New Jersey and Miami Beach, Florida.</p>  </scopecontent>
+  <accessrestrict id="aspace_b9de9121a04335629089fc5098862a58">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_d54a5c08c26e2608083a653eb26cbb34">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_91597b1263117a485fcd66a469661fe3">
+    <head>Preferred Citation</head>
+<p>Fabio Schettini ILGWU Photographs #6036/102 P. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_c19e92062eff2a6c57b28cad57db5038">
+    <head>Related Materials</head>
+<p>Related Collections: 6036/102 PUBS: Fabio Schettini ILGWU Publications 6036/102 MB: Fabio Schettini ILGWU Memorabilia 6036/102m: Fabio Schettini ILGWU Files <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-040.html"> 5780/040: ILGWU Local 48 Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-177.html"> 5780/177: ILGWU Communications Department Biography Files</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Clothing workers &gt; Labor unions &gt;United States.</subject>
+    <subject source="ingest">Clothing workers &gt; Labor unions &gt; New York (State) &gt; New York.</subject>
+    <persname audience="internal" source="ingest">Schettini, Fabio</persname>
+    <persname audience="internal" source="ingest">Lindsay, John V. (John Vliet)</persname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union.</corpname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union. Local 48 (New York, N.Y.)</corpname>
+    <corpname audience="internal" source="ingest">Liberal Party of New York State.</corpname>
+  </controlaccess>
+  <unitid type="bibid">10377602</unitid>
+  <dsc><c01 id="aspace_56aec15d196766dc1bd99e7b572cc633" level="file"><did><unittitle>Miscellaneous 4x6 photographs. [some are have names of individuals or events]</unittitle><container id="aspace_b4652430bc6d6f4e79be0d041131c5e4" label="unspecified" type="box">1</container><container id="aspace_f2fed6eeb35e8bc0db39d9d3c43d2f00" parent="aspace_b4652430bc6d6f4e79be0d041131c5e4" type="folder">1</container></did></c01><c01 id="aspace_7cc2057a461b68e6582c36d676701eaa" level="file"><did><unittitle>Group photo, unidentified, except for the folder the photo was in which is from the Fontainebleau Hotel, Miami Beach, FL</unittitle><container id="aspace_54cc4f63b84ef843c824abd816dfeb95" label="unspecified" type="box">1</container><container id="aspace_0c5021c765708654ebab24fe5ffeb891" parent="aspace_54cc4f63b84ef843c824abd816dfeb95" type="folder">2</container></did></c01><c01 id="aspace_86da7913f00cbfc061565cb4fcd7bef5" level="file"><did><unittitle>Miscellaneous photographs, mostly 8x10, some are identified, the majority are not</unittitle><container id="aspace_ab40b98ad89f3cef95e64b2e4bd115ab" label="unspecified" type="box">1</container><container id="aspace_49f63bcfcdb9a6cb4bf7ab652b824490" parent="aspace_ab40b98ad89f3cef95e64b2e4bd115ab" type="folder">3</container></did></c01><c01 id="aspace_dd577ed06325b06c936287e3f187dd21" level="file"><did><unittitle>Election flyers for Fabio Schettini, for his bid for City Councilman</unittitle><container id="aspace_6e1d96b361887f75b746be8082ce728a" label="unspecified" type="box">1</container><container id="aspace_2d0a2d50967c53732afa456b07617ab2" parent="aspace_6e1d96b361887f75b746be8082ce728a" type="folder">4</container></did></c01><c01 id="aspace_6d256061a9429018b98ddf75c71e9e64" level="file"><did><unittitle>copies of miscellaneous photographs</unittitle><container id="aspace_fd2badfd35648bdfa71e591e8491191c" label="unspecified" type="box">1</container><container id="aspace_cfa3d45b1e2fd831fc9e635143db3504" parent="aspace_fd2badfd35648bdfa71e591e8491191c" type="folder">5</container></did></c01><c01 id="aspace_38f359f2ca8ef0b300735009d6f27a8b" level="file"><did><unittitle>Sergeants at Arms - Thirty-First Convention (1962)</unittitle><unitdate datechar="creation" normal="1962/1962">1962</unitdate><container id="aspace_d15528e49fe68c15654c6c06ec484262" label="unspecified" type="box">1</container><container id="aspace_7e61cfd29a10fcfba8f3b828482046c4" parent="aspace_d15528e49fe68c15654c6c06ec484262" type="folder">6</container></did></c01></dsc>
+</archdesc>
+</ead>

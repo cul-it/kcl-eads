@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06000-041mb</eadid><filedesc><titlestmt><titleproper>UNITE Al Fox Tools Memorabilia <num>6000/041 MB</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 12, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:21:02 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>UNITE Al Fox Tools Memorabilia</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Union of Needletrades, Industrial and Textile Employees (UNITE)</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Fox, Al</persname>
+    </origination>
+    <unitid>6000/041 MB</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1940/1940">1940</unitdate>
+    <physdesc id="aspace_613f96c53212c831affdf502f289448b" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_68831e239b99ce166aa3691049a4e6db" label="Forms of Material:">Memorabilia.</physdesc>
+    <langmaterial id="aspace_307654a387e09ec4c293a356ba21ba2d">Collection material in English</langmaterial>
+    <unitid type="bibid">5757770</unitid>
+  </did>
+  <odd id="aspace_b4b1a7f71e6f093443d796d1dc0f8231">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, August 13, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, August 12, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_ddb24bb2395210751f3577c20462fd3d">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_db658be0601bf3936eb1ccc010f6e8ba">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_0ad76b33d82158061b5d76d0d0fcc2a2">
+    <head>Preferred Citation</head>
+<p>UNITE Al Fox Tools Memorabilia #6000/041 MB. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Textile workers-- Labor unions</subject>
+    <subject source="ingest">Clothing workers-- Labor unions</subject>
+    <persname audience="internal" source="ingest">Fox, Al, 1906-</persname>
+    <corpname audience="internal" source="ingest">Union of Needletrades, Industrial, and Textile Employees</corpname>
+    <corpname audience="internal" source="ingest">Union of Needletrades, Industrial, and Textile Employees --Archives</corpname>
+    <corpname audience="internal" source="ingest">UNITE HERE (Organization) -- Archives</corpname>
+  </controlaccess>
+  <unitid type="bibid">5757770</unitid>
+  <dsc><c01 id="aspace_4492c240f4715d2fafa3e12e639176b2" level="file"><did><unittitle>Scissors</unittitle><container id="aspace_86f511c569045cabeb4563e7e1764c02" label="unspecified" type="box">1</container><container id="aspace_6e0fc5248723134590ff2f8a6f8d22fe" parent="aspace_86f511c569045cabeb4563e7e1764c02" type="Folder">1</container></did></c01><c01 id="aspace_82bb2f8bb0c929afd0e8b7fd7f328b1f" level="file"><did><unittitle>Pellon Corporation - ruler</unittitle><container id="aspace_e719fdf28d9e54d60aa4653c56e821c3" label="unspecified" type="box">1</container><container id="aspace_47da3d843e1de3d0d53ca0e46060b7e1" parent="aspace_e719fdf28d9e54d60aa4653c56e821c3" type="Folder">2</container></did></c01><c01 id="aspace_c5eed3c584f85fa8b12e6cccbdf0e536" level="file"><did><unittitle>Pinking Shears</unittitle><container id="aspace_0947deb1027cdbb30560cd855cfa5ccb" label="unspecified" type="box">1</container><container id="aspace_acfa82ffb4052e374fea1a3922d00b71" parent="aspace_0947deb1027cdbb30560cd855cfa5ccb" type="Folder">3</container></did></c01><c01 id="aspace_efda905e90a23459b7c1ed06ac614fb9" level="file"><did><unittitle>Riveter</unittitle><container id="aspace_a95f2b81630ee596a95c79ca5cfc9e17" label="unspecified" type="box">1</container><container id="aspace_124fdeefcefb2934e7c6136ff17a83e9" parent="aspace_a95f2b81630ee596a95c79ca5cfc9e17" type="Folder">4</container></did></c01><c01 id="aspace_af727fdf88fd6844e3b6ea8af95e75bc" level="file"><did><unittitle>Stratton Hair Brush</unittitle><container id="aspace_b80373b92713683ddf5a1303291dff78" label="unspecified" type="box">1</container><container id="aspace_1cd7a03eedbcc69a38b131b20353db73" parent="aspace_b80373b92713683ddf5a1303291dff78" type="Folder">5</container></did></c01><c01 id="aspace_22f4d20f334e1445aca41e5ecd14e635" level="file"><did><unittitle>Key chain and threaders</unittitle><container id="aspace_38016c4f17e42638a4d2528f9ba364c1" label="unspecified" type="box">1</container><container id="aspace_ec20657b33e4c7bb94256e4e522951fa" parent="aspace_38016c4f17e42638a4d2528f9ba364c1" type="Folder">6</container></did></c01><c01 id="aspace_4c36fe2d1f454fc2411069b3ddb8cfd1" level="file"><did><unittitle>Thimbles (2)</unittitle><container id="aspace_43ca7dfcedf7c3c04ad747badd1ae1c9" label="unspecified" type="box">1</container><container id="aspace_67c6aa9155fbeb7e816118d5a8efeaec" parent="aspace_43ca7dfcedf7c3c04ad747badd1ae1c9" type="Folder">7</container></did></c01><c01 id="aspace_bb46261dea62205fe5910845d0a859ad" level="file"><did><unittitle>Buttons (16)</unittitle><container id="aspace_adbd8270575cec2903cdda321fc9bf67" label="unspecified" type="box">1</container><container id="aspace_0342ed4fbd269e2ebd75eafb98fbb6da" parent="aspace_adbd8270575cec2903cdda321fc9bf67" type="Folder">8</container></did></c01><c01 id="aspace_f49ed11c33016f8cb3270a7a02a6f21e" level="file"><did><unittitle>Empty box labeled - Al Fox</unittitle><container id="aspace_66c586f81bf4bacb4fdd2928a19865ac" label="unspecified" type="box">1</container><container id="aspace_39045ac892376cde0601610b9acf6bd2" parent="aspace_66c586f81bf4bacb4fdd2928a19865ac" type="Folder">9</container></did></c01><c01 id="aspace_534c74f982d9986925005f758d054b29" level="file"><did><unittitle>Punch</unittitle><container id="aspace_dbfb846045484b44390446dca88cd9d7" label="unspecified" type="box">1</container><container id="aspace_c73fc06e1e3ca885f8fa8fcf0bb884a9" parent="aspace_dbfb846045484b44390446dca88cd9d7" type="Folder">10</container></did><scopecontent id="aspace_9403a93a0b63d90e39c7c94c24893130"><head>Scope and Contents</head><p>not sure what kind of punch, but, that's what it resembles</p></scopecontent></c01><c01 id="aspace_b99b277119d1ceae3369c33b226d27e9" level="file"><did><unittitle>Pictures - June 1940</unittitle><container id="aspace_f2b0aae083f050e9db62e74bbb53c688" label="unspecified" type="box">1</container><container id="aspace_d5347c3f8677c9a5bdc1a6e98989a96b" parent="aspace_f2b0aae083f050e9db62e74bbb53c688" type="Folder">11</container></did><scopecontent id="aspace_8ab618a9af4a4c0ba66f1957a0cab725"><head>Scope and Contents</head><p>(2)</p></scopecontent></c01><c01 id="aspace_91e70b81211e6b0faca8411aa3a64ff8" level="file"><did><unittitle>Old JUSTICE covers, and 75th Anniv. Front page</unittitle><container id="aspace_645999978edf26c12000c683e6bd9af2" label="unspecified" type="box">1</container><container id="aspace_65dea5c54c697160dda9c53f1543da01" parent="aspace_645999978edf26c12000c683e6bd9af2" type="Folder">12</container></did></c01><c01 id="aspace_8a3ef35a21d4c9514cdf03068e98bcd9" level="file"><did><unittitle>Your BU-TEE FLEECE, BLANKET CLOTH BRUSH DOWN LIGHTLY</unittitle><container id="aspace_c7ff4520490ce18e9f5d50fda9c9cca7" label="unspecified" type="box">1</container><container id="aspace_32c9a7a4260a76f640e31da986dd72dc" parent="aspace_c7ff4520490ce18e9f5d50fda9c9cca7" type="Folder">13</container></did></c01></dsc>
+</archdesc>
+</ead>

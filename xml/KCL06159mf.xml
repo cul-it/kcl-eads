@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06159mf</eadid><filedesc><titlestmt><titleproper>Stuart, I. R. "A Study of Factors Associated with Inter-group Conflict in the Ladies' Garment Industry in New York City" on Microfilm <num>6159mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 28, 2013</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:31:53 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>I. R. Stuart "A Study of Factors Associated with Inter-group Conflict in the Ladies' Garment Industry in New York City" on Microfilm</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Stuart, Irving R.</persname>
+    </origination>
+    <unitid>6159mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.11 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1951/1951">1951</unitdate>
+    <physdesc id="aspace_f5df1e992b844719b978fb76b9149232" label="Quantity:">1 microfilm reel</physdesc>
+    <physdesc id="aspace_c49c992c18b21f0ca977bfef3662e660" label="Forms of Material:">Microfilm, publication.</physdesc>
+    <abstract id="aspace_b8cd58b59d5ffd6c95c3de74e172602e">"This collection consists of the microfilm of I. R. Stuart's "A Study of Factors Associated with Inter-group Conflict in the Ladies' Garment Industry in New York City"</abstract>
+    <langmaterial id="aspace_1777cd896513dd7b177c4b212bcfae1d">Collection material in English</langmaterial>
+    <unitid type="bibid">5821337</unitid>
+  </did>
+  <odd id="aspace_02db568ef4500142c7519ef6be9f9e80">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183<extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref><extref xlink:href="http://www.ilr.cornell.edu/library/kheel">http://www.ilr.cornell.edu/library/kheel</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff</item>
+      </defitem>
+      <defitem>
+        <label>Date completed:</label>
+        <item>February 28, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, February 2013</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_58b97260b8e1a63bad19460452eb2197">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_d619b4261852da25d5d4446db64166b7">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_c07674ae28c31238d7d1fd4ee469799d">
+    <head>Preferred Citation</head>
+<p>I. R. Stuart "A Study of Factors Associated with Inter-group Conflict in the Ladies' Garment Industry in New York City" on Microfilm, #6159mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Womens clothing industry -- New York (State) -- New York</subject>
+    <subject source="ingest">Arbitration, Industrial -- New York (State) -- New York</subject>
+    <persname audience="internal" source="ingest">Stuart, Irving R.</persname>
+    <corpname audience="internal" source="ingest">New York University (NYU)</corpname>
+  </controlaccess>
+  <unitid type="bibid">5821337</unitid>
+  <dsc><c01 id="aspace_bc05b524a391a55e170c86e2a047cf0f" level="series"><did><unittitle>(Online container list not yet available.)</unittitle></did></c01></dsc>
+</archdesc>
+</ead>

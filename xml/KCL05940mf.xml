@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05940mf</eadid><filedesc><titlestmt><titleproper>International Workers Order's Immigration and Naturalization Files on Microfilm <num>5940 mf</num></titleproper><author>Compiled by Randall Miles</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>January 13, 2014</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:16:54 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>International Workers Order's Immigration and Naturalization Files on Microfilm</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">International Workers' Order.</corpname>
+    </origination>
+    <unitid>5940 mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.22 cubic feet</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="0000/2999" type="inclusive">0000-2999</unitdate>
+    <physdesc id="aspace_565c3e136e9ebc8ed89af4253bac001b" label="Quantity:">2 microfilm reels</physdesc>
+    <physdesc id="aspace_452574f7a9b2d0019d71e7c7fe9d9601" label="Forms of Material:">Correspondence, reports, publications, microfilm.</physdesc>
+    <abstract id="aspace_7ae0c26914fd5a00c05bb66969db14a4">This collection consists of microfilmed copies of the International Workers Order's Immigration and Naturalization Files</abstract>
+    <langmaterial id="aspace_a8f8c061cc54331f7a88370476fef67c">Collection material in English</langmaterial>
+  </did>
+  <odd id="aspace_a190bfb85ddc2167fcf3852c05c2d7e1">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183<extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref><extref xlink:href="http://www.ilr.cornell.edu/library/kheel">http://www.ilr.cornell.edu/library/kheel</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff</item>
+      </defitem>
+      <defitem>
+        <label>Date completed:</label>
+        <item>January 13, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, January 2014</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_335036c4960533330179615090c545bc">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_6a987118b79af99ec977d046100cb660">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_7ff60096cbfcf05eff576db8adc5bff0">
+    <head>Preferred Citation</head>
+<p>International Workers Order's Immigration and Naturalization Files on Microfilm #5940 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_49c6219759f75be64bfe2fecf2e034be">
+    <head>Related Materials</head>
+<p>Related collections: 5276, 5940 mf</p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Socialism--United States.</subject>
+    <subject source="ingest">Labor unions and communism .</subject>
+    <corpname audience="internal" source="ingest">International Workers' Order --Archives.</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ad31a422164b106f45b36ec607559f73" level="series"><did><unittitle>(Online container list not yet available.)</unittitle></did></c01></dsc>
+</archdesc>
+</ead>

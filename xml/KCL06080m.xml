@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06080m</eadid><filedesc><titlestmt><titleproper>AFL-CIO Documents of Work and Labor Law Reform <num>6080m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 05, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:28:31 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>AFL-CIO Documents of Work and Labor Law Reform</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">American Federation of Labor-Congress of Industrial Organizations (AFL-CIO)</corpname>
+    </origination>
+    <unitid>6080m</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 folders</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1993/1993">1993-1993</unitdate>
+    <physdesc id="aspace_277fd824a0babc942ef5d8206059cbaf" label="Quantity:">1 file folder.</physdesc>
+    <physdesc id="aspace_d1683ccecfaefb05f93ad18aa5c3f705" label="Forms of Material:">Records, reports.</physdesc>
+    <abstract id="aspace_9e556f20023e8984e8fd8a79754a4795">"Report of the Staff Working Groups on Organizing and Collective Bargaining the AFL- CIO Committee on the Evolution of Work" May 18, 1993, and other selected Documents of Work and Labor Law Reform, 1993.</abstract>
+    <langmaterial id="aspace_ba963840c98d68fab9652ce528d3a644">Collection material in English</langmaterial>
+    <unitid type="bibid">5791178</unitid>
+  </did>
+  <odd id="aspace_fc8c0c0dc43e3437a7369630b2535e38">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 28, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, August 05, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <scopecontent id="aspace_fbde202dec18817c2ce8275264dd936d">
+    <head>Scope and Contents</head>
+<p>This collection consists of "Report of the Staff Working Groups on Organizing and Collective Bargaining the AFL-CIO Committee on the Evolution of Work" May 18, 1993, and other selected Documents of Work and Labor Law Reform, 1993.</p>  </scopecontent>
+  <accessrestrict id="aspace_baef4465547402712c68b46963c9c0b6">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_4b4fb1e5d1da5de193f2b18d44dc675c">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_1a6fdba7d49302ccfb177396da33dd51">
+    <head>Preferred Citation</head>
+<p>AFL-CIO Documents of Work and Labor Law Reform #6080m. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Labor unions--United States</subject>
+    <subject source="ingest">Employment forecasting--United States</subject>
+    <subject source="ingest">Industrial management--Employee participation--United States</subject>
+    <corpname audience="internal" source="ingest">AFL-CIO.</corpname>
+    <corpname audience="internal" source="ingest">AFL-CIO. Committee on the Evolution of Work</corpname>
+  </controlaccess>
+  <unitid type="bibid">5791178</unitid>
+  <dsc><c01 id="aspace_d66d1a959b2540fe69bc1dcdfe79190e" level="file"><did><unittitle>"Report of the Staff Working Groups on Organizing and Collective Bargaining the AFL-CIO Committee on the Evolution of Work" May 18, 1993, and other selected Documents of Work and Labor Law Reform</unittitle><unitdate datechar="creation" normal="1993/1993">1993</unitdate><container id="aspace_1695f2a523524de35590db464b86d3f9" label="unspecified" type="box">1</container></did><scopecontent id="aspace_b355d2c9cf5a1f7a514c37f394966b98"><head>Scope and Contents</head><p>75 pages</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05828mf</eadid><filedesc><titlestmt><titleproper>United Brotherhood of Carpenters and Joiners of America Local 3211 (Herkimer, NY) Minute Books on Microfilm <num>5828 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 17, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:12:06 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>United Brotherhood of Carpenters and Joiners of America Local 3211 (Herkimer, NY) Minute Books on Microfilm</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">United Brotherhood of Carpenters and Joiners of America (UBC)</corpname>
+    </origination>
+    <unitid>5828 mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.11 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1970/1974" type="inclusive">1970-1974</unitdate>
+    <physdesc id="aspace_06f8677808821c0145832827f1d2b50d" label="Quantity:">1 microfilm reel</physdesc>
+    <physdesc id="aspace_798c42c3e4aae1c3e512c438280a798a" label="Forms of Material:">Minutes (administrative records), minute books, microfilm.</physdesc>
+    <abstract id="aspace_d2903eb47015349f9e310b2f609b28a4">Minute book of the United Brotherhood of Carpenters and Joiners of America, Local 3211 (Herkimer, New York), from October 22, 1970 to April 11, 1974.</abstract>
+    <langmaterial id="aspace_1d7079efd78110d89896da0579efb9bc">Collection material in English</langmaterial>
+  </did>
+  <odd id="aspace_a286ebaba2d32cd474ef17ea73739aed">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, August 22, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 17, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_28f0894ba55c0091a2f957b8326b66d5">
+    <head>Biographical / Historical</head>
+<p>The United Brotherhood of Carpenters and Joiners of America often referred to as the United Brotherhood of Carpenters was formed in 1881. It has grown to be one of the largest trade unions in the United States, and between its chapters and locals there is international cooperation that poises the brotherhood for a global role. Today the United Brotherhood of Carpenters is considered one of North America's largest building-trades unions, with almost a half-million members in the construction and wood-products industries. </p><p> Local 3211 is based in Herkimer, New York.</p>  </bioghist>
+  <scopecontent id="aspace_40b0e93d430892ccd6bfea7c3870b534">
+    <head>Scope and Contents</head>
+<p>This collection consists of minute book of the United Brotherhood of Carpenters and Joiners of America, Local 3211 (Herkimer, New York), from October 22, 1970 to April 11, 1974.</p>  </scopecontent>
+  <accessrestrict id="aspace_b8636c9f6d28405d8a86817784b370dc">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_50a4f556df48fbb2e22e0a5b060cf97d">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_4bfd8369550eb7d00924c2ecbde50ca8">
+    <head>Preferred Citation</head>
+<p>United Brotherhood of Carpenters and Joiners of America Local 3211 (Herkimer, NY) Minute Books on Microfilm #5828 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_39704f9d1fd8227f3421452941867e93">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05278.html"> 5278: Utica Trades Assembly Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05288.html"> 5288: International Brotherhood Pulp, Sulphite, Paper Mill Workers, Local 670 (Utica, NY) Minute Book</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05810.html"> 5810: United Brotherhood of Carpenters and Joiners of America Local 125 (Utica, NY) Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05810mf.html"> 5810 mf: United Brotherhood of Carpenters and Joiners of America Local 125 (Utica, NY) Records on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05811.html"> 5811: International Typographical Union Local 62 (Utica, NY) Minute Book</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05826.html"> 5826: United Brotherhood of Carpenters and Joiners of America Local 337 (Whitesboro, NY) Minute Books</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05826mf.html"> 5826 mf: United Brotherhood of Carpenters and Joiners of America Local 337 (Whitesboro, NY) Minute Books on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05827.html"> 5827: United Brotherhood of Carpenters and Joiners of America Mohawk Valley District Council of Carpenters Minute Books</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05827mf.html"> 5827 mf: United Brotherhood of Carpenters and Joiners of America Mohawk Valley District Council of Carpenters Minute Books on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05828.html"> 5828: United Brotherhood of Carpenters and Joiners of America Local 3211 (Herkimer, NY) Minute Books</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05829.html"> 5829: Utica, NY, Building Trades Council Minute Books</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05829mf.html"> 5829 mf: Utica, NY, Building Trades Council Minute Books on Microfilm</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Carpenters--Labor unions--New York (State) --Herkimer.</subject>
+    <corpname audience="internal" source="ingest">United Brotherhood of Carpenters and Joiners of America.</corpname>
+    <corpname audience="internal" source="ingest">United Brotherhood of Carpenters and Joiners of America. Local 3211 (Herkimer, N.Y.)</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_29d90e059969a902f51a773d12e05026" level="file"><did><unittitle>Herkimer Carpenters &amp; Joiners, Local 3211 (positive)</unittitle><unitid>1</unitid><container id="aspace_4c6f93b58a1071f55d3b51fff58db9b9" label="unspecified" type="reel">2</container></did></c01></dsc>
+</archdesc>
+</ead>

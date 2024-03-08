@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05780-179mb</eadid><filedesc><titlestmt><titleproper>ILGWU David Dubinsky Memorabilia <num>5780/179 MB</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 16, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:06:53 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILGWU David Dubinsky Memorabilia</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">International Ladies' Garment Workers' Union (ILGWU)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Dubinsky, David</persname>
+    </origination>
+    <unitid>5780/179 MB</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.28 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1961/1961">1961</unitdate>
+    <physdesc id="aspace_1f6fa1f5a381aa396c180e75694f8d95" label="Quantity:">1.3 linear ft.</physdesc>
+    <physdesc id="aspace_0a6887ca38905e3bd9157f04039731ea" label="Forms of Material:">Memorabilia, artwork.</physdesc>
+    <abstract id="aspace_055a0110009b93b5d05c920f11d372df">Consists of one 15" x 20" charcoal drawing of David Dubinsky, signed by Seth Hoffman in 1942, a portrait of Dubinsky, other memorabilia and drawings.</abstract>
+    <langmaterial id="aspace_6797917f3dd9d8d097eddc183bbbecef">Collection material in English</langmaterial>
+    <unitid type="bibid">5521626</unitid>
+  </did>
+  <odd id="aspace_14362a80794caffa1ff3e38375535e19">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 29, 2011</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 16, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_989f9b659b8277f28056fed767ea6c13">
+    <head>Biographical / Historical</head>
+<p>The International Ladies' Garment Workers' Union was once one of the largest labor unions in the United States founded in 1900 by local union delegates representing about 2,000 members in cities in the northeastern United States. It was one of the first U.S. Unions to have a membership consisting of mostly females, and it played a key role in the labor history of the 1920s and 1930s. The union is generally referred to as the "ILGWU" or the "ILG". The ILGWU grew in geographical scope, membership size, and political influence to become one of the most powerful forces in American organized labor by mid-century. Representing workers in the women's garment industry, the ILGWU worked to improve working and living conditions of its members through collective bargaining agreements, training programs, health care facilities, cooperative housing, educational opportunities, and other efforts. The ILGWU merged with the Amalgamated Clothing and Textile Workers Union in 1995 to form the Union of Needle trades, Industrial and Textile Employees (UNITE). UNITE merged with the Hotel Employees and Restaurant Employees Union (HERE) in 2004 to create a new union known as UNITE HERE. The two unions that formed UNITE in 1995 represented only 250,000 workers between them, down from the ILGWU's peak membership of 450,000 in 1969.</p>  </bioghist>
+  <bioghist id="aspace_e1a39d97deb11b34e887771d7b11aaaf">
+    <head>Biographical / Historical</head>
+<p>1892 Born February 22nd in Brest-Litovsk, then in Russia, son of Bezalel and Shaie Wishingrad Dobnievski. Moved to Lodz, where the family operated a bakery. 1903 Began to work in father's bakery after attending three terms in Hebrew Zionist school. 1907 Qualified as master baker and joined bakers' union, organized by the General Jewish Workers Union, the Bund. Served as secretary of the bakers' union. Arrested, together with 60 other members of the union, in the course of a strike; released after payment of 25 rubles by father. Left Lodz to live with an uncle in Brest-Litovsk; after three months returned to Lodz and rejoined the bakers' union. 1908 Arrested while attending an illegal meeting of the bakers and, as a second offender, exiled to a small Siberian village. Escaped and made his way to Chelyabinsk and from there to Lodz, working as a baker under an assumed name. </p><p> 1910--Sailed, with an older brother, Chaira, to New York City. 1911--Arrived in NYC on January 1st. Lived on Lower East Side and became apprenticed to learn the cutter's craft. Accepted as a member of Local 10, Cutters' Union of the International Ladies' Garment Workers' Union, on July 13th. 1914 Married Emma Goldberg, an undergarment operator and member of the ILGWU. (The couple had one child, a daughter, Jean). 1918--Elected to executive board of Local 10. 1919--Elected vice-president of Local 10. 1920--Elected chairman of Local 10. 1921--Elected president of Local 10. Elected general manager (a new office combining duties of manager and secretary) of Local 10 in December. 1922--Elected vice president of ILGWU and member of General Executive Board. 1929 Elected General Secretary-Treasurer of ILGWU. Served as Acting President of ILGWU. 1932 Elected by GEB in June as President, following death of President Benjamin Schlesinger. </p><p> 1934--Elected vice president of American Federation of Labor in October. 1935--Joined with John L. Lewis of Mine Workers and Sidney Hillman of Amalgamated Clothing Workers to form a Committee for Industrial Organization. First U.S. labor representative to the International Labor Organization. 1936--Joined in founding the American Labor Party in New York State. Served as Democratic Party elector for the ticket of Franklin D. Roosevelt and John N. Garner. 1944--Joined in founding Liberal Party. 1945--Elected vice president of American Federation of Labor. 1966--Offered resignation as President to GEB at meeting of March 14th, to take effect April 12th. Resignation effective June 15th, anniversary of date on which he was first elected President.</p>  </bioghist>
+  <accessrestrict id="aspace_d839d6f26deebf1ff3b57aa5bc03707d">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_af9b260ca0b609789505ee4dd349ed67">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_2909305073596bce4b2ffd78f36d2c22">
+    <head>Preferred Citation</head>
+<p>ILGWU David Dubinsky Memorabilia #5780/179 MB. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_62ff7f079e2522e3be6b2fe30efe745d">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-002.html"> 5780/002: ILGWU David Dubinsky Correspondence</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-136.html"> 5780/136: ILGWU David Dubinsky Scrapbooks</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-179p.html"> 5780/179 P: ILGWU David Dubinsky Photographs</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Women's clothing industry--United States.</subject>
+    <subject source="ingest">Clothing workers--Labor unions--United States.</subject>
+    <subject source="ingest">Clothing workers--United States.</subject>
+    <subject source="ingest">Industrial relations--United States.</subject>
+    <persname audience="internal" source="ingest">Dubinsky, David, 1892-1982.</persname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5521626</unitid>
+  <dsc><c01 id="aspace_028e1505fe9325dd0f0fefd7413de07d" level="file"><did><unittitle>ILGWU David Dubinsky Memorabilia</unittitle><container id="aspace_e0d1a56b3c2a9fad7111e3a5335795e1" label="unspecified" type="box">1</container></did><c02 id="aspace_abc72a791c1666c4cda7d419ec9b93c8" level="file"><did><unittitle>David Dubinsky</unittitle><unitdate datechar="creation" normal="1942/1942">1942</unitdate><container id="aspace_d71a869d5e70927ce9907b7e2b700d8e" label="unspecified" type="box">1</container><container id="aspace_81fb7a9b0ae583d554850d537e96a8a4" parent="aspace_d71a869d5e70927ce9907b7e2b700d8e" type="folder">1</container></did><scopecontent id="aspace_71e4d48dace9abbd03ec8d10708b027f"><head>Scope and Contents</head><p>15" x 20" charcoal drawing of DD, signed by Seth Hoffman</p></scopecontent></c02></c01><c01 id="aspace_a105faa670790ff78f17c398fde4260a" level="file"><did><unittitle>David Dubinsky sketch</unittitle><unitdate datechar="creation" normal="1957/1957">1957</unitdate><container id="aspace_727e51bf67cfbca40eda7c70e1a3d27a" label="unspecified" type="box">2</container><container id="aspace_83df55b25cfebef3d8a200182790f28d" parent="aspace_727e51bf67cfbca40eda7c70e1a3d27a" type="folder">1</container></did></c01><c01 id="aspace_ce7065d068e748d19815847d47506136" level="file"><did><unittitle>ILGWU - 40th Anniversary Convention: Carnegie Hall, New York -- May 1940 -- Portfolio with music for O'Canada and God Save the Queen</unittitle><unitdate datechar="creation" normal="1940/1940">1940</unitdate><container id="aspace_da2d433a1bc8a5f91a082ada0ec9c71b" label="unspecified" type="box">2</container><container id="aspace_59d5267bc6190262d6a357ac97fd757a" parent="aspace_da2d433a1bc8a5f91a082ada0ec9c71b" type="folder">2</container></did></c01><c01 id="aspace_a4e8fa8c2753128ad0f683749f9d929e" level="file"><did><unittitle>ILGWU - 40th Anniversary Convention: Carnegie Hall, New York -- May 1940 -- Portfolio with music and words to Union Songs</unittitle><unitdate datechar="creation" normal="1940/1940">1940</unitdate><container id="aspace_7959858aac1a82fc657f64edd3a5c320" label="unspecified" type="box">2</container><container id="aspace_8bad5fa8f0ae80346303558a0a4a0cb1" parent="aspace_7959858aac1a82fc657f64edd3a5c320" type="folder">3</container></did></c01><c01 id="aspace_c79d170a3709c058ef4c8d2e0856a089" level="file"><did><unittitle>2 volumes: 35 Northeast and Collective Agreements : Dressmakers' Joint Council, ILGWU - 1973-1976</unittitle><container id="aspace_4417c97e3086f737d66db7943d1295ae" label="unspecified" type="box">2</container><container id="aspace_9dd6a70c9d94de64f867d195f12d7ce7" parent="aspace_4417c97e3086f737d66db7943d1295ae" type="folder">4</container></did></c01><c01 id="aspace_8ce714da362548f588b853f6f1ca200c" level="file"><did><unittitle>Official Inaugural Program for John F. Kennedy: January 20, 1961</unittitle><unitdate datechar="creation" normal="1961/1961">1961</unitdate><container id="aspace_d490822aa83dce19bb8fe64331f0bf2d" label="unspecified" type="box">2</container><container id="aspace_9c6d48ec72232d14aa1b7ddf0d87e1df" parent="aspace_d490822aa83dce19bb8fe64331f0bf2d" type="folder">5</container></did><scopecontent id="aspace_62757351890a218225049b1d3458ee11"><head>Scope and Contents</head><p>cover engraved with David Dubinsky</p></scopecontent></c01><c01 id="aspace_5bcb7123dc048f15b1035e65c4fc6ec5" level="file"><did><unittitle>Mounted painting of David Dubinsky: painted by J.W. de R'Quistgaard</unittitle><container id="aspace_55984efab885e1ed68c70f026ec32aed" label="unspecified" type="box">3</container><container id="aspace_77a152a3c69ef11d871cacb992ef6e71" parent="aspace_55984efab885e1ed68c70f026ec32aed" type="folder">1</container></did></c01></dsc>
+</archdesc>
+</ead>

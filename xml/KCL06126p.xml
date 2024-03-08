@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06126p</eadid><filedesc><titlestmt><titleproper>Gilbreth, Frank B. Motion Study Photographs <num>6126 P</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 23, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:30:43 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Frank B. Gilbreth Motion Study Photographs</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Gilbreth, Frank B.</persname>
+    </origination>
+    <unitid>6126 P</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1913/1917" type="inclusive">1913-1917</unitdate>
+    <physdesc id="aspace_b9cc8a1e3056a564ff358e556a1fb16e" label="Quantity:">0.3 linear ft.</physdesc>
+    <physdesc id="aspace_ed90b6b4f4315ec6b3e0e197b8d62eee" label="Forms of Material:">Photographs.</physdesc>
+    <abstract id="aspace_2181b9e45ebe0f27d961cccdb8ddc327">Motion studies conducted by Frank B. Gilbreth were undertaken to analyze the efficiency and productive capacity of industrial workers. Photographs were made as single prints, in stereo, or as time series recording component operations which constitute a larger process. Images included in the collection document research techniques, equipment, and operations under analysis.</abstract>
+    <langmaterial id="aspace_181f42df5c964cc9a4223ccc49957513">Collection material in English</langmaterial>
+    <unitid type="bibid">7992921</unitid>
+  </did>
+  <odd id="aspace_7fff5c701d91cf6c84f0a67aeb943a35">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, March 20, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, February 23, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_b82d023ca97a9ff500f5d09c1b0808ea">
+    <head>Biographical / Historical</head>
+<p>Frank Bunker Gilbreth, Sr. (July 7, 1868 June 14, 1924) </p><p> Gilbreth was a pioneer of motion study and is perhaps best known as the father and central figure of 'Cheaper by the Dozen'. </p><p> Gilbreth discovered his vocation as a young building contractor, he looked for ways to make bricklaying faster and easier. As time went on he worked with his wife, Lillian Moller Gilbreth, who studied work habits of manufaturing and clerical employees in all types of industries. He and Lillian started a management consulting firm, Gilbreth, Inc. </p><p> While serving in the U.S. Army during World War I, he was assigned to find a quicker and more efficient way to assemble and disasseble small arms. According to Claude George (1968), Gilbreth reduced all motions of the hand into some combinations of 17 basics motions. Gilbreth named the motions therbligs, "Gilbreth" spelled backwards with the th transposed. He used a motion picture camera that was calibrated in fractions of minutes to time the motions workers made. </p><p> The Gilbreths were, above all, scientist who sought to teach managers that all aspects of the workplace should be constantly questioned. They believed with the use of their therbligs, there was 'one best way' to do almost anything.</p>  </bioghist>
+  <scopecontent id="aspace_aa12ece69938682568fc64184ad8cf25">
+    <head>Scope and Contents</head>
+<p>Motion studies conducted by Frank B. Gilbreth were undertaken to analyze the efficiency and productive capacity of industrial workers. Photographs were made as single prints, in stereo, or as time series recording component operations which constitute a larger process. Images included in the collection document research techniques, equipment, and operations under analysis.</p>  </scopecontent>
+  <accessrestrict id="aspace_ebb490f33cd8e3bce4f50c893bc614a9">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_4e74bbec8bf4f9bf45c9f2a0bb78e330">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_516762822f5c67329abf92e7d4614eea">
+    <head>Preferred Citation</head>
+<p>Frank B. Gilbreth Motion Study Photographs #6126 P. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_225f6d0496fd003e5ae8e7ce9dae081f">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05424mf.html"> 5424 mf: Frank Gilbreth Papers on Microfilm</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Gilbreth, Frank Bunker, 1868-1924</persname>
+  </controlaccess>
+  <unitid type="bibid">7992921</unitid>
+  <dsc><c01 id="aspace_973e3ff0af68230e7604a201eb9b1246" level="file"><did><unittitle>Research Techniques</unittitle><container id="aspace_dcf0b5bbbc9a9a7243231539dc61d1ed" label="unspecified" type="box">1</container><container id="aspace_65b459eeace86946ea4372f73d180789" parent="aspace_dcf0b5bbbc9a9a7243231539dc61d1ed" type="folder">1</container></did><scopecontent id="aspace_f140278c9d8cb9cc09c41df063ae50bb"><head>Scope and Contents</head><p>4 photographs</p></scopecontent></c01><c01 id="aspace_ea6f0c834f68fb66f74de5a37743612c" level="file"><did><unittitle>Equipment</unittitle><container id="aspace_884a3dc5c9d0f622b641a5d1fc3ee965" label="unspecified" type="box">1</container><container id="aspace_74724876bd1253c031db253ad3a0cbe2" parent="aspace_884a3dc5c9d0f622b641a5d1fc3ee965" type="folder">2</container></did><scopecontent id="aspace_7e1f8c94c7cd7cf09b335240e7ffa00a"><head>Scope and Contents</head><p>13 photographs</p></scopecontent></c01><c01 id="aspace_4ba5c0113421831a17de81e37b0b93eb" level="file"><did><unittitle>Typists - Motion Studies</unittitle><container id="aspace_cda1537a3dfba51b2a2f411b2e91e97c" label="unspecified" type="box">1</container><container id="aspace_c483530db1842edfb6557760549b91bd" parent="aspace_cda1537a3dfba51b2a2f411b2e91e97c" type="folder">3</container></did><scopecontent id="aspace_e8c9e283b3ae71dad88b7120204c5d6a"><head>Scope and Contents</head><p>7 photographs</p></scopecontent></c01><c01 id="aspace_60232b0c9e15c6619d7766b27a991ec1" level="file"><did><unittitle>Various Activities - Motion Studies</unittitle><container id="aspace_fae2a26628f45c9f053ab8ac4c811529" label="unspecified" type="box">1</container><container id="aspace_f369d228646e7d0aeaeeb80d70a2109c" parent="aspace_fae2a26628f45c9f053ab8ac4c811529" type="folder">4</container></did><scopecontent id="aspace_f7785bd275bdde67aa59f3ec03a4b948"><head>Scope and Contents</head><p>13 photographs</p></scopecontent></c01><c01 id="aspace_d81f9bd3861db84e3c66a2123059ced4" level="file"><did><unittitle>Workers Photographs</unittitle><container id="aspace_10af92af96a76f0af66d90b84507ac99" label="unspecified" type="box">1</container><container id="aspace_efe69d569bbb430f8db9d0e014645ca5" parent="aspace_10af92af96a76f0af66d90b84507ac99" type="folder">5</container></did><scopecontent id="aspace_7631500e8b8a8c4dc4bcb2de52042982"><head>Scope and Contents</head><p>4 photographs</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

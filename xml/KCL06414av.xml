@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06414av</eadid><filedesc><titlestmt><titleproper>Interfaith Worker Justice Audio-Visual Materials <num>6414 AV</num></titleproper><author>Compiled by M. Clark</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>May 26, 2017</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:47:37 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Interfaith Worker Justice Audio-Visual Materials</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Interfaith Worker Justice</corpname>
+    </origination>
+    <unitid>6414 AV</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1998/2004" type="inclusive">1998-2004</unitdate>
+    <physdesc id="aspace_759ddee9496076bd27482eca0bc65d24" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_0cdc1297c0c11891824cb65fb2c9829c" label="Forms of Material:">Audiovisual materials.</physdesc>
+    <abstract id="aspace_d122d4243d52f377748cf1ccd08593fb">Cintas Workers Forum on CD and Islam and Labor (2002)on audio cassettes, along with some other audio cassette interviews.</abstract>
+    <langmaterial id="aspace_30d95e9f01d0128bbea78403c6047e6b">Collection material in English</langmaterial>
+    <unitid type="bibid">9431469</unitid>
+  </did>
+  <odd id="aspace_72f6ef719ea923306d9263ac715d775f">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>M. Clark, May 04, 2016</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, May 26, 2017</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_744ab35f7a3e942ef746264e9353a5fd">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_2f8f9ab0d9909542e2f1eea67b4a7466">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_e1b2bbb2c202528c4ed45a4149b7effd">
+    <head>Preferred Citation</head>
+<p>Interfaith Worker Justice Audio-Visual Materials #6414 AV. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_24cc7e900cf19a16e14524d8fa22a827">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06414.html"> 6414: Interfaith Worker Justice Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06414d.html"> 6414 (d): Interfaith Worker Justice Records Digital</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06414g.html"> 6414 G: Interfaith Worker Justice Posters</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06414mb.html"> 6414 MB: Interfaith Worker Justice Memorabilia</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <corpname audience="internal" source="ingest">Interfaith Worker Justice (Organization)</corpname>
+  </controlaccess>
+  <unitid type="bibid">9431469</unitid>
+  <dsc><c01 id="aspace_2a9743078f3d24fcb304625fa81f8095" level="file"><did><unittitle>Cintas Workers Forum - 3/16/04: UNITE Briefing - 3/17/04</unittitle><unitid>1</unitid><unitdate datechar="creation" normal="2004/2004">2004</unitdate><container id="aspace_96975d44fa5deaf0ebf357147bcd5f00" label="unspecified" type="box">1</container></did><scopecontent id="aspace_4f80c0628360c83d3897f69bdb06383d"><head>Scope and Contents</head><p>JVC Dynamic Digital Sound MD 74 mini disc</p></scopecontent></c01><c01 id="aspace_508a610d323412533cc0e8d693f10ffd" level="file"><did><unittitle>Cintas Worker Forum 3/16/04</unittitle><unitid>1</unitid><unitdate datechar="creation" normal="2004/2004">2004</unitdate><container id="aspace_5d9d342b2b6d7c4e2be317ce44862371" label="unspecified" type="box">2</container></did></c01><c01 id="aspace_4cfcc6e884ccc32a12fce4157fccf708" level="file"><did><unittitle>UNITE Briefing - 3/17/04</unittitle><unitid>1</unitid><unitdate datechar="creation" normal="2004/2004">2004</unitdate><container id="aspace_80a6145403cad8317cd88e658971ed85" label="unspecified" type="box">3</container></did></c01><c01 id="aspace_a4ccb4b70f0da63cef8cc418606c5fb7" level="file"><did><unittitle>881 - Interfaith Speak Your Mind - 7/15/98</unittitle><unitid>1</unitid><unitdate datechar="creation" normal="1998/1998">1998</unitdate><container id="aspace_cf1c62c30abd69e42d39044963112e11" label="unspecified" type="box">4</container></did></c01><c01 id="aspace_703e0115f0357881b42a63ca12078dc2" level="file"><did><unittitle>Islam and Labor - 2002 - tape 1</unittitle><unitid>1</unitid><unitdate datechar="creation" normal="2002/2002">2002</unitdate><container id="aspace_dcc84ec6e706ebdbbc9fc4b509b1d639" label="unspecified" type="box">5</container></did></c01><c01 id="aspace_6654367ea3a41c68ae89b3efd36244dc" level="file"><did><unittitle>Islam and Labor - 2002 - tape 2</unittitle><unitid>1</unitid><unitdate datechar="creation" normal="2002/2002">2002</unitdate><container id="aspace_b8ed5838081aad858bb1724f44076e2d" label="unspecified" type="box">6</container></did></c01><c01 id="aspace_409ec3c1a30cf26c2f5ce8aad670f2c3" level="file"><did><unittitle>Islam and Labor - 2002 - tape 3</unittitle><unitid>1</unitid><unitdate datechar="creation" normal="2002/2002">2002</unitdate><container id="aspace_1dea5503facec6968c7b5b865140be56" label="unspecified" type="box">7</container></did></c01><c01 id="aspace_613ce4141eb649405f81fcd0ce94c72b" level="file"><did><unittitle>Whiteville Apparel Together - Local 1077 - UNITE</unittitle><unitid>1</unitid><container id="aspace_f76829c35e08c15bc43dd237c2a8eadd" label="unspecified" type="box">8</container></did></c01><c01 id="aspace_0d24ffe568ec98b077073bb70d5a779f" level="file"><did><unittitle>Interfaith Center / VFCW 881: Nursing Home Forum</unittitle><unitid>1</unitid><container id="aspace_a83848e9343a4155d226133ab133f1e1" label="unspecified" type="box">9</container></did></c01></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05780-194pubs</eadid><filedesc><titlestmt><titleproper>ILGWU. Local 190 publications, <num>5780/194 PUBS</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>June 2011</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:07:57 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILGWU. Local 190 publications</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname source="ingest">International Ladies' Garment Workers' Union. Local 190</corpname>
+    </origination>
+    <unitid>5780/194 PUBS</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1951/1983" type="inclusive">1951-1983.</unitdate>
+    <physdesc id="aspace_96426a92ac23e5042d2fae64327ca391" label="Quantity:">1 linear foot</physdesc>
+    <physdesc id="aspace_fadaab333952d3eea110a9b17ab4a563" label="Forms of Material:">Publications</physdesc>
+    <abstract id="aspace_19d6b4fc94c4145fafd9617e2da77d52">Consists of issues of the publication of Local 190, Knit Goods News, from 1951 to 1983.</abstract>
+    <langmaterial id="aspace_db97050b0fbe64a5d7ef760eea30da37">Collection material in English</langmaterial>
+    <unitid type="bibid">6325029</unitid>
+  </did>
+  <odd id="aspace_51a7b34581c7921d24826fb48e94cec4">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183<extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref><extref xlink:href="http://www.ilr.cornell.edu/library/kheel">http://www.ilr.cornell.edu/library/kheel</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff</item>
+      </defitem>
+      <defitem>
+        <label>Date completed:</label>
+        <item>June 2011</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Cheryl Beredo, June 2011</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_25ee11a91b2dbdb04be689b6c673da64">
+    <head>Biographical / Historical</head>
+<p>The International Ladies' Garment Workers' Union was founded in New York City in 1900 by mostly Socialist immigrant workers who sought to unite the various crafts in the growing women's garment industry. The union soon reflected changes in the sector and rapidly organized thousands of unskilled and semi-skilled women, mostly Jewish and Italian young immigrants. Exemplifying the "new unionism," the ILGWU led two of the most widespread and best-known industrial strikes of the early Twentieth Century: the shirtwaist makers' strike of 1909 in New York City and the cloak makers' strike of 1910 in Chicago. The union also tried to adapt to the fragmented and unstable nature of the industry. It adopted the "protocol of peace," a system of industrial relations that attempted to ensure stability and limit strikes and production disruption by providing for an arbitration system to resolve disputes.</p><p> The ILGWU exemplified the European-style social unionism of its founding members. They pursued bread and butter issues but provided educational opportunities, benefits, and social programs to union members as well. In 1919, the ILGWU became the first American union to negotiate an unemployment compensation fund that was contributed to by its employers. The ILGWU also pioneered in the establishment of an extremely progressive health care program for its members which included not only regional Union Health Centers but also a resort for union workers, known as Unity House. The Union also had an imaginative and pioneering Education Department which not only trained workers in traditional union techniques, but provided courses in citizenship and the English language.</p><p> David Dubinsky, an immigrant from Belarus who came to the US in 1911, provided strong leadership that led to unprecedented growth in the union during his presidency from 1932 to 1966. He led the union through successful internal anti-communist struggles, built on the ascendancy of industrial unionism by encouraging the formation of the Committee for Industrial Organization, and helped the union become an important political force in New York City and state politics, and in the national Democratic Party and Liberal Party as well.</p><p> In the period following the Second World War, the union suffered a decline in membership as manufacturers avoided unionization and took advantage of less expensive labor by moving shops from the urban centers in the northeast to the south, and later abroad. The ethnic and racial character of the ILGWU also changed as European immigrants were supplanted by Asians, Latin Americans, African- Americans, and immigrants from the Caribbean.</p><p> In July 1995 the ILGWU merged with the Amalgamated Clothing and Textile Workers Union (ACTWU) at a joint convention, forming UNITE (Union of Needletrades, Industrial and Textile Employees). At the time the new union had a membership of about 250,000 in the United States, Canada, and Puerto Rico.</p>  </bioghist>
+  <bioghist id="aspace_7424b4d49e9303dfc7217231d7190553">
+    <head>Biographical / Historical</head>
+<p>Local 190 of the International Ladies' Garment Workers' Union (ILGWU), also known as the Knit Goods Workers' Union, was based in Philadelphia, Pennsylvania.</p>  </bioghist>
+  <scopecontent id="aspace_4622fb664c281bbd38afc82b4be1c609">
+    <head>Scope and Contents</head>
+<p>Consists of issues of the publication of Local 190, Knit Goods News, from 1951 to 1983.</p>  </scopecontent>
+  <accessrestrict id="aspace_038bed3515a570c3edd6deef8faa9558">
+    <head>Conditions Governing Access</head>
+<p>The ILGWU Records, except for publications and materials produced for publication, are restricted. Materials created prior to twenty years from the current date are open to researchers only with prior written permission from the Director of the Kheel Center; materials created during the past twenty-years are closed; the minutes of the General Executive Board are closed. For more information contact the Kheel Center.</p>  </accessrestrict>
+  <prefercite id="aspace_f37046b78999de186b5d654f37ec2b0c">
+    <head>Preferred Citation</head>
+<p>ILGWU. Local 190 publications. 5780/194 PUBS. Kheel Center for Labor-Management Documentation and Archives, Martin P. Catherwood Library, Cornell University.</p>  </prefercite>
+  <relatedmaterial id="aspace_060d79f491e323eea6088feb120b3e30">
+    <head>Related Materials</head>
+<p>5780. ILGWU records</p><p> 5780/194. ILGWU. Local 190 minutes</p>  </relatedmaterial>
+  <odd id="aspace_c522b1310734c8ee733d1292659fbd78">
+    <head>General</head>
+<p>"Permanent deposit."</p>  </odd>
+  <controlaccess>
+    <subject source="ingest">Women's clothing industry--New York (State)--New York</subject>
+    <subject source="ingest">Women's clothing industry--United States.</subject>
+    <subject source="ingest">Labor unions--Clothing workers--New York (State)--New York</subject>
+    <subject source="ingest">Labor unions--Clothing workers--United States.</subject>
+    <subject source="ingest">Clothing workers--New York (State)--New York</subject>
+    <subject source="ingest">Clothing workers--United States.</subject>
+    <subject source="ingest">Industrial relations--New York (State)--New York</subject>
+    <subject source="ingest">Industrial relations--United States.</subject>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union.</corpname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union.</corpname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union. Local 190</corpname>
+  </controlaccess>
+  <unitid type="bibid">6325029</unitid>
+  <dsc><c01 id="aspace_fe52c3adf49479a8001f4d710fbd9946" level="file"><did><unittitle>Knit Goods News.</unittitle><unitdate datechar="creation" normal="1957/1978" type="inclusive">1957-1978</unitdate><container id="aspace_1e19833c2d119d53259b56a85fb572f9" label="unspecified" type="box">1</container><container id="aspace_195f21ff0e5300a50b08e591d2174ca1" parent="aspace_1e19833c2d119d53259b56a85fb572f9" type="folder">1</container></did><scopecontent id="aspace_ddd9ae51e44a2396351a1ec855da3dc3"><head>Scope and Contents</head><p>v.7:no.3 (1957:Mar.)- v.13:no.17 (1962:Aug. 13), January/February 1978. Loose issues, incomplete set.</p></scopecontent></c01><c01 id="aspace_9d59c6c491caaf5b917217d9fd944d8f" level="file"><did><unittitle>Knit Goods News.</unittitle><unitdate datechar="creation" normal="1951/1957" type="inclusive">1951-1957</unitdate><container id="aspace_435c0e7da2b54812c37d3a8cd436dbf2" label="unspecified" type="box">1</container><container id="aspace_2d3f13fd0f3eaea9393c74aea8fa6c5b" parent="aspace_435c0e7da2b54812c37d3a8cd436dbf2" type="folder">2</container></did><scopecontent id="aspace_d7fc1b1cb282112d9af87b0e8a3afb16"><head>Scope and Contents</head><p>v.1:no.1(1951:Aug.)- v.8:no.12(1957:Oct.). Bound volume.</p></scopecontent></c01><c01 id="aspace_7bc3666345c0767e8faebd7cd5fcd531" level="file"><did><unittitle>Knit Goods News.</unittitle><unitdate datechar="creation" normal="1957/1960" type="inclusive">1957-1960</unitdate><container id="aspace_6c3c76133918b75059b9c7c87c49cda4" label="unspecified" type="box">1</container><container id="aspace_07f0494f53d1367b9db3fc76214ecd1e" parent="aspace_6c3c76133918b75059b9c7c87c49cda4" type="folder">3</container></did><scopecontent id="aspace_2456cbad6c5d00f423b79bd0f6181373"><head>Scope and Contents</head><p>v.8:no.13 (1957:Nov.)- v.11:no.25(1960:Dec. 19). Bound volume.</p></scopecontent></c01><c01 id="aspace_af50fd79307120d6167009375fb01239" level="file"><did><unittitle>Knit Goods News.</unittitle><unitdate datechar="creation" normal="1961/1962" type="inclusive">1961-1962</unitdate><container id="aspace_042e0d9a04c0474b808f85420503d3df" label="unspecified" type="box">1</container><container id="aspace_0dc2971113f7556da442967788a78699" parent="aspace_042e0d9a04c0474b808f85420503d3df" type="folder">4</container></did><scopecontent id="aspace_1027c7ca42cfea556cb83d8066f0adb2"><head>Scope and Contents</head><p>v.12:no.1(1961:Jan. 2)- v.13:no.26(1962:Dec. 19). Bound volume.</p></scopecontent></c01><c01 id="aspace_619914b95f8e23a1caaf706e0bd62e9a" level="file"><did><unittitle>Knit Goods News.</unittitle><unitdate datechar="creation" normal="1963/1964" type="inclusive">1963-1964</unitdate><container id="aspace_59f4219168dd069a83458fa45684e038" label="unspecified" type="box">1</container><container id="aspace_a36e68e80aad20bab6968435ada449d4" parent="aspace_59f4219168dd069a83458fa45684e038" type="folder">5</container></did><scopecontent id="aspace_757b2488562d8f0a400f3202f2fa0714"><head>Scope and Contents</head><p>v.14:no.1(1963:Jan. 2)- v.15:no.26(1964:Dec. 23). Bound volume.</p></scopecontent></c01><c01 id="aspace_2d11234862c8b1e1bc5130d68a7c5c34" level="file"><did><unittitle>Knit Goods News.</unittitle><unitdate datechar="creation" normal="1965/1966" type="inclusive">1965-1966</unitdate><container id="aspace_16d2a97b61ab77e880129e2162610bbf" label="unspecified" type="box">1</container><container id="aspace_cd071520b1a41fc4761a43d193d03297" parent="aspace_16d2a97b61ab77e880129e2162610bbf" type="folder">6</container></did><scopecontent id="aspace_ba23319a6a04535d885a13575075ffb2"><head>Scope and Contents</head><p>v.16:no.1(1965:Jan. 9)- v.17:no.23(1966:Dec. 21). Bound volume.</p></scopecontent></c01><c01 id="aspace_6041d6a1f9233c61e69d480baa60797b" level="file"><did><unittitle>Knit Goods News.</unittitle><unitdate datechar="creation" normal="1967/1970" type="inclusive">1967-1970</unitdate><container id="aspace_e4268f4063490253e5e63c2796cda1bb" label="unspecified" type="box">1</container><container id="aspace_24534d238459202bb71bc4dae4a3fce3" parent="aspace_e4268f4063490253e5e63c2796cda1bb" type="folder">7</container></did><scopecontent id="aspace_2afee182722117d37b09ec638fcae8c3"><head>Scope and Contents</head><p>v.18:no.1(1967:Jan. 11)- v.22:no.9(1970:Dec. 23). Bound volume.</p></scopecontent></c01><c01 id="aspace_50f3adab39e16bba28275afaf0ff3fd2" level="file"><did><unittitle>Knit Goods News.</unittitle><unitdate datechar="creation" normal="1971/1979" type="inclusive">1971-1979</unitdate><container id="aspace_d06b026c8e278e1e7fef72688881cada" label="unspecified" type="box">1</container><container id="aspace_4384f9d862499ae6f6c7e6e6ad81eef6" parent="aspace_d06b026c8e278e1e7fef72688881cada" type="folder">8</container></did><scopecontent id="aspace_220403b5b7c14f9d76e1bf676353be2a"><head>Scope and Contents</head><p>v.23:no.1(1971:Feb. 12)- (1979:Dec.). Beginning July 1973 issues lack volume and issue numbers. Bound volume.</p></scopecontent></c01><c01 id="aspace_6cfcee65f2ebde2cb0d7cb026a4d9586" level="file"><did><unittitle>Knit Goods News.</unittitle><unitdate datechar="creation" normal="1965/1983" type="inclusive">1965-1983</unitdate><container id="aspace_8c7d7ed4d65f9758e49cdfe54ba7aae3" label="unspecified" type="box">1</container><container id="aspace_87400ae84d8dcdb3a70d345a79f2f613" parent="aspace_8c7d7ed4d65f9758e49cdfe54ba7aae3" type="folder">9</container></did><scopecontent id="aspace_da2bc9da47c81f9fa4c88a4bd906e039"><head>Scope and Contents</head><p>v.16:no.3(1965:Feb. 2)- v.5:no.4(1983:Dec./Jan.). Issues from July 1973 through at least September 1979 lack volume and issue numbers. Enumeration resumed between September 1979 and Feb./Mar. 1980, which is v.3:no.1. Bound volume.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

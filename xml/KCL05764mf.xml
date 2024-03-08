@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05764mf</eadid><filedesc><titlestmt><titleproper>American Bureau of Industrial Research: Manuscript Collections on the Early American Labor Movement on Microfilm <num>5764 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 02, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 15:57:16 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>American Bureau of Industrial Research: Manuscript Collections on the Early American Labor Movement on Microfilm</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">American Bureau of Industrial Research</corpname>
+    </origination>
+    <unitid>5764 mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1862/1908" type="inclusive">1862-1908</unitdate>
+    <physdesc id="aspace_ff5d5a218a9b33334f56e10b3c266012" label="Quantity:">12 microfilm reels</physdesc>
+    <physdesc id="aspace_9fd88b62eb3d3b2a586b49276b9f5361" label="Forms of Material:">Autobiographies, broadsides (notices), questionnaires, microfilm.</physdesc>
+    <abstract id="aspace_dc1ec6334c5028c3e1f96db9bba0c8fd">The collection consists of the manuscript holdings of the American Bureau of Industrial Research, which document working class history in the nineteenth and early twentieth centuries. The manuscript collections included are the John Samuel papers (1868-1907); the Joseph P. McDonnell papers (1869-1906); the Albert R. Parsons papers (1876-1893); the Edward H. Rogers papers (1865-1908); the Ira Steward papers (1863-1883); the Thomas Phillips papers (1865-1908); miscellaneous cooperative association records (1862-1881); Knights of Labor records (1882-1902); the records of the Sovereigns of Industry, Philadelphia Pioneer Council (1874-1879); and the Geisse and Huebner questionnaire responses (1904).</abstract>
+    <langmaterial id="aspace_a356d7f69bb16dc3a39a336920ad229f">Collection material in English</langmaterial>
+    <unitid type="bibid">6050512</unitid>
+  </did>
+  <odd id="aspace_81f7731e4765ccc752053404abcacced">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, April 02, 2019</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 02, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_e8ab97ada47adb1f46914178fc6cce66">
+    <head>Biographical / Historical</head>
+<p>The American Bureau of Industrial Research (ABIR) was established in 1904 at the University of Wisconsin at Madison to collect primary historical materials on the American labor movement. </p><p> John Samuel was appointed a Knights of Labor organizer in 1881, and three years later became a member of the Knight's Co-operative Board. By the early 1890's Samuel's formal connection with the Knights lapsed but his interest in cooperation continued. He became general secretary of the Co-Operative Union of the United States and Canada in 1894. </p><p> In 1883, Joseph P. McDonnell was instrumental in organizing the New Jersey Federation of Trades and Labor Unions, on which he served as chairman for many years. He was also president of the American Federation of Labor in New Jersey. In 1892 McDonnell was appointed to the New Jersey Board of Arbitration, and later served as president of the Board. </p><p> Albert R. Parsons, an anarchist and militant labor advocate, was one of four men executed following the 1886 Haymarket bombing in Chicago. </p><p> Edward H. Rogers was a largely self-educated labor reformer, politician, and theologian. He helped found the Christian Labor Party in 1872. </p><p> Ira Steward rose to leadership in the Machinist's and Blacksmiths' International Union during the Civil War and later became one of the most astute writers on American labor issues. In 1877 he helped to form the International Labor Union. </p><p> Thomas Phillips was instrumental in founding the Union Co-operative Association and by 1869, he had become active in the Knights of St. Crispin. In the 1870's he served as an organizer in the Sovereigns of Industry and later in the Knights of Labor. In 1889 he was elected national president of the Boot and Shoe Workers International Union. </p><p> The Noble Order of the Knights of Labor was first organized in the Philadelphia garment industry in 1869. It constituted the most powerful force in American labor in the nineteenth century. It was the first national labor organization to extensively recruit women and blacks, to organize throughout the country, and to attempt to unify industrial and agrarian workers. </p><p> The Sovereigns of Industry was a cooperative and fraternal order. Beginning as the Patrons of Industry, the organization was renamed as the Sovereigns in 1874.</p>  </bioghist>
+  <scopecontent id="aspace_a77789da4bb8457b9d086981f75d0488">
+    <head>Scope and Contents</head>
+<p>Nearly all the Samuel papers concern cooperation in this country and in England, the Knights of Labor, and related topics. The collection consists of correspondence, notebooks and publications. </p><p> The bulk of the McDonnell papers consist of annual reports of the New Jersey Federation of Trades and Labor Unions and a manuscript report of the New Jersey Board of Arbitration for 1893-1894. </p><p> Nearly all of the Parsons papers document the trial for the murder of a policeman who died in the 1886 Haymarket bombing in Chicago. Included are correspondence, notes taken by Parsons during the trial, and a large volume of clippings and broadsides. </p><p> The Rogers papers cover reform issues in education, labor, and religion and comprise four series: correspondence, autobiography, notebooks and pamphlets, and miscellaneous articles. </p><p> The Steward papers center on the eight-hour movement and are divided in to four major series: typescripts of writings, manuscript bundles of writings, letters and Philadelphia Central Eight Hour League. </p><p> The Phillips papers, including correspondence, account books and minutes, cover the principles and propects of cooperation and the workings of cooperative societies. </p><p> The Knights of Labor papers contain three series: bound volumes, papers, and yearbooks. Topics include negotiation and arbitration with executives of companies and internal union affairs. </p><p> The Sovereigns of Industry collection consists of six series: papers, bound volumes, correspondence, records of members, printed material and records. These include statistics on membership, financial records, etc. </p><p> The documents in the Geisse and Huebner collection consist entirely of questionnaires and correspondence in answer to the question "Does the development of trade unionism in the U.S. during the last twenty years show the general tendency of that development to be in the aggregate, contrary to the best interests of the country?"</p>  </scopecontent>
+  <accessrestrict id="aspace_e7d8f2b8256c2b5bf306569ede1608cf">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_14ac7839cd008c999b427867a966142d">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_5750acf27e7c5c1651edd9dde49c05a3">
+    <head>Preferred Citation</head>
+<p>American Bureau of Industrial Research: Manuscript Collections on the Early American Labor Movement on Microfilm #5764 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Cooperation. United States.</subject>
+    <subject source="ingest">Cooperative societies. England.</subject>
+    <subject source="ingest">Cooperative societies. United States.</subject>
+    <subject source="ingest">Eight-hour movement.</subject>
+    <subject source="ingest">Haymarket Square Riot, Chicago, Ill., 1886.</subject>
+    <persname audience="internal" source="ingest">Dubofsky, Melvyn, 1934- ,</persname>
+    <persname audience="internal" source="ingest">McDonnell, Joseph P., 1847-1906.</persname>
+    <persname audience="internal" source="ingest">Parsons, Albert Richard, 1848-1887.</persname>
+    <persname audience="internal" source="ingest">Phillips, Thomas, 1833-1916</persname>
+    <persname audience="internal" source="ingest">Rogers, Edward H., 1824-</persname>
+    <persname audience="internal" source="ingest">Samuel, John, 1817-</persname>
+    <persname audience="internal" source="ingest">Steward, Ira, 1831-1883.</persname>
+    <corpname audience="internal" source="ingest">American Bureau of Industrial Research</corpname>
+    <corpname source="ingest">Knights of Labor.</corpname>
+    <corpname audience="internal" source="ingest">New Jersey Federation of Trades and Labor Unions.</corpname>
+    <corpname audience="internal" source="ingest">New Jersey. State Board of Arbitration.</corpname>
+    <corpname audience="internal" source="ingest">Philadelphia Central Eight Hour League.</corpname>
+    <corpname audience="internal" source="ingest">Sovereigns of Industry</corpname>
+    <corpname audience="internal" source="ingest">Sovereigns of Industry. Philadelphia Pioneer Council.</corpname>
+  </controlaccess>
+  <unitid type="bibid">6050512</unitid>
+  <dsc><c01 id="aspace_9f1d16a5ffc9cee28a5e2582cd2c21b9" level="series"><did><unittitle>(Online container list not yet available.)</unittitle></did></c01></dsc>
+</archdesc>
+</ead>

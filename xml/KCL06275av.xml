@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06275av</eadid><filedesc><titlestmt><titleproper>Schneider Denenberg, Tia Arbitration Audio-Visual Materials <num>6275 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>May 10, 2023</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:39:53 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Tia Schneider Denenberg Arbitration Audio-Visual Materials</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Denenberg, Tia Schneider</persname>
+    </origination>
+    <unitid>6275 AV</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.06 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1987/1988" type="inclusive">1987-1988</unitdate>
+    <physdesc id="aspace_99371c98b43d3b84055732fd7f9d2334" label="Quantity:">1.1 linear ft.</physdesc>
+    <physdesc id="aspace_7ca19feea99c091a857c62cf1f5e767d" label="Forms of Material:">Audiovisual materials.</physdesc>
+    <abstract id="aspace_e4dea072f7cefd0568a7f0fe15a1935b">This is a collection of audiovisual materials from Tia Schneider Denenberg. The collection includes both video tapes and audio cassettes, covering news media, legal testimony and legal briefs, among other items of interest.</abstract>
+    <langmaterial id="aspace_93f997a7a34f0597f4453ff80ca15b8c">Collection material in English</langmaterial>
+    <unitid type="bibid">8212107</unitid>
+  </did>
+  <odd id="aspace_4122bc745177827d77b6a4f15bfea5fa">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, September 25, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Elizabeth Parker, May 10, 2023</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_e5d255a814f44053318d5e13bb201299">
+    <head>Biographical / Historical</head>
+<p>TIA SCHNEIDER DENENBERG, Co-Director of Workplace Solutions, is a mediator and arbitrator who practices nationwide. She serves on conflict resolution panels of the American Arbitration Association, the Federal Mediation and Conciliation Service, the National Mediation Board, and the New York State Public Employment Relations Board. Ms. Denenberg has been appointed to six terms as a member of the U.S. Foreign Service Labor Relations Board and to a Presidential Emergency Board. The AAA has conferred on her its Distinguished Service Award (The Crystal Owl). Ms. Denenberg is a member of the National Academy of Arbitrators and formerly was a Director of the NAA Research and Education Foundation. She is the co-author with R.V. Denenberg of Alcohol and Other Drugs: Issues in Arbitration (BNA Books). She was elected to the board of the Labor and Employment Relations Association (2002-2005) and co chaired the organization's Dispute Resolution Section (2001-2006). In 2013, she received the LERA Outstanding Practitioner Award. A graduate of the Cornell University School of Industrial and Labor Relations, Ms. Denenberg served as the Jean McKelvey Neutral-in-Residence at the school in 2008-2009. Since 2000, she has been a Town Justice in New York's Hudson Valley.</p>  </bioghist>
+  <accessrestrict id="aspace_403eafe0934fcb70ce338082fad72b83">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_e8f0a205d5d9c48cb986b023f772f306">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_40b2c3d9d164132574365e9448c0df00">
+    <head>Preferred Citation</head>
+<p>Tia Schneider Denenberg Arbitration Audio-Visual Materials #6275 AV. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_39b0a62514e86e64f2a0224aee81cc84">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05775.html"> 5775: NAA Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06047.html"> 6047: Archives Information File</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06275.html"> 6275: Tia Schneider Denenberg Arbitration Files</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Arbitration, Industrial</subject>
+    <persname audience="internal" source="ingest">Denenberg, Tia Schneider</persname>
+    <persname audience="internal" source="ingest">McMahon, Edward</persname>
+    <persname audience="internal" source="ingest">Toukatly, Luanna</persname>
+    <corpname audience="internal" source="ingest">Nestle FoodServices</corpname>
+  </controlaccess>
+  <unitid type="bibid">8212107</unitid>
+  <dsc><c01 id="aspace_df1912048cb9b72322937a9dfa19427e" level="file"><did><unittitle>Oct. 14, 1988 - testimony Sgt. Judith Scheneclasp</unittitle><unitid>1</unitid><unitdate datechar="creation" normal="1988/1988">1988</unitdate><physdesc id="aspace_c6bc2224472dad9a6d2a6ba0ce21ed1d" label="Format:">VHS video cassette</physdesc><container id="aspace_d2d5145d2912446454674c6ad137d8ce" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_63501974753e42d6c4a8c78466bc5277" level="file"><did><unittitle>J. Holt - Martial Arts Demo.: 11/15/1987</unittitle><unitid>2</unitid><unitdate datechar="creation" normal="1987/1987">1987</unitdate><physdesc id="aspace_e1667e31d160634ab5552f715f76d89b" label="Format:">VHS video cassette</physdesc><container id="aspace_413565186846b43ce47ccded3841e16f" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_43e69b35eead62f5ed7aaa416269dd5a" level="file"><did><unittitle>Edward &amp; Juliette McMahon - 1/29/1992</unittitle><unitid>3</unitid><unitdate datechar="creation" normal="1992/1992">1992</unitdate><physdesc id="aspace_74ffcfcb7dc706d212c48cb80920797f" label="Format:">VHS video cassette</physdesc><container id="aspace_8fd00c21c957bf370778c0f4cedf349d" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_32bac326e32972a825ebaa429884cfad" level="file"><did><unittitle>Edward McMahon</unittitle><unitid>4</unitid><physdesc id="aspace_cde86bf8f84f2b2543ea8f8fd7f609af" label="Format:">VHS video cassette</physdesc><container id="aspace_950e38affe8b66defcbc83009f1e5fd3" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_838e9e832fd8852ac96692cd38102891" level="file"><did><unittitle>Ch. 10 WTEN News: Where's the Fat N.Y.S. Travel Abuse</unittitle><unitid>5</unitid><physdesc id="aspace_b1e08459eccbc7b41bbaa89d1616d87f" label="Format:">VHS video cassette</physdesc><container id="aspace_f0afb9be305afb535d8ef456fcaa68ad" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_7a2f0e2afb611a6ad7bc949cb18cbc7b" level="file"><did><unittitle>SEPTA</unittitle><unitid>1</unitid><physdesc id="aspace_cbe870a941802937de7219aacfb753c8" label="Format:">Audio cassette tape</physdesc><container id="aspace_d6c58e8960a779565e89409a8f2afbf4" label="unspecified" type="box">2</container></did></c01><c01 id="aspace_10d46e1f3e974690f5e9cd6a56964a48" level="file"><did><unittitle>Commonwealth of PA &amp; AFSCME - Royce Miller</unittitle><unitid>1</unitid><physdesc id="aspace_36c6fe4c90c71a17fe902e418019ea95" label="Format:">Audio cassette tape</physdesc><container id="aspace_4f431766b0fd055eff7a99d17ac252dd" label="unspecified" type="box">3</container></did></c01><c01 id="aspace_ea364ba14ac8a08a8d6897b503adc3ac" level="file"><did><unittitle>William Radacinski - 12/8/1993</unittitle><unitid>1</unitid><unitdate datechar="creation" normal="1993/1993">1993</unitdate><physdesc id="aspace_706ac48e79349f6a5ea7072d686a3a46" label="Format:">Audio cassette tape</physdesc><container id="aspace_a647b5e8a23b200333f18321f13208cb" label="unspecified" type="box">4</container></did></c01><c01 id="aspace_5c35dffeadcc4e0c1a08d27a8f000b5c" level="file"><did><unittitle>NYS Division of Parole Closing Statement in the matter of PEF vs Parole: Grievance: Michael Cohen</unittitle><unitid>1</unitid><physdesc id="aspace_0f6052bfd7701d38f96e62f7c069e2cd" label="Format:">Audio cassette tape</physdesc><container id="aspace_ceaf8e880764b3fe259bfe1facb8c897" label="unspecified" type="box">5</container></did></c01><c01 id="aspace_c803ac551d7a816d70d7e4b3f803cc67" level="file"><did><unittitle>Saratoga (City of) + Firefighters - City Brief</unittitle><unitid>1</unitid><physdesc id="aspace_b71d4672c552caac429ba9b6c88e5b45" label="Format:">Audio cassette tape</physdesc><container id="aspace_32c71238fc39cdb94b71949ab9fe1d38" label="unspecified" type="box">6</container></did></c01></dsc>
+</archdesc>
+</ead>

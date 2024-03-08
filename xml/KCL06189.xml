@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06189</eadid><filedesc><titlestmt><titleproper>Brissenden, Paul F. Papers <num>6189</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 24, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:34:56 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Paul F. Brissenden Papers</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Brissenden, Paul F.</persname>
+    </origination>
+    <unitid>6189</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1913/1974" type="inclusive">1913-1974</unitdate>
+    <physdesc id="aspace_9d279ce28a93fe7d0674220f72838013" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_f0a5db0961eba978a26607fe25b40412" label="Forms of Material:">Papers.</physdesc>
+    <langmaterial id="aspace_d3a8486b72150fa978dd6cb37daea897">Collection material in English</langmaterial>
+    <unitid type="bibid">5837140</unitid>
+  </did>
+  <odd id="aspace_dbfd93e98f58ac25d797c0fc12a9ae77">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, April 08, 2005</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, February 24, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_cb922876521ca632b847a1aa7e16c7ec">
+    <head>Biographical / Historical</head>
+<p>Paul F. Brissenden was born in Benzonia, Michigan on September 21, 1885. After completing his preparatory education at the Warren Academy in 1904, he enrolled at the </p><p> University of Denver from which he graduated in 1908. He earned his Master's Degree from the University of California in 1912 and finally completed his education at Columbia where the Ph.D. Degree was conferred upon him in 1917. On September 30, 1924, Paul Brissenden was married to Margaret A. Geer. They had three children. </p><p> In 1914, Brissenden assumed the responsibilities of the position of special agent for the U.S. Commission on Industrial Relations. During the period 1915-1920, he was employed as a special agent for the U.S. Bureau of Labor Statistics. </p><p> Professor Brissenden began his academic career as an Assistant Professor of Economics at New York University in 1920. Since 1921, however, he has served as lecturer, associate professor and professor of economics at Columbia University. </p><p> He was appointed vice-chairman of the Millinery Stabilization Committee, Inc. (New York City) in 1936 and has held that position since. Also, since 1937, Prof. Brissenden has served as impartial chairman under various collective bargaining agreements. </p><p> During World War II, Paul Brissenden served as consultant and member to the Clothing Advisory Committee of the Office of Production Management and War Production Board, as special consultant to the U.S. Bureau of Labor Statistics, as mediator, arbitrator and referee for the National War Labor Board, and as vice-chairman and public member of the Regional War Labor Board for the Second Region. </p><p> Paul Brissenden also served as the chairman of the board of directors of the International Consumers League (1939-1940) and as a member of the board of directors of the International Rescue and Relief Committee beginning in 1940. As an arbitrator, he faithfully served as a member of the panel of the New York State Board of Mediation, American Arbitration Association and the U.S. Conciliation Service. He was a charter member of the National Academy of Arbitrators. </p><p> Professor Brissenden was the author of many works. Among them are: The I. W. W., A Study of American Syndicalism, 1919; Labor Turnover In Industry (with Emil Frankel), 1922; The Great Hawaiian Dock Strike, 1953; :The Labor Injunction In Hawaii, 1956 and, also, numerous reports, monographs and contributions to various economics and labor law journals. </p><p> Professor Brissenden died in 1974. </p><p> Source: Who's Who In America, 1962-63.</p>  </bioghist>
+  <scopecontent id="aspace_3dee98e92b78bbe60b2898e6839a704a">
+    <head>Scope and Contents</head>
+<p>This collection includes notebooks, articles and reprints, and professional correspondence of Paul F. Brissenden, mostly concerning labor relations in Hawaii, Australia, and New Zealand. Also included are clippings of articles from the New York Times in which Brissenden was mentioned.</p>  </scopecontent>
+  <accessrestrict id="aspace_8be45939d5db03223a99cd1bfe54c1c9">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_4d19ca95e6375c081dfb17d09412c2a3">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_ed8e96664a648bfc9416bd2ed1e9dd55">
+    <head>Preferred Citation</head>
+<p>Paul F. Brissenden Papers #6189. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_88b94cef0e94979773f6207f52fc6161">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05230.html"> 5230: Paul F. Brissenden Collection of Research Materials for Study of Labor Injunctions in New York State</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05440.html"> 5440: Paul Brissenden, "The First Decade of the I.W.W." Notes.</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06189.html"> 6189: Paul F. Brissenden Papers</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Brissenden, Paul F., (Paul Frederick), 1885-1974</persname>
+  </controlaccess>
+  <unitid type="bibid">5837140</unitid>
+  <dsc><c01 id="aspace_7cee920bf8ed1fa6f6a5eb852b1de5d4" level="file"><did><unittitle>Notebooks.</unittitle><unitdate datechar="creation" normal="1958/1960" type="inclusive">1958-1960</unitdate><container id="aspace_f5260c7559061f9eba7c00815667d7c4" label="unspecified" type="box">1</container><container id="aspace_6eb53bcb940c388889fb927856448c02" parent="aspace_f5260c7559061f9eba7c00815667d7c4" type="folder">1</container></did></c01><c01 id="aspace_858130fcdcc5a84c4c21a1976142728a" level="file"><did><unittitle>Notebooks.</unittitle><unitdate datechar="creation" normal="1960/1961" type="inclusive">1960-1961</unitdate><container id="aspace_6c653a077473b2b77544f4d3de518409" label="unspecified" type="box">1</container><container id="aspace_54014070bbc0697bfe1d2ccb21a1af1a" parent="aspace_6c653a077473b2b77544f4d3de518409" type="folder">2</container></did></c01><c01 id="aspace_a48020e1f773519ec45273b6704d05ec" level="file"><did><unittitle>Notebooks.</unittitle><unitdate datechar="creation" normal="1962/1963" type="inclusive">1962-1963</unitdate><container id="aspace_2171eb8c6252d913984d6f821c326d27" label="unspecified" type="box">1</container><container id="aspace_41014149cf755045cab49ee695b26484" parent="aspace_2171eb8c6252d913984d6f821c326d27" type="folder">3</container></did></c01><c01 id="aspace_33fe8a065bb2935d11973e732e5c2223" level="file"><did><unittitle>Notebooks.</unittitle><unitdate datechar="creation" normal="1963/1966" type="inclusive">1963-1966</unitdate><container id="aspace_6d7adea164d0a645e9a666a223f48767" label="unspecified" type="box">1</container><container id="aspace_c61cfae5f7681ec5c2c234567ae01311" parent="aspace_6d7adea164d0a645e9a666a223f48767" type="folder">4</container></did></c01><c01 id="aspace_082dc16f858c600ab670bd09189627da" level="file"><did><unittitle>Articles and reprints.</unittitle><unitdate datechar="creation" normal="1913/1950" type="inclusive">1913-1950</unitdate><container id="aspace_160bca18d210f27d9c8b4c7d84d17744" label="unspecified" type="box">1</container><container id="aspace_125fe1656252f902b253e46ed9a3e68c" parent="aspace_160bca18d210f27d9c8b4c7d84d17744" type="folder">5</container></did></c01><c01 id="aspace_806abb2d79de2bfea5874c884e0a34e3" level="file"><did><unittitle>Articles and reprints.</unittitle><unitdate datechar="creation" normal="1955/1967" type="inclusive">1955-1967</unitdate><container id="aspace_c0a8176a28d7d84611962a60784e3090" label="unspecified" type="box">1</container><container id="aspace_b017e8948968ad246f8a80e6526151ec" parent="aspace_c0a8176a28d7d84611962a60784e3090" type="folder">6</container></did></c01><c01 id="aspace_9724beea080a4641b48d6a6896703f26" level="file"><did><unittitle>Professional correspondence.</unittitle><unitdate datechar="creation" normal="1952/1967" type="inclusive">1952-1967</unitdate><container id="aspace_a982f71a2c2ae85cb4d738bde59ca9ad" label="unspecified" type="box">1</container><container id="aspace_d6a11771e4672b1dd7046ef9cddd766c" parent="aspace_a982f71a2c2ae85cb4d738bde59ca9ad" type="folder">7</container></did></c01><c01 id="aspace_53f6a01d5c5a2ca68edd4de27076ae5f" level="file"><did><unittitle>Professional correspondence.</unittitle><unitdate datechar="creation" normal="1958/1968" type="inclusive">1958-1968</unitdate><container id="aspace_277b3344d028d043bd1669471f42d9aa" label="unspecified" type="box">1</container><container id="aspace_65bbfc918da1523c7c2a928ec5e51585" parent="aspace_277b3344d028d043bd1669471f42d9aa" type="folder">8</container></did></c01><c01 id="aspace_67b0aa0b3c99d9d247b3a27c1ea2f239" level="file"><did><unittitle>New York Times clippings.</unittitle><unitdate datechar="creation" normal="1925/1974" type="inclusive">1925-1974</unitdate><container id="aspace_98195724888f6110bd8b9e5335d5e282" label="unspecified" type="box">1</container><container id="aspace_9f2dc68acc14b5f3a93c0b672aa014f3" parent="aspace_98195724888f6110bd8b9e5335d5e282" type="folder">9</container></did></c01></dsc>
+</archdesc>
+</ead>

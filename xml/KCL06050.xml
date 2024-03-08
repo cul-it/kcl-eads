@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06050</eadid><filedesc><titlestmt><titleproper>Friedman, Newton Papers <num>6050</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 17, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:27:24 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Newton Friedman Papers</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Friedman, Newton</persname>
+    </origination>
+    <unitid>6050</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1937/1982" type="inclusive">1937-1982</unitdate>
+    <physdesc id="aspace_70a448650437ee9640b069487c2a4626" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_2e698acda47f7ae01501cd41aba852a2" label="Forms of Material:">Papers.</physdesc>
+    <abstract id="aspace_9861fa6a964e9c6975adabd9c592efd9">This collection includes some information on an International Ladies' Garment Workers' Union Strike in 1937, Berwick, PA</abstract>
+    <langmaterial id="aspace_3327bd54e71f92aa504fd12397b6569f">Collection material in English and German</langmaterial>
+    <unitid type="bibid">5771341</unitid>
+  </did>
+  <odd id="aspace_02a16c046cc5c936c1b86af9148eef10">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 04, 2011</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, February 17, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_bb3aa1127dc3ea3142c5834d4b36913a">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_da5786fdab23d22628e1730f2dd980ab">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_a946812b621a1de55bb0e34344d750e9">
+    <head>Preferred Citation</head>
+<p>Newton Friedman Papers #6050. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Friedman, Newton J. (Newton Jerome), 1907-1970</persname>
+  </controlaccess>
+  <unitid type="bibid">5771341</unitid>
+  <dsc><c01 id="aspace_6fb0c527441c0160d180de91e26018c7" level="file"><did><unittitle>Hans Bockler Haus</unittitle><unitdate datechar="creation" normal="1949/1952" type="inclusive">1949-1952</unitdate><container id="aspace_ba421a645eaab1f3375fd347075facab" label="unspecified" type="box">1</container><container id="aspace_da088b8741915685e95dfb253a122699" parent="aspace_ba421a645eaab1f3375fd347075facab" type="folder">1</container></did><scopecontent id="aspace_0670b4d2d443c0e0ee54ee5cd5bab726"><head>Scope and Contents</head><p>Scrapbook; German Union Youth Home; German.</p></scopecontent></c01><c01 id="aspace_018689282c633caee640c9d8e7858228" level="file"><did><unittitle>Arbeiterbewegung und Wiederaufbau, Stuttgart, 1945-1949</unittitle><unitdate datechar="creation" normal="1982/1982">1982</unitdate><container id="aspace_4b66f651b55eb463328dddaf2a7d682b" label="unspecified" type="box">1</container><container id="aspace_d3c7e42251d3d931fe4541ea7865fd6d" parent="aspace_4b66f651b55eb463328dddaf2a7d682b" type="folder">2</container></did><scopecontent id="aspace_46c954a83bcf9c679068908e4827dc37"><head>Scope and Contents</head><p>Bound volume; Labor Movement and Reconstruction, Stuttgart, 1945-1949; German.</p></scopecontent></c01><c01 id="aspace_8c9a378c01d55a809892172c7a34fe83" level="file"><did><unittitle>Testimonial dinner for Felix S. Cohen</unittitle><unitdate datechar="creation" normal="1948/1948">1948</unitdate><container id="aspace_752d7ac006f97453bc3c520cdf2c8949" label="unspecified" type="box">1</container><container id="aspace_a56742f8b46b74e212cfc9bb6abd677f" parent="aspace_752d7ac006f97453bc3c520cdf2c8949" type="folder">3</container></did><scopecontent id="aspace_ddf9b4e81c5ccbaca1875a5003969ae4"><head>Scope and Contents</head><p>January 17 at the Chinese Lantern, Washington, D.C.</p></scopecontent></c01><c01 id="aspace_5fa14ca114dfc121c134bc8dc0cf9463" level="file"><did><unittitle>Reports and other writings</unittitle><unitdate datechar="creation" normal="1950/1952" type="inclusive">1950-1952</unitdate><container id="aspace_cf681e995419d4071197aee06dac1486" label="unspecified" type="box">1</container><container id="aspace_40dce9bf75dcee6a64951fea58815905" parent="aspace_cf681e995419d4071197aee06dac1486" type="folder">4</container></did><scopecontent id="aspace_df1dab0cf795c1f4d3850967092f21a6"><head>Scope and Contents</head><p>Includes: S. Metzger, Willi Boekenkrueger, Walter Rau, Max Ehrhardt, Weiss, Ludgwig Diefenbach, Charles Tramsen, Else Schlotterer, Wilhelm Schoeneck, Olga Schlotterbeck, Erika Schoenleber.</p></scopecontent></c01><c01 id="aspace_2a7d41cbda4d3585ca937a98b1790688" level="file"><did><unittitle>Correspondence and newspaper clippings</unittitle><unitdate datechar="creation" normal="1937/1949" type="inclusive">1937-1949</unitdate><container id="aspace_61b42e9ebe802969fa28e3c0453c5bac" label="unspecified" type="box">1</container><container id="aspace_bf2fbe2d1ea693f7c392e54d5508dd02" parent="aspace_61b42e9ebe802969fa28e3c0453c5bac" type="folder">5</container></did><scopecontent id="aspace_89fd7d2c61ad187cfbaf4c116d6ee105"><head>Scope and Contents</head><p>Includes documenation of ILGWU strike, 1937</p></scopecontent></c01><c01 id="aspace_90696b48646d48a4f20b77fd87cdf6d2" level="file"><did><unittitle>Correspondence, court documents, newspaper clippings</unittitle><unitdate datechar="creation" normal="1937/1937">1937</unitdate><container id="aspace_caca0be7552c65b8aa5ecaac4d85a6d7" label="unspecified" type="box">1</container><container id="aspace_e7e0deff44657ee92dbebd0a3b1b0a82" parent="aspace_caca0be7552c65b8aa5ecaac4d85a6d7" type="folder">6</container></did><scopecontent id="aspace_805740f453e99aae0f3bb2d7c983c780"><head>Scope and Contents</head><p>Includes documenation of ILGWU strike, 1938</p></scopecontent></c01><c01 id="aspace_5bd4b047fb8a8ed640aeabb9442f276c" level="file"><did><unittitle>"The Development of Organized Handicraft in Baden-Wuerttemberg"</unittitle><container id="aspace_675d7ec957b4db950a0e21e6c791baa3" label="unspecified" type="box">1</container><container id="aspace_97a310c407f5e732477b1d64bd039204" parent="aspace_675d7ec957b4db950a0e21e6c791baa3" type="folder">7</container></did></c01><c01 id="aspace_6f382cbbb0ee0b6f6de5130fe3c1bba4" level="file"><did><unittitle>Speeches delivered on behalf of Manpower Division of Office of Military Government (Wurttemberg-Baden) at occassions pertaining to Manpower Division functions</unittitle><unitdate datechar="creation" normal="1947/1949" type="inclusive">1947-1949</unitdate><container id="aspace_d33f1c8b874c4e0e8b5173c32728f834" label="unspecified" type="box">1</container><container id="aspace_f1b07b672bfc1e00c4df2c969ed08885" parent="aspace_d33f1c8b874c4e0e8b5173c32728f834" type="folder">8</container></did><scopecontent id="aspace_139d6ea4cb0fa745755a77cf2a380480"><head>Scope and Contents</head><p>English and German.</p></scopecontent></c01><c01 id="aspace_0a94ba38182266f2c940fbb71d94b798" level="file"><did><unittitle>Newspaper clippings</unittitle><unitdate datechar="creation" normal="1937/1937">1937</unitdate><container id="aspace_3bdff8aaa1fa0852147966c7fae1da2d" label="unspecified" type="box">1</container><container id="aspace_c80045833fe8904d6f5f797b8c47b32c" parent="aspace_3bdff8aaa1fa0852147966c7fae1da2d" type="folder">9</container></did><scopecontent id="aspace_7b9105a56679d70b9e5f0ad577346938"><head>Scope and Contents</head><p>Also includes undated clippings</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

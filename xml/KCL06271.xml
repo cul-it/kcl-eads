@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06271</eadid><filedesc><titlestmt><titleproper>Wrege, Charles D. Collection of International Management Institute Correspondence <num>6271</num></titleproper><author>Compiled by R. Miles</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 07, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:39:45 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Charles D. Wrege Collection of International Management Institute Correspondence</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Wrege, Charles D.</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">International Management Institute (IMI)</corpname>
+    </origination>
+    <unitid>6271</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1925/1986" type="inclusive">1925- 1986</unitdate>
+    <physdesc id="aspace_d4867bffe2b0b242ec34842e4e520531" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_e591ae5262614e32bb1ae408fe0d1fa6" label="Forms of Material:">Correspondence.</physdesc>
+    <langmaterial id="aspace_95a7c6cdd6a748d0e3a5f068e07ab3e5">Collection material in English</langmaterial>
+    <unitid type="bibid">6343673</unitid>
+  </did>
+  <odd id="aspace_97af7b7791105a4056ba0562a3141722">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>R. Miles, March 07, 2016</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, March 07, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_c99c9048e00dfcd3d0470076964f179b">
+    <head>Biographical / Historical</head>
+<p>Charles "Chuck" Wrege finished his undergraduate degree in Upsala College, obtained his Masters degree at the New School fo Social Research and another Masters of Business Administration and his Ph.D. at NYU. He taught industrial management at Rutgers University for 30 years. He became a renowned historian, researcher and writer. He is regarded as a "National Treasure" by many in his field because of his expertise and the seminal research he has done in the area of management history.</p>  </bioghist>
+  <accessrestrict id="aspace_4ace5550ee7a830aaca7ae5806a5de57">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_17ac6d0ba94af9d244c41ff1100b7eb4">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_c5d68e23094eb326d853e8ffd7b24b31">
+    <head>Preferred Citation</head>
+<p>Charles D. Wrege Collection of International Management Institute Correspondence #6271. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Deviant, Paul</persname>
+    <persname audience="internal" source="ingest">Filene, Edward</persname>
+    <persname audience="internal" source="ingest">Gerduk, Nettie</persname>
+    <persname audience="internal" source="ingest">Wrege, Charles D.</persname>
+    <corpname audience="internal" source="ingest">International Management Institute</corpname>
+    <corpname source="ingest">League of Nations</corpname>
+    <corpname audience="internal" source="ingest">Twentieth Century Fund</corpname>
+  </controlaccess>
+  <unitid type="bibid">6343673</unitid>
+  <dsc><c01 id="aspace_57947a1d37fdf80b316ec3a3e46d4740" level="file"><did><unittitle>Paper on IMI for 1986 Academy of Management Centennial.</unittitle><unitdate datechar="creation" normal="1986/1986">1986</unitdate><container id="aspace_8eca6ab58db21b8aefb712f977a0d2c2" label="unspecified" type="box">1</container><container id="aspace_0779a59aa500ccce2d0bb0a31373abfd" parent="aspace_8eca6ab58db21b8aefb712f977a0d2c2" type="folder">1</container></did><scopecontent id="aspace_e6c40b584003c6aeddcbd8390ba8a239"><head>Scope and Contents</head><p>Not Used.</p></scopecontent></c01><c01 id="aspace_22b451a6cbe735d3d45a56c61617e083" level="file"><did><unittitle>Gerduk, Nettie. Twentieth Century Fund.</unittitle><unitdate datechar="creation" normal="1985/1985">1985</unitdate><container id="aspace_7f7d9ef53aa188422e3d901ded9bc9e0" label="unspecified" type="box">1</container><container id="aspace_6c227c69b68a392f062a4a4abc014373" parent="aspace_7f7d9ef53aa188422e3d901ded9bc9e0" type="folder">2</container></did></c01><c01 id="aspace_7d1d01a569bc37cb56e3109dde7a5d42" level="file"><did><unittitle>Deviant, Paul to Edward Filene. IMI.</unittitle><unitdate datechar="creation" normal="1925/1926" type="inclusive">1925-1926</unitdate><container id="aspace_07d19f701b97a9b400e61ad7002a533b" label="unspecified" type="box">1</container><container id="aspace_8732286a1f3295d976c7c3eac713d58c" parent="aspace_07d19f701b97a9b400e61ad7002a533b" type="folder">3</container></did><scopecontent id="aspace_a3fb792b8a181e57a27702c8fd36e532"><head>Scope and Contents</head><p>Correspondence.</p></scopecontent></c01><c01 id="aspace_40c5480810fff85380c924641195c682" level="file"><did><unittitle>Deviant, Paul to Edward Filene. IMI.</unittitle><unitdate datechar="creation" normal="1926/1926">1926</unitdate><container id="aspace_27914002652450e4fe1832089c6521fd" label="unspecified" type="box">1</container><container id="aspace_01d4d26149c3290d46b41968bf88cd6c" parent="aspace_27914002652450e4fe1832089c6521fd" type="folder">4</container></did><scopecontent id="aspace_b71a5e403e23497afb211c43c339c031"><head>Scope and Contents</head><p>Correspondence.</p></scopecontent></c01><c01 id="aspace_d63982c85866d4de762e6f4b3dbaa02d" level="file"><did><unittitle>IMI Letters.</unittitle><unitdate datechar="creation" normal="1926/1926">1926</unitdate><container id="aspace_e36e1be6f8bcb8a613590d86c4158b7d" label="unspecified" type="box">1</container><container id="aspace_029bcf421161cf5554840f22f712354e" parent="aspace_e36e1be6f8bcb8a613590d86c4158b7d" type="folder">5</container></did></c01><c01 id="aspace_56660193ad6dcf33e3b77cc1317ce1c5" level="file"><did><unittitle>IMI Letters.</unittitle><unitdate datechar="creation" normal="1928/1928">1928</unitdate><container id="aspace_c99d17c8ae39955686e0e4f187cf0371" label="unspecified" type="box">1</container><container id="aspace_dfbcd9169c13873cbc1f1ff655a9f0fc" parent="aspace_c99d17c8ae39955686e0e4f187cf0371" type="folder">6</container></did></c01><c01 id="aspace_54fd624d0fbe82f55b2e1499440d0aaa" level="file"><did><unittitle>Report. IMI.</unittitle><unitdate datechar="creation" normal="1928/1928">1928</unitdate><container id="aspace_b0ebae62c8807b89cfeac0b28a64953f" label="unspecified" type="box">1</container><container id="aspace_32cd97d1c752fcbde62887342566cd8f" parent="aspace_b0ebae62c8807b89cfeac0b28a64953f" type="folder">7</container></did></c01><c01 id="aspace_e26e731490de60f0933ba7b446a6940d" level="file"><did><unittitle>IMI Letters.</unittitle><unitdate datechar="creation" normal="1929/1929">1929</unitdate><container id="aspace_5292cca50d99c5f719d11ca3cb7b9bd1" label="unspecified" type="box">1</container><container id="aspace_858598a3e2b105d10822993beeaa79b5" parent="aspace_5292cca50d99c5f719d11ca3cb7b9bd1" type="folder">8</container></did></c01><c01 id="aspace_75af6062ac81cea8f44882190468d169" level="file"><did><unittitle>IMI Letters.</unittitle><unitdate datechar="creation" normal="1930/1930">1930</unitdate><container id="aspace_14eb1b235628685852e8de052613f2c6" label="unspecified" type="box">1</container><container id="aspace_32ac0b8947fbc94bc15f1cf76b47c3b3" parent="aspace_14eb1b235628685852e8de052613f2c6" type="folder">9</container></did></c01><c01 id="aspace_a816057937da6473c6548f827e5c1399" level="file"><did><unittitle>IMI Letters.</unittitle><unitdate datechar="creation" normal="1931/1931">1931</unitdate><container id="aspace_9b1b0677a2412db53e34b869b0be4897" label="unspecified" type="box">1</container><container id="aspace_1462a77f0801e939e8a17fc42fc64351" parent="aspace_9b1b0677a2412db53e34b869b0be4897" type="folder">10</container></did></c01><c01 id="aspace_9901ee718a4415d0580246b5801e8627" level="file"><did><unittitle>IMI Letters.</unittitle><unitdate datechar="creation" normal="1932/1932">1932</unitdate><container id="aspace_f07f1c3d17bfa3562d04da2208e0a8a1" label="unspecified" type="box">1</container><container id="aspace_b4621fee6803aa8e46ffa3cff414f7a6" parent="aspace_f07f1c3d17bfa3562d04da2208e0a8a1" type="folder">11</container></did></c01><c01 id="aspace_f804f3e5548769a4fefc39eebbd9df8d" level="file"><did><unittitle>IMI Letters.</unittitle><unitdate datechar="creation" normal="1933/1933">1933</unitdate><container id="aspace_267c5943c42c0c4a29d3fa4deba02a8f" label="unspecified" type="box">1</container><container id="aspace_8f25b2623eeecfd60878b0774baa4fa4" parent="aspace_267c5943c42c0c4a29d3fa4deba02a8f" type="folder">12</container></did></c01><c01 id="aspace_7305f4a2c1d510fb6d8b6068f2dbf202" level="file"><did><unittitle>IMI Letters.</unittitle><unitdate datechar="creation" normal="1934/1934">1934</unitdate><container id="aspace_5ee81c1e5db522a7306f0d52a28688db" label="unspecified" type="box">1</container><container id="aspace_e1f07bb3458651e0f3e58dfc2ec910d9" parent="aspace_5ee81c1e5db522a7306f0d52a28688db" type="folder">13</container></did></c01><c01 id="aspace_11f58ad765249a003909bb8202c1bc76" level="file"><did><unittitle>IMI. Work Done for the League of Nations.</unittitle><unitdate datechar="creation" normal="1929/1929">1929</unitdate><container id="aspace_a4a405925c790a65cd94b295b0e9d53e" label="unspecified" type="box">1</container><container id="aspace_a124251c7b3bbaa0e0699941b08a9af4" parent="aspace_a4a405925c790a65cd94b295b0e9d53e" type="folder">14</container></did></c01></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06089g</eadid><filedesc><titlestmt><titleproper>Local 1199 Bread and Roses Cultural Project Posters <num>6089 G</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 28, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:28:47 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Local 1199 Bread and Roses Cultural Project Posters</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">National Union of Hospital and Nursing Home Employees (NUHHCE)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Local 1199 Drug and Hospital Union</corpname>
+    </origination>
+    <unitid>6089 G</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.22 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1994/2002" type="inclusive">1994-2002</unitdate>
+    <physdesc id="aspace_254072ed030b5856b48732317bc80b14" label="Quantity:">1.1 linear ft.</physdesc>
+    <physdesc id="aspace_bc4b3ed953abe825a9f500a469794ef8" label="Forms of Material:">Posters.</physdesc>
+    <langmaterial id="aspace_ca9c6c1e94fb3038b154bfadfde5008f">Collection material in English</langmaterial>
+    <unitid type="bibid">5793329</unitid>
+  </did>
+  <odd id="aspace_7a17acbb8e03abcfd5c3af30de782e22">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, June 27, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, August 28, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_89fe646e00e2f321a071b6f086d5fe7b">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_34af74b84632d4057b9255974f790423">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_be6ba7a0d005c663c162a667b45ca033">
+    <head>Preferred Citation</head>
+<p>Local 1199 Bread and Roses Cultural Project Posters #6089 G. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Women--United States</subject>
+    <corpname audience="internal" source="ingest">Bread and Roses Cultural Project</corpname>
+    <corpname audience="internal" source="ingest">Bread and Roses Cultural Project --Archives</corpname>
+  </controlaccess>
+  <unitid type="bibid">5793329</unitid>
+  <dsc><c01 id="aspace_60e82c8e48669e69dae1033111544db7" level="file"><did><unittitle>Images of Labor Posters</unittitle><container id="aspace_a11847cf271457e4321daa9081a534fa" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_b4e55601f18b8826e39e19e26c99cc68" level="file"><did><unittitle>Broadsides</unittitle><container id="aspace_a7681fc0da4b2379d162f1254c3d217f" label="unspecified" type="box">2</container></did><scopecontent id="aspace_c83da3eef5bc5ed563c2941bb30a2291"><head>Scope and Contents</head><p>2</p></scopecontent></c01><c01 id="aspace_f1166bae82c3d86926e3f99c03ecb36c" level="file"><did><unittitle>Broadsides and Posters</unittitle><container id="aspace_2bc69ee213e08491e79a89a67b9d9eb0" label="unspecified" type="box">3</container></did><scopecontent id="aspace_73bcf3b9e057a00402877101e86d1644"><head>Scope and Contents</head><p>16</p></scopecontent></c01><c01 id="aspace_f4592e0bed05460f05152432de82b5f9" level="file"><did><unittitle>Broadsides and Posters</unittitle><container id="aspace_9c2bc861392ae3054831f89c744be05c" label="unspecified" type="box">5</container></did><scopecontent id="aspace_ad076aaf9b064a1de1d7bc8ceaa1e23d"><head>Scope and Contents</head><p>10 -- Paul Robeson ;</p></scopecontent></c01><c01 id="aspace_f8763ccf36b5caf885f536fb290dfb4a" level="file"><did><unittitle>Broadsides -</unittitle><container id="aspace_d05499c97fdf90162e2f5b1870982b34" label="unspecified" type="box">6</container><container id="aspace_15fd47c8d5294b2f551e40392319d79e" parent="aspace_d05499c97fdf90162e2f5b1870982b34" type="Folder">1</container></did><scopecontent id="aspace_329e46ad269b6c41f254f43aec11ce7a"><head>Scope and Contents</head><p>9 - copies of two different broadsides - 1)Martin Luther King, Jr. "adding grace and hope to our struggle for economic justice" ; 2)Take Care A New Musical</p></scopecontent></c01><c01 id="aspace_01ab55fbd7c4b9a253238cf49f98353a" level="file"><did><unittitle>Posters</unittitle><container id="aspace_765b185a8fdd5390280c429841033bd5" label="unspecified" type="box">6</container><container id="aspace_0c2fc942246c06b1f8a723a1f0ee8b4f" parent="aspace_765b185a8fdd5390280c429841033bd5" type="Folder">2</container></did><scopecontent id="aspace_19afa457945c007049d0d7fd516087b0"><head>Scope and Contents</head><p>14 - 1)Who Made Your Shoes ; 2) Faith, Vision, Action ; 3)Malcolm X and 1199 ; 4)Langston Hughes ; 5)Frederick Douglass and his times ; 6)40 Years of Progress ; 7)Organize ; some have multiple copies</p></scopecontent></c01><c01 id="aspace_ed28c7d006955e96b173fb082753f115" level="file"><did><unittitle>Images of Labor Poster</unittitle><container id="aspace_2f842fc82451b37c6299956edc6b2a86" label="unspecified" type="box">6</container><container id="aspace_20025a087e97447c920583fecb096ce8" parent="aspace_2f842fc82451b37c6299956edc6b2a86" type="Folder">3</container></did><scopecontent id="aspace_f2e69b6df28ced864d99daa633824f02"><head>Scope and Contents</head><p>10 versions</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

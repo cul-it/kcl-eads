@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06324av</eadid><filedesc><titlestmt><titleproper>Coalition of Kaiser Permanente Unions Audio-Visual Materials <num>6324 AV</num></titleproper><author>Compiled by R. Miles</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 25, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:43:40 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Coalition of Kaiser Permanente Unions Audio-Visual Materials</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Coalition of Kaiser Permanente Unions</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Labor Management Partnership</corpname>
+    </origination>
+    <unitid>6324 AV</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3 items</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="2002/2003" type="inclusive">2002-2003</unitdate>
+    <physdesc id="aspace_989a6b68da9009005840e4f41788298c" label="Quantity:">3 VHS video cassette tapes.</physdesc>
+    <physdesc id="aspace_f21c339704fc106dcb44a3db7788ef4a" label="Forms of Material:">Audiovisual materials.</physdesc>
+    <langmaterial id="aspace_ba9749d45d8078761eb227adeffcf236">Collection material in English</langmaterial>
+    <unitid type="bibid">7763362</unitid>
+  </did>
+  <odd id="aspace_768b7bb5575e196287c56b64d30312a9">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>R. Miles, April 25, 2016</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, April 25, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_9efe4a34b738bde6b187ba05ddfe7778">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_88b46a34a2b4a955edd0437dc977d494">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_51826e2fac10a15b7a86d96a1554b4f4">
+    <head>Preferred Citation</head>
+<p>Coalition of Kaiser Permanente Unions Audio-Visual Materials #6324 AV. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_2cbe64247a6f1cda6ba8351369fcd877">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06251.html"> 6251: Thomas A. Kochan Kaiser Permanente Research Materials for "Healing Together"</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06251av.html"> 6251 AV: Thomas A. Kochan Kaiser Permanente Research Materials Audio-Visual Materials</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06324.html"> 6324: Coalition of Kaiser Permanente Unions Records</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Partnership</subject>
+    <corpname audience="internal" source="ingest">Coalition of Kaiser Permanente Union</corpname>
+    <corpname audience="internal" source="ingest">Labor Management Partnership</corpname>
+  </controlaccess>
+  <unitid type="bibid">7763362</unitid>
+  <dsc><c01 id="aspace_70a34e2b424e639e33333b2671932452" level="file"><did><unittitle>LMP Road to results</unittitle><unitid>22</unitid><unitdate datechar="creation" normal="2003/2003">2003</unitdate><container id="aspace_40f01db93c2b7cf0f07d2cb585f50181" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_8a8ede65d08eb547c73c39cb713c15e8" level="file"><did><unittitle>LMP Power of Partnership</unittitle><unitid>23</unitid><unitdate datechar="creation" normal="2002/2002">2002</unitdate><container id="aspace_12edf03991dc65483bdcc128b2007368" label="unspecified" type="box">1</container></did><scopecontent id="aspace_773a29f4a24a297ed085a9a77f125edb"><head>Scope and Contents</head><p>Power of Partnership: Changing Our Jobs and Power of Partnership: The Genesis</p></scopecontent></c01><c01 id="aspace_ee8918ceb71590bcf90182fd0107d342" level="file"><did><unittitle>Power of Partnership: Changing Our Jobs (Video One) and The Genesis (Bonus Video)</unittitle><unitid>24</unitid><container id="aspace_1aeae4b9eb4df4f23d283e4a29b624e5" label="unspecified" type="box">1</container></did></c01></dsc>
+</archdesc>
+</ead>

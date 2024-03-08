@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05790mf</eadid><filedesc><titlestmt><titleproper>Hapgood, Powers Papers on Microfilm <num>5790 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 17, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:10:14 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Powers Hapgood Papers on Microfilm</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Hapgood, Powers</persname>
+    </origination>
+    <unitid>5790 mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.22 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1935/1940" type="inclusive">1935-1940</unitdate>
+    <physdesc id="aspace_a126c19a4eb144cfbf1c780dd16e5482" label="Quantity:">2 microfilm reels</physdesc>
+    <physdesc id="aspace_3c552056731e889d8eb0b113836a4d86" label="Forms of Material:">Papers (documents), microfilm.</physdesc>
+    <abstract id="aspace_bb8fe695d6727631f9360bcd82aeb41e">Microfilm copies of Powers Hapgood's manuscript</abstract>
+    <langmaterial id="aspace_86d301a64db11bf53d59fd98b3638cc5">Collection material in English</langmaterial>
+    <unitid type="bibid">5706181</unitid>
+  </did>
+  <odd id="aspace_02258644361fbb1a6cfb2248446f8a8b">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, August 22, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 17, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_3adb7075cffa0f4ee99f2bc5f0664642">
+    <head>Biographical / Historical</head>
+<p>Powers Hapgood was born December 28, 1899, the son of a progressive canning factory owner in Indianapolis, and his wife. He graduated from Phillips Academy in 1917, and from Harvard University in 1921. </p><p> Hapgood experienced life as part of the working class while working as a miner in Hibbing, Minnesota, on the Northern Pacific Railroad and in a Montana sugar beet factory. Working like this helped him to decide to dedicate his life to mobilizing the working-class. </p><p> In 1922 he went to work as an organizer for the United Mine Workers of America (UMWA). He worked in and out of the UMWA for most of the 1920's. </p><p> He married Mary Donovan, the Secretary of the Sacco-Vanzetti Defense Committee, on December 28, 1927. Powers Hapgood passed away on February 4, 1949.</p>  </bioghist>
+  <accessrestrict id="aspace_a95149dfc03dfb9bd81e8229f6eb101f">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_61e248c1d5b816822978225e83c79c1d">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_74649c31fa7d2464edfca9e023a793fd">
+    <head>Preferred Citation</head>
+<p>Powers Hapgood Papers on Microfilm #5790 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_5b1f68068ca0628858bb7c4059dc045b">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05831mf.html"> 5831 mf: The CIO Files of John L. Lewis, Pt. II: CIO General Files on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05928.html"> 5928: Elaine Leeder Collection of Rose Pesotta Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05928av.html"> 5928 AV: Rose Pesotta Audio-Visual Materials</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06034.html"> 6034: Rare Pamphlet Collection</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06046.html"> 6046: Archives Union File (AUF)</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06218.html"> 6218: Melvyn Dubofsky Papers</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Hapgood, Powers, 1899-1949</persname>
+  </controlaccess>
+  <unitid type="bibid">5706181</unitid>
+  <dsc><c01 id="aspace_adc31057b8d45dc335c494a09531e39a" level="file"><did><unittitle>Manuscripts</unittitle><unitdate datechar="creation" normal="1935/1936" type="inclusive">1935-1936</unitdate><container id="aspace_39d32d1f20d26d6e075786acdc38e8de" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_51ac03f862e5c87958d44e617cd2f9c6"><head>Scope and Contents</head><p>January 3, 1935 through December 31, 1936 [Lilly Library, Indiana University]</p></scopecontent></c01><c01 id="aspace_fd97a28266cae7e5191006caeef94e40" level="file"><did><unittitle>Manuscripts</unittitle><unitdate datechar="creation" normal="1937/1940" type="inclusive">1937-1940</unitdate><container id="aspace_c5d8ac920ab48795ff5e3ae8286ca35e" label="unspecified" type="reel">2</container></did><scopecontent id="aspace_156af04a9b4cb30383a8664a7a54ad9f"><head>Scope and Contents</head><p>January 1, 1937 through December 28, 1940 [Lilly Library, Indiana University]</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

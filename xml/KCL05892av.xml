@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05892av</eadid><filedesc><titlestmt><titleproper>Auburn (NY) Area Labor Council Audio-Visual Materials <num>5892 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 17, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:14:18 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Auburn (NY) Area Labor Council Audio-Visual Materials</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Auburn (NY) Area Labor Council</corpname>
+    </origination>
+    <unitid>5892 AV</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1977/1978" type="inclusive">1977-1978</unitdate>
+    <physdesc id="aspace_677b7f2ac7385cab761eaf5613bca228" label="Quantity:">0.3 linear ft.</physdesc>
+    <physdesc id="aspace_fe87913b31ab88dba63d73f8ace04849" label="Forms of Material:">Audiovisual materials.</physdesc>
+    <abstract id="aspace_e85e4fd35453d2f3a55c9d31c97a0682">Audio recordings of Labor Day Messages given by George Meany, President, AFL-CIO, on behalf of the Auburn (NY) Area Labor Council</abstract>
+    <langmaterial id="aspace_77febf63e6a8355d1019ff3b85193be2">Collection material in English</langmaterial>
+    <unitid type="bibid">8277963</unitid>
+  </did>
+  <odd id="aspace_61897e01f7036338a7e4dbf83313e461">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, November 04, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 17, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_f73ba04d3b298d6e7bfd3bdb06e5b111">
+    <head>Biographical / Historical</head>
+<p>Auburn (N.Y.) Area Labor Council is part the New York State AFL-CIO which is a federation of 3,000 affiliated public sector, private sector, and building trades unions throughout the state, representing 2.5 million members, retirees and their families</p>  </bioghist>
+  <accessrestrict id="aspace_b7a7d90c642dc87880a75c87f24ae110">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_01eef537d17cdb59b32115091ae00ba2">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_49570358b17ca40802fa74795f753c77">
+    <head>Preferred Citation</head>
+<p>Auburn (NY) Area Labor Council Audio-Visual Materials #5892 AV. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_6e89ce1ecf29f5966f4d1eb099dd9103">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05892.html"> 5892: Auburn (NY) Area Labor Council Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05892mb.html"> 5892 MB: Auburn (NY) Area Labor Council Memorabilia</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05892mf.html"> 5892 mf: Auburn (NY) Area Labor Council "Meeting Minutes of the Auburn (NY) Area Labor Council" and Amalgamated Meat Cutters, Butcher Workmen and Affiliated Crafts of North America on Microfilm</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <corpname audience="internal" source="ingest">AFL-CIO</corpname>
+    <corpname audience="internal" source="ingest">Auburn (N.Y.). Area Labor Council.</corpname>
+  </controlaccess>
+  <unitid type="bibid">8277963</unitid>
+  <dsc><c01 id="aspace_a5e994d0efc89c660d81637ebed1bc42" level="file"><did><unittitle>AFL-CIO - George Meany Labor Day Address (1973)</unittitle><unitid>1</unitid><unitdate datechar="creation" normal="1973/1973">1973</unitdate><container id="aspace_c5268e6542642473520ef843e01505bf" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_b83cdf043059bb8cc8b2fed517996d75" level="file"><did><unittitle>1970 Labor Day Message by George Meany, President, AFL-CIO</unittitle><unitid>2</unitid><unitdate datechar="creation" normal="1970/1970">1970</unitdate><container id="aspace_fb9bfe36249c4387c34f3f91b05202a6" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_99e154822f45535eae18afe3999b6f85" level="file"><did><unittitle>1978 Labor Day Message by George Meany, President, AFL-CIO</unittitle><unitid>3</unitid><unitdate datechar="creation" normal="1978/1978">1978</unitdate><container id="aspace_d9dc598d285def53d654dd281468263d" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_1b92ae13a6ea53a04786c0a2fa78a858" level="file"><did><unittitle>1976 Labor Day Message by George Meany, President, AFL-CIO</unittitle><unitid>4</unitid><unitdate datechar="creation" normal="1976/1976">1976</unitdate><container id="aspace_175c47cb3f3e68568b66faa655ec660a" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_b9111b13f102d3c8b2dd5b53327ed852" level="file"><did><unittitle>1972 Labor Day Message by George Meany, President, AFL-CIO, September 4, 1972</unittitle><unitid>5</unitid><unitdate datechar="creation" normal="1972/1972">1972</unitdate><container id="aspace_24ac12773853d483487f6d3ae4a4c713" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_f2764306abf85c8557125129ccf2ad6f" level="file"><did><unittitle>1970 Labor Day Message by George Meany, President, AFL-CIO</unittitle><unitid>6</unitid><unitdate datechar="creation" normal="1970/1970">1970</unitdate><container id="aspace_0ce3784c273a80d139c0d577abc9acb8" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_64220890a3b259a3e41f649ea6f4b28f" level="file"><did><unittitle>Unlabeled open reel</unittitle><unitid>7</unitid><container id="aspace_5c09cb4b3ccdc85307928cff24ad4fff" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_7a6a623543f915e64903a9413f42d143" level="file"><did><unittitle>1977 Labor Day Message by George Meany, President, AFL-CIO</unittitle><unitid>8</unitid><unitdate datechar="creation" normal="1977/1977">1977</unitdate><container id="aspace_0ae88c0d1fd18ca76f6370c4699b91bd" label="unspecified" type="box">1</container></did></c01></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05850</eadid><filedesc><titlestmt><titleproper>International Brotherhood of Painters &amp; Allied Trades, Local 677, Glaziers &amp; Glass Workers Minutes <num>5850</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 17, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:12:57 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>International Brotherhood of Painters &amp; Allied Trades, Local 677, Glaziers &amp; Glass Workers Minutes</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">International Brotherhood of Painters and Allied Trades, Local 677</corpname>
+    </origination>
+    <unitid>5850</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1938/1975" type="inclusive">1938-1975</unitdate>
+    <physdesc id="aspace_f5c780d27f55f417f46ecf89db515ca8" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_c240f2d5bb5bdfc7cd4fd37c6e785f94" label="Forms of Material:">Minutes (administrative records).</physdesc>
+    <langmaterial id="aspace_fd99273b3d50193868dc0dfedf642d5e">Collection material in English</langmaterial>
+    <unitid type="bibid">5713673</unitid>
+  </did>
+  <odd id="aspace_1dab1be420929f5a2feef60e94b4f27f">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, April 20, 2015</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 17, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <scopecontent id="aspace_07c6eedf764afccf799df473cf3da94e">
+    <head>Scope and Contents</head>
+<p>Part of the "Van Arsdale Project"</p>  </scopecontent>
+  <accessrestrict id="aspace_5f0a31dac7f4efd5b498f94e4045cda5">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_3c43ab51afd09f7d011a886299eeb6cb">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_ff88dc41159c829f56ff9997d2d87be9">
+    <head>Preferred Citation</head>
+<p>International Brotherhood of Painters &amp; Allied Trades, Local 677, Glaziers &amp; Glass Workers Minutes #5850. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_68d39cd58886679bfdd6b90ca150931c">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04212.html"> /4212: Kheel Center Current Documents Correspondence</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04296.html"> /4296: ILR School Extension Division Metropolitan District Office (New York, N.Y.) Training Manuals</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05538.html"> 5538: James C. Hill Arbitration Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05588.html"> 5588: David L. Cole Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05609.html"> 5609: Philip Ross Collection of NLRB Documents</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05712.html"> 5712: Burton B. Turkus Arbitration Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-209.html"> 5780/209: ILGWU Research Department Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05850.html"> 5850: International Brotherhood of Painters &amp; Allied Trades, Local 677, Glaziers &amp; Glass Workers Minutes</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06046.html"> 6046: Archives Union File (AUF)</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06178-008.html"> 6178/008: BLS Collection of Collective Bargaining Agreements (Part 8)</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06178-016.html"> 6178/016: BLS Collection of Collective Bargaining Agreements (Part 16)</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Painters, Industrial, Labor unions, New York (State), Rochester.</subject>
+    <subject source="ingest">Building trades, Employees, Labor unions, New York (State), Rochester.</subject>
+    <persname audience="internal" source="ingest">Van Arsdale, Harry, 1905-1986.</persname>
+    <corpname audience="internal" source="ingest">International Brotherhood of Painters and Allied Trades.</corpname>
+    <corpname audience="internal" source="ingest">International Brotherhood of Painters and Allied Trades. Glazier and Glass Workers. Local 677 (Rochester, N.Y.)</corpname>
+  </controlaccess>
+  <unitid type="bibid">5713673</unitid>
+  <dsc><c01 id="aspace_bd1d5223a3d0d50ba11ae8fd8161413e" level="file"><did><unittitle>Minutes of the Glaziers and Glass Workers Local 677 (International Brotherhood of Painters and Allied Trades), Rochester, New York, 1938-1975</unittitle><container id="aspace_9d36617be958ad1a118c0217efe0236d" label="unspecified" type="box">1</container></did><c02 id="aspace_2ceb167cabd92aade64f96f7f0528431" level="file"><did><unittitle>Minute Book 1: May 3, 1938 - May 6, 1941</unittitle><container id="aspace_bd9178e3e049cf6df5ee1aee274e4b16" label="unspecified" type="box">1</container><container id="aspace_a3dcf55e4d9aabce138ca87c2601a5d5" parent="aspace_bd9178e3e049cf6df5ee1aee274e4b16" type="folder">1</container></did></c02><c02 id="aspace_808ab1e71d475602d17456401ff00c84" level="file"><did><unittitle>Minute Book 2: May 6, 1941 - April 4, 1944</unittitle><container id="aspace_e12e1dd2ec97e77a3131d47686eeb767" label="unspecified" type="box">1</container><container id="aspace_84deb5874200b4ab66e24d9b783a1caf" parent="aspace_e12e1dd2ec97e77a3131d47686eeb767" type="folder">2</container></did></c02><c02 id="aspace_f1f571c6ae7d814dec87bc1ffb4eac6a" level="file"><did><unittitle>Minute Book 3: April, 18, 1944 - June 3, 1948</unittitle><container id="aspace_5ac9edbdb67de85a51588c0690d70027" label="unspecified" type="box">1</container><container id="aspace_11fd33ae1120de1f65a9ae7326c497ab" parent="aspace_5ac9edbdb67de85a51588c0690d70027" type="folder">3</container></did></c02><c02 id="aspace_1d5f87e02a7f19fedd100849ea6a3c89" level="file"><did><unittitle>Minute Book 4 - June 15, 1948 - December 19, 1950</unittitle><container id="aspace_1fcfda9eaf6f811b44e98198a80429fd" label="unspecified" type="box">1</container><container id="aspace_214059b40ec9960f3e882af4321cd368" parent="aspace_1fcfda9eaf6f811b44e98198a80429fd" type="folder">4</container></did></c02><c02 id="aspace_84d614a81e5c6effc9c000d432c015fb" level="file"><did><unittitle>Minute Book 4: January 2, 1951 - February 15, 1955</unittitle><container id="aspace_b14076a0186476fd32a4ab67637a8cfe" label="unspecified" type="box">1</container><container id="aspace_58db61182eaa74517c6636b57d709a47" parent="aspace_b14076a0186476fd32a4ab67637a8cfe" type="folder">5</container></did></c02><c02 id="aspace_89462ddea9a901f80f29ec291c3eaa77" level="file"><did><unittitle>Minute Book 5: March 1, 1955 - December 1, 1959</unittitle><container id="aspace_ac4a2b14588464c542ff07b31ef891e3" label="unspecified" type="box">1</container><container id="aspace_83959437677a0218ca3c1eb46f2acb7b" parent="aspace_ac4a2b14588464c542ff07b31ef891e3" type="folder">6</container></did></c02><c02 id="aspace_d5e2f03795ae1d067642a968788b50b3" level="file"><did><unittitle>Minute Book 5: January 5, 1960 - September 8, 1964</unittitle><container id="aspace_9072c98a2ab35dc69f6166f576929d84" label="unspecified" type="box">1</container><container id="aspace_96a7f7347e1fd0737a5663bc2193ac01" parent="aspace_9072c98a2ab35dc69f6166f576929d84" type="folder">7</container></did></c02><c02 id="aspace_2edd0dc6526aa07ecb5696aebe6c03e5" level="file"><did><unittitle>Minute Book 6: October 6, 1964 - December 1, 1969</unittitle><container id="aspace_f2e53402527b6a3fcf7732f3ed02c2d7" label="unspecified" type="box">1</container><container id="aspace_2d523f1b7211da2047cd30c96cddb92f" parent="aspace_f2e53402527b6a3fcf7732f3ed02c2d7" type="folder">8</container></did></c02><c02 id="aspace_b2b80111f45ab4113073ecec87db215c" level="file"><did><unittitle>Minute Book 6: January 5, 1970 - September 8, 1975</unittitle><container id="aspace_0bebcf968289ac519d7404b3c4d59e51" label="unspecified" type="box">1</container><container id="aspace_d014f607e547823c67d499a8706a8920" parent="aspace_0bebcf968289ac519d7404b3c4d59e51" type="folder">9</container></did></c02></c01></dsc>
+</archdesc>
+</ead>

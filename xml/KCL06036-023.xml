@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06036-023</eadid><filedesc><titlestmt><titleproper>Lovestone, Jay. Interview by E. Finn. <num>6036/023</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 25, 2013</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:25:19 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Lovestone, Jay. Interview by E. Finn</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Finn, E.</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Lovestone, Jay</persname>
+    </origination>
+    <unitid>6036/023</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.44 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1978/1978">1978-1978</unitdate>
+    <physdesc id="aspace_1c00213636cb38ee3523bae0ad48fd1c" label="Quantity:">0.33 linear ft.</physdesc>
+    <physdesc id="aspace_db950b7dbab3ae0a4947f6b8a5b3b6a9" label="Forms of Material:">Oral history.</physdesc>
+    <abstract id="aspace_9d434ab0fc64c289bafbe131fa695be8">The collection consists of an oral history interview with Jay Lovestone regarding the trade union movement in developing countries.</abstract>
+    <langmaterial id="aspace_608a5a08f5ddeb4ada9b8aab0184743c">Collection material in English</langmaterial>
+    <unitid type="bibid">5770068</unitid>
+  </did>
+  <odd id="aspace_347ce7f130a80c7e239746b8d2e3622d">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel">http://www.ilr.cornell.edu/library/kheel</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, August 29, 2011</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kathryn Dowgiewicz, March 25, 2013</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_8b270b807d40da574e4528361172266d">
+    <head>Biographical / Historical</head>
+<p>Founded in 1900 by local union delegates representing about 2,000 members in cities in the northeastern United States, the ILGWU grew in geographical scope, membership size, political influence to become one of the most powerful forces in American organized labor by mid-century. Representing workers in the women's garment industry, the ILGWU worked to improve working and living conditions of its members through collective bargaining agreements, training programs, health care facilities, cooperative housing, educational opportunities, and other efforts. In 1995, the ILGWU merged with the Amalgamated Clothing and Textile Workers Union (ACTWU) to form the Union of Needletrades, Industrial and Textile Employees (UNITE).</p>  </bioghist>
+  <bioghist id="aspace_40b0d3cfc0a03c15596bdb6c5a20d530">
+    <head>Biographical / Historical</head>
+<p>Jay Lovestone was born on December 24, 1898 in Lithuania, which was then a part of Russia. His father obtained a job in a New York synagogue and Lovestone came with his family to the U.S. at the age of 9. He graduated from City College in 1918 and soon found himself involved in the Socialist and Communist movements. Lovestone became a founding member of the American Communist Party in 1919, and became editor of the Communist Party publication "The Communist" in 1921. Lovestone led the party from 1927 until his expulsion in 1929. Lovestone and his followers formed the Communist Party of the United States, later the Independent Labor League of America, but more commonly known as the "Lovestonites," which disbanded in 1940. In 1943, Lovestone was appointed the founding director of the International Ladies' Garment Workers' (ILGWU) International Affairs Department. He went on to serve as Secretary of the Free Trade Union Committee, director of the International Confederation of Free Trade Unions, and director of the AFL-CIO's Department of International Affairs, serving from 1963 until his retirement in 1974. Lovestone died on March 7, 1990 at the age of 91.</p>  </bioghist>
+  <scopecontent id="aspace_ef5bbc124cd500c73c3214aeaae252a3">
+    <head>Scope and Contents</head>
+<p>The collection contains the written transcript as well the audio recording on a cassette tape of an oral history with Jay Lovestone. The interview with Lovestone took place in New York on August 30, 1978 and was conducted by E. Finn. In the interview, Lovestone the discussion centers on international relations within the labor and trade union movement, especially as it relates to developing countries. Topics include Lovestone's insights on the role of Great Britain and the trade union movement in African countries, the British Trade Union Congress (TUC), and his work relating to, trade unionism in Africa and Latin America.</p>  </scopecontent>
+  <accessrestrict id="aspace_01302af6875bed910198beaf3b13c099">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_785c26ba5c63b0ad82bd88db58d088f1">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_a4c7169ac0b38b4b3cc8a3c12a887dcb">
+    <head>Preferred Citation</head>
+<p>Lovestone, Jay. Interview by E. Finn. #6036/023. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_3ea4b7351f659f615c4f710f240e82f8">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780.html"> 5780: ILGWU records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-014.html"> 5780/014: ILGWU. Local 22. Charles Zimmerman papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-062.html"> 5780/062: ILGWU. International Relations Department records</extref> 6036/028: Lovestone, Jay.</p>  </relatedmaterial>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Finn, E.</persname>
+    <persname audience="internal" source="ingest">Lovestone, Jay.</persname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union -- Archives.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5770068</unitid>
+  <dsc><c01 id="aspace_3469286179eb988e6f7c8cc631d06d8e" level="file"><did><unittitle>Jay Lovestone</unittitle><unitdate datechar="creation" normal="1978/1978">1978</unitdate><container id="aspace_42206a02855709019463e3812b4093eb" label="unspecified" type="box">1</container><container id="aspace_764bc7de066110e011e3103ecaa78a24" parent="aspace_42206a02855709019463e3812b4093eb" type="folder">1</container></did><scopecontent id="aspace_b6dcf427aaa08d4b0760a2990e8f5c3a"><head>Scope and Contents</head><p>Interviewed by E. Finn on August 30, 1978. 64 pages.</p></scopecontent></c01><c01 id="aspace_3fc54a63d5eb5bddb231c57df2c30b1c" level="file"><did><unittitle>Jay Lovestone</unittitle><unitdate datechar="creation" normal="1978/1978">1978</unitdate><container id="aspace_420b25668dc654b4e384106758839592" label="unspecified" type="box">1</container><container id="aspace_29b3e036a35b17e6be9a5614bf842cfd" parent="aspace_420b25668dc654b4e384106758839592" type="folder">2</container></did><scopecontent id="aspace_31a6187cb5ebf916edbc7011014b8d72"><head>Scope and Contents</head><p>Interviewed by E. Finn on August 30, 1978. Audio cassette tape.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

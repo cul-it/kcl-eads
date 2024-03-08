@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05780-122</eadid><filedesc><titlestmt><titleproper>ILGWU. Unity House records, <num>5780/122</num></titleproper><author>Compiled by Casey Westerman</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>July 2011</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:04:26 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILGWU. Unity House records</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname source="ingest">Unity House.</corpname>
+    </origination>
+    <unitid>5780/122</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1971/1993" type="bulk">1971-1993</unitdate>
+    <physdesc id="aspace_d5ce2583569558e062b7d84db77568d2" label="Quantity:">.5 linear feet</physdesc>
+    <physdesc id="aspace_5b48ac47a67c4fe52d295bf953f780b9" label="Forms of Material:">Records</physdesc>
+    <abstract id="aspace_aa75d4514923296ace1ea56d5a3cd330">This collection includes files on the renovation of Unity House. Also included is a 1993 article on the history of the ILGWU in Northern Pennsylvania.</abstract>
+    <langmaterial id="aspace_2f25521d5d3cb4709169760556dda0d4">Collection material in English</langmaterial>
+    <unitid type="bibid">5508479</unitid>
+  </did>
+  <odd id="aspace_c3573f04877c05f90aca9aaeebd4bd56">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183<extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref><extref xlink:href="http://www.ilr.cornell.edu/library/kheel">http://www.ilr.cornell.edu/library/kheel</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Casey Westerman</item>
+      </defitem>
+      <defitem>
+        <label>Date completed:</label>
+        <item>2003</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Casey Westerman, 2003Cheryl Beredo, July 2011</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_dec149877c64323102541e2421b233a5">
+    <head>Biographical / Historical</head>
+<p>The International Ladies' Garment Workers' Union was founded in New York City in 1900 by mostly Socialist immigrant workers who sought to unite the various crafts in the growing women's garment industry. The union soon reflected changes in the sector and rapidly organized thousands of unskilled and semi-skilled women, mostly Jewish and Italian young immigrants. Exemplifying the "new unionism," the ILGWU led two of the most widespread and best-known industrial strikes of the early Twentieth Century: the shirtwaist makers' strike of 1909 in New York City and the cloak makers' strike of 1910 in Chicago. The union also tried to adapt to the fragmented and unstable nature of the industry. It adopted the "protocol of peace," a system of industrial relations that attempted to ensure stability and limit strikes and production disruption by providing for an arbitration system to resolve disputes.</p><p> The ILGWU exemplified the European-style social unionism of its founding members. They pursued bread and butter issues but provided educational opportunities, benefits, and social programs to union members as well. In 1919, the ILGWU became the first American union to negotiate an unemployment compensation fund that was contributed to by its employers. The ILGWU also pioneered in the establishment of an extremely progressive health care program for its members which included not only regional Union Health Centers but also a resort for union workers, known as Unity House. The Union also had an imaginative and pioneering Education Department which not only trained workers in traditional union techniques, but provided courses in citizenship and the English language.</p><p> David Dubinsky, an immigrant from Belarus who came to the US in 1911, provided strong leadership that led to unprecedented growth in the union during his presidency from 1932 to 1966. He led the union through successful internal anti-communist struggles, built on the ascendancy of industrial unionism by encouraging the formation of the Committee for Industrial Organization, and helped the union become an important political force in New York City and state politics, and in the national Democratic Party and Liberal Party as well.</p><p> In the period following the Second World War, the union suffered a decline in membership as manufacturers avoided unionization and took advantage of less expensive labor by moving shops from the urban centers in the northeast to the south, and later abroad. The ethnic and racial character of the ILGWU also changed as European immigrants were supplanted by Asians, Latin Americans, African- Americans, and immigrants from the Caribbean.</p><p> In July 1995 the ILGWU merged with the Amalgamated Clothing and Textile Workers Union (ACTWU) at a joint convention, forming UNITE (Union of Needletrades, Industrial and Textile Employees). At the time the new union had a membership of about 250,000 in the United States, Canada, and Puerto Rico.</p>  </bioghist>
+  <bioghist id="aspace_5d95cd8f7c93b9e29acd596e425d0d39">
+    <head>Biographical / Historical</head>
+<p>Unity House was a resort in the Pocono Mountains of Pennsylvania, operated by the International Ladies' Garment Workers' Union and used as a vacation destination and educational center for its members. It was purchased by Locals 22 and 25 in 1919, and consisted of a lake and 750 acres of land. In the 1920s the locals sold the resort to the international organization. Unity House prospered after World War II, but attendance dropped throughout the 1960s and continued to dwindle in the 1970s and 1980s. The ILGWU closed the resort in 1990. In 2000 it was purchased by a subgrantee of the Mountain Laurel Center for the Performing Arts.</p>  </bioghist>
+  <scopecontent id="aspace_7e9e05824462b092804bfd7950f7bca1">
+    <head>Scope and Contents</head>
+<p>This collection includes files on the renovation of Unity House. Also included is a 1993 article on the history of the ILGWU in Northern Pennsylvania.</p>  </scopecontent>
+  <accessrestrict id="aspace_c9f8ced0fc7ec7896fad318f791b570d">
+    <head>Conditions Governing Access</head>
+<p>The ILGWU Records, except for publications and materials produced for publication, are restricted. Materials created prior to twenty years from the current date are open to researchers only with prior written permission from the Director of the Kheel Center; materials created during the past twenty-years are closed; the minutes of the General Executive Board are closed. For more information contact the Kheel Center.</p>  </accessrestrict>
+  <prefercite id="aspace_f74cf4c3778ef6c25bbf72f7a84f736b">
+    <head>Preferred Citation</head>
+<p>ILGWU. Unity House records. 5780/122. Kheel Center for Labor-Management Documentation and Archives, Martin P. Catherwood Library, Cornell University.</p>  </prefercite>
+  <relatedmaterial id="aspace_9f6d991b3eb6c92990b6c560702d1843">
+    <head>Related Materials</head>
+<p>5780. ILGWU records</p><p> 5780/122 MB. ILGWU. Unity House memorabilia</p>  </relatedmaterial>
+  <odd id="aspace_36257c058602c5be11088634a59b8355">
+    <head>General</head>
+<p>"Permanent deposit"</p>  </odd>
+  <arrangement id="aspace_eee70cc94c0999b9701a0facb77ad201">
+    <head>Arrangement</head>
+<p>Arranged in chronological order.</p>  </arrangement>
+  <controlaccess>
+    <subject source="ingest">Women's clothing industry--United States.</subject>
+    <subject source="ingest">Clothing workers--Labor unions--United States.</subject>
+    <subject source="ingest">Clothing workers--United States.</subject>
+    <subject source="ingest">Industrial relations--United States.</subject>
+    <corpname audience="internal" source="ingest">Unity House.</corpname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union.</corpname>
+    <corpname audience="internal" source="ingest">Unity House.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5508479</unitid>
+  <dsc><c01 id="aspace_2aed7ca42d58373cd7f0133296942c4d" level="file"><did><unittitle>Unity House. Proposed changes to lighting.</unittitle><unitdate datechar="creation" normal="1971/1971">1971</unitdate><container id="aspace_47460b6580545f83a06230cc42f12e97" label="unspecified" type="box">1</container><container id="aspace_5c11cf17b8108447470ef02ef98d3ca0" parent="aspace_47460b6580545f83a06230cc42f12e97" type="folder">1</container></did></c01><c01 id="aspace_d2a54123ddd1f59e521775fd8f13768b" level="file"><did><unittitle>Unity House. Specifications for dormitory alteration.</unittitle><unitdate datechar="creation" normal="1973/1973">1973</unitdate><container id="aspace_eec2c9e2f17616ea3ac267153475946f" label="unspecified" type="box">1</container><container id="aspace_ccbb6eae3db5a0475cf084fe0c744f53" parent="aspace_eec2c9e2f17616ea3ac267153475946f" type="folder">2</container></did></c01><c01 id="aspace_a15b3d29153b526d8a73d4b7cdc6bef9" level="file"><did><unittitle>Pennsylvania History. Vol. 60, no. 4. October 1993.</unittitle><unitdate datechar="creation" normal="1993/1993">1993</unitdate><container id="aspace_2c79dd8951e27d72573e300af0f4369a" label="unspecified" type="box">1</container><container id="aspace_2a188b39ce14ab426d50f324794cc631" parent="aspace_2c79dd8951e27d72573e300af0f4369a" type="folder">3</container></did><scopecontent id="aspace_05f93d6ddb88e326b96ac51155016e74"><head>Scope and Contents</head><p>Includes article "Min Matheson and the ILGWU in the Northern Anthracite Region, 1944-1963," by Robert P. Wolensky and Kenneth C. Wolensky.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

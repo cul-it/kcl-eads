@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06003mb</eadid><filedesc><titlestmt><titleproper>Kheel, Ann Collection of Memorabilia <num>6003 MB</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 12, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:22:22 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Ann Kheel Collection of Memorabilia</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Kheel, Ann</persname>
+    </origination>
+    <unitid>6003 MB</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.11 cubic feet</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="0000/2999" type="inclusive">0000-2999</unitdate>
+    <physdesc id="aspace_e6d6e139a32a12195bbf901451684cbc" label="Quantity:">0.1 linear ft.</physdesc>
+    <physdesc id="aspace_a11cc512a3aff7b1897f2e5bcd067f19" label="Forms of Material:">Memorabilia.</physdesc>
+    <langmaterial id="aspace_1549d2fd2aa9bf828b4a98c6820835d7">Collection material in English</langmaterial>
+    <unitid type="bibid">7583680</unitid>
+  </did>
+  <odd id="aspace_0b0dfb45b538f7a5a9724a24693ac873">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, September 26, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, August 12, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_894e71ae99f8ea4405334e569eca50ee">
+    <head>Biographical / Historical</head>
+<p>Ann Sunstein Kheel was a Phi Beta Kappa graduate of Cornell University, Class of 1936. She was the beloved wife of Theodore W. Kheel, a nationally prominent arbitrator and mediator. </p><p> Ann Kheel was a journalist and government information specialist who was influential in civic and charitable affairs in New York. She was chairwoman of the State Parks, Recreation and Historic Preservation Commission for the City of New York between 1977-86. She also served the New York Urban League as the secretary of its Board for twenty-five years, beginning in the mid-1960's and was the founder of its annual Frederick Douglass Awards Dinner (which raised millions of dollars over the twenty-five years she ran it and is still an annual event). Over the years, she served as a trustee of the Schomburg Center for Research in Black Culture as well as the Rainforest Alliance and in various capacities, on panels and boards of a number of charitable and local governmental boards. She also served on the Advisory Board of the Catherwood Library, the parent institution of the Kheel Center.</p>  </bioghist>
+  <accessrestrict id="aspace_f8e83da6597b26de6fc51aec6818d1c7">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_99a1d59790123c2b55bb394326b6e4ba">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_a44ee7e1c50cd325eb949dbbb848fa5a">
+    <head>Preferred Citation</head>
+<p>Ann Kheel Collection of Memorabilia #6003 MB. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Kheel, Ann Sunstein, 1915-2003</persname>
+    <persname audience="internal" source="ingest">Sunstein, Elias</persname>
+  </controlaccess>
+  <unitid type="bibid">7583680</unitid>
+  <dsc><c01 id="aspace_fddba43ab185d84e604d517623e3dfca" level="file"><did><unittitle>Elias Sunstein's diploma from Princeton Univ.</unittitle><container id="aspace_8167755b868ac0f90ae8a465b8782146" label="unspecified" type="box">1</container><container id="aspace_69c6d05e279ff8a65f5e5861c05fc43f" parent="aspace_8167755b868ac0f90ae8a465b8782146" type="Folder">1</container></did><scopecontent id="aspace_7ccce5483ca2a16bdcd71ea9b1ad3b14"><head>Scope and Contents</head><p>[note included with diploma states 'among the 1st Jews graduated'</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

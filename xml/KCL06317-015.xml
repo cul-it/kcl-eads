@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06317-015</eadid><filedesc><titlestmt><titleproper>Kheel Center Triangle Fire Centennial Commemoration Collection Anabella Lenzu Pamphlets <num>6317/015</num></titleproper><author>Compiled by R. Miles</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>September 01, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:42:36 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Kheel Center Triangle Fire Centennial Commemoration Collection Anabella Lenzu Pamphlets</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Kheel Center</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Remember the Triangle Fire Coalition</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Lenzu, Anabella</persname>
+    </origination>
+    <unitid>6317/015</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 folders</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="2011/2011">2011</unitdate>
+    <physdesc id="aspace_6cbe3eeb495607adb1073e06ca4dfe3a" label="Quantity:">1 file folder</physdesc>
+    <physdesc id="aspace_0fd6a061856645b6c817b353390c437d" label="Forms of Material:">Pamphlets, greeting cards.</physdesc>
+    <langmaterial id="aspace_833916952d477f31ae9a131485d99c2f">Collection material in English</langmaterial>
+    <unitid type="bibid">7504618</unitid>
+  </did>
+  <odd id="aspace_ab895f8dcfb7f1ef60f87dc6ce3baae3">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>R. Miles, July 21, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, September 01, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_a303a503c1606e65cd0c431aee32f801">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_809a5a3794531b1ea68d969529fde4c1">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_ac36fd7285af3f980faaf1c248b5fc46">
+    <head>Preferred Citation</head>
+<p>Kheel Center Triangle Fire Centennial Commemoration Collection Anabella Lenzu Pamphlets #6317/015. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_360efaac0326f1be2b24b454e4bc55ca">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06317.html"> 6317: Kheel Center Triangle Fire Centennial Commemoration Collection</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06317mb.html"> 6317 MB: Kheel Center Triangle Fire Centennial Commemoration Collection Memorabilia</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06317pubs.html"> 6317 PUBS: Kheel Center Triangle Fire Centennial Commemoration Collection Publications</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06317-015p.html"> 6317/015 P: Kheel Center Triangle Fire Centennial Commemoration Collection Anabella Lenzu Photographs</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Clothing trade--New York (State)--New York--History--20th century</subject>
+    <subject source="ingest">Strikes and lockouts--New York (State)--New York--History--20th century</subject>
+    <subject source="ingest">Fires--New York (State)--New York--History--20th century</subject>
+    <persname audience="internal" source="ingest">Lenzu, Anabella</persname>
+    <corpname audience="internal" source="ingest">Triangle Shirtwaist Company --Fire, 1911</corpname>
+  </controlaccess>
+  <unitid type="bibid">7504618</unitid>
+  <dsc><c01 id="aspace_90e1d26f702f698748cd518387485178" level="file"><did><unittitle>Anabella Lenzu</unittitle><unitdate datechar="creation" normal="2011/2011">2011</unitdate><container id="aspace_bcabe002b0ad427620db2fbcb43111a2" label="unspecified" type="box">1</container><container id="aspace_770a87f55f90e1a6426d560f258c975f" parent="aspace_bcabe002b0ad427620db2fbcb43111a2" type="Folder">1</container></did><c02 id="aspace_339de99cac0fc58ffa88e2438ceeb081" level="file"><did><unittitle>Item 1: DanceDrama</unittitle><unitdate datechar="creation" normal="2011/2011">2011</unitdate><physdesc id="aspace_5d3f9162d074d44aa6c12f197250d79b" label="Format:">Pamphlet</physdesc><container id="aspace_5b606d7b7911f0d4ebef615d06c67ee9" label="unspecified" type="box">1</container><container id="aspace_69461d9b8fa507f6e33483d0069152e9" parent="aspace_5b606d7b7911f0d4ebef615d06c67ee9" type="Folder">1</container></did><scopecontent id="aspace_23300d355dbe4ca31202ae756a6b8df9"><head>Scope and Contents</head><p>Dance company advertisement.</p><p> Format: Pamphlet.</p></scopecontent></c02><c02 id="aspace_533a34045385bc3b1e4cf54daee361e3" level="file"><did><unittitle>Item 2: Anabella Lenzu to The Remember the Triangle Fire Coalition</unittitle><unitdate datechar="creation" normal="2011/2011">2011</unitdate><physdesc id="aspace_533083ede1dcf0fa9b4f34db3ab73f19" label="Format:">Greeting cards</physdesc><container id="aspace_18b822bd97cefd8a5f265d464d52ffe8" label="unspecified" type="box">1</container><container id="aspace_0ca9f539d7f41cf2d85f37825f5e198a" parent="aspace_18b822bd97cefd8a5f265d464d52ffe8" type="Folder">1</container></did><scopecontent id="aspace_712e61ca4789c634905e908cefa7d640"><head>Scope and Contents</head><p>Card thanking the Coalition for having her perform.</p><p> Format: Greeting cards.</p></scopecontent></c02></c01></dsc>
+</archdesc>
+</ead>

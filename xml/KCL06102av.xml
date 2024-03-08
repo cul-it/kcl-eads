@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06102av</eadid><filedesc><titlestmt><titleproper>Michigan State University Labor History Speeches <num>6102 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 19, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:29:29 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Michigan State University Labor History Speeches</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Michigan State University</corpname>
+    </origination>
+    <unitid>6102 AV</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3.44 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1896/1977" type="inclusive">1896-1977</unitdate>
+    <physdesc id="aspace_e2f8ce82622546d1afaff1db1c704053" label="Quantity:">3 linear ft.</physdesc>
+    <physdesc id="aspace_ef6a5f1e0e91f4d249271a8aa60fc50d" label="Forms of Material:">Audio cassette tapes.</physdesc>
+    <langmaterial id="aspace_17bb73a8f360c8a1e089148ddb7a7f02">Collection material in English</langmaterial>
+    <unitid type="bibid">5799089</unitid>
+  </did>
+  <odd id="aspace_e351ecb61985d2d9367d03964b4143ae">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, March 20, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, August 19, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_6c763bfffdcb998e6dc37f6a3cfdcabe">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_d02a768e1226d28bb6e3dceff8b9e55f">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_f36f5e396d3f98a6b5ddff855898bfa4">
+    <head>Preferred Citation</head>
+<p>Michigan State University Labor History Speeches #6102 AV. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Labor--History</subject>
+    <subject source="ingest">Labor leaders</subject>
+    <subject source="ingest">Labor unions--Organizing</subject>
+    <subject source="ingest">Civil rights</subject>
+    <subject source="ingest">Labor unions and communism</subject>
+    <persname audience="internal" source="ingest">Baldanzi, George</persname>
+    <persname audience="internal" source="ingest">Bryan, W. J.</persname>
+    <persname audience="internal" source="ingest">Chavez, Ceasar, 1927-</persname>
+    <persname audience="internal" source="ingest">Coal, King</persname>
+    <persname audience="internal" source="ingest">Curran, Joseph</persname>
+    <persname audience="internal" source="ingest">Debs, Eugene V. (Eugene Victor), 1855-1926</persname>
+    <persname audience="internal" source="ingest">Eisenhower, Dwight D. (Dwight David), 1890-1969</persname>
+    <persname audience="internal" source="ingest">English, John</persname>
+    <persname audience="internal" source="ingest">Fitzsimmons, Frank E., 1906-1981.</persname>
+    <persname audience="internal" source="ingest">Gold, Ben</persname>
+    <persname audience="internal" source="ingest">Gompers, Samuel, 1850-1924</persname>
+    <persname audience="internal" source="ingest">Green, William, 1872-1952</persname>
+    <persname audience="internal" source="ingest">Hayes, Al</persname>
+    <persname audience="internal" source="ingest">Hillman, Sidney, 1887-1946</persname>
+    <persname audience="internal" source="ingest">Hoffa, James P., 1941-</persname>
+    <persname audience="internal" source="ingest">Kennedy, John F. (John Fitzgerald), 1917-1963</persname>
+    <persname audience="internal" source="ingest">King, Filver</persname>
+    <persname audience="internal" source="ingest">King, Martin Luther, 1929-1968</persname>
+    <persname audience="internal" source="ingest">Kircher, William</persname>
+    <persname audience="internal" source="ingest">LaGuardia, F.</persname>
+    <persname audience="internal" source="ingest">Meany, George, 1894-1980</persname>
+    <persname audience="internal" source="ingest">Mohn, Eimar</persname>
+    <persname audience="internal" source="ingest">Murphy, John L.</persname>
+    <persname audience="internal" source="ingest">Murray, Philip, 1886-1952</persname>
+    <persname audience="internal" source="ingest">Randolph, A. P.</persname>
+    <persname audience="internal" source="ingest">Reuther, Walter, 1907-1970</persname>
+    <persname audience="internal" source="ingest">Rieve, Emile, 1892-1975</persname>
+    <persname source="ingest">Rockefeller, Nelson A. (Nelson Aldrich), 1908-1979</persname>
+    <persname audience="internal" source="ingest">Roosevelt, Eleanor, 1884-1962</persname>
+    <persname audience="internal" source="ingest">Roosevelt, Franklin D. (Franklin Delano), 1882-1945</persname>
+    <persname audience="internal" source="ingest">Rustin, Bayard, 1912-1987.</persname>
+    <persname source="ingest">Sinclair, Upton, 1878-1968</persname>
+    <persname audience="internal" source="ingest">Taft, William H. (William Howard), 1857-1930</persname>
+    <persname audience="internal" source="ingest">Thomas, Norman, 1884-1968</persname>
+    <persname audience="internal" source="ingest">Truman, Harry S., 1884-1972</persname>
+    <persname audience="internal" source="ingest">Wagner, J. Addington</persname>
+    <persname audience="internal" source="ingest">Wurf, Jerry, 1919-</persname>
+    <corpname audience="internal" source="ingest">Michigan State University</corpname>
+  </controlaccess>
+  <unitid type="bibid">5799089</unitid>
+  <dsc><c01 id="aspace_385de91942440c152ca40fb14845f532" level="file"><did><unittitle>McClellan Committee</unittitle><container id="aspace_a37b63caa1de573d7594ec0b66745dea" label="unspecified" type="box">2</container></did></c01><c01 id="aspace_95aca2706dfedfb97fa5c07269ebd811" level="file"><did><unittitle>AFL-CIO Merger UAW Split Labor and Communism - 1949 CIO Convention</unittitle><unitdate datechar="creation" normal="1949/1949">1949</unitdate><container id="aspace_3c48b1581aa0e78a850f890776433c3b" label="unspecified" type="box">3</container></did><scopecontent id="aspace_b3946e115efe68f360f146c37c110891"><head>Scope and Contents</head><p>dup</p></scopecontent></c01><c01 id="aspace_9ccf8bcfaf32b8f6cc06b0e527524050" level="file"><did><unittitle>Labor and Communism 1949 CIO Convention</unittitle><container id="aspace_f1ce91cf7c88178f2e837c4ddf19977a" label="unspecified" type="box">4</container></did><scopecontent id="aspace_54abc90efd244d07e93d2b26943c7e72"><head>Scope and Contents</head><p>dup</p></scopecontent></c01><c01 id="aspace_ee4f1a3b59fce7396dcf21030f4d1890" level="file"><did><unittitle>Labor &amp; Taft-Hartley</unittitle><container id="aspace_924a677da265a2e7583102ce2d2d15e7" label="unspecified" type="box">5</container></did><scopecontent id="aspace_8b9f2791f07566eb459a835944a4124d"><head>Scope and Contents</head><p>dup</p></scopecontent></c01><c01 id="aspace_b597070f61d214580c6fb11ef0adb4b4" level="file"><did><unittitle>Labor and Organizing</unittitle><container id="aspace_54feef532193b9822d9b3e6eb2763194" label="unspecified" type="box">6</container></did><scopecontent id="aspace_21ce7ba01780b715d3954118589499eb"><head>Scope and Contents</head><p>dup</p></scopecontent></c01><c01 id="aspace_7458469f903eeae4d2d85a8dadd66d7a" level="file"><did><unittitle>Labor and Civil Rights</unittitle><container id="aspace_3b16e82a8cf7a1cd61723512933127a8" label="unspecified" type="box">7</container></did><scopecontent id="aspace_2edee5444187eccb8763397a02646c11"><head>Scope and Contents</head><p>dup</p></scopecontent></c01><c01 id="aspace_57f9b021389cd7fdb2c749752a7f6bbb" level="file"><did><unittitle>Labor and the War Effort</unittitle><container id="aspace_fb801e7106302a2ddb93cdf4ae9cd234" label="unspecified" type="box">8</container></did><scopecontent id="aspace_5d9348a6cd8c58e93bb0618f2d1dc925"><head>Scope and Contents</head><p>dup</p></scopecontent></c01><c01 id="aspace_f6cd3f62be99e1569f1227520bb3f600" level="file"><did><unittitle>Labor and Foreign Policy</unittitle><container id="aspace_c24b7e05ed5c2df07b38afa79a54e517" label="unspecified" type="box">9</container></did><scopecontent id="aspace_a5da2f28d8b18c642feb9c74a568d95b"><head>Scope and Contents</head><p>dup</p></scopecontent></c01><c01 id="aspace_19ce04ae367cc1f56110427584d2f132" level="file"><did><unittitle>Early Social Issues and Labor</unittitle><container id="aspace_133d4a3bb8a50ce8cc935fd84836f802" label="unspecified" type="box">10</container></did><scopecontent id="aspace_eb05e71605a3a72b9a0579c02a86d644"><head>Scope and Contents</head><p>dup</p></scopecontent></c01><c01 id="aspace_ca9f7580ca2a9a30c480723770b3ce44" level="file"><did><unittitle>Labor and Taft-Hartley #2</unittitle><container id="aspace_f569adafeaea1d945c11d1beba7e17d1" label="unspecified" type="box">11</container></did></c01><c01 id="aspace_97dccae6304664843744147717ec448f" level="file"><did><unittitle>Labor and Communism #3, 1949 CIO Convention</unittitle><container id="aspace_90a8cb6bc07afdfd2b89f15ed6fc6204" label="unspecified" type="box">12</container></did></c01><c01 id="aspace_884817eef36123aa8c5a334e00648735" level="file"><did><unittitle>AFL-CIO Merger/UAW Split #4</unittitle><container id="aspace_0aa6befdccd9cac5f8e106986575325d" label="unspecified" type="box">13</container></did></c01><c01 id="aspace_59c19b62bada2c8c0bce7ccd44fbffc4" level="file"><did><unittitle>Early Social Issues and Labor #9</unittitle><container id="aspace_dd63fa1d9918c333b99251d9008b4af3" label="unspecified" type="box">14</container></did></c01><c01 id="aspace_ae8d55c14ca3272d5c3932384b37faba" level="file"><did><unittitle>Labor and Foreign Policy #8</unittitle><container id="aspace_5315759af86c37961fc25775986858b5" label="unspecified" type="box">15</container></did></c01><c01 id="aspace_0596d9497d4d7bb1a5d55fd54e3a9b53" level="file"><did><unittitle>Labor and the War Effort #7</unittitle><container id="aspace_9122a0b9135469ac061d556a5fdcdcd0" label="unspecified" type="box">16</container></did></c01><c01 id="aspace_025a032f3cb53482547828b8c7ebf44f" level="file"><did><unittitle>Labor and Civil Rights #6</unittitle><container id="aspace_83240d20b19c1699bc5143c3ef865291" label="unspecified" type="box">17</container></did></c01><c01 id="aspace_86ae0b0dbacb986dbbf94adca06bbe1a" level="file"><did><unittitle>McClellan Committee &amp; Teamsters Expulsion #5</unittitle><container id="aspace_fbec6bf091639b4484cbfca7c78e1e81" label="unspecified" type="box">18</container></did></c01><c01 id="aspace_09ba8894ec199d273f05368580310b1d" level="file"><did><unittitle>Labor and Organizing #1</unittitle><container id="aspace_9fbaf0fcc252c19aef15868f6e4e4215" label="unspecified" type="box">19</container></did></c01><c01 id="aspace_4be078cabc69457b04b4c0fa14be54aa" level="file"><did><unittitle>Labor and Taft-Hartley #2</unittitle><container id="aspace_cf25ad4d965dc7fab6ba28a4fd04bd84" label="unspecified" type="box">20</container></did></c01><c01 id="aspace_fca75b15cf23599fe80da760e1d8e067" level="file"><did><unittitle>Labor and Civil Rights #6</unittitle><container id="aspace_87e41c7c8040319a64dd8118ce2ff13f" label="unspecified" type="box">21</container></did></c01><c01 id="aspace_cf0ed61040c854233b3a61d20e80ee29" level="file"><did><unittitle>McClellan Committee &amp; Teamsters Expulsion #5</unittitle><container id="aspace_28b85de4de88d5c89277749e0d387789" label="unspecified" type="box">22</container></did></c01><c01 id="aspace_4cae6086f8345c618a05e71f02409f78" level="file"><did><unittitle>Labor and Organizing #1</unittitle><container id="aspace_355095223a78e6fecbb5aeebad09d95d" label="unspecified" type="box">23</container></did></c01><c01 id="aspace_65a6f75da171ac0c993921d3d029d84f" level="file"><did><unittitle>Early Social Issues and Labor #9</unittitle><container id="aspace_7476a921e06d707ef1aa907212ef7d50" label="unspecified" type="box">24</container></did></c01><c01 id="aspace_b1eaa9299cf5876236c324ecb6438cfe" level="file"><did><unittitle>Labor and Foreign Policy #8</unittitle><container id="aspace_fc2314651764412fd27015c565ae6e25" label="unspecified" type="box">25</container></did></c01><c01 id="aspace_eb8a15f55c9308626c3776631636bafb" level="file"><did><unittitle>Labor and the War Effort #7</unittitle><container id="aspace_e93bb622bac397a37ccbad4d6c52e279" label="unspecified" type="box">26</container></did></c01><c01 id="aspace_2e852767ea2f18f28bdf435a823c50ee" level="file"><did><unittitle>AFL-CIO Merger/UAW Split #4</unittitle><container id="aspace_cc8c0fdcf31f9bb5587d34c077e4505f" label="unspecified" type="box">27</container></did></c01><c01 id="aspace_dcb17d073ee513d7c8ed8fe7b2e99e0b" level="file"><did><unittitle>Labor and Communism #3</unittitle><container id="aspace_97f433a5a279685f8b4c1dc0003b831f" label="unspecified" type="box">28</container></did></c01></dsc>
+</archdesc>
+</ead>

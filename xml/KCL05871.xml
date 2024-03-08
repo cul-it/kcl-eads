@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05871</eadid><filedesc><titlestmt><titleproper>Local 1199 Additional Records <num>5871</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 17, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:13:43 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Local 1199 Additional Records</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Retail, Wholesale and Department Store Union (RWDSU)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">RWDSU Local 1199 Drug, Hospital &amp; Health Care Employees</corpname>
+    </origination>
+    <unitid>5871</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1986/1989" type="inclusive">1986-1989</unitdate>
+    <physdesc id="aspace_8e8db7aaeaf4be0afd4410af2541d7c1" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_600fe0e909010ac920be8cbee8af1b35" label="Forms of Material:">Records (documents).</physdesc>
+    <langmaterial id="aspace_5b3988c572f4ea25bcc04d0b46d62f5c">Collection material in English</langmaterial>
+    <unitid type="bibid">5722556</unitid>
+  </did>
+  <odd id="aspace_73ced63d22b12c7db9e7a6be0b241693">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 08, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 17, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_ad9584127cb76191b46a7edab0e78c6c">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_33cd9718f78f60a516c82b4ed43e1db2">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_b198fe1f7d03811a518086a83d24cc50">
+    <head>Preferred Citation</head>
+<p>Local 1199 Additional Records #5871. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_643fd1d307c09206a06104da58bd0ff5">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05206.html"> 5206: Local 1199 Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05525.html"> 5525: Local 1199 Additional Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05510.html"> 5510: Local 1199 Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05651.html"> 5651: Local 1199 Additional Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05680oh.html"> 5680 OH: Local 1199 Oral History Project</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05854.html"> 5854: Local 1199 Additional Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05928.html"> 5928: Elaine Leeder Collection of Rose Pesotta Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05938.html"> 5938: Local 1199 Leon Davis Additional Papers</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <corpname audience="internal" source="ingest">National Union of Hospital and Nursing Home Employees. Local 1199 Drug and Hospital Union (New York, N.Y.)</corpname>
+    <corpname audience="internal" source="ingest">Retail, Wholesale and Department Store Union.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5722556</unitid>
+  <dsc><c01 id="aspace_14b6d7ce76c67feb790064b87815882a" level="file"><did><unittitle>1986 Election UP Newspaper Save Our Union</unittitle><container id="aspace_95547656212304c3bba58d4f6df8ea9e" label="unspecified" type="box">1</container><container id="aspace_273802f98795da0cee33f37f78e2b669" parent="aspace_95547656212304c3bba58d4f6df8ea9e" type="folder">1</container></did></c01><c01 id="aspace_19aa5a68253ad4cd79a57fe0485b8098" level="file"><did><unittitle>Speeches - 1199 Newspaper - Newsletter</unittitle><container id="aspace_74ca327d0286ffaa0aa45e221c639b8d" label="unspecified" type="box">1</container><container id="aspace_8a7e84625b883e5314f967adfa4ccf01" parent="aspace_74ca327d0286ffaa0aa45e221c639b8d" type="folder">2</container></did></c01><c01 id="aspace_4a0ced58f47facc1c142e75780829421" level="file"><did><unittitle>Election Press</unittitle><container id="aspace_f117a915188af65d57d98e4fc962dc9a" label="unspecified" type="box">1</container><container id="aspace_97433144afa0766a7e5aca3279d654e4" parent="aspace_f117a915188af65d57d98e4fc962dc9a" type="folder">3</container></did></c01><c01 id="aspace_b2c253244cba97bfed4633b4941b236a" level="file"><did><unittitle>1984 Election UP Election Bulletins</unittitle><container id="aspace_427cba50ec943dc62ebe0f8a60fbf4f4" label="unspecified" type="box">1</container><container id="aspace_4ce4afb6c21581d9ccbc4cde1e181b07" parent="aspace_427cba50ec943dc62ebe0f8a60fbf4f4" type="folder">4</container></did></c01><c01 id="aspace_d7d1c4665006d3aa6b7873e065d8b23f" level="file"><did><unittitle>Campaign Press</unittitle><unitdate datechar="creation" normal="1986/1986">1986</unitdate><container id="aspace_d30959861a3198c2272ea55b55fedc06" label="unspecified" type="box">1</container><container id="aspace_b707dfe0fe319dff701b74cd24402a44" parent="aspace_d30959861a3198c2272ea55b55fedc06" type="folder">5</container></did></c01><c01 id="aspace_0aaf55fc13386dc30895da08e7f1633b" level="file"><did><unittitle>Election and NLRB</unittitle><container id="aspace_0a28ccb00b131de6e80f9a18f1f91207" label="unspecified" type="box">1</container><container id="aspace_c0dcab5b468e0905af222dfb40a256a0" parent="aspace_0a28ccb00b131de6e80f9a18f1f91207" type="folder">6</container></did></c01><c01 id="aspace_d4004d754e7b01bcd8e7a78da73b1ceb" level="file"><did><unittitle>1199 Legal</unittitle><container id="aspace_9aefe8a334822c376110975e81f3af59" label="unspecified" type="box">1</container><container id="aspace_7b1ccba797a2e665fe559d98d5576aa6" parent="aspace_9aefe8a334822c376110975e81f3af59" type="folder">7</container></did></c01><c01 id="aspace_ba3ba29062ceb8d2f555415adaca81f8" level="file"><did><unittitle>1199</unittitle><container id="aspace_a03775f8a42906d9c5c001147c404457" label="unspecified" type="box">1</container><container id="aspace_860a8fd3d45fc4a2704e66735577b542" parent="aspace_a03775f8a42906d9c5c001147c404457" type="folder">8</container></did></c01><c01 id="aspace_7dd7bd819f65f46e24ac446b2d3e31e7" level="file"><did><unittitle>Betty Hughley</unittitle><container id="aspace_fbef4bab087978e58052f4a567d8588f" label="unspecified" type="box">1</container><container id="aspace_4b8346b9e6c54d83143f94e255df2475" parent="aspace_fbef4bab087978e58052f4a567d8588f" type="folder">9</container></did></c01><c01 id="aspace_c1b84855b74e6dca1217c0b1e86449bf" level="file"><did><unittitle>The Elections w/ 1199</unittitle><container id="aspace_61ed575e4364cae6ae57224dbfe4355d" label="unspecified" type="box">1</container><container id="aspace_1c07883ee9368c4e71056dfebb223429" parent="aspace_61ed575e4364cae6ae57224dbfe4355d" type="folder">10</container></did></c01><c01 id="aspace_06303e2051d114e2108f03c98ea38557" level="file"><did><unittitle>Elections, "Unity Programs Slate"</unittitle><container id="aspace_8d3fb2e1f40459c85d6898e900d64086" label="unspecified" type="box">1</container><container id="aspace_95627ce0c90c452730ae959b8193c809" parent="aspace_8d3fb2e1f40459c85d6898e900d64086" type="folder">11</container></did></c01><c01 id="aspace_55435708c344d30cd260088316cb2385" level="file"><did><unittitle>D. Turner Lit.</unittitle><unitdate datechar="creation" normal="1989/1989">1989</unitdate><container id="aspace_300c2629689809706114ee0670791b14" label="unspecified" type="box">1</container><container id="aspace_0dbfc74f6647bed614a4889131a8c2c1" parent="aspace_300c2629689809706114ee0670791b14" type="folder">12</container></did></c01><c01 id="aspace_fc817de7cf77a84244199ec4413388da" level="file"><did><unittitle>G. Johnson Info.</unittitle><container id="aspace_7fc80327e9989f2fa0c46c45c102128a" label="unspecified" type="box">1</container><container id="aspace_98c591b83d29c08a98973aa8b0916c9e" parent="aspace_7fc80327e9989f2fa0c46c45c102128a" type="folder">13</container></did></c01><c01 id="aspace_ec50b54a932aa87636b8398e1497e1cf" level="file"><did><unittitle>G. Johnson Info.</unittitle><container id="aspace_790722e4bdaae64b5db52bb0a22bddaa" label="unspecified" type="box">1</container><container id="aspace_aee127565b32368ed73283b7c0d728cb" parent="aspace_790722e4bdaae64b5db52bb0a22bddaa" type="folder">13</container></did></c01><c01 id="aspace_81f290b8467477a88c7e9c1d17e1c033" level="file"><did><unittitle>void</unittitle><container id="aspace_3785a8d01682ceb730f9cadb1e426c52" label="unspecified" type="box">1</container><container id="aspace_2866bee4bc6002b08659537e07ae8095" parent="aspace_3785a8d01682ceb730f9cadb1e426c52" type="folder">14</container></did></c01></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05909m</eadid><filedesc><titlestmt><titleproper>Starr, Mark "An Adventure in Education" Manuscript <num>5909m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 17, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:15:08 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Mark Starr "An Adventure in Education" Manuscript</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Starr, Mark</persname>
+    </origination>
+    <unitid>5909m</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 folders</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1960/1960">1960</unitdate>
+    <physdesc id="aspace_875fef7e347bf892eeb0a55639f5b539" label="Quantity:">1 file folder.</physdesc>
+    <physdesc id="aspace_67d8df8403632fba673d1fabdbda9869" label="Forms of Material:">Manuscripts (documents).</physdesc>
+    <abstract id="aspace_a57d42e2c17c1f51feb2d9683090c9c6">"An Adventure in Education," address by Mark Starr, 1960. 8 p.</abstract>
+    <langmaterial id="aspace_3df5f943c5a6e81fb33aca9a9791f27f">Collection material in English</langmaterial>
+    <unitid type="bibid">5732346</unitid>
+  </did>
+  <odd id="aspace_47e48bbf4f459e0a27bd1718ef87569a">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 24, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 17, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <scopecontent id="aspace_5f93b396f5a14855a412d0a0e27ee184">
+    <head>Scope and Contents</head>
+<p>"An Adventure in Education," address by Mark Starr on the occasion of the Testimonial Dinner in his honor at the Annual Washington's Birthday Workers' Education Conference, February 20, 1960.</p>  </scopecontent>
+  <accessrestrict id="aspace_ee3e3ee4fb9643a27206f3d789bc2940">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_1d2fb624721613329599b83be5b17913">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_aca34c5c1dfb37328f9f2b3e01d5884d">
+    <head>Preferred Citation</head>
+<p>Mark Starr "An Adventure in Education" Manuscript #5909m. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_a5071909f31b7ec04ce9ed427583eb87">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL03012.html"> /3012: Alice Cook Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04039.html"> /4039: Milton R. Konvitz Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04046.html"> /4046: ILR School Historical School Documents</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05216.html"> 5216: Theresa Wolfson Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05225.html"> 5225: ALES Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05243.html"> 5243: Mark Starr Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05266.html"> 5266: League for Industrial Democracy Pamphlets</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05277.html"> 5277: Workers Education Bureau of America Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05441.html"> 5441: Eveline M. Burns Collection of Publications</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05455.html"> 5455: Brookwood Labor College Pamphlets and Documents</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05582.html"> 5582: Archives Foreign File (AFF)</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619.html"> 5619: ACWA Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780av.html"> 5780 AV: ILGWU Audio-Visual (AV)</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780p.html"> 5780 P: ILGWU Photographs</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780pn45.html"> 5780 P N45: ILGWU 4x5 Negatives of Photographs</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780pubs.html"> 5780 PUBS: ILGWU Publications</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-002.html"> 5780/002: ILGWU David Dubinsky Correspondence</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-003.html"> 5780/003: ILGWU Louis Stulberg Correspondence</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-005.html"> 5780/005: ILGWU Frederick F. Umhey Correspondence</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-012.html"> 5780/012: ILGWU Local 10 Managers' Correspondence</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-014.html"> 5780/014: ILGWU Local 22, Charles S. Zimmerman Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-020.html"> 5780/020: ILGWU New York Cloak Joint Board Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-023.html"> 5780/023: ILGWU Local 89 Luigi Antonini Correspondence</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-044.html"> 5780/044: ILGWU Chicago Joint Board Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-047.html"> 5780/047: ILGWU Joint Board Dress &amp; Waistmakers' Union of Greater New York Managers' Correspondence</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-049.html"> 5780/049: ILGWU Education Department, Fannia Cohn Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-049mf.html"> 5780/049 mf: ILGWU Education Department, Fannia Cohn Papers on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-049p.html"> 5780/049 P: ILGWU Education Department, Fannia Cohn Photographs</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-086.html"> 5780/086: ILGWU Education Department, Jasper Peyton Papers</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Starr, Mark, 1894-</persname>
+  </controlaccess>
+  <unitid type="bibid">5732346</unitid>
+  <dsc><c01 id="aspace_2a9f9408c23ffa04f575eee96847f7c8" level="file"><did><unittitle>An Adventure in Education</unittitle><unitdate datechar="creation" normal="1960/1960">1960</unitdate><container id="aspace_7911df09109e7a04f4b6a7073e151e21" label="unspecified" type="box">1</container></did><scopecontent id="aspace_7dc0b1b73708e7deb02c961f9644b94a"><head>Scope and Contents</head><p>By Mark Starr; February 20, 1960; 8 pages.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

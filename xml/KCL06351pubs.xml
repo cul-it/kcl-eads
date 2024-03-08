@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06351pubs</eadid><filedesc><titlestmt><titleproper>Block, Maggie Collection of Needletrades Union Publications <num>6351 PUBS</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>January 30, 2014</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:44:55 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Maggie Block Collection of Needletrades Union Publications</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Block, Maggie</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">ACWA</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">TWUA</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">ACTWU</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">ILGWU</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">UNITE</corpname>
+    </origination>
+    <unitid>6351 PUBS</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1924/1999" type="inclusive">1924-1999</unitdate>
+    <physdesc id="aspace_ec03d2cdeb11a6f391eb321f6740a001" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_b0be77623a584e41335274e8a5128607" label="Forms of Material:">Articles, reprints, pamphlets, publications.</physdesc>
+    <langmaterial id="aspace_13ece2aa2183baddfb74135f8e77b124">Collection material in English</langmaterial>
+    <unitid type="bibid">8026713</unitid>
+  </did>
+  <odd id="aspace_167f6fab1af269d5813e6888966076d6">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel">http://www.ilr.cornell.edu/library/kheel</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, January 13, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, January 30, 2014</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_d524c9c8bf1c8926f36dc4d3e8250cdf">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_f215305cd756926082cc7e96ed2af512">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_dc6dcb20c0efc8617edb86eeaff61208">
+    <head>Preferred Citation</head>
+<p>Maggie Block Collection of Needletrades Union Publications #6351 PUBS. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_13da9f03dd19a2a234aa48dba30133aa">
+    <head>Related Materials</head>
+<p>Related Collections: 6351 MB: Maggie Block Collection of Needletrades Union Memorabilia</p>  </relatedmaterial>
+  <unitid type="bibid">8026713</unitid>
+  <dsc><c01 id="aspace_189bba9efb24e7299413617f910eef8c" level="file"><did><unittitle>Amalgamated Publications</unittitle><container id="aspace_33a131911f7a4136b7d7c2104665c424" label="unspecified" type="box">1</container></did><c02 id="aspace_b459a8e82ccf4398dc3c633e20ad0017" level="file"><did><unittitle>ACTOR</unittitle><container id="aspace_6edef5a6fbb5c4381d43a21172f0ee79" label="unspecified" type="box">1</container><container id="aspace_702f8203715020964aa6fab6acfcf85f" parent="aspace_6edef5a6fbb5c4381d43a21172f0ee79" type="folder">1</container></did></c02><c02 id="aspace_305c2e4bf1e5eb3a0ada694c304e6b0d" level="file"><did><unittitle>ACTWU</unittitle><container id="aspace_9cfbea598b5b864e2d77fa63f64faf2c" label="unspecified" type="box">1</container><container id="aspace_205449a92115edafc15958d3a8ddfafe" parent="aspace_9cfbea598b5b864e2d77fa63f64faf2c" type="folder">2</container></did></c02><c02 id="aspace_e9b83be9763a5e71ab2820b97f387877" level="file"><did><unittitle>ACWA</unittitle><container id="aspace_89bebec080c61f94af4db7c2b1d58e4e" label="unspecified" type="box">1</container><container id="aspace_90c1ae98279d3dacae5cbdb9386e432e" parent="aspace_89bebec080c61f94af4db7c2b1d58e4e" type="folder">3</container></did></c02><c02 id="aspace_fda12604a3d414e31f77d9020c16e848" level="file"><did><unittitle>Profile of a Union</unittitle><container id="aspace_e7d2e6c8b49eadfce3df4ae8ca326e91" label="unspecified" type="box">1</container><container id="aspace_66eb673171d43b94e58c9bd39557cbe1" parent="aspace_e7d2e6c8b49eadfce3df4ae8ca326e91" type="folder">4</container></did></c02><c02 id="aspace_4376156fd3b0b3799bfda940c0f04904" level="file"><did><unittitle>Amalgamated Booklets</unittitle><container id="aspace_baaaf6f7b9cc04107e745f4316b9069c" label="unspecified" type="box">1</container><container id="aspace_d8156349c223de14dffa601e1e8ef1fc" parent="aspace_baaaf6f7b9cc04107e745f4316b9069c" type="folder">5</container></did></c02><c02 id="aspace_27a18b313f34b3dc2aad3da84ed147d7" level="file"><did><unittitle>Amalgamated Cultural Activities</unittitle><unitdate datechar="creation" normal="1940/1940">1940</unitdate><container id="aspace_44b10ebf17491db51cb17a3312ba14c8" label="unspecified" type="box">1</container><container id="aspace_b86edcf483758a99c9251e3adeada828" parent="aspace_44b10ebf17491db51cb17a3312ba14c8" type="folder">6</container></did></c02><c02 id="aspace_866d5c0d8344e6fe72ec39ba8ce10f31" level="file"><did><unittitle>The Amalgamated Illustrated Almanac</unittitle><unitdate datechar="creation" normal="1924/1924">1924</unitdate><container id="aspace_d9f625816800e1ae18fd13d860a90fd4" label="unspecified" type="box">1</container><container id="aspace_c113f867301f450d563455929c6a6f19" parent="aspace_d9f625816800e1ae18fd13d860a90fd4" type="folder">7</container></did></c02><c02 id="aspace_d2bb99f9a939527c29f14b0340f20e37" level="file"><did><unittitle>The Book of the Amalgamated in New York, 1914-1940</unittitle><container id="aspace_2b5246b6be5fcf64373f85f51644b9ec" label="unspecified" type="box">1</container><container id="aspace_69c8ce44dd0fb314c87c798062ee82d0" parent="aspace_2b5246b6be5fcf64373f85f51644b9ec" type="folder">8</container></did></c02><c02 id="aspace_bd7369181bce269bd49269afeb09513c" level="file"><did><unittitle>The Inheritance</unittitle><container id="aspace_29ebfaa522c531b7820466795d62a40d" label="unspecified" type="box">1</container><container id="aspace_4c3754a70872db1bac087cefb9d48613" parent="aspace_29ebfaa522c531b7820466795d62a40d" type="folder">9</container></did></c02><c02 id="aspace_247a0450125046da3d63e0334d29013a" level="file"><did><unittitle>Sidney Hillman Medical Center</unittitle><container id="aspace_c1be76e703cb051a50934c9033f8220d" label="unspecified" type="box">1</container><container id="aspace_39889b3a0409ff3431760b5de57e3655" parent="aspace_c1be76e703cb051a50934c9033f8220d" type="folder">10</container></did></c02></c01><c01 id="aspace_4c3cb6442e01b5788382278861dc5632" level="file"><did><unittitle>ILGWU, TWUA, UNITE, and Other Publications</unittitle><container id="aspace_81e1048017233ffaadccf6ef8bb00e4b" label="unspecified" type="box">2</container></did><c02 id="aspace_d63af75ca18c9082a28a3ba689169230" level="file"><did><unittitle>B and C Associates</unittitle><container id="aspace_6bf08388117799abccb3b35053daa0ff" label="unspecified" type="box">2</container><container id="aspace_105ac59bb51f9a1b7ec8fdbf26e3425d" parent="aspace_6bf08388117799abccb3b35053daa0ff" type="folder">1</container></did></c02><c02 id="aspace_4944a087afad525da3bf5e4dc31131b7" level="file"><did><unittitle>Coalition of Labor Union Women</unittitle><container id="aspace_9bd71f9ab4c799e846ef6546a66b253a" label="unspecified" type="box">2</container><container id="aspace_6df1ef8d9c5bb8b7236d0cc340db84b5" parent="aspace_9bd71f9ab4c799e846ef6546a66b253a" type="folder">2</container></did></c02><c02 id="aspace_7b008307b4b9eb41493c2e49fa56f7b3" level="file"><did><unittitle>Hotel-Motel Trades Council</unittitle><container id="aspace_6e7a536b9b8237606f3c820d8a4c4ce6" label="unspecified" type="box">2</container><container id="aspace_bf42627717e6ed7bfadcb65961cd3c8a" parent="aspace_6e7a536b9b8237606f3c820d8a4c4ce6" type="folder">3</container></did></c02><c02 id="aspace_0310d8933cd94994b52b646ba2d311e2" level="file"><did><unittitle>ILGWU</unittitle><container id="aspace_2c2accb79b9a8fdba5c67a63ac662d9a" label="unspecified" type="box">2</container><container id="aspace_28b63d5c403c1eb1d588eb4fdeeac5c9" parent="aspace_2c2accb79b9a8fdba5c67a63ac662d9a" type="folder">4</container></did></c02><c02 id="aspace_76836d11c100b2c991c5e411d0bf94de" level="file"><did><unittitle>Independent Television Service</unittitle><container id="aspace_c4cbaad8c2117925ae3f70ce8e805eb9" label="unspecified" type="box">2</container><container id="aspace_ac87ad3dc268d9fb31ce9b2426024993" parent="aspace_c4cbaad8c2117925ae3f70ce8e805eb9" type="folder">5</container></did></c02><c02 id="aspace_f4a575961709d20b4284ac158f6d5a2b" level="file"><did><unittitle>J. P. Stevens</unittitle><container id="aspace_62da3b50bfa961b252d37302b0c88406" label="unspecified" type="box">2</container><container id="aspace_2fcab52423f8cbc243060084531ef550" parent="aspace_62da3b50bfa961b252d37302b0c88406" type="folder">6</container></did></c02><c02 id="aspace_24d57f1dfbd297100afcc579ae7f08c2" level="file"><did><unittitle>National Labor Committee in Support of Worker and Human Rights in Central America</unittitle><container id="aspace_aae0e964024241553fdffb3a816fef1a" label="unspecified" type="box">2</container><container id="aspace_b78da1dab1eac1bce95592eead47903d" parent="aspace_aae0e964024241553fdffb3a816fef1a" type="folder">7</container></did></c02><c02 id="aspace_165d3f02450b96198a32aefe904062f5" level="file"><did><unittitle>Students Against Sweatshops</unittitle><container id="aspace_f3abb00f2b429134b1180ea4d8c21a30" label="unspecified" type="box">2</container><container id="aspace_c7257e1ab24d084abd1463c1bc726a85" parent="aspace_f3abb00f2b429134b1180ea4d8c21a30" type="folder">8</container></did></c02><c02 id="aspace_d8086c4a5f273f2b3d4074683c1699e3" level="file"><did><unittitle>TWUA</unittitle><container id="aspace_ba3291431469440de2a18a473b714db9" label="unspecified" type="box">2</container><container id="aspace_c9488e7437d4411f620f37dc77c22789" parent="aspace_ba3291431469440de2a18a473b714db9" type="folder">9</container></did></c02><c02 id="aspace_722f929223d8c7f25da33ef82cd575a2" level="file"><did><unittitle>UNITE</unittitle><container id="aspace_b80edef45f2f986ba071ceb15781c67c" label="unspecified" type="box">2</container><container id="aspace_1dd64258626df4aba6dbff46d8d800a8" parent="aspace_b80edef45f2f986ba071ceb15781c67c" type="folder">10</container></did></c02></c01></dsc>
+</archdesc>
+</ead>

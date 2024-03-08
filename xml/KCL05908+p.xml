@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05908+p</eadid><filedesc><titlestmt><titleproper>Collection of Copperplate Engravings of Scenes of Work Activities from Diderots Encyclopedia <num>5908+ P</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 10, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:15:03 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Collection of Copperplate Engravings of Scenes of Work Activities from Diderots Encyclopedia</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Diderots Encyclopedia</corpname>
+    </origination>
+    <unitid>5908+ P</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 cubic feet</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="0000/2999" type="inclusive">0000-2999</unitdate>
+    <physdesc id="aspace_74481dd89d89f8a2f21e3a692c7cbdaa" label="Quantity:">0.2 linear ft.</physdesc>
+    <physdesc id="aspace_43cc4ed932e303e02d9b636b397bb874" label="Forms of Material:">Copper engravings.</physdesc>
+    <abstract id="aspace_32a8d9a542504e43a0809dd605339f52">These are eighteenth century book plates from "Diderot's Encyclopedia".</abstract>
+    <langmaterial id="aspace_ac4e6736413fbdcdfed4cc420ece8e2f">Collection material in English</langmaterial>
+    <unitid type="bibid">5732345</unitid>
+  </did>
+  <odd id="aspace_cf3132d439344c9f64a1320b003312fc">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, January 31, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, February 10, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <scopecontent id="aspace_499f05b52033d5bd700a20a9fea36d91">
+    <head>Scope and Contents</head>
+<p>Hand-colored plates from "Diderot's Encyclopedia". The following plates are included in this group: Monnoyage. Plate 15 ; Ceinturier. Plate 1 ; Coutelier. Plate 1 ; Coutelier. Plate 2 ; Coutelier. Plate 3 ; Taillanderie, Fabrique des Etaux. Plate 1 ; Forges. 3eSection, Fourneau en marchandise ; plate 5 ; Foreges. 3e Section, Fourneau Coulage a la Poche ; Fonderie en Caracteres ; Verriere en bois. Plate 7 ; Verriere en bois. Plate 19 ; Verriere Francoise en Bouteilles. plate 1 ; Monnoyage, Machine pour la Marque sur Tranche. Plate 16 ; Papetterie, Colage. Plate 11 ; Potier de Terre. Plate 3.</p>  </scopecontent>
+  <accessrestrict id="aspace_a23e40c750807a26b99f9bbb5eed519c">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_15f88153bca9fe06c295af21845a9a9a">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_8249925b6c31c50f43a24f475bc10038">
+    <head>Preferred Citation</head>
+<p>Collection of Copperplate Engravings of Scenes of Work Activities from Diderots Encyclopedia #5908+ P. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Diderot, Denis, 1713-1784</persname>
+    <persname audience="internal" source="ingest">Lowry, Judith</persname>
+    <corpname audience="internal" source="ingest">Diderots Encyclopedia</corpname>
+  </controlaccess>
+  <unitid type="bibid">5732345</unitid>
+  <dsc><c01 id="aspace_e0235173161ab34de79ece25824cbb3a" level="file"><did><unittitle>Taillanderie, Fabrique des Etaux - Pl. I</unittitle><container id="aspace_9cfe6edd65c3109db0a405aebc1f7e34" label="unspecified" type="box">1</container><container id="aspace_807eae4f091146315f647c1e5417a52c" parent="aspace_9cfe6edd65c3109db0a405aebc1f7e34" type="folder">1</container></did></c01><c01 id="aspace_9d8eae438be086d0d0a0d3d839c95a02" level="file"><did><unittitle>Verrerie en bois, Differentes Operations relatives a la facon dun Verre - Pl. 19</unittitle><container id="aspace_4f77d3de8efc48de7fb405b372b06dcf" label="unspecified" type="box">1</container><container id="aspace_5859bcf2c504fa502b41aec2415012b8" parent="aspace_4f77d3de8efc48de7fb405b372b06dcf" type="folder">2</container></did></c01><c01 id="aspace_3899331089b96d1e1a142441ff703ff8" level="file"><did><unittitle>Forges, 3 Section, Fourneau en Marchandise, Coulage a la Poche - Pl. IX</unittitle><container id="aspace_d859e27e967abdac34aaf7dcd585dd0b" label="unspecified" type="box">1</container><container id="aspace_8cb0bebb8616b81d930d864770db0b67" parent="aspace_d859e27e967abdac34aaf7dcd585dd0b" type="folder">3</container></did></c01><c01 id="aspace_0a58830458a1bfe21e58de1d863fc575" level="file"><did><unittitle>Fonderie en caracteres</unittitle><container id="aspace_d54f84ab0a23136a17acf827fbf5422c" label="unspecified" type="box">1</container><container id="aspace_4a123cfc5ebd9179c1fd8ed48b4e5adf" parent="aspace_d54f84ab0a23136a17acf827fbf5422c" type="folder">4</container></did></c01><c01 id="aspace_fd578782d76299708c30aacc65eb5d75" level="file"><did><unittitle>Papelterie, Colage - Pl. XI</unittitle><container id="aspace_ada3cd4a226a787c58ecebd3d2509f79" label="unspecified" type="box">1</container><container id="aspace_6f1f28328785452caf3348e8afb64245" parent="aspace_ada3cd4a226a787c58ecebd3d2509f79" type="folder">5</container></did></c01><c01 id="aspace_e14c107951aaf61540c20bd18ebf46be" level="file"><did><unittitle>Monnoyage, Machine pour la Marque sur tranche - Pl. XVI</unittitle><container id="aspace_1ea6894c0b92285b7147c1baea1e26a5" label="unspecified" type="box">1</container><container id="aspace_e29148b74d9c7cbe266ba1c1c6e801d0" parent="aspace_1ea6894c0b92285b7147c1baea1e26a5" type="folder">6</container></did></c01><c01 id="aspace_2306351bad04bfb3da1f264ab8722735" level="file"><did><unittitle>Forges, 3 Sedion, Fourneau en Marchandise, Moulage en Sable - Pl. V</unittitle><container id="aspace_a4da06083d66b3e36b1660a6c0e9af23" label="unspecified" type="box">1</container><container id="aspace_ddbfdbfece0743f364cd1fd63d43a999" parent="aspace_a4da06083d66b3e36b1660a6c0e9af23" type="folder">7</container></did></c01><c01 id="aspace_77c3dfcd03927e3167426af718108844" level="file"><did><unittitle>Monnoyage, Balancier - Pl. 15</unittitle><container id="aspace_322bfd298bbdefde6cdba816dc5f467c" label="unspecified" type="box">1</container><container id="aspace_5537bdc60d3148643427c6d9f099429c" parent="aspace_322bfd298bbdefde6cdba816dc5f467c" type="folder">8</container></did></c01><c01 id="aspace_cb06ebb534ba9d6acf02de6a326d5751" level="file"><did><unittitle>Coutelier - Pl. III</unittitle><container id="aspace_4eed0d9a9989442e332cea0e81f88223" label="unspecified" type="box">1</container><container id="aspace_323d4eb968590e79fe57dc673fc21969" parent="aspace_4eed0d9a9989442e332cea0e81f88223" type="folder">9</container></did></c01><c01 id="aspace_799d3939341e2123a6937faeb15277f0" level="file"><did><unittitle>Verrerie Francoise en Bouteilles : Verrerie en Charbon de Terre, Four a Bouteilles, et l'Operation de Cueillir le Verre dans le Pot - Pl. I</unittitle><container id="aspace_fbe63957227e717d046be9fd793fc815" label="unspecified" type="box">1</container><container id="aspace_f1c6b183741bc9b417f75b86180fadd5" parent="aspace_fbe63957227e717d046be9fd793fc815" type="folder">10</container></did></c01><c01 id="aspace_c76ef1227ec450ff124edcf1e78d8be4" level="file"><did><unittitle>Potier de Terre - Pl. III</unittitle><container id="aspace_2e34c22b07c3b0b3b6b0c428907d7631" label="unspecified" type="box">1</container><container id="aspace_97df401fd35707d8acace6d79648dcc6" parent="aspace_2e34c22b07c3b0b3b6b0c428907d7631" type="folder">11</container></did></c01><c01 id="aspace_45a244700cfd0fb96862d4085e04bef0" level="file"><did><unittitle>Coutelier - Pl. II</unittitle><container id="aspace_a91a1c1c66369fef5815ffd9c9120867" label="unspecified" type="box">1</container><container id="aspace_869d23d3e7842d2d7f5a41910a7f7db0" parent="aspace_a91a1c1c66369fef5815ffd9c9120867" type="folder">12</container></did></c01><c01 id="aspace_bb8013e5729f35a9070d8ebd308ebf02" level="file"><did><unittitle>Verrerie en bois, l'Operation de briser les vieux pots, de les piler et tamiser pour les meler avec la terre glaise et Outils - Pl. VII</unittitle><container id="aspace_0b3fa7eea2cf175a85e406c36efb9579" label="unspecified" type="box">1</container><container id="aspace_ec6eefb3a0b99c2ece0c2703fb18842b" parent="aspace_0b3fa7eea2cf175a85e406c36efb9579" type="folder">13</container></did></c01><c01 id="aspace_c550a302ede5c147de16e65d1e681074" level="file"><did><unittitle>Ceinlurier - Pl. I</unittitle><container id="aspace_5a93dfd746a9b7c359a31a6249761646" label="unspecified" type="box">1</container><container id="aspace_d4e23443d768f92deead04381dca842a" parent="aspace_5a93dfd746a9b7c359a31a6249761646" type="folder">14</container></did></c01><c01 id="aspace_43d4111fb5cac7428b9dcfe73881e2e9" level="file"><did><unittitle>Coutelier - Pl. I</unittitle><container id="aspace_cceea674a1f6b328e2f50c3a157ef1eb" label="unspecified" type="box">1</container><container id="aspace_60aecab52e9f9430afbac291b2318526" parent="aspace_cceea674a1f6b328e2f50c3a157ef1eb" type="folder">15</container></did></c01></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05668av</eadid><filedesc><titlestmt><titleproper>New York Trade Union Women's Conference Audio-visual material <num>5668 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 25, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 15:52:46 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>New York Trade Union Women's Conference Audio-visual material</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">New York Trade Union Women's Conference</corpname>
+    </origination>
+    <unitid>5668 AV</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1974/1974">1974</unitdate>
+    <physdesc id="aspace_8c793375c39fe85064a13e8659bf72aa" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_77b7a403470b6eef494d62625f821bcc" label="Forms of Material:">Audiovisual materials.</physdesc>
+    <abstract id="aspace_5d4b24807fb056d40c82450e678fe953">The folders represent a series of seminars that were held with trade union women staff and leaders which led to the First New York Trade Women's Conference in January, 1974. Preceding the formation of the Coalition of Labor Union Women.</abstract>
+    <langmaterial id="aspace_323f24cd4c60c3249cd9273d0bf72a9f">Collection material in English</langmaterial>
+    <unitid type="bibid">7944416</unitid>
+  </did>
+  <odd id="aspace_b6f4642e9f8b5811acac795d547d2839">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, January 14, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 25, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <scopecontent id="aspace_91a2d84f1d455d219bd4a94e7464d4b4">
+    <head>Scope and Contents</head>
+<p>Open reel tapes recordings from the first conference.</p>  </scopecontent>
+  <accessrestrict id="aspace_a2aceec302b80f269f6c892730c68e5d">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_9508733393ffa5ddeec4a2aa545f0add">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_bb8bdd32ce783717c8027196d596ed94">
+    <head>Preferred Citation</head>
+<p>New York Trade Union Women's Conference Audio-visual material #5668 AV. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_f8fe8dac4fe13bd0af3959418a59a0c8">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05668.html"> 5668: New York Trade Union Women's Conference Proceedings and Related Documents</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <corpname audience="internal" source="ingest">New York Trade Union Women's Conference.</corpname>
+  </controlaccess>
+  <unitid type="bibid">7944416</unitid>
+  <dsc><c01 id="aspace_91a359e05f480391b334c835e5959194" level="file"><did><unittitle>First N.Y. Trade Union's Women's Conference - 1/19/1974</unittitle><unitid>1</unitid><unitdate datechar="creation" normal="1974/1974">1974</unitdate><container id="aspace_ba5c8ea72adce00ee8df3e764ae07578" label="unspecified" type="box">1</container></did><scopecontent id="aspace_cb4e1a5a44e3ad548a597a4c38db8b3a"><head>Scope and Contents</head><p>tape 1 of 2</p></scopecontent></c01><c01 id="aspace_78a6e78a45053078b7d2d29986eb3e40" level="file"><did><unittitle>First N.Y. Trade Union Women's Conf. - 1/19/1974</unittitle><unitid>2</unitid><unitdate datechar="creation" normal="1974/1974">1974</unitdate><container id="aspace_91762363d57a831a502d7eeb77751b80" label="unspecified" type="box">1</container></did><scopecontent id="aspace_6eda253197d1730cdfbbf6e551e1f462"><head>Scope and Contents</head><p>tape 2 of 2</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

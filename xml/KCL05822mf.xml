@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05822mf</eadid><filedesc><titlestmt><titleproper>United Brotherhood of Carpenters and Joiners of America District Council, Rochester, NY. Records on Microfilm <num>5822 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 01, 2013</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:11:43 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>United Brotherhood of Carpenters and Joiners of America District Council, Rochester, NY. Records on Microfilm</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">United Brotherhood of Carpenters and Joiners of America (UBC)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">UBC District Council, Rochester, NY.</corpname>
+    </origination>
+    <unitid>5822 mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1923/1973" type="inclusive">1923-1973</unitdate>
+    <physdesc id="aspace_fe1568c8880e2b5eb6e30c35b65eb809" label="Quantity:">6 microfilm reels</physdesc>
+    <physdesc id="aspace_7c487c369dbb508691aae005c5501d8f" label="Forms of Material:">Minutes, correspondence, microfilm.</physdesc>
+    <langmaterial id="aspace_713c4d3f337d25b58d8bb607a13b68e5">Collection material in English</langmaterial>
+    <unitid type="bibid">5713168</unitid>
+  </did>
+  <odd id="aspace_67e45631fd5d549898432c531fb0926e">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel">http://www.ilr.cornell.edu/library/kheel</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, February 01, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, February 01, 2013</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_6558edd58db24957f37dcbc41dcabf25">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_a3472cc4ec1e61a332f01c8fe5ef336d">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_1c9110cf716f642c65063fef1c89b14b">
+    <head>Preferred Citation</head>
+<p>United Brotherhood of Carpenters and Joiners of America District Council, Rochester, NY. Records on Microfilm, #5822 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <corpname audience="internal" source="ingest">United Brotherhood of Carpenters &amp; Joiners of America</corpname>
+    <corpname audience="internal" source="ingest">UBC District Council, Rochester, NY.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5713168</unitid>
+  <dsc><c01 id="aspace_c7f544d6549ac9ff4b1a5a4da1a6f058" level="file"><did><unittitle>Rochester District Council. Minutes, 1932-73. Positive reel.</unittitle><container id="aspace_9adc5d352d864080e1d5d48a3a148f84" label="unspecified" type="reel">1</container></did></c01><c01 id="aspace_7a35f201d8195c4a93d33a82a4b06a7c" level="file"><did><unittitle>Strike Committee. Minutes, 1970-71. Positive reel.</unittitle><container id="aspace_8adc3d2c1f8e8b125c176c0032c3f104" label="unspecified" type="reel">2</container></did></c01><c01 id="aspace_c5e907f0aba454158be1c51622507093" level="file"><did><unittitle>Minutes and Related Correspondence of Grievance/Trial Committee. (trials for Violations of Union Rules), 1923-57. Positive reel.</unittitle><container id="aspace_8aebe90ec839703ff90cd869769b6064" label="unspecified" type="reel">3</container></did></c01><c01 id="aspace_999fd021eef247a303ccf0339fe44c57" level="file"><did><unittitle>Rochester District Council. Minutes, 1932-73. Negative reel.</unittitle><container id="aspace_b1616a900657c86e2173adb6e07fca97" label="unspecified" type="reel">4</container></did></c01><c01 id="aspace_7c5cdc93d4443f65f7173e70294f935a" level="file"><did><unittitle>Strike Committee. Minutes, 1970-71. Negative reel.</unittitle><container id="aspace_c2b4b3a43d867ca3cd58e52a1253ea02" label="unspecified" type="reel">5</container></did></c01><c01 id="aspace_7c97518efccce447ed529f25d79ba399" level="file"><did><unittitle>Minutes and Related Correspondence of Grievance/Trial Committee. (trials for Violations of Union Rules), 1923-57. Negative reel.</unittitle><container id="aspace_c5ad62d3cf188c049b94dcee26e1d041" label="unspecified" type="reel">6</container></did></c01></dsc>
+</archdesc>
+</ead>

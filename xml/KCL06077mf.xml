@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06077mf</eadid><filedesc><titlestmt><titleproper>Evans, Elizabeth Glendower, Women in America: Series 1 on Microfilm <num>6077 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 23, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:28:29 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Elizabeth Glendower Evans, Women in America: Series 1 on Microfilm</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Evans, Elizabeth Glendower</persname>
+    </origination>
+    <unitid>6077 mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.22 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1874/1937" type="inclusive">1874- 1937</unitdate>
+    <physdesc id="aspace_54b483d485a888560f7d01e35ff09f74" label="Quantity:">11 microfilm reels</physdesc>
+    <physdesc id="aspace_75a11da1853fc64899899851b4253c14" label="Forms of Material:">Records, microfilm.</physdesc>
+    <langmaterial id="aspace_49ef2e7ffbc19d170b3618ccecc7feb6">Collection material in English</langmaterial>
+    <unitid type="bibid">5791199</unitid>
+  </did>
+  <odd id="aspace_fb2fda5e213c46dd6362315522bacd72">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, February 23, 2016</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, February 23, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_004b5c8a8bb22d4c0b6b66e7c7bf1882">
+    <head>Biographical / Historical</head>
+<p>Elizabeth Glendower Evans (February 28, 1856-December 12, 1937), was born Elizabeth Gardiner in New Rochelle, New York, the fourth of five children of Edward and Sophia Harrison (Mifflin) Gardiner. Evans's father died when she was three years old and, as she writes in her "Memoir," "We were imported to Boston by my father's father, William Howard Gardiner, where we grew up as poor relations of a very aristocratic family." After two years in Brookline Mrs. Gardiner moved her family into Boston. Evans attended private schools; in her teens, "Going to church became my one interest." She attended Trinity Church, where she was inspired by the teachings of Phillips Brooks. Evans taught Sunday school and planned to become a missionary until, in 1877, she met Glendower Evans (GE), then a student at Harvard College and a close friend of William James. They were married in 1882, after GE had finished Harvard Law School and entered a Boston law firm. </p><p> Their marriage was brief because GE died suddenly in 1886. During these four years, according to Evans's "Memoir," the "doors were always open to the friends he made. In those days I don't think I ever talked at all. I used to sit by the fire and listen and listen...." The friends she listened to included Louis Brandeis and William James, but it was her husband who had the greatest influence on Evans. From their first meeting he encouraged her to read more widely; literature, politics, social issues, and public service were the major topics of his letters and their discussions. After Glendower Evans's death Elizabeth added his name to hers and dedicated her life to studying social conditions and helping others. </p><p> Some of the activities Elizabeth was involved with are as follows: Trustee, Massachusetts State Reform Schools (1886-1914); attended philosopher Josiah Royce's courses at Radcliffe College (1890's); appointed by Boston Mayor Nathan Mathews to a special committee to inspect the public institutions (1891); met Florence Kelley (1903); helped raise money for strikers in Haverhill, Mass. (1905); visited Georgia and Alabama to study child labor conditions (1907); went to England to study the socialist movement, met Margaret Bondfield, John and Katherine Bruce Glasier, J. Ramsay MacDonald (1908-09); attended Women's Trade Union League convention in Chicago, and met Robert M. and Belle La Follette in Wisconsin (1909); contributor to LaFollette's Weekly (later Magazine) and it's successor, The Progressive (1909-1935); made first suffrage speech; joined Roxbury, Mass. carpet workers' strike (1910-); appointed by Massachusetts Governor Eugene N. Foss to the minimum wage commisson (1911); observed first Lawrence, Mass. Strike, met William D. ("Big Bill") Haywood (1911); </p><p>  spoke in support of suffrage in Massachusetts, the Midwest, and to President Woodrow Wilson in Washington, D.C. (1912-1914); traveled to Panama with Belle La Follette (1914); U.S. delegate to the International Congress of Women in The Hague (1915); campaigned for President Wilson (1916); joined the picket line at the second Lawrence, Mass. strike (1919); </p><p>  trip to England and continent (1919-1920); national director, American Civil Liberties Union (1920-1937); put up liberty bonds to bail out aliens held at Deer Island; met Nicola Sacco and Bartolomeo Vanzetti and became their personal friend and a leading supporter of their cause (1920-); provided the funds for the Voluntary Defenders Committee (1929); </p><p>  installed radios for the prisoners at the state prison in Charlestown, Mass. (1931); </p><p>  was awarded the first annual Ford Hall Forum medal for "prominent service to human welfare" (1933) </p><p> She was extremely generous with the money she inherited, often sacrificing her own needs to help both individuals and the causes she supported. She died in 1937 at the age of 81 in Brookline, Massachusetts.</p>  </bioghist>
+  <accessrestrict id="aspace_27b4870761276921287c8c1aa7653814">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_38bcc67c766b53ca13b5e1253c425ad7">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_a88451a6df13331f18112b0275d52b48">
+    <head>Preferred Citation</head>
+<p>Elizabeth Glendower Evans, Women in America: Series 1 on Microfilm #6077 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Women--United States--History--Library resources</subject>
+    <subject source="ingest">Women's rights--United States--History--Library resources</subject>
+    <persname audience="internal" source="ingest">Evans, Elizabeth Glendower, 1856-1937</persname>
+    <corpname audience="internal" source="ingest">Arther and Elizabeth Schlesinger Library on the History of Women in America --Archives</corpname>
+  </controlaccess>
+  <unitid type="bibid">5791199</unitid>
+  <dsc><c01 id="aspace_0fca5d421e9e8e2f1e8eaf7b9ce628c2" level="file"><did><unittitle>Part 1: Personal and Biographical Diaries, memoirs etc.</unittitle><container id="aspace_93a27a2e096c855381156d2722d75818" label="unspecified" type="reel">1</container></did></c01><c01 id="aspace_e40c17d2a7f17b958140162ccfb86161" level="file"><did><unittitle>Part 1: Correspondence: Addams, Jane- Brandeis family</unittitle><container id="aspace_039fa6be82e81c5dd6554eff7762b30d" label="unspecified" type="reel">2</container></did></c01><c01 id="aspace_02e046eaeca7eda16c7d9d73738e125a" level="file"><did><unittitle>Part 1: Correspondence: Brigham, F. Gorham - Elliot, Mary</unittitle><container id="aspace_8d869b6fff184f0cb238d647f800519c" label="unspecified" type="reel">3</container></did></c01><c01 id="aspace_571d1fa46691b1a6df926b97d20c755f" level="file"><did><unittitle>Part 1: Correspondence: Elmore, Jane - Jean Glasier and family</unittitle><container id="aspace_1b8539532dfd08b1eb9175615a8e52de" label="unspecified" type="reel">4</container></did></c01><c01 id="aspace_0dd6df1a71d48a3560be1b31e8a987e8" level="file"><did><unittitle>Part 1: Correspondence: Glasier family - James, Edward Holton and Louisa</unittitle><container id="aspace_abfcbee574db68206fc5c1ee16ddab19" label="unspecified" type="reel">5</container></did></c01><c01 id="aspace_77d1803f904a8be4558cb0a721aa299c" level="file"><did><unittitle>Part 1: Correspondence: William James family - Photographs</unittitle><container id="aspace_a0303757eb948348916ed7726f6b79ee" label="unspecified" type="reel">6</container></did></c01><c01 id="aspace_6c1978d9972727a2037006cf262556d9" level="file"><did><unittitle>Part 1: Correspondence: McElwain, B.S. - Ryan, Minnie</unittitle><container id="aspace_21d3035ec7610b54714410e360209dfe" label="unspecified" type="reel">7</container></did></c01><c01 id="aspace_da85ea553f5b5522bf611bd4588985a3" level="file"><did><unittitle>Part 1: Correspondence: Sacco, Dante - Others to others</unittitle><container id="aspace_709fa197a845e7fbea160fd51f06f2bd" label="unspecified" type="reel">8</container></did></c01><c01 id="aspace_5c7680df3a0ae0f4e61aeee9a10cb53e" level="file"><did><unittitle>Part 1: Writings by Elizabeth Glendower Evans</unittitle><container id="aspace_069b589088b85497be72b0bed3fb5364" label="unspecified" type="reel">9</container></did></c01><c01 id="aspace_aeb945687d0639c34d40694865fe72dc" level="file"><did><unittitle>Part 1: Writings by Elizabeth Glendower Evans</unittitle><container id="aspace_cc2d34ac1ca25e51433e01bb00efdcce" label="unspecified" type="reel">10</container></did></c01><c01 id="aspace_6d9be7bfbe78a4bb5e76ecd53eae01e7" level="file"><did><unittitle>Part 1: Writings by Elizabeth Glendower Evans - Subject file</unittitle><container id="aspace_f9688bb3c8cc03757a8ec87e2ae4141b" label="unspecified" type="reel">11</container></did></c01></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05668</eadid><filedesc><titlestmt><titleproper>New York Trade Union Women's Conference Proceedings and Related Documents <num>5668</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 25, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 15:52:46 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>New York Trade Union Women's Conference Proceedings and Related Documents</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">New York Trade Union Women's Conference</corpname>
+    </origination>
+    <unitid>5668</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1974/1974">1974</unitdate>
+    <physdesc id="aspace_450f6fc8dc5b124458baaa4531db1fc5" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_e0dfd27cb7873396dd8069f24764be24" label="Forms of Material:">Records (documents).</physdesc>
+    <abstract id="aspace_3a3547542cc0a25242e795e76645486e">The folders represent a series of seminars that were held with trade union women staff and leaders which led to the First New York Trade Women's Conference in January, 1974. Preceding the formation of the Coalition of Labor Union Women.</abstract>
+    <langmaterial id="aspace_907e712986daeaa686bac24350b92158">Collection material in English</langmaterial>
+    <unitid type="bibid">5689638</unitid>
+  </did>
+  <odd id="aspace_f5bf599ab28d1960df8272894d5e3321">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 14, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 25, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <scopecontent id="aspace_ea78231f9977a0d20c44666c2156d61c">
+    <head>Scope and Contents</head>
+<p>The collection represents a series of seminars that were held with trade union women staff and leaders which led to the First New York Trade Women's Conference in January, 1974. Preceding the formation of the Coalition of Labor Union Women.</p>  </scopecontent>
+  <accessrestrict id="aspace_e391cea2af56a6f34516220d67a902f2">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_116dcfeb9b5c559806da19d91a44b790">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_d113fd71f590b9e3c9d685db8ae4bfa4">
+    <head>Preferred Citation</head>
+<p>New York Trade Union Women's Conference Proceedings and Related Documents #5668. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_f83fd75f87e5c70590b6f181e67a27ed">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05668av.html"> 5668 AV: New York Trade Union Women's Conference Audio-visual material</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <corpname audience="internal" source="ingest">New York Trade Union Women's Conference.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5689638</unitid>
+  <dsc><c01 id="aspace_3bbd3acc39eabd3d01c7cb4fbccc0270" level="file"><did><unittitle>Proceedings. First New York Trade Union Women's Conference</unittitle><unitdate datechar="creation" normal="1974/1974">1974</unitdate><container id="aspace_e5ac181a68f0c2041b167115332dcd42" label="unspecified" type="box">1</container><container id="aspace_36c512b62fdb7bb2ae6e160d45f1924b" parent="aspace_e5ac181a68f0c2041b167115332dcd42" type="folder">1</container></did><scopecontent id="aspace_d4eb9ade734d624221d9c7fd8b8a2bc6"><head>Scope and Contents</head><p>January 19, 1974</p></scopecontent></c01><c01 id="aspace_81202eb2c48c799fb3d3102ac2f09312" level="file"><did><unittitle>Seminar VII - Apr. 5</unittitle><container id="aspace_3a18fa3b5246c5aa098b36083bff0e6f" label="unspecified" type="box">1</container><container id="aspace_991ed4a355863ee7d710a05a0ecf359b" parent="aspace_3a18fa3b5246c5aa098b36083bff0e6f" type="folder">2</container></did></c01><c01 id="aspace_1246322f43629466892c4035c5ccfba2" level="file"><did><unittitle>Seminar VIII - May 10</unittitle><container id="aspace_9ba0138b042eebe4daef9a7306619479" label="unspecified" type="box">1</container><container id="aspace_89161532a394b63da0d969588936f1ba" parent="aspace_9ba0138b042eebe4daef9a7306619479" type="folder">3</container></did></c01><c01 id="aspace_c755baa48b795e6df95d549dd85cb330" level="file"><did><unittitle>Seminar VI</unittitle><container id="aspace_826215d1f098f18013b8e49570604557" label="unspecified" type="box">1</container><container id="aspace_52ade698fd5717a30f710a81aaa42f51" parent="aspace_826215d1f098f18013b8e49570604557" type="folder">4</container></did></c01><c01 id="aspace_cf5fd44e4043cb479a877b83adb41904" level="file"><did><unittitle>Seminar V Women Leaders</unittitle><container id="aspace_3f9d6ffd21eb0117d5a47f80d3149882" label="unspecified" type="box">1</container><container id="aspace_dd1aeff61979ccbdd8e9a13dd7c4c2a5" parent="aspace_3f9d6ffd21eb0117d5a47f80d3149882" type="folder">5</container></did></c01><c01 id="aspace_787eb2e4897e5c1e7a3b997b5953d523" level="file"><did><unittitle>Women's Seminar IV</unittitle><container id="aspace_17bc70aee5fadf74e5f2af6fe888375c" label="unspecified" type="box">1</container><container id="aspace_6bf02ce3992e01db1b4e16cd3fa6ed34" parent="aspace_17bc70aee5fadf74e5f2af6fe888375c" type="folder">6</container></did></c01><c01 id="aspace_4cca950bbfa9b9a9ab45c17548dc8a5a" level="file"><did><unittitle>Aug. 30</unittitle><container id="aspace_58c6d1e6336c321337c1b0e37d755980" label="unspecified" type="box">1</container><container id="aspace_854723b83a122f1163933eee51be63af" parent="aspace_58c6d1e6336c321337c1b0e37d755980" type="folder">7</container></did></c01><c01 id="aspace_05146bd635857db1de7d89869a6c66b1" level="file"><did><unittitle>July 26</unittitle><container id="aspace_1a8accd63d5e8c143ca04524f199d319" label="unspecified" type="box">1</container><container id="aspace_ed6195d42b5ee14014f099f56607a67d" parent="aspace_1a8accd63d5e8c143ca04524f199d319" type="folder">8</container></did></c01><c01 id="aspace_918e154fd3751ccc100f14fbb8bca640" level="file"><did><unittitle>Monthly Trade Union Women Meetings</unittitle><container id="aspace_4444daaca36caa4067004486dc07969e" label="unspecified" type="box">1</container><container id="aspace_6eb0725c2f67d119594a5bddce68c842" parent="aspace_4444daaca36caa4067004486dc07969e" type="folder">9</container></did></c01><c01 id="aspace_c2c1da5d6785f28dad7c61c6b5931639" level="file"><did><unittitle>June 21</unittitle><container id="aspace_26e1204b4490db7fb47f8f8c43e202bf" label="unspecified" type="box">1</container><container id="aspace_547ad6c3edc1f89d4343929d27a5c10f" parent="aspace_26e1204b4490db7fb47f8f8c43e202bf" type="folder">10</container></did></c01><c01 id="aspace_4dd6cb5990966b5605266002247184d6" level="file"><did><unittitle>Monthly Seminar III</unittitle><container id="aspace_2c87e6e4f3bf03546979b95e597fccf7" label="unspecified" type="box">1</container><container id="aspace_0f7b7e10921aa7dad10ae3947e469fda" parent="aspace_2c87e6e4f3bf03546979b95e597fccf7" type="folder">11</container></did></c01></dsc>
+</archdesc>
+</ead>

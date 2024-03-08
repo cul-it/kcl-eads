@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06036-075</eadid><filedesc><titlestmt><titleproper>ILGWU Publications. <num>6036/075</num></titleproper><author>Compiled by R. Miles</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>June 17, 2014</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:25:51 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILGWU Publications</unittitle>
+    <origination label="Creator">
+      <corpname role="creator" source="ingest">International Ladies' Garment Workers' Union</corpname>
+    </origination>
+    <unitid>6036/075</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1892/1980" type="inclusive">1892-1980</unitdate>
+    <physdesc id="aspace_eea4764c81820cd397f50986fdb4310e" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_76c27a202d5d213bc2ebd5473b057b49" label="Forms of Material:">Books, articles, reports, publications.</physdesc>
+    <abstract id="aspace_f40f966af680897d58d7d6005072dd3e">The collection consists of various publications</abstract>
+    <langmaterial id="aspace_21bce6e29d75acd68282246da0e67d57">Collection material in English</langmaterial>
+    <unitid type="bibid">5797424</unitid>
+  </did>
+  <odd id="aspace_196bef2cc5135f3526b5285bca97a8d5">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel">http://www.ilr.cornell.edu/library/kheel</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>R. Miles, August 29, 2011</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kathryn Dowgiewicz, June 17, 2014</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_8551ad1951f74323d21a4f12a518ad5d">
+    <head>Biographical / Historical</head>
+<p>Founded in 1900 by local union delegates representing about 2,000 members in cities in the northeastern United States, the ILGWU grew in geographical scope, membership size, political influence to become one of the most powerful forces in American organized labor by mid-century. Representing workers in the women's garment industry, the ILGWU worked to improve working and living conditions of its members through collective bargaining agreements, training programs, health care facilities, cooperative housing, educational opportunities, and other efforts. In 1995, the ILGWU merged with the Amalgamated Clothing and Textile Workers Union (ACTWU) to form the Union of Needletrades, Industrial and Textile Employees (UNITE).</p>  </bioghist>
+  <scopecontent id="aspace_83838abf18bbc4aec549aa2e43325c5c">
+    <head>Scope and Contents</head>
+<p>Included are publications collected or published by the union. Many are articles in magazines and journals, there are some industry studies, as well as anniverary editions for the union.</p>  </scopecontent>
+  <accessrestrict id="aspace_e1972ff840c7d8ed80247cbafaa5f2bb">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_ff109620aa38f941b1e909ba04c1e448">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_74207abc6c05add7b6cf40fa465df42e">
+    <head>Preferred Citation</head>
+<p>ILGWU Publications. #6036/075. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_c52a5fa2eae20ec822aaa305cb5d04df">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780pubs.html"> 5780 PUBS: ILGWU. Publications</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06036-004.html"> 6036/004: International Ladies' Garment Workers' Union. 75th Anniversary Proclamation from a variety of sources. 1975.</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <corpname source="ingest">International Ladies' Garment Workers' Union</corpname>
+  </controlaccess>
+  <unitid type="bibid">5797424</unitid>
+  <dsc/>
+</archdesc>
+</ead>

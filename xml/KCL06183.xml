@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06183</eadid><filedesc><titlestmt><titleproper>Gonzalez, Paul Collection of IAM Files <num>6183</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 21, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:34:34 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Paul Gonzalez Collection of IAM Files</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Gonzalez, Paul</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">International Association of Machinists and Aerospace Workers (IAM)</corpname>
+    </origination>
+    <unitid>6183</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1976/2000" type="inclusive">1976-2000</unitdate>
+    <physdesc id="aspace_289bc982a88129d4508e429f04cd30db" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_d36a560feb412aeaf7464faa613f1519" label="Forms of Material:">Records.</physdesc>
+    <langmaterial id="aspace_4773c1b3a77e960375fa723159f34ee4">Collection material in English</langmaterial>
+    <unitid type="bibid">5835548</unitid>
+  </did>
+  <odd id="aspace_3049354931fab851deed5e1323c79c0c">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 14, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, August 21, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_4617d2e6e89f8e7028918af3b93862d1">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_11520b5bb802d8bcdfd222ab759f04b5">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_e4f8a72112d4c6b87d96a61a8dc907af">
+    <head>Preferred Citation</head>
+<p>Paul Gonzalez Collection of IAM Files #6183. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_87636fb341e8069fbcb99c868c766cc6">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06183av.html"> 6183 AV: Paul Gonzalez Collection of IAM Audio-Visual Materials</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06183mb.html"> 6183 MB: Paul Gonzalez Collection of IAM Memorabilia</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Machinists -- Labor unions -- New York (State) -- Endicott</subject>
+    <persname audience="internal" source="ingest">Gonzalez, Paul.</persname>
+    <corpname audience="internal" source="ingest">International Association fo Machinists and Aerospace Workers.</corpname>
+    <corpname audience="internal" source="ingest">International Association fo Machinists and Aerospace Workers. Local 1807 (Endicott, N.Y.)--Archives</corpname>
+  </controlaccess>
+  <unitid type="bibid">5835548</unitid>
+  <dsc><c01 id="aspace_b6272a4ae71d1dd0607bd07a72aa8241" level="file"><did><unittitle>Miscellaneous</unittitle><container id="aspace_44ef11178c98bd4e24dfa1773ed619f4" label="unspecified" type="box">1</container><container id="aspace_7b07fd0f1bcc92b64f3c6af9cdcceeb9" parent="aspace_44ef11178c98bd4e24dfa1773ed619f4" type="Folder">1</container></did></c01><c01 id="aspace_cb6ac52bd474c7c18ff83a9e5cf2adc5" level="file"><did><unittitle>News Clippings</unittitle><container id="aspace_431acbc644c4d1cf7e04bec11deed961" label="unspecified" type="box">1</container><container id="aspace_e1e16f2e209520b060b119b8bb4572dc" parent="aspace_431acbc644c4d1cf7e04bec11deed961" type="Folder">2</container></did></c01><c01 id="aspace_5ecab38af5195e6618abbb493877585a" level="file"><did><unittitle>News Clippings</unittitle><container id="aspace_0ab1660aa94d5a02d7df7f84758c2436" label="unspecified" type="box">1</container><container id="aspace_48229300047fabda502573039d720b93" parent="aspace_0ab1660aa94d5a02d7df7f84758c2436" type="Folder">2</container></did></c01></dsc>
+</archdesc>
+</ead>

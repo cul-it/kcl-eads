@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06955</eadid><filedesc><titlestmt><titleproper>Bacon Felt Company Records <num>6955</num></titleproper><author>Compiled by M. Clark</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 09, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:50:15 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Bacon Felt Company Records</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Bacon Felt Company</corpname>
+    </origination>
+    <unitid>6955</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1864/1979" type="inclusive">1864-1979</unitdate>
+    <physdesc id="aspace_b76709ebcff3d7c50064dba34edd24e3" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_05034a06f2af65ffffcbc0840a2d7c11" label="Forms of Material:">Correspondence, records (documents).</physdesc>
+    <abstract id="aspace_9c5f280a584da41290dc05c1103d9b0b">Incoming correspondence re business and family, 1869-1873</abstract>
+    <langmaterial id="aspace_f9ad3704e9f32383d17a01046356be5f">Collection material in English</langmaterial>
+    <unitid type="bibid">11021673</unitid>
+  </did>
+  <odd id="aspace_9f81222c7cb74b9efd487caeb98acec2">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>M. Clark, September 05, 2019</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Marcie Farwell, October 09, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_7e6bb149fd9156529ff80ad58c9ff6c3">
+    <head>Biographical / Historical</head>
+<p>Company started in 1825 by Robert Bacon to make hats. John H. Bacon and Charles N. Bacon later joined the company. Twenty-five years later it began manufacturing all-wool sheet felt for the wallpaper trade, marble polishing and other mechanical uses. It also made felt wheels for polishing &amp; burnishing. The company was bought by Stanley &amp; Samuel McNeily in 1941. Includes 2 letterbooks, 1869-1870 and 1873. Also includes 1979 newspaper article on history of company.</p>  </bioghist>
+  <scopecontent id="aspace_45a6eae34ecadae5ba0677497dcf24f3">
+    <head>Scope and Contents</head>
+<p>Contains incoming correspondence, 1869-1870, 1873, concerning both business and family matters. Also includes a newspaper clipping from the Winchester Star, Oct. 25, 1979, giving a history of the company</p>  </scopecontent>
+  <custodhist id="aspace_3028c19fc442381dcfd74ff83f6b21cb">
+    <head>Custodial History</head>
+<p>American Textile History Museum Collection, gift of William E. Becker.</p>  </custodhist>
+  <accessrestrict id="aspace_78ebea4177c81d3c8ca2e461be5d091b">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_6708cb0b8a9807ab79230c601c9e8a84">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_2428161079e2c5b38449febf04fa63ba">
+    <head>Preferred Citation</head>
+<p>Bacon Felt Company Records #6955. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Burnishing</subject>
+    <subject source="ingest">Business records</subject>
+    <subject source="ingest">Felt</subject>
+    <subject source="ingest">Felting</subject>
+    <subject source="ingest">Grinding and polishing</subject>
+    <subject source="ingest">Marble industry and trade</subject>
+    <subject source="ingest">Other cloth fabrication methods</subject>
+    <subject source="ingest">Textile industry</subject>
+    <subject source="ingest">Winchester (Mass.)</subject>
+    <persname audience="internal" source="ingest">Bacon, Charles N.</persname>
+    <persname audience="internal" source="ingest">Bacon, John H.</persname>
+    <persname audience="internal" source="ingest">Bacon, Robert.</persname>
+    <persname audience="internal" source="ingest">McNeily, Samuel.</persname>
+    <persname audience="internal" source="ingest">McNeily, Stanley.</persname>
+    <corpname audience="internal" source="ingest">Bacon Felt Company.</corpname>
+  </controlaccess>
+  <unitid type="bibid">11021673</unitid>
+  <dsc><c01 id="aspace_ee78b7be8c6819f9014e5ede30f45ffe" level="file"><did><unittitle>Company History - news clipping</unittitle><unitdate datechar="creation" normal="1979/1979">1979</unitdate><container id="aspace_58e18af9394e2bc5650d9ce0777c8199" label="unspecified" type="box">1</container><container id="aspace_69d72482c86150f04f459df35b36b9e4" parent="aspace_58e18af9394e2bc5650d9ce0777c8199" type="folder">1</container></did></c01><c01 id="aspace_e270d980175069a20d7e314d8757a5df" level="file"><did><unittitle>Letters</unittitle><unitdate datechar="creation" normal="1864/1870" type="inclusive">1864-1870</unitdate><container id="aspace_d65ec5bf083d1b96541355a220a60d1f" label="unspecified" type="box">1</container><container id="aspace_f04ff4ea1cca95f4aa037030f8d288fe" parent="aspace_d65ec5bf083d1b96541355a220a60d1f" type="folder">2</container></did><scopecontent id="aspace_c805966b21348a857f81340bc94ac00d"><head>Scope and Contents</head><p>partially bound - Very brittle</p></scopecontent></c01><c01 id="aspace_f24081760c7a66b31cbc32be74832c77" level="file"><did><unittitle>Letters</unittitle><unitdate datechar="creation" normal="1873/1873">1873</unitdate><container id="aspace_87a5122478b2c606d527bd346e141159" label="unspecified" type="box">1</container><container id="aspace_82f275a1788db253d288a2d1a0c719ab" parent="aspace_87a5122478b2c606d527bd346e141159" type="folder">3</container></did><scopecontent id="aspace_3b8a4bea3e6a40ea45d158c986a7126e"><head>Scope and Contents</head><p>Bound - very brittle</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

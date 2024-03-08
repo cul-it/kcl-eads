@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06317-014</eadid><filedesc><titlestmt><titleproper>Kheel Center Triangle Fire Centennial Commemoration Collection 59E59 Theaters <num>6317/014</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>September 01, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:42:34 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Kheel Center Triangle Fire Centennial Commemoration Collection 59E59 Theaters</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Kheel Center</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Remember the Triangle Fire Coalition</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">59E59 Theaters</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Czitrom, Daniel</persname>
+    </origination>
+    <unitid>6317/014</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 folders</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="2011/2011">2011</unitdate>
+    <physdesc id="aspace_bfea857807f1a798e754b8468b2dafd3" label="Quantity:">1 file folder</physdesc>
+    <physdesc id="aspace_045c2df0e1f6fa08f79789de54a6d868" label="Forms of Material:">Programs, flyers.</physdesc>
+    <langmaterial id="aspace_a8bc8a770cae88dd2aa71b5fce6db0df">Collection material in English</langmaterial>
+    <unitid type="bibid">7504614</unitid>
+  </did>
+  <odd id="aspace_26d465cb9a9db04a067bd7abcaff7393">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 21, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, September 01, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_9c3f40473bfe31f91d2f5fb8dddd575b">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_e3654c6d37c5ffeb51b7f0c04720d090">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_8fe454ef719561609f0b66a5ab76afaa">
+    <head>Preferred Citation</head>
+<p>Kheel Center Triangle Fire Centennial Commemoration Collection 59E59 Theaters #6317/014. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Clothing trade--New York (State)--New York--History--20th century</subject>
+    <subject source="ingest">Strikes and lockouts--New York (State)--New York--History--20th century</subject>
+    <subject source="ingest">Fires--New York (State)--New York--History--20th century</subject>
+    <persname audience="internal" source="ingest">Czitrom, Daniel J., 1951-</persname>
+    <persname audience="internal" source="ingest">Gilhooley, Jack</persname>
+    <persname audience="internal" source="ingest">Morrow, Stephan</persname>
+    <corpname audience="internal" source="ingest">Triangle Shirtwaist Company --Fire, 1911</corpname>
+    <corpname audience="internal" source="ingest">Big Tim Productions</corpname>
+    <corpname audience="internal" source="ingest">The Great American Play Series</corpname>
+  </controlaccess>
+  <unitid type="bibid">7504614</unitid>
+  <dsc><c01 id="aspace_6180723c7b22930d43a57d35596a3cf4" level="file"><did><unittitle>59E59 Theaters</unittitle><unitdate datechar="creation" normal="2011/2011">2011</unitdate><container id="aspace_e4ac2b5b6ac7ddc3310de155c88c1307" label="unspecified" type="box">1</container><container id="aspace_500806495a58e4e0225be4ebd8cf911c" parent="aspace_e4ac2b5b6ac7ddc3310de155c88c1307" type="Folder">1</container></did><c02 id="aspace_70bbb79b68e1d2b837d801e72eb73659" level="file"><did><unittitle>Item 1: Triangle</unittitle><unitdate datechar="creation" normal="2011/2011">2011</unitdate><physdesc id="aspace_6bfb11fa6ddae130926bd3bc9d2a0d80" label="Format:">Flyer</physdesc><container id="aspace_36cd276376c4ae6dbe6a9d6f379a71a1" label="unspecified" type="box">1</container><container id="aspace_dc6fefd3a92c333864aa01edad03fdec" parent="aspace_36cd276376c4ae6dbe6a9d6f379a71a1" type="Folder">1</container></did><scopecontent id="aspace_dce08a13b067caadb07279991447f07e"><head>Scope and Contents</head><p>Play by Jack Gilhooley and Daniel Czitrom. Directed by Stephan Morrow</p><p> Format: Flyer.</p></scopecontent></c02><c02 id="aspace_fa7c48a0412aeb0375fd79ccc65adad1" level="file"><did><unittitle>Item 2: Triangle</unittitle><unitdate datechar="creation" normal="2011/2011">2011</unitdate><physdesc id="aspace_0224f06c29956f82618382aee7b412c3" label="Format:">Program</physdesc><container id="aspace_0b61dc84e5312b8f7cb69a6c3997c387" label="unspecified" type="box">1</container><container id="aspace_4ee3af9d7c1e7c7a855b18b6e98445b6" parent="aspace_0b61dc84e5312b8f7cb69a6c3997c387" type="Folder">1</container></did><scopecontent id="aspace_f89c0dad1c785e23d1d1a694078e0de3"><head>Scope and Contents</head><p>Play by Jack Gilhooley and Daniel Czitrom. Directed by Stephan Morrow</p><p> Format: Program.</p></scopecontent></c02></c01></dsc>
+</archdesc>
+</ead>

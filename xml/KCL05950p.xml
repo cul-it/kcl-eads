@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05950p</eadid><filedesc><titlestmt><titleproper>Zack, Arnold Arbitration Cases Photographs <num>5950 P</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 18, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:17:16 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Arnold Zack Arbitration Cases Photographs</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Zack Arnold M.</persname>
+    </origination>
+    <unitid>5950 P</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.67 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1992/1992">1992</unitdate>
+    <physdesc id="aspace_8681879d580d6d98bf8c5bb550743cf0" label="Quantity:">0.7 linear ft.</physdesc>
+    <physdesc id="aspace_574c1e5219d9f31e7a805831fe7e8c12" label="Forms of Material:">Photographs.</physdesc>
+    <langmaterial id="aspace_448053d86fb38974099100ec4840be15">Collection material in English</langmaterial>
+    <unitid type="bibid">8747843</unitid>
+  </did>
+  <odd id="aspace_b2130f559161deeafdb71b095fbbd55f">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, December 01, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 18, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_47f93cdbb7991d3c5269c7fe52cd18f8">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_d6a8a272d5a9e74c8cb0b8310880bd1a">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_54c9c14bd498fb2d271aceb6ac4f43c4">
+    <head>Preferred Citation</head>
+<p>Arnold Zack Arbitration Cases Photographs #5950 P. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_f68fed2d15732336748a942962707c44">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05512.html"> 5512: Arnold Zack Arbitration Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05551.html"> 5551: Arnold M. Zack Additional Arbitration Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05620.html"> 5620: Arnold Zack Additional Arbitration Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05659.html"> 5659: Arnold Zack Additional Arbitration Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05727.html"> 5727: Arnold Zack Additional Arbitration Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05281.html"> 5281: Arnold Zack Arbitration Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05786.html"> 5786: Arnold Zack Additional Arbitration Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05825.html"> 5825: Arnold Zack Additional Arbitration Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05861.html"> 5861: Arnold M. Zack Additional Arbitration Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05913.html"> 5913: Arnold Zack Additional Arbitration Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05950.html"> 5950: Arnold Zack Additional Arbitration Cases</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Teachers' unions--New York (State)</subject>
+    <persname audience="internal" source="ingest">Arnold, Zach</persname>
+    <corpname audience="internal" source="ingest">United Federation of Teachers. Local 2 (New York, N.Y.)-- Archives.</corpname>
+  </controlaccess>
+  <unitid type="bibid">8747843</unitid>
+  <dsc><c01 id="aspace_4017f0babe73c98a42e5df3851e78bd2" level="file"><did><unittitle>Park Plaza/HEREIU Boston, MA 12/11/92</unittitle><unitdate datechar="creation" normal="1992/1992">1992</unitdate><container id="aspace_73c888e15aac6391710bf9d1abad7da4" label="unspecified" type="box">1</container><container id="aspace_b224bddfb88eada4adbbb313d6ae99e8" parent="aspace_73c888e15aac6391710bf9d1abad7da4" type="folder">1</container></did></c01><c01 id="aspace_082271dbf07ed470d754339745f55e2e" level="file"><did><unittitle>Coastal Oil/Teamsters #25 AAA Boston 9/30/92</unittitle><unitdate datechar="creation" normal="1992/1992">1992</unitdate><container id="aspace_0f600c69ceab44a61ebfed6738d78ef8" label="unspecified" type="box">1</container><container id="aspace_0db77272a260d65d874f37b126533fdc" parent="aspace_0f600c69ceab44a61ebfed6738d78ef8" type="folder">2</container></did></c01></dsc>
+</archdesc>
+</ead>

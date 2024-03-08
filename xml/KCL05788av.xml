@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05788av</eadid><filedesc><titlestmt><titleproper>Beaumont, Dina Interview with Robert Marlott <num>5788 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 17, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:10:13 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Dina Beaumont Interview with Robert Marlott</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Beaumont, Dina</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Marlatt, Robert</persname>
+    </origination>
+    <unitid>5788 AV</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1987/1987">1987</unitdate>
+    <physdesc id="aspace_c31764ae1deaa27269d2a617ed58aac1" label="Quantity:">0.3 linear ft.</physdesc>
+    <physdesc id="aspace_80215b67979e55f3711467f3842218f4" label="Forms of Material:">Interviews, transcripts, sound recordings.</physdesc>
+    <abstract id="aspace_bc93ed02183680ccc649816beb57efd9">Audio tapes of the interview with Robert Marlott</abstract>
+    <langmaterial id="aspace_af613d184c9d458751ae331f8a9b3496">Collection material in English</langmaterial>
+    <unitid type="bibid">5706175</unitid>
+  </did>
+  <odd id="aspace_53b202ea2f6b024a80b06b40aa0b6198">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, March 01, 2012</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 17, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_f04bc5c6465adad6e2ac2de4be14eb99">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_fedff2f07a8e8c9d57d3f3718e3c4e16">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_60eb71257bfbd9b7150321bfdbe2c13d">
+    <head>Preferred Citation</head>
+<p>Dina Beaumont Interview with Robert Marlott #5788 AV. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Beaumont, Dina.</persname>
+    <persname audience="internal" source="ingest">Marlott, Robert.</persname>
+  </controlaccess>
+  <unitid type="bibid">5706175</unitid>
+  <dsc><c01 id="aspace_2a3c9c43526c8059fb5f16e1491b05c6" level="file"><did><unittitle>Beaumont, Dina. Interview with Robert Marlott , ILR '87 (Administrative Assistant, Communications Workers of America) - tape 1</unittitle><unitid>1</unitid><container id="aspace_b1a285d8fe3e923438b570b3478fd463" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_0f4b56b2d7a5782c16717db4a44d11a7" level="file"><did><unittitle>Beaumont, Dina. Interview with Robert Marlott , ILR '87 (Administrative Assistant, Communications Workers of America) - tape 2</unittitle><unitid>1</unitid><container id="aspace_2da18ab74e6c84b4b340b185c759fb16" label="unspecified" type="box">2</container></did></c01><c01 id="aspace_a39f45960afd34998f68e03c9c7b3ecd" level="file"><did><unittitle>Beaumont, Dina. Interview with Robert Marlott , ILR '87 (Administrative Assistant, Communications Workers of America) - tape 3</unittitle><unitid>1</unitid><container id="aspace_1a07a2d90315cd6b19503384bee16838" label="unspecified" type="box">3</container></did></c01></dsc>
+</archdesc>
+</ead>

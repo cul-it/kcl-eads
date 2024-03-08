@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05973m</eadid><filedesc><titlestmt><titleproper>ACWA Collective Bargaining Agreement <num>5973m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 18, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:18:22 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ACWA Collective Bargaining Agreement</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Amalgamated Clothing Workers of America (ACWA)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">New York Clothing Manufacturers' Exchange</corpname>
+    </origination>
+    <unitid>5973m</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 folders</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1924/1994" type="inclusive">1924-1994</unitdate>
+    <physdesc id="aspace_a3e76a2354bc683540b414da9196babc" label="Quantity:">1 file folder.</physdesc>
+    <physdesc id="aspace_9f6b366a7b3bb07f03b50e1ac641185f" label="Forms of Material:">Records (documents).</physdesc>
+    <abstract id="aspace_4f065073104c519019c4f6e82185a63f">Photocopy of first contract between the New York Joint Board of the Amalgamated Clothing Workers of America and the New York Clothing Manufacturers' Exchange, signed in 1924, as well as a letter of transmittal from Sidney Orenstein to Jack Sheinkman from 1994.</abstract>
+    <langmaterial id="aspace_bde74f7892ddc5de4a211f092c14c3f9">Collection material in English</langmaterial>
+    <unitid type="bibid">5743738</unitid>
+  </did>
+  <odd id="aspace_8961588ed545006b83cbc0843f3a2365">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 24, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 18, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <scopecontent id="aspace_09b0bc3632aa9985b9d7e3f44035cd6c">
+    <head>Scope and Contents</head>
+<p>This collection consists of a photocopy of first contract between the New York Joint Board of the Amalgamated Clothing Workers of America and the New York Clothing Manufacturers' Exchange, signed in 1924, and a letter of transmittal from Sidney Orenstein to Jack Sheinkman from 1994.</p>  </scopecontent>
+  <accessrestrict id="aspace_ea4461118c0287f3c1082d2a9cb65749">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_2d2f93342a1b38a9ef4dcb1b64545811">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_5cb1432190c635ebb307b4932ba5ae66">
+    <head>Preferred Citation</head>
+<p>ACWA Collective Bargaining Agreement #5973m. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_655f61ec939d9959c836cd7112c36cbc">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL03005.html"> /3005: Alice Grant Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL03007.html"> /3007: Maurice Neufeld Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL03035.html"> /3035: Eric Polisar Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04095.html"> /4095: Alice Grant Additional Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05011.html"> 5011: Morton Singer Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05270.html"> 5270: New York City CIO Scrapbook</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05273.html"> 5273: ACWA Rochester Joint Board Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05273mf.html"> 5273 mf: ACWA Rochester Joint Board Minutes of Meeting on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05285mf.html"> 5285 mf: ACWA Rochester Joint Board Scrapbooks on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05296m.html"> 5296m: Joseph Schlossberg Diaries Excerpts</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05305.html"> 5305: Benjamin H. Wolf Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05418mf.html"> 5418 mf: Committee for Industrial Organizations Minutes on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05477.html"> 5477: Benjamin Wolf Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05490.html"> 5490: Jesse Carpenter Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05495.html"> 5495: Farah Strike Pamphlets and Broadsides</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05511.html"> 5511: Benjamin Wolf Additional Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05539.html"> 5539: Benjamin H. Wolf Additional Arbitration Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05583-1.html"> 5583/1: Archives Organization File (AOF) Part 1</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05605.html"> 5605: Jacob Seidenberg Additional Arbitration Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05609.html"> 5609: Philip Ross Collection of NLRB Documents</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619.html"> 5619: ACWA Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619av.html"> 5619 AV: ACTWU Audio- Visual Materials</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619f.html"> 5619 F: ACTWU Motion Picture Films</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619g.html"> 5619 G: ACTWU Graphics</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619mb.html"> 5619 MB: ACTWU Memorabilia Collection</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619mf.html"> 5619 mf: ACWA Records Parts 1-3 on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619oh.html"> 5619 OH: ACWA Oral History Project Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619p.html"> 5619 P: ACTWU Photographs</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619pubs.html"> 5619 PUBS: ACTWU Publications</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619-001.html"> 5619/001: ACTWU Collective Bargaining Agreements</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619-002.html"> 5619/002: ACWA Education Department Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619-003.html"> 5619/003: ACWA Sidney Hillman Scrapbooks</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619-004.html"> 5619/004: ACTWU President Jacob Sheinkman Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619-004.html"> 5619/004: ACTWU President Jacob Sheinkman Files</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <corpname audience="internal" source="ingest">Amalgamated Clothing Workers of America.</corpname>
+    <corpname audience="internal" source="ingest">Amalgamated Clothing Workers of America. Joint Board of the Childrens Clothing Workers--Archives.</corpname>
+    <corpname audience="internal" source="ingest">Amalgamated Clothing Workers of America. New York Joint Board--Archives.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5743738</unitid>
+  <dsc><c01 id="aspace_710e5e3af1764ad39beb6a465e1b645a" level="file"><did><unittitle>Contract between the New York Joint Board of the Amalgamated Clothing Workers of America and the New York Clothing Manufacturers' Exchange</unittitle><unitdate datechar="creation" normal="1924/1994" type="inclusive">1924-1994</unitdate><container id="aspace_f713267cfd65e89dad85049e4c96bc77" label="unspecified" type="box">1</container></did></c01></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05780-207p</eadid><filedesc><titlestmt><titleproper>ILGWU. Pacific Northwest District Council photographs <num>5780/207 P</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>May 29, 2013</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:08:49 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILGWU. Pacific Northwest District Council photographs</unittitle>
+    <origination label="Creator">
+      <corpname role="creator" source="ingest">International Ladies' Garment Workers' Union</corpname>
+    </origination>
+    <unitid>5780/207 P</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1989/1992" type="inclusive">1989-1992</unitdate>
+    <physdesc id="aspace_4ff009b88ffb8069d0bee00897cb298f" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_444a3dad4f98865a4825fa776fde7a64" label="Forms of Material:">Photographs.</physdesc>
+    <abstract id="aspace_dd46538c454e1d0142915905bda512ee">This collection consists of photographs transferred from the records of the Pacific Northwest District Council. Included are photographs of a rally against NAFTA, meetings, and other union events.</abstract>
+    <langmaterial id="aspace_99df0eb852b28c9cdc1cb0c6a582d91c">Collection material in English</langmaterial>
+    <unitid type="bibid">7128029</unitid>
+  </did>
+  <odd id="aspace_3af4a560546ca3db562c0d2614b00a9a">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel">http://www.ilr.cornell.edu/library/kheel</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, April 14, 2011</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kathryn Dowgiewicz, May 29, 2013</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_f777a2684ccd61c00d62996c8485fd5f">
+    <head>Biographical / Historical</head>
+<p>Founded in 1900 by local union delegates representing about 2,000 members in cities in the northeastern United States, the ILGWU grew in geographical scope, membership size, political influence to become one of the most powerful forces in American organized labor by mid-century. Representing workers in the women's garment industry, the ILGWU worked to improve working and living conditions of its members through collective bargaining agreements, training programs, health care facilities, cooperative housing, educational opportunities, and other efforts. In 1995, the ILGWU merged with the Amalgamated Clothing and Textile Workers Union (ACTWU) to form the Union of Needletrades, Industrial and Textile Employees (UNITE).</p>  </bioghist>
+  <bioghist id="aspace_b4817c0663b18e8f033ca8ebaf15cd1a">
+    <head>Biographical / Historical</head>
+<p>Formed in 1979, the Pacific Northwest District Council included local unions that had previously been part of the San Francisco Joint Board, and Local 184 of Seattle, Washington. </p><p> Mattie Jackson, former Manager of the San Francisco Joint Board, served as the first Manager of the Pacific Northwest District Council. Upon Jackson's retirement in 1990, Katie Quan was appointed manager. Quan managed the district through the ILGWU's merger with ACTWU in 1995, and headed the new UNITE district until 1998.</p>  </bioghist>
+  <scopecontent id="aspace_e1fbfdea852046fceb5e480917330cb8">
+    <head>Scope and Contents</head>
+<p>The collection consists of a small collection of snapshots from such events as an anti-NAFTA rally, a press conference, and various meetings and dinner functions from the Pacific Northwest District.</p>  </scopecontent>
+  <accessrestrict id="aspace_8135938bd94b8b0f8ae072603a082720">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_118444e4fc99df050841df877ba1a5d8">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_c47402c3056fc748353c93f842f037bf">
+    <head>Preferred Citation</head>
+<p>ILGWU. Pacific Northwest District Council photographs #5780/207 P. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_11c7c03f2fc549ad1ed1c3830224560d">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780.html"> 5780: ILGWU records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-207.html"> 5780/207: ILGWU. Pacific Northwest District Council records</extref> 5780/207 AV: ILGWU. Pacific Northwest District Council audio-visual materials</p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Clothing workers -- Labor unions -- New York (State) -- Photographs.</subject>
+    <subject source="ingest">Women's clothing industry -- Labor unions -- New York (State) -- Photographs.</subject>
+    <subject source="ingest">Industrial relations -- New York (State)</subject>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union -- Photographs.</corpname>
+    <corpname audience="internal" source="ingest">Union of Needletrades, Industrial and Textile Employees -- Photographs.</corpname>
+    <corpname audience="internal" source="ingest">UNITE HERE (Organization) -- Photographs.</corpname>
+  </controlaccess>
+  <unitid type="bibid">7128029</unitid>
+  <dsc><c01 id="aspace_3f6fdf52e6186fdf5e438ebbb869e3e8" level="file"><did><unittitle>[No NAFTA rally]</unittitle><container id="aspace_a20d23372b5a579b7962f99acb48e75a" label="unspecified" type="box">1</container><container id="aspace_59ae8fbdc6547d4fa95ae6d3c2a85930" parent="aspace_a20d23372b5a579b7962f99acb48e75a" type="folder">1</container></did><scopecontent id="aspace_8ab08e1d447f0e864f80166c539bb11d"><head>Scope and Contents</head><p>California, circa 1993</p></scopecontent></c01><c01 id="aspace_3e99c724ce3234d6c7ae55e7f6d102e0" level="file"><did><unittitle>[Press conference]</unittitle><container id="aspace_fbe34417fa1d2e2ce1a400d4cb54a125" label="unspecified" type="box">1</container><container id="aspace_2e81a5b41cc483d7d8101b8d639ff3f2" parent="aspace_fbe34417fa1d2e2ce1a400d4cb54a125" type="folder">2</container></did></c01><c01 id="aspace_285bc3ee51e3943d00ebbe4d969e3bf3" level="file"><did><unittitle>[Miscellaneous]</unittitle><unitdate datechar="creation" normal="1989/1992" type="inclusive">1989-1992</unitdate><container id="aspace_0bc4ce6ce4f8f7d037a4ba7a67a24077" label="unspecified" type="box">1</container><container id="aspace_3550a7c7bd12a83c90eec2baba9b6120" parent="aspace_0bc4ce6ce4f8f7d037a4ba7a67a24077" type="folder">3</container></did><scopecontent id="aspace_5f55f8f90ccd28c8e7081bc9104086ea"><head>Scope and Contents</head><p>Includes: group photos at dinners and meetings</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

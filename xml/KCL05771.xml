@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05771</eadid><filedesc><titlestmt><titleproper>Sadinsky, Matthew Collection of Public Employment Documents <num>5771</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 02, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 15:57:33 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Matthew Sadinsky Collection of Public Employment Documents</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Sadinsky, Matthew</persname>
+    </origination>
+    <unitid>5771</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1970/1984" type="inclusive">1970-1984</unitdate>
+    <physdesc id="aspace_cbfc3ec8dff6e9696b587540a7fb1209" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_56ff543c84c21db8ac394f3a9e3a7a6c" label="Forms of Material:">Records (documents).</physdesc>
+    <langmaterial id="aspace_1152efb764a410eeefdcca3fc3a46f7a">Collection material in English</langmaterial>
+    <unitid type="bibid">5702266</unitid>
+  </did>
+  <odd id="aspace_26733612e06d391177731e774e81c21b">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 07, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 02, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_709c917aa19d103efca36232606b8bd8">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_7e37d82ccd54af36adbdcee1ce93e811">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_a245ef319007cdd71b3f680f6b40aac1">
+    <head>Preferred Citation</head>
+<p>Matthew Sadinsky Collection of Public Employment Documents #5771. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Collective bargaining.</subject>
+    <subject source="ingest">Industrial relations.</subject>
+    <subject source="ingest">Civil service.</subject>
+    <subject source="ingest">Public employees.</subject>
+    <subject source="ingest">New York (N.Y.)--Officials and employees.</subject>
+    <persname audience="internal" source="ingest">Sadinsky, Matthew.</persname>
+    <corpname audience="internal" source="ingest">New York (N.Y.). Board of Education.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5702266</unitid>
+  <dsc><c01 id="aspace_50396d1082893a8888c2f2a380c8d1fe" level="file"><did><unittitle>UFT, Salaries/ IOS A Taylor Law Probst</unittitle><unitdate datechar="creation" normal="1977/1977">1977</unitdate><container id="aspace_54b50691aff30cf99693d83849fcba3e" label="unspecified" type="box">1</container><container id="aspace_ac3308ca1b1407490279eac78c54d2e1" parent="aspace_54b50691aff30cf99693d83849fcba3e" type="folder">1</container></did></c01><c01 id="aspace_b927329f5ab92cc3306f932cd9395254" level="file"><did><unittitle>Institute of Public Employment &amp; Schools</unittitle><unitdate datechar="creation" normal="1976/1976">1976</unitdate><container id="aspace_534ad0d2fcce0dafa06b1ec32829e414" label="unspecified" type="box">1</container><container id="aspace_6204711010c612a7aeabdfce4830701f" parent="aspace_534ad0d2fcce0dafa06b1ec32829e414" type="folder">2</container></did></c01><c01 id="aspace_616addf12e3178fcd20992f4102e694a" level="file"><did><unittitle>Legislative Drafting Manual - Colorado Drafting Office</unittitle><unitdate datechar="creation" normal="1977/1977">1977</unitdate><container id="aspace_2eb08892d7512cbb604e9e66ed5f32e6" label="unspecified" type="box">1</container><container id="aspace_8092629558a12dc7dbb3e461c1d32b3a" parent="aspace_2eb08892d7512cbb604e9e66ed5f32e6" type="folder">3</container></did></c01><c01 id="aspace_ac1ac32505d875fc9ee0d47d0e844046" level="file"><did><unittitle>Misc. 1970's</unittitle><unitdate datechar="creation" normal="1976/1978" type="inclusive">1976-1978</unitdate><container id="aspace_e7d6585c80bf50482df85b6c38667904" label="unspecified" type="box">1</container><container id="aspace_950ca34c0943ee01a9f3750674d71c60" parent="aspace_e7d6585c80bf50482df85b6c38667904" type="folder">4</container></did></c01><c01 id="aspace_9f2cd1e2142b1047ca11d5a9ab5280b6" level="file"><did><unittitle>Labor Law Reform Testimony 1978</unittitle><unitdate datechar="creation" normal="1978/1978">1978</unitdate><container id="aspace_46ecd40f2b9fc87ec093a0f9a16c9e2e" label="unspecified" type="box">1</container><container id="aspace_73ee70b15f29b5c0c0e8bb4523e46509" parent="aspace_46ecd40f2b9fc87ec093a0f9a16c9e2e" type="folder">5</container></did></c01><c01 id="aspace_251bb235d68db9b649960d977a5578e4" level="file"><did><unittitle>UFT</unittitle><unitdate datechar="creation" normal="1976/1976">1976</unitdate><container id="aspace_d1a7e92de0d398f4f6765db5ae91e874" label="unspecified" type="box">1</container><container id="aspace_ce4f06ed7648c5c950ff07c736238d0d" parent="aspace_d1a7e92de0d398f4f6765db5ae91e874" type="folder">6</container></did></c01><c01 id="aspace_d97267dfd972a0eb74c21d9b1c3695ac" level="file"><did><unittitle>Board of Education; New York State &amp; The U.S. Economy</unittitle><unitdate datechar="creation" normal="1976/1984" type="inclusive">1976-1984</unitdate><container id="aspace_1679d05c94e574c2373f9ca6a1410676" label="unspecified" type="box">1</container><container id="aspace_33d5b99ffb7083479993029a32062c56" parent="aspace_1679d05c94e574c2373f9ca6a1410676" type="folder">7</container></did></c01><c01 id="aspace_4fa759440d03feb6d7758a2688d58e33" level="file"><did><unittitle>More Effective Management is Needed to Improve the Quality of The Summer Youth Employment Program</unittitle><unitdate datechar="creation" normal="1979/1979">1979</unitdate><container id="aspace_1139360167ca046d069c6ffb38f1d2f0" label="unspecified" type="box">1</container><container id="aspace_657d50d3ae102b127364756930014c7a" parent="aspace_1139360167ca046d069c6ffb38f1d2f0" type="folder">8</container></did></c01><c01 id="aspace_8f64db6cc31221f1791811ce1b04be9a" level="file"><did><unittitle>New York State</unittitle><unitdate datechar="creation" normal="1977/1978" type="inclusive">1977-1978</unitdate><container id="aspace_c9a65cdc22e93391461a37a62255fdf6" label="unspecified" type="box">1</container><container id="aspace_dfd97ef42936339ec10c2b5f9698e2a7" parent="aspace_c9a65cdc22e93391461a37a62255fdf6" type="folder">9</container></did></c01><c01 id="aspace_d55bb884d696b9c880bd7745c7077de0" level="file"><did><unittitle>State Data, Other States</unittitle><unitdate datechar="creation" normal="1976/1978" type="inclusive">1976-1978</unitdate><container id="aspace_c3e93dd1ac8e1656bca3472aab6613a0" label="unspecified" type="box">1</container><container id="aspace_62f494cda5440314ca749ca0606fbc72" parent="aspace_c3e93dd1ac8e1656bca3472aab6613a0" type="folder">10</container></did></c01><c01 id="aspace_f455884eb89125233783eac95b871386" level="file"><did><unittitle>Dissertation</unittitle><unitdate datechar="creation" normal="1970/1970">1970</unitdate><container id="aspace_315712ee0055ff07911bf0dc091e0cf7" label="unspecified" type="box">1</container><container id="aspace_8c03541cd18059d0836deab55eac8fa5" parent="aspace_315712ee0055ff07911bf0dc091e0cf7" type="folder">11</container></did></c01><c01 id="aspace_dbbe9ee6449e7258e0838006fd55feb6" level="file"><did><unittitle>United Federation of Teachers</unittitle><unitdate datechar="creation" normal="1977/1977">1977</unitdate><container id="aspace_36b4ad18f76dfb199e45ca3401a9686c" label="unspecified" type="box">1</container><container id="aspace_78386b1b01b7e08c57a5538fd0864a51" parent="aspace_36b4ad18f76dfb199e45ca3401a9686c" type="folder">12</container></did></c01><c01 id="aspace_78f273a32df13508607f74cabe198f7f" level="file"><did><unittitle>UFT Memos</unittitle><unitdate datechar="creation" normal="1978/1978">1978</unitdate><container id="aspace_3c43bd59108901fa8bbf7e00caed0977" label="unspecified" type="box">1</container><container id="aspace_a4a4a328f48a1ffbc94b8ea3db79fa44" parent="aspace_3c43bd59108901fa8bbf7e00caed0977" type="folder">13</container></did></c01><c01 id="aspace_0435e8d553b17e1cfb31e9d4bf1fd7a1" level="file"><did><unittitle>NYS Taylor Law Bills 78 Session</unittitle><unitdate datechar="creation" normal="1978/1978">1978</unitdate><container id="aspace_64f527c0944f4ea7c34988c8dfabb494" label="unspecified" type="box">1</container><container id="aspace_1e2131d9292bc9bb317cca1e00652bd0" parent="aspace_64f527c0944f4ea7c34988c8dfabb494" type="folder">14</container></did></c01><c01 id="aspace_abfd31063514d8bbcac62effed85cb53" level="file"><did><unittitle>NYS Taylor Law Bills 78 Session</unittitle><unitdate datechar="creation" normal="1978/1978">1978</unitdate><container id="aspace_94f43136319c95c7cf3e0fc5a5cd2f27" label="unspecified" type="box">1</container><container id="aspace_d28bc978c5012e21a80573f8551f0016" parent="aspace_94f43136319c95c7cf3e0fc5a5cd2f27" type="folder">14</container></did></c01></dsc>
+</archdesc>
+</ead>

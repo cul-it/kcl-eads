@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05832mf</eadid><filedesc><titlestmt><titleproper>Negro Labor Committee Records on Microfilm <num>5832 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 08, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:12:23 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Negro Labor Committee Records on Microfilm</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Negro Labor Committee</persname>
+    </origination>
+    <unitid>5832 mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.89 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1925/1969" type="inclusive">1925-1969</unitdate>
+    <physdesc id="aspace_ae6d7c958fb93bea94b4bcce02ef1958" label="Quantity:">17 microfilm reels</physdesc>
+    <physdesc id="aspace_b563c00306c4d6c0e6999a26820f51ce" label="Forms of Material:">Records, microfilm.</physdesc>
+    <langmaterial id="aspace_70d2a1fe7d7cca6314b55a3f8a771774">Collection material in English</langmaterial>
+    <unitid type="bibid">5713206</unitid>
+  </did>
+  <odd id="aspace_56273daa1d1d51566ad518ba49a8c85c">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, March 08, 2016</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, March 08, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_ab857d5c11bb6721c6946eb59980e1c1">
+    <head>Biographical / Historical</head>
+<p>The Negro Labor Committee was formed on July 20, 1935. This committee came about as a result of many years of labor movement to give workers equal consideration regardless of race, creed or color. In 1925, Frank R. Crosswaith and several more labor leaders formed the Trade Union Committee for Organizing Negro Workers, in hopes of encouraging blacks to unionize. In 1934, some of the same leaders, founded the Harlem Labor Committee to help the cause. </p><p> The First Negro Labor Conference was composed of elected delegates from both of these organizations. A committee of twenty-five members was elected at the conference and they in turn established the Negro Labor Committee. One purpose of the Negro Labor Committee was to come up with a plan of action to consider the economic plight of black workers and to aid them in securing better paying jobs. A second objective was to remove the serious threat that the unorganized black worker represented to the labor movement. </p><p> During the 1930s and 1940s the Negro Labor Committee played a key role in expanding organized black labor and in overcoming barriers within the labor movement. </p><p> At the peak of its existance the Committee represented over 250,000 black and white workers.</p>  </bioghist>
+  <scopecontent id="aspace_d63d816145c98e59be205391b40408e4">
+    <head>Scope and Contents</head>
+<p>This collection includes Part I: Office Files of the N.L.C. - A, B, C and Part II: Personal Files of Frank R. Crosswaith.</p>  </scopecontent>
+  <accessrestrict id="aspace_a9b67d586b8b68e72242a17b44eeed1b">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_9b74a025bd41007490256f0e6627aa8a">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_d5fbe1378ed2cd23973ede6cd1cae3dc">
+    <head>Preferred Citation</head>
+<p>Negro Labor Committee Records on Microfilm #5832 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <otherfindaid id="aspace_bb7db33b1a5471a236a6f8a14484f891">
+    <head>Other Finding Aids</head>
+<p>The print guide to this collection is available in the Kheel Center reading room.</p>  </otherfindaid>
+  <controlaccess>
+    <subject source="ingest">African Americans--Employment--United States.</subject>
+    <corpname audience="internal" source="ingest">Negro Labor Committee.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5713206</unitid>
+  <dsc/>
+</archdesc>
+</ead>

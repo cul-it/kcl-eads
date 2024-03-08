@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05593av</eadid><filedesc><titlestmt><titleproper>AoM Audio-Visual Material <num>5593 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 20, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 15:46:47 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>AoM Audio-Visual Material</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Academy of Management (AoM)</corpname>
+    </origination>
+    <unitid>5593 AV</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2 folders</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="0000/2999" type="inclusive">0000-2999</unitdate>
+    <physdesc id="aspace_14e0fe418fc01077503ebf62b2b80508" label="Quantity:">0 linear ft.</physdesc>
+    <physdesc id="aspace_d358b9b783187627226732a68acf8463" label="Forms of Material:">Audiovisual materials.</physdesc>
+    <abstract id="aspace_4652ef1a2be389d2f696626e1b0a7fb9">Phonograph record and accompanying book housed with Artificial collection 6349 AV, box 1</abstract>
+    <langmaterial id="aspace_7bc6873093fe48251565ce4464bc4b77">Collection material in English</langmaterial>
+    <unitid type="bibid">7903930</unitid>
+  </did>
+  <odd id="aspace_32bfa2607f2c09bd63ca557b1060e005">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, January 10, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 20, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <scopecontent id="aspace_1c3f5722f8ae6585f502a2870169e811">
+    <head>Scope and Contents</head>
+<p>Phonograph record and accompanying book housed with Artificial collection 6349 AV, box 1</p>  </scopecontent>
+  <accessrestrict id="aspace_a950733846029dff0c6c7e983c003674">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_96476a790c63c7c02f8601ba6d709e48">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_74975b8477a791fa29168f39ef139f95">
+    <head>Preferred Citation</head>
+<p>AoM Audio-Visual Material #5593 AV. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_7047b7750ff131aa0922c4bc8b0903f4">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05593.html"> 5593: AoM Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05289mb.html"> 5289 MB: AoM Memorabilia</extref> 6134: AoM Publications Additional Publications <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05289pubs.html"> 5289 PUBS: AoM Publications</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06117.html"> 6117: AoM Additional Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05893m.html"> 5893m: Leonard R. Burgess "Status of Women in Academy of Management" Memoir</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05977mf.html"> 5977 mf: AoM Additional copy of publications on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05920av.html"> 5920 AV: AoM Audio-Visual Collection</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06019.html"> 6019: AoM Eastern Academy of Management Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05289p.html"> 5289 P: AoM Photographs</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05289pubs.html"> 5289 PUBS: AoM Publications</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05289.html"> 5289: AoM Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05904m.html"> 5904m: Paul Gordon Collection of Academy of Management Miscellany</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06278.html"> 6278: David Van Fleet Collection of Academy of Management Records</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <corpname audience="internal" source="ingest">Academy of Management</corpname>
+  </controlaccess>
+  <unitid type="bibid">7903930</unitid>
+  <dsc><c01 id="aspace_0d08144231a3c607052e8cc81b2349d6" level="file"><did><unittitle>Understanding Yourself and accompanying book</unittitle><container id="aspace_9bc1b122181b6987edfcbf447526942b" label="unspecified" type="box">1</container></did><c02 id="aspace_5a11ad5e098b10593b9e0e825db855a7" level="file"><did><unittitle>Understanding Yourself : Growth Unit 12</unittitle><unitid>1</unitid><container id="aspace_8a72b2af07b1f6753e861e73fa871641" label="unspecified" type="box">1</container></did><scopecontent id="aspace_779dd6f635987a30e1db2da0e909fdf6"><head>Scope and Contents</head><p>42 p. booklet</p></scopecontent></c02><c02 id="aspace_73c3a9931464933977ac71dcfd0f4add" level="file"><did><unittitle>Understanding Yourself</unittitle><unitid>2</unitid><container id="aspace_083a40c9f98b56491d6f76e7ad18a099" label="unspecified" type="box">1</container></did></c02><c02 id="aspace_fc8448eb9e8dfe33235f2eb3790ff0d2" level="file"><did><unittitle>Understanding Yourself</unittitle><unitid>3</unitid><container id="aspace_d9ac351f93de89fd0b32c011e9a602b4" label="unspecified" type="box">1</container></did><scopecontent id="aspace_9d144a64d56e80a168e62ba09e010249"><head>Scope and Contents</head><p>Album cover (album placed in protective sleeve)</p></scopecontent></c02></c01></dsc>
+</archdesc>
+</ead>

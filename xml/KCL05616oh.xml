@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05616oh</eadid><filedesc><titlestmt><titleproper>Rubinow, Isaac Max Oral History <num>5616 OH</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 21, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 15:47:58 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Isaac Max Rubinow Oral History</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Rubinow, Isaac Max</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Kreader, J. Lee</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Epsteen, Harriet C.</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Lebow, Laura</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Cohen, Wilbur</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Haber, William</persname>
+    </origination>
+    <unitid>5616 OH</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1978/1979" type="inclusive">1978-1979</unitdate>
+    <physdesc id="aspace_f78c29f03bdbe95b908bcd1ce948a5cb" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_e62c6e1ef26d5784c7e6659da8dbbc15" label="Forms of Material:">Oral histories (document genres).</physdesc>
+    <abstract id="aspace_75e5a693f35179fb97582e9a16f5ec3d">J. Lee Kreader interviews with Dean Wilbur Cohen School of Education; Prof. Wm. Haber/University of Michigan; Harriet C. Epsteen; I.E. Rubinow; and Dr. John Slawson</abstract>
+    <langmaterial id="aspace_f3517c697a660d98f14bee9dba33e5d7">Collection material in English</langmaterial>
+    <unitid type="bibid">7585774</unitid>
+  </did>
+  <odd id="aspace_2243ec5d3d980b470022f91feafcfd59">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, February 24, 2012</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 21, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_7956d55c65ccede5f9751383c8140518">
+    <head>Biographical / Historical</head>
+<p>1875 Born in Grodno, Russia </p><p> 1893 Immigrated to the United States </p><p> 1895 Columbia University, A.B. Degree </p><p> 1898 New York University Medical College, M.D. </p><p> 1899 Practiced medicine </p><p> 1900-03 Columbia University, Studied political science </p><p> 1903 Gave up practice of medicine </p><p> 1903-07 Examiner, U.S. Civil Service Commission </p><p> 1907 Economic Expert, Bureau of Statistics, U.S. Department of Agriculture </p><p> 1907-08 Member, Bureau of Labor Statistics, U.S. Department of Commerce &amp; Labor </p><p> 1908-11 Member, Bureau of Labor </p><p> 1911-16 Chief Statistician, Ocean Accident and Guarantee Corporation </p><p> 1913 First book published, Social Insurance </p><p> 1914 Columbia University, PhD. </p><p> 1914-l6 President, Casualty Acturial Society </p><p> 1916-17 Executive Secretary, American Medical Association, Social Insurance Commission </p><p> 1917 Expert, California Social Insurance Commission </p><p> 1917 Director, New York City Department of Public Charities, Bureau of Labor Statistics </p><p> 1917-18 Investigator, Federal Trade Commission </p><p> 1919-23 In Charge of American Zionist Medical Unit (renamed Hadassah Medical Organization) </p><p> 1923-28 Director, Jewish Welfare Society of Philadelphia </p><p> 1926-36 Executive Secretary, B'nai B'rith </p><p> 1929 Executive Director, United Palestine Appeal </p><p> 1932-33 President, National Conference of Jewish Social Service </p><p> 1934 The Quest for Security published </p><p> 1936 September, Died at the age of 61</p>  </bioghist>
+  <accessrestrict id="aspace_6dc3283ed5f783cf61924b202c5bab52">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_3ee4ce4f5ef757847f8240069f51af02">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_a1b0d9a1c2dd8948ffc1a9d2d7420743">
+    <head>Preferred Citation</head>
+<p>Isaac Max Rubinow Oral History #5616 OH. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_619392534a6a8a9fbdc632eab7129cc5">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05001.html"> 5001: American Association for Labor Legislation Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05001mf.html"> 5001 mf: American Association for Labor Legislation Records on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05001pam.html"> 5001 PAM: American Association for Labor Legislation Pamphlet File</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05616.html"> 5616: Isaac Max Rubinow Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05616amf.html"> 5616 (A) mf: Isaac Max Rubinow Selected Files on Microfilm</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Cohen, Wilber J. (Wilbur Joseph), 1913-1987</persname>
+    <persname audience="internal" source="ingest">Epsteen, Harriet C.</persname>
+    <persname audience="internal" source="ingest">Haber, William, 1899-1988</persname>
+    <persname audience="internal" source="ingest">Kreader, J. Lee, 1945-</persname>
+    <persname audience="internal" source="ingest">Lebow, Laura</persname>
+    <persname audience="internal" source="ingest">Rubinow, I. M. (Isaac Max), 1875-1936</persname>
+    <persname audience="internal" source="ingest">Andrews, John B.</persname>
+    <corpname audience="internal" source="ingest">American Association for Labor Legislation</corpname>
+  </controlaccess>
+  <unitid type="bibid">7585774</unitid>
+  <dsc><c01 id="aspace_62374d97251a3c339d682718968b5441" level="file"><did><unittitle>Interview with Dean Wilbur Cohen School of Education, University of Michigan, Ann Arbor, Dec. 3, 1978: Interviewed by J. Lee Kreader</unittitle><unitdate datechar="creation" normal="1978/1978">1978</unitdate><container id="aspace_b72ba4e1dc9bea74707c51c8227e07e8" label="unspecified" type="box">1</container><container id="aspace_7852ea8a6875f42ac1f3ebb5fcaf7de5" parent="aspace_b72ba4e1dc9bea74707c51c8227e07e8" type="folder">1</container></did></c01><c01 id="aspace_924402ba7a9b449c580c52253af9b62b" level="file"><did><unittitle>Interview with Professor Wm. Haber/University of Michigan, Ann Arbor, 12/3/78: Interviewed by Lee Kreader</unittitle><unitdate datechar="creation" normal="1978/1978">1978</unitdate><container id="aspace_040f6a09814dfa1626ad7809156c7d6f" label="unspecified" type="box">2</container><container id="aspace_7ece5352fcbf8d3dbbc010338d175900" parent="aspace_040f6a09814dfa1626ad7809156c7d6f" type="folder">1</container></did></c01><c01 id="aspace_e8cbe048b899d1a3d51a7bea30b5d524" level="file"><did><unittitle>Harriette C. Epsteen on I.M. Rubinow/389 Bleker St./NYC: Interviewed by J. Lee Kreader</unittitle><container id="aspace_837da4adb4fec3dc681ec100c2dceaa8" label="unspecified" type="box">3</container><container id="aspace_d3f3b7f1ec9021165e218002139fbf19" parent="aspace_837da4adb4fec3dc681ec100c2dceaa8" type="folder">1</container></did></c01><c01 id="aspace_0f467cb859c15dd20b81ef6ec4abfeec" level="file"><did><unittitle>Harriette C. Epsteen on I.M. Rubinow/389 Bleker St./NYC: Interviewed by J. Lee Kreader -- 3/22/1979</unittitle><unitdate datechar="creation" normal="1979/1979">1979</unitdate><container id="aspace_18451d24e7c26f863a2a7e1c42ea7e4f" label="unspecified" type="box">4</container><container id="aspace_5236795a68273a8971d169172627df87" parent="aspace_18451d24e7c26f863a2a7e1c42ea7e4f" type="folder">1</container></did></c01><c01 id="aspace_18904c71887b05297acef0207bac741b" level="file"><did><unittitle>Rubinow: Interview of Chancellor by J.L. Kreader, March 31, 1978 at the Chancellors Office, Brandes Univ., Watham, Mass.</unittitle><unitdate datechar="creation" normal="1978/1978">1978</unitdate><container id="aspace_daeed2448cd97dc88a5542b23cc7e33c" label="unspecified" type="box">5</container><container id="aspace_d7688a5cb2c7801b0faed0e6417e64ad" parent="aspace_daeed2448cd97dc88a5542b23cc7e33c" type="folder">1</container></did></c01><c01 id="aspace_1ea4b7c8061cfd0e6043041233e988c9" level="file"><did><unittitle>Unlabeled</unittitle><container id="aspace_83d6c9e3c7687ceb2418b0d6c2134e30" label="unspecified" type="box">6</container><container id="aspace_425e0f8c8298a663c20b590c3136589c" parent="aspace_83d6c9e3c7687ceb2418b0d6c2134e30" type="folder">1</container></did></c01><c01 id="aspace_7c60111a7c13d81fd96b743e9fd8d185" level="file"><did><unittitle>Interview re I.M. Rubinow: Mrs. Laura Lebow &amp; J. Lee Kreader, April 6, 1978; 230 Central Park West, New York, NY</unittitle><unitdate datechar="creation" normal="1978/1978">1978</unitdate><container id="aspace_10fdb483a3b77d510d77a550d4911b77" label="unspecified" type="box">7</container><container id="aspace_8b7a4b36594fce8dfbc7d23a667e927c" parent="aspace_10fdb483a3b77d510d77a550d4911b77" type="folder">1</container></did></c01><c01 id="aspace_44300b4ec8583a386a400f9e8ee3915c" level="file"><did><unittitle>Dr. John Slawson &amp; J. Lee Kreader re I.M. Rubinow - Recorded April 13, 1978; 165 E. 56th St., NYC</unittitle><unitdate datechar="creation" normal="1978/1978">1978</unitdate><container id="aspace_d12411f37b58bbeb8cd2708b0660d68f" label="unspecified" type="box">8</container><container id="aspace_0b98cdbc7fee9f267fb550e34a0f47bd" parent="aspace_d12411f37b58bbeb8cd2708b0660d68f" type="folder">1</container></did></c01><c01 id="aspace_67751e29a3b892d8e796c4c9b9847a5a" level="file"><did><unittitle>Interview re I.M. Rubinow, Lurie &amp; J.L. Kreader, April 14, 1978; 742 Halstead Ave. Mamaroneck, NY</unittitle><unitdate datechar="creation" normal="1978/1978">1978</unitdate><container id="aspace_8ef6c7d7bf33c20a95d4fa0de1b5912d" label="unspecified" type="box">9</container><container id="aspace_27f5836fae12a5d1e67fa74e6d8fe10c" parent="aspace_8ef6c7d7bf33c20a95d4fa0de1b5912d" type="folder">1</container></did></c01></dsc>
+</archdesc>
+</ead>

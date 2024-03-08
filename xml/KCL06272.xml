@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06272</eadid><filedesc><titlestmt><titleproper>Rowan, Richard L. and Robert E. Barr Research Materials for "Employee Relations Trends and Practices in the Textile Industry" <num>6272</num></titleproper><author>Compiled by R. Miles</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 07, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:39:50 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Richard L. Rowan and Robert E. Barr Research Materials for "Employee Relations Trends and Practices in the Textile Industry"</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Rowan, Richard L.</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Barr, Robert E.</persname>
+    </origination>
+    <unitid>6272</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="0000/2999" type="inclusive">0000-2999</unitdate>
+    <physdesc id="aspace_46cdf4ff3215fc8ad5170cad57471d6e" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_3e221cb1fbbcd8f9dd5502fb30c558b8" label="Forms of Material:">Research notes.</physdesc>
+    <abstract id="aspace_122bf358e881dc6431e7948dbbc80d75">This collection is the research material used to write the book "Employee relations trends and practices in the textile industry," A copy of which is located in the ILR Library stacks, call no. HD8039.T42 G47</abstract>
+    <langmaterial id="aspace_d3c7c33a34db2e833bd93160824cb1a4">Collection material in English</langmaterial>
+    <unitid type="bibid">6346137</unitid>
+  </did>
+  <odd id="aspace_2944d676cb336d5b05e137422f5ac368">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>R. Miles, March 07, 2016</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, March 07, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_9362c73be98a926d4496ac3fa636453d">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_f6979f3d9eea01c2fcf21e14b15fb309">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_4e8850409be9bc9794113e8bf95e2d97">
+    <head>Preferred Citation</head>
+<p>Richard L. Rowan and Robert E. Barr Research Materials for "Employee Relations Trends and Practices in the Textile Industry" #6272. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Textile workers--Georgia.</subject>
+    <subject source="ingest">Textile workers--North Carolina.</subject>
+    <subject source="ingest">Textile workers--South Carolina.</subject>
+    <subject source="ingest">Collective bargaining--Textile industry--United States.</subject>
+    <subject source="ingest">Textile workers--Labor unions--United States.</subject>
+    <persname audience="internal" source="ingest">Rowan, Richard L.</persname>
+    <persname audience="internal" source="ingest">Barr, Robert E.</persname>
+  </controlaccess>
+  <unitid type="bibid">6346137</unitid>
+  <dsc><c01 id="aspace_3517828d3fb505e6ea43b67b8f9871f4" level="file"><did><unittitle>Data. Sample Survey Card.</unittitle><container id="aspace_7c4b9098c47f07cb2d2e712766cf094f" label="unspecified" type="box">1</container><container id="aspace_fc1332907f901a24161951be98daca0c" parent="aspace_7c4b9098c47f07cb2d2e712766cf094f" type="folder">1</container></did></c01><c01 id="aspace_2f5827547bcc3d81ce44ad0064556182" level="file"><did><unittitle>Data. Code Book.</unittitle><container id="aspace_bafbf624b36b605baa351e1f40c49573" label="unspecified" type="box">1</container><container id="aspace_18c425441e2f1dbd2ac09ad09dc3919d" parent="aspace_bafbf624b36b605baa351e1f40c49573" type="folder">2</container></did></c01><c01 id="aspace_a1432572bb0cf2e1489758f2adfcf2be" level="file"><did><unittitle>Data. Completed Survey Cards.</unittitle><container id="aspace_2e421f6f188f5edf59a2dc78cb5aa797" label="unspecified" type="box">1</container><container id="aspace_c8af0f734ffcb46b973fa56eb9fb68ff" parent="aspace_2e421f6f188f5edf59a2dc78cb5aa797" type="folder">3</container></did><scopecontent id="aspace_5d354459d6551e9c7c7450ec44518e6d"><head>Scope and Contents</head><p>No. 01-43.</p></scopecontent></c01><c01 id="aspace_fa68494c88a82443f9b40c65b72cff98" level="file"><did><unittitle>Data. Completed Survey Cards.</unittitle><container id="aspace_fffffd4dc6ad5d7070b4d32758d71568" label="unspecified" type="box">1</container><container id="aspace_055796f87f7530b0c1790c55ebb5d833" parent="aspace_fffffd4dc6ad5d7070b4d32758d71568" type="folder">4</container></did><scopecontent id="aspace_a3a77c0f171cbe92062c13927b6d1919"><head>Scope and Contents</head><p>No. 44-86.</p></scopecontent></c01><c01 id="aspace_b7aef3eb52c3bc17bb8476e05cec6d75" level="file"><did><unittitle>Data. Survey Card Data Forms.</unittitle><container id="aspace_f7003bcc06490b667896096ab98d5aca" label="unspecified" type="box">1</container><container id="aspace_3c8f8d81ddc7fb2e687db9628f9095f3" parent="aspace_f7003bcc06490b667896096ab98d5aca" type="folder">5</container></did></c01><c01 id="aspace_b5f941ac4e108052e5972e0e361f634e" level="file"><did><unittitle>Analysis. Textile. Section I.</unittitle><container id="aspace_cad2ec68d966f22917f6a88309531697" label="unspecified" type="box">1</container><container id="aspace_9382e5adb31031cc592c7b507b28a912" parent="aspace_cad2ec68d966f22917f6a88309531697" type="folder">6</container></did></c01><c01 id="aspace_f7d7c7fe03966a76a830e3488f0571f4" level="file"><did><unittitle>Analysis. Section II.</unittitle><container id="aspace_4d95eb1857f7a4df7c23c32d93289d85" label="unspecified" type="box">1</container><container id="aspace_a87bbc81c22056e5de53375a7aa10c52" parent="aspace_4d95eb1857f7a4df7c23c32d93289d85" type="folder">7</container></did></c01><c01 id="aspace_dbc68a92c521c86777836672be9b227e" level="file"><did><unittitle>Analysis. Section III.</unittitle><container id="aspace_e81b48d1ed745b6111d06a079efa349c" label="unspecified" type="box">1</container><container id="aspace_051b81c1e1cd2aa7d6d39fbc05f9d7e3" parent="aspace_e81b48d1ed745b6111d06a079efa349c" type="folder">8</container></did><scopecontent id="aspace_af968dd622aff40f89764266b2d15b47"><head>Scope and Contents</head><p>Pages 1-242.</p></scopecontent></c01><c01 id="aspace_4fb82c2c15b0a3e7b65ecfcce1e9e95d" level="file"><did><unittitle>Analysis. Section III.</unittitle><container id="aspace_2ecf8e22bfb79392bbab5b4ccd55a6e9" label="unspecified" type="box">1</container><container id="aspace_f6269a6661f22161f8d0e77e00e728be" parent="aspace_2ecf8e22bfb79392bbab5b4ccd55a6e9" type="folder">9</container></did><scopecontent id="aspace_9ae078953610f779f2a197c7d3473577"><head>Scope and Contents</head><p>Pages 243-360.</p></scopecontent></c01><c01 id="aspace_e5f021c96537cd0804b3d3617d933b22" level="file"><did><unittitle>Analysis. Section III.</unittitle><container id="aspace_2342503b490df4a472ff09bd3f4935b0" label="unspecified" type="box">1</container><container id="aspace_eeb65c247b4e2ab45be159d24d4e4b52" parent="aspace_2342503b490df4a472ff09bd3f4935b0" type="folder">10</container></did><scopecontent id="aspace_6bbb041c5cb43fc45a808f419f036ce8"><head>Scope and Contents</head><p>Pages 361-497.</p></scopecontent></c01><c01 id="aspace_17bdc757f76bc7a1ee1fa1f84259bba9" level="file"><did><unittitle>Analysis. Section III.</unittitle><container id="aspace_c62258877fb82954b73026c578ac13eb" label="unspecified" type="box">1</container><container id="aspace_a02ee1de3dc7fe0a8b8449870f18a319" parent="aspace_c62258877fb82954b73026c578ac13eb" type="folder">11</container></did><scopecontent id="aspace_29021b970b9c3ededc770e4dbcf7996d"><head>Scope and Contents</head><p>Pages 498-626 [end].</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

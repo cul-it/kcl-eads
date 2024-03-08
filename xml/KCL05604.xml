@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05604</eadid><filedesc><titlestmt><titleproper>Passenger Conductor's Record Books <num>5604</num></titleproper><author>Compiled by E. Parker</author><sponsor>This collection was processed with the help of generous funding from the National Historical Publications and Records Commission (NHPRC).</sponsor></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>June 05, 2017</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 15:47:26 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Passenger Conductor's Record Books</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Halbrooks, E. C.</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Southern Pacific Railroad Company</corpname>
+    </origination>
+    <unitid>5604</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1965/1971" type="inclusive">1965-1971</unitdate>
+    <physdesc id="aspace_4305a4b3c6143cdeebe34a27cb7d810e" label="Quantity:">0.3 linear ft.</physdesc>
+    <physdesc id="aspace_6be375b77dc7f2e2b0b284bc96c8e703" label="Forms of Material:">Records (documents).</physdesc>
+    <abstract id="aspace_066550663bac45b43a91c7b5b72cabf7">Passenger conductor's record books from the Sunset Route.</abstract>
+    <langmaterial id="aspace_db2574db7f676f3a8344cd72f09ff1bc">Collection material in English</langmaterial>
+    <unitid type="bibid">5675103</unitid>
+  </did>
+  <odd id="aspace_3baecb316a937464b7dd688632c28fc9">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>E. Parker, June 05, 2017</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>E. Parker, June 05, 2017</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_d7a4efea91cefa20bbfa8f9d29f74a82">
+    <head>Biographical / Historical</head>
+<p>The Sunset Route is a passenger train line that runs along the southern transcontinetal route across the United States from New Orleans to Los Angeles. Currently operated by Amtrack, the passenger line was operated by the Southern Pacific Railroad from 1894-1971. The Sunset Limited was the premier passenger train for Southern Pacific. In addition to the Sunset Limited, the Southern Pacific Railroad also operated the Golden State Limited passenger train in conjunction with the Chicago, Rock Island and Pacific Railroad. The Golden State Limited ran from Chicago to Los Angeles. The trains consisted of Pullman Cars, coach cars, mail cars, dining cars, and baggage cars.</p>  </bioghist>
+  <scopecontent id="aspace_3ff8af039b811680365551ca88c69736">
+    <head>Scope and Contents</head>
+<p>Inclusive date range: 1965-1971 </p><p> Bulk dates: 1965-1971 </p><p> This collections consists of seven passenger conductor's record books. They belonged to E. C. Halbrooks and document the passenger runs between El Paso, Texas and Tuscon, Arizona on the Southern Pacific Railroad's Sunset Limited and the Golden State Limited. The books are hand-written, and contain such information as the names of the conductor, fireman, and brakeman. They also give the date of each trip and the departure and arrival times of the train. Additionally, the books contain the locomotive road numbers of all engines and the road numbers of other rolling stock, i.e. the consist. There are also notes about various passengers on the train, including their eventual destination and the cars in which they were travelling.</p>  </scopecontent>
+  <accessrestrict id="aspace_05da13fce184f7cd17b26e435483cd0e">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_cac70bc1f76a305540c8db72596f0c7b">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_c0a923c87b76940af55fbc96efc08899">
+    <head>Preferred Citation</head>
+<p>Passenger Conductor's Record Books #5604. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Southern Pacific Railroad Company</subject>
+    <subject source="ingest">Sunset Limited</subject>
+    <subject source="ingest">Golden State Limited</subject>
+    <subject source="ingest">Railroads--Employees.</subject>
+    <persname audience="internal" source="ingest">E. C. Halbrooks</persname>
+  </controlaccess>
+  <unitid type="bibid">5675103</unitid>
+  <dsc><c01 id="aspace_f8777f2bc18bc9d491c301aac591779f" level="file"><did><unittitle>December 15, 1965 through September 14, 1966</unittitle><unitdate datechar="creation" normal="1965/1966" type="inclusive">1965-1966</unitdate><container id="aspace_469e85f5423caf957f70cd2354d1d20f" label="unspecified" type="box">1</container><container id="aspace_fa746f4b8a9389a705603d5afbec52d2" parent="aspace_469e85f5423caf957f70cd2354d1d20f" type="folder">1</container></did></c01><c01 id="aspace_c1934c7669874f89411f546e09befb47" level="file"><did><unittitle>September 16, 1966 through December 12, 1967</unittitle><unitdate datechar="creation" normal="1966/1967" type="inclusive">1966-1967</unitdate><container id="aspace_454c690598f4ceea6e435ad1528e3a45" label="unspecified" type="box">1</container><container id="aspace_367c2086e0442d363bd64f115a1d9194" parent="aspace_454c690598f4ceea6e435ad1528e3a45" type="folder">2</container></did></c01><c01 id="aspace_294f92229721ac4d5b119de5d6c5bf6c" level="file"><did><unittitle>October 20, 1967 through December 30, 1967</unittitle><unitdate datechar="creation" normal="1967/1967">1967</unitdate><container id="aspace_ddc9a9efd8dc61de3ac65acd47ef982c" label="unspecified" type="box">1</container><container id="aspace_755fd5ef6236238444ed2526c7804230" parent="aspace_ddc9a9efd8dc61de3ac65acd47ef982c" type="folder">3</container></did></c01><c01 id="aspace_ba03fd77c0c3e2bcb6f1a04546043bb9" level="file"><did><unittitle>May 9, 1968 through January 1, 1969</unittitle><unitdate datechar="creation" normal="1968/1969" type="inclusive">1968-1969</unitdate><container id="aspace_c5ba82247699a92e7fd4b41cd9272440" label="unspecified" type="box">1</container><container id="aspace_3ad70cadc8b92ee3f81940f2e4c420df" parent="aspace_c5ba82247699a92e7fd4b41cd9272440" type="folder">4</container></did></c01><c01 id="aspace_9953230e77193b556a50b04608d9f6cd" level="file"><did><unittitle>April 6, 1970 through June 22, 1970</unittitle><unitdate datechar="creation" normal="1970/1970">1970</unitdate><container id="aspace_e42092f85ba4ae811f655cd045c87165" label="unspecified" type="box">1</container><container id="aspace_f16df560eb6ee55e559515d16b6fc0ad" parent="aspace_e42092f85ba4ae811f655cd045c87165" type="folder">5</container></did></c01><c01 id="aspace_e4a01eaad17e094fc4d6ca0a8c4fe27b" level="file"><did><unittitle>June 1, 1970 through June 22, 1970</unittitle><unitdate datechar="creation" normal="1970/1970">1970</unitdate><container id="aspace_6ca7d91606ba70d9a9d682524575023b" label="unspecified" type="box">1</container><container id="aspace_4892bdbacc4a7bd2057b10f120e0aac4" parent="aspace_6ca7d91606ba70d9a9d682524575023b" type="folder">6</container></did></c01><c01 id="aspace_ce21ed116e1a5ad9898505366240f75f" level="file"><did><unittitle>November 5, 1970 through January 27, 1971</unittitle><unitdate datechar="creation" normal="1970/1971" type="inclusive">1970-1971</unitdate><container id="aspace_a601dc0ae5d7d4d327d0d8a351589973" label="unspecified" type="box">1</container><container id="aspace_549eea133b7d2e80ae816a4ae3c29f8e" parent="aspace_a601dc0ae5d7d4d327d0d8a351589973" type="folder">7</container></did></c01></dsc>
+</archdesc>
+</ead>

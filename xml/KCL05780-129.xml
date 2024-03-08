@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05780-129</eadid><filedesc><titlestmt><titleproper>ILGWU Local 155 Records <num>5780/129</num></titleproper><author>Compiled by R. Miles</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 15, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:04:56 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILGWU Local 155 Records</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">International Ladies' Garment Workers' Union (ILGWU). Local 155</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">International Ladies' Garment Workers' Union (ILGWU)</corpname>
+    </origination>
+    <unitid>5780/129</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1970/1972" type="inclusive">1970-1972</unitdate>
+    <physdesc id="aspace_aca8ed0eb696ef7e4bcfcdbd94b1dbf6" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_419f645f99928b7e303c6d8dc2e18b19" label="Forms of Material:">Records (documents) .</physdesc>
+    <abstract id="aspace_c4f1e05ee2e920b0d6aa544a4f2c821c">The collection contains records relating to Local 155's elections in 1971 and the investigations of those elections the following year.</abstract>
+    <langmaterial id="aspace_46abbf42515a5a59c83214f3a1bfa130">Collection material in English, Spanish</langmaterial>
+    <unitid type="bibid">5508504</unitid>
+  </did>
+  <odd id="aspace_d8f908c63163e7bca143d9a46d1fbd8d">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>R. Miles, August 10, 2009</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 15, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_c7c02bc2d292095fd7257672f0ce3f6f">
+    <head>Biographical / Historical</head>
+<p>The International Ladies' Garment Workers' Union was once one of the largest labor unions in the United States founded in 1900 by local union delegates representing about 2,000 members in cities in the northeastern United States. It was one of the first U.S. Unions to have a membership consisting of mostly females, and it played a key role in the labor history of the 1920s and 1930s. The union is generally referred to as the "ILGWU" or the "ILG". The ILGWU grew in geographical scope, membership size, and political influence to become one of the most powerful forces in American organized labor by mid-century. Representing workers in the women's garment industry, the ILGWU worked to improve working and living conditions of its members through collective bargaining agreements, training programs, health care facilities, cooperative housing, educational opportunities, and other efforts. The ILGWU merged with the Amalgamated Clothing and Textile Workers Union in 1995 to form the Union of Needle trades, Industrial and Textile Employees (UNITE). UNITE merged with the Hotel Employees and Restaurant Employees Union (HERE) in 2004 to create a new union known as UNITE HERE. The two unions that formed UNITE in 1995 represented only 250,000 workers between them, down from the ILGWU's peak membership of 450,000 in 1969.</p>  </bioghist>
+  <bioghist id="aspace_88ae71d9594def8971d0c41b2843d3d8">
+    <head>Biographical / Historical</head>
+<p>Local 155, International Ladies' Garment Workers' Union ILGWU), also known as the Knitgoods Workers' Union, was chartered in 1933 and based in New York City.</p>  </bioghist>
+  <scopecontent id="aspace_da5225bf92d8d6fb06abbb55cdd1cbbe">
+    <head>Scope and Contents</head>
+<p>The collection documents the appeal of February 1971 officer elections for Local 155. Edward Tucker was a rank and file candidate running for manager-secretary of Local 155. He filed multiple appeals regarding the results of the elections on behalf of the Rank and File slate regarding candidate nominations, favored candidates, and the use of intimidation, harassment and fear of penalty for support the Rank and File candidates. The collection includes hearing transcripts, documentation of the numerous appeals and protests, records of the Election and Objection Committee, and correspondence. Another election took place in March 1972 conducted by the U.S. Labor Department after investigations into the fraud charges.</p>  </scopecontent>
+  <accessrestrict id="aspace_2fb5264b6d285a6e9a8d42f3664055d4">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_c3dd3ab692aa4a831da1f78f9afbebf8">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_9eb19d797608c9cba1952ff08caea208">
+    <head>Preferred Citation</head>
+<p>ILGWU Local 155 Records #5780/129. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_2f69c1608cf8cc41cfc66dc66cb00d4e">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780.html"> 5780: ILGWU records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-054.html"> 5780/054: ILGWU Local 155 Records</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Women's clothing industry--United States.</subject>
+    <subject source="ingest">Women's clothing industry--New York (State)--New York.</subject>
+    <subject source="ingest">Clothing workers--Labor unions--United States.</subject>
+    <subject source="ingest">Clothing workers--Labor unions--New York (State)--New York.</subject>
+    <subject source="ingest">Clothing workers--United States.</subject>
+    <subject source="ingest">Clothing workers--New York (State)--New York.</subject>
+    <subject source="ingest">Industrial relations--United States.</subject>
+    <subject source="ingest">Industrial relations--New York (State)--New York.</subject>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union.</corpname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union. Local 155 (New York, N.Y.)</corpname>
+  </controlaccess>
+  <unitid type="bibid">5508504</unitid>
+  <dsc><c01 id="aspace_d562782616b8b62685db299902f2c8e9" level="file"><did><unittitle>1971 Local 155 Election</unittitle><unitdate datechar="creation" normal="1972/1972">1972</unitdate><container id="aspace_8f093415ee925a53a14b5473cc98400a" label="unspecified" type="box">1</container><container id="aspace_951e5a7493a4f78284c61ad36a5b92b0" parent="aspace_8f093415ee925a53a14b5473cc98400a" type="folder">1</container></did><scopecontent id="aspace_e5eb9a6a2377ea455c5a6e4871aa19bb"><head>Scope and Contents</head><p>U.S. Department of Labor Investigation</p></scopecontent></c01><c01 id="aspace_2db2254195ff774c42565fe2dfec3a91" level="file"><did><unittitle>Rank and File Committee</unittitle><unitdate datechar="creation" normal="1970/1971" type="inclusive">1970-1971</unitdate><container id="aspace_aef241dd5cefdbe5b7d46b5b9ac495ac" label="unspecified" type="box">1</container><container id="aspace_3c1686773990605bc9719b4b365a4ce1" parent="aspace_aef241dd5cefdbe5b7d46b5b9ac495ac" type="folder">2</container></did></c01><c01 id="aspace_e56a31d2396614a428cebe47c0d80409" level="file"><did><unittitle>Local 155 Elections</unittitle><unitdate datechar="creation" normal="1971/1971">1971</unitdate><container id="aspace_d1ffdd4e86cd17ddfb658354a16982d4" label="unspecified" type="box">1</container><container id="aspace_f905cec3487d687dbde4f64e4d87d7e3" parent="aspace_d1ffdd4e86cd17ddfb658354a16982d4" type="folder">3</container></did></c01><c01 id="aspace_69e69104b63f96d511cff647f2f0053a" level="file"><did><unittitle>Protest-Appeal of Edward J. Tucker. 1971 Local 155 Elections.</unittitle><unitdate datechar="creation" normal="1971/1971">1971</unitdate><container id="aspace_6735c46fcbf0f48cf803bf6b0e075745" label="unspecified" type="box">1</container><container id="aspace_f66ea7460d6b15e811b27733cc880067" parent="aspace_6735c46fcbf0f48cf803bf6b0e075745" type="folder">4</container></did></c01><c01 id="aspace_020a118d1f917867f7c254b133d9beb9" level="file"><did><unittitle>Progressive Group Knitgoods Workers' Union</unittitle><unitdate datechar="creation" normal="1970/1971" type="inclusive">1970-1971</unitdate><container id="aspace_b254d0131a8f6ccf7ce06eaf18f0a068" label="unspecified" type="box">1</container><container id="aspace_612c0d42456f99750f47bece9cb937ad" parent="aspace_b254d0131a8f6ccf7ce06eaf18f0a068" type="folder">5</container></did></c01><c01 id="aspace_4a2ef13676c5e074b3fc205fadf9ee79" level="file"><did><unittitle>Election and Objection Committee</unittitle><unitdate datechar="creation" normal="1970/1971" type="inclusive">1970-1971</unitdate><container id="aspace_08ab849b85d0218edf32cf89deab56ad" label="unspecified" type="box">1</container><container id="aspace_177bb1690198c10c428814bb2b156121" parent="aspace_08ab849b85d0218edf32cf89deab56ad" type="folder">6</container></did></c01><c01 id="aspace_402626c31b5872ac2494804da376ad5d" level="file"><did><unittitle>Local 155 Elections</unittitle><unitdate datechar="creation" normal="1971/1971">1971</unitdate><container id="aspace_36eebabdb7bdca86263127a7145a970a" label="unspecified" type="box">1</container><container id="aspace_4bfd15543c3a9bda01953b410464b874" parent="aspace_36eebabdb7bdca86263127a7145a970a" type="folder">7</container></did><scopecontent id="aspace_1a20569edd45d4155a5a31ed6f95ed6e"><head>Scope and Contents</head><p>English and Spanish</p></scopecontent></c01><c01 id="aspace_fa216c80b2adfdeb081904d51c0b1f41" level="file"><did><unittitle>Local 155 Re-Run Election</unittitle><unitdate datechar="creation" normal="1971/1972" type="inclusive">1971-1972</unitdate><container id="aspace_0052f420dc9c8b2d49591f7aa21a724a" label="unspecified" type="box">1</container><container id="aspace_21af4b2ce2421dc497ae94a17f011175" parent="aspace_0052f420dc9c8b2d49591f7aa21a724a" type="folder">8</container></did><scopecontent id="aspace_63b63e247c6bae44d2353ebfea46cdd2"><head>Scope and Contents</head><p>English and Spanish</p></scopecontent></c01><c01 id="aspace_fd3f4a59515f76ed58c33c519194ba4e" level="file"><did><unittitle>1971 Local 155 Election Results</unittitle><unitdate datechar="creation" normal="1971/1972" type="inclusive">1971-1972</unitdate><container id="aspace_7038f3dc8de27db029de4d9e8f23f4cc" label="unspecified" type="box">1</container><container id="aspace_17d1abb0b3743c6fa066f354bfcbdcb3" parent="aspace_7038f3dc8de27db029de4d9e8f23f4cc" type="folder">9</container></did></c01><c01 id="aspace_468b12c1bac90a215d09949d1feacca0" level="file"><did><unittitle>1971 Local 155 Elections. Rank and File Committee Protest</unittitle><unitdate datechar="creation" normal="1972/1972">1972</unitdate><container id="aspace_d2c4bc7c93a1645d773f26f41fc6a7d7" label="unspecified" type="box">1</container><container id="aspace_227e81e15d1831aa119aaa2a9f63c998" parent="aspace_d2c4bc7c93a1645d773f26f41fc6a7d7" type="folder">10</container></did></c01></dsc>
+</archdesc>
+</ead>

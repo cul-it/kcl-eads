@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05709mf</eadid><filedesc><titlestmt><titleproper>National Women's Trade Union League of America Records on Microfilm <num>5709 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 28, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 15:54:32 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>National Women's Trade Union League of America Records on Microfilm</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">National Women's Trade Union League</corpname>
+    </origination>
+    <unitid>5709 mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2.78 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1903/1950" type="inclusive">1903-1950</unitdate>
+    <physdesc id="aspace_5b5603fe31377dde7530372845d7e345" label="Quantity:">25 microfilm reels</physdesc>
+    <physdesc id="aspace_cf5cb564c0995226249901543ae5f6f7" label="Forms of Material:">Records (documents), lobbyists, microfilm.</physdesc>
+    <abstract id="aspace_099d0a86a87d88b33fa51c0ac49c94b7">These records include correspondence, reports, speeches, notes, printed matter, minutes of meetings, proceedings of the League and of the International Congress of Working Women, biographical material on the League's officers, and correspondence between the National League and its local branches. Major issues covered include the eight-hour day, minimum wage, establishment of sanitary work areas, federal aid to education, civil rights, price controls and social security. Unpublished guide available.</abstract>
+    <langmaterial id="aspace_38f8b4790a09c978908771dd83eb7306">Collection material in English</langmaterial>
+    <unitid type="bibid">3833878</unitid>
+  </did>
+  <odd id="aspace_d61775d8bb84cb9b9c6be32324939acb">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, March 28, 2019</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 28, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_85dfd1d599a2a836be3969bf715398ce">
+    <head>Biographical / Historical</head>
+<p>As the League's president from 1907 to 1922, Margaret Dreier Robins, the well-to-do daughter of a Brooklyn businessman, guided it through the period of its most active work. Among her close associates were several working class women who served as officers of the national or local Leagues, including Leonora O'Reilly of New York and Agnes Nestor and Mary Anderson of Chicago. After 1922, working women took over the leadership; Rose Schneiderman, a veteran leader of strikes in the needle trades, served as national president from 1926 to 1950.</p>  </bioghist>
+  <bioghist id="aspace_9b08788dd5724dae2f57fe298ed507ea">
+    <head>Biographical / Historical</head>
+<p>The Women's Trade Union League was founded in 1903 during the annual convention of the American Federation of Labor. Local branches were organized within a year in Boston, Chicago and New York. In 1907 its name became the National Women's Trade Union League of America. The League sought to counter the exploitation of working women by organizing them into trade unions and by securing protective legislation regulating their hours and working conditions and setting minimum wage standards. Its dual membership of working and middle class women made the League unique among social reform organizations of its day.</p>  </bioghist>
+  <scopecontent id="aspace_bccc8f43b5e0ffa55cf10e6912c7ab16">
+    <head>Scope and Contents</head>
+<p>The records of the National Women's Trade Union League of America (NWTUL) span the lifetime of the organization from the first meeting in Boston in 1903 to the last bulletin of its official organ, LIFE AND LABOR, announcing the termination of the League's national charter in 1950. The records consist of correspondence, memoranda, speeches, clippings, notes, printed matter, and miscellaneous other items. </p><p> The NWTUL's administrative operations are well documented in the headquarters records. Its policies and activities are recorded in the minutes of the Executive Board meetings and in the correspondence. Most of the letters and memoranda are from the various national League secretaries, particularly Elisabeth Christman, who held the position from 1921 to 1950. There is, as well, correspondence from various members of both the national and local Leagues, especially from the New York, Boston, and Chicago branches. Many of the local League members also served as officers and/or Executive Board members of the national League and are represented in the headquarters records. Included in this group are Margaret Dreier Robins, Mary Morton Kehew, Jane Addams, Rose Schneiderman, Mary Kenney O'Sullivan, Melinda Scott, Agnes Nestor, and Mary E. Dreier. Interspersed with the materials documenting the activities of the League are financial statements enumerating sources of income and costs of operation. </p><p> The subject files as well as the headquarters records offer a major source of information concerning the League's goal of organizing women wage workers into trade unions. There is considerable material on the early history of the League in the historical data file. Many of the files on individual members contain biographical information, and the file on the American Federation of Labor sheds light on the League's relationship to that organization. Here and in the headquarters records is correspondence with Samuel Gompers, Frank Morrison, Frank Duffy, and Florence C. Thorne. </p><p> Both series (headquarters records and subject files) contain documentation of the League's efforts to improve women's working conditions through supporting strikes, particularly in the garment industry, through the use of a training school to develop leadership among women of the working class, and through lobbying for the enactment of protective labor legislation. Issues such as the eight-hour day, a minimum wage, and the establishment of sanitary work areas were the focus of the League's early days. However, its interests broadened in later years to include federal aid to education, civil rights, price control, and social security. Correspondents include Ethel M. Smith, Eleanor Roosevelt, Sophonisba P. Breckinridge, Mary Anderson, Alice Henry, and Frances Perkins. </p><p> The records of the NWTUL also contain proceedings for 10 of the 13 national conventions and mimeographed corrected copies of the proceedings of the three international congresses which the League sponsored.</p>  </scopecontent>
+  <accessrestrict id="aspace_e69cc88b10af381312aeae73f81ab423">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_5b42a8375ac841b161c591c254ddfb0a">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_fc787a6b171fe2073035e42dec0586a9">
+    <head>Preferred Citation</head>
+<p>National Women's Trade Union League of America Records on Microfilm #5709 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_d499edfeb0cff6fdfa35228c8443ad52">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05690mf.html"> 5690 mf: Women's Trade Union League Papers on Microfilm</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Civil rights--United States.</subject>
+    <subject source="ingest">Eight-hour movement.</subject>
+    <subject source="ingest">Federal aid to education--United States.</subject>
+    <subject source="ingest">Hours of labor. Law and Legislation. United States.</subject>
+    <subject source="ingest">Industrial hygiene. Law and legislation. United States.</subject>
+    <subject source="ingest">Labor laws and legislation--United States.</subject>
+    <subject source="ingest">Social security--United States.</subject>
+    <subject source="ingest">Strikes and lockouts. Clothing industry. United States.</subject>
+    <subject source="ingest">Labor leaders. United States.</subject>
+    <subject source="ingest">Wage-price policy--United States.</subject>
+    <subject source="ingest">Wages. Law and legislation. United States.</subject>
+    <subject source="ingest">Wages. Minimum wage. Law and legislation. United States.</subject>
+    <subject source="ingest">Wages. Women. Law and legislation. United States.</subject>
+    <subject source="ingest">Women in trade-unions. United States. Organizing.</subject>
+    <subject source="ingest">Women social reformers--United States.</subject>
+    <subject source="ingest">Women. Employment. Law and legislation. United States.</subject>
+    <subject source="ingest">Women. Law and legislation. United States.</subject>
+    <subject source="ingest">Women. Working conditions. United States.</subject>
+    <subject source="ingest">Workers' education. Women. United States.</subject>
+    <subject source="ingest">Working class women--United States.</subject>
+    <subject source="ingest">Working conditions. Law and legislation. United States.</subject>
+    <persname audience="internal" source="ingest">Addams, Jane. 1860-1935.</persname>
+    <persname audience="internal" source="ingest">Anderson, Mary, 1872-1964.</persname>
+    <persname audience="internal" source="ingest">Breckinridge, Sophonisba Preston, 1866-1948.</persname>
+    <persname audience="internal" source="ingest">Christman, Elisabeth.</persname>
+    <persname audience="internal" source="ingest">Dreier, Mary E.</persname>
+    <persname audience="internal" source="ingest">Duffy, Frank, 1861-1955.</persname>
+    <persname audience="internal" source="ingest">Gompers, Samuel, 1850-1924.</persname>
+    <persname audience="internal" source="ingest">Henry, Alice, 1957-1943</persname>
+    <persname audience="internal" source="ingest">Kehew, Mary Morton.</persname>
+    <persname audience="internal" source="ingest">Morrison, Frank, 1859-1949</persname>
+    <persname audience="internal" source="ingest">Nestor, Agnes, 1880-1948.</persname>
+    <persname audience="internal" source="ingest">O'Sullivan, Mary Kenney, 1864-1943.</persname>
+    <persname audience="internal" source="ingest">Perkins, Frances, 1882-1965.</persname>
+    <persname audience="internal" source="ingest">Robins, Margaret Dreier.</persname>
+    <persname source="ingest">Roosevelt, Eleanor, 1884-1962.</persname>
+    <persname audience="internal" source="ingest">Schneiderman, Rose, 1882-</persname>
+    <persname audience="internal" source="ingest">Scott, Melinda.</persname>
+    <persname audience="internal" source="ingest">Smith, Ethel M.</persname>
+    <persname audience="internal" source="ingest">Thorne, Florence Calvert.</persname>
+    <corpname audience="internal" source="ingest">American Federation of Labor.</corpname>
+    <corpname source="ingest">International Ladies' Garment Workers' Union</corpname>
+    <corpname audience="internal" source="ingest">National Women's Trade Union League of America.</corpname>
+    <corpname audience="internal" source="ingest">American Federation of Labor.</corpname>
+    <corpname audience="internal" source="ingest">Women's Trade Union League of Boston.</corpname>
+    <corpname audience="internal" source="ingest">Women's Trade Union League of Chicago.</corpname>
+    <corpname audience="internal" source="ingest">Women's Trade Union League of New York.</corpname>
+  </controlaccess>
+  <unitid type="bibid">3833878</unitid>
+  <dsc><c01 id="aspace_cf530ee2cbed3883519dd848ad066a48" level="series"><did><unittitle>(Online container list not yet available.)</unittitle></did></c01></dsc>
+</archdesc>
+</ead>

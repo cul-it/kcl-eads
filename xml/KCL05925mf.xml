@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05925mf</eadid><filedesc><titlestmt><titleproper>Papers of the NAACP, Pt. 13, Series A, B, &amp; C on Microfilm <num>5925 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 08, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:15:54 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Papers of the NAACP, Pt. 13, Series A, B, &amp; C on Microfilm</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">National Association for the Advancement of Colored People (NAACP)</corpname>
+    </origination>
+    <unitid>5925 mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">6.44 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1940/1955" type="inclusive">1940- 1955</unitdate>
+    <physdesc id="aspace_b89eef5f2a32f6b7fcf5c4e0f7be600a" label="Quantity:">58 microfilm reels</physdesc>
+    <physdesc id="aspace_c3d84a98466d57c98c41f8b40726ad63" label="Forms of Material:">Papers, microfilm.</physdesc>
+    <abstract id="aspace_53322daeef102704c807ce717cb98384">Correspondence, press releases, and clippings regarding employment opportunities and traning programs for blacks in national defense industries. Principal correspondents: Sidney Hillman and Robert C. Weaver.</abstract>
+    <langmaterial id="aspace_0ec054fb7396c6a7771957bb70afc6a8">Collection material in English</langmaterial>
+    <unitid type="bibid">9213979</unitid>
+  </did>
+  <odd id="aspace_b39b02496e116af0bf91c42c8726afff">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, March 08, 2016</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, March 08, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_02b716ff068f20ecbe30fdf88926beee">
+    <head>Biographical / Historical</head>
+<p>Founded Feb. 12. 1909, the NAACP is the nation's oldest, largest and most widely recognized grassroots-based civil rights organization. Its more than half-million members and supporters throughout the United States and the world are the premier advocates for civil rights in their communities, campaigning for equal opportunity and conducting voter mobilization.</p>  </bioghist>
+  <scopecontent id="aspace_d563791a568920ec3d52d23358ea0f42">
+    <head>Scope and Contents</head>
+<p>Series A- 21 reels "Subject Files on Labor Conditions &amp; Employment Discrimination"; Series B - 25 reels "Cooperation with Organized Labor"; Series C - 12 reels "Legal Department Files on Labor"</p>  </scopecontent>
+  <accessrestrict id="aspace_1568e78b855da9ba4c27263b2b5f1c7a">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_b699343aa951ddfb64cfb91bc5755671">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_cced35e3b227b3a75e536d8154ef74c3">
+    <head>Preferred Citation</head>
+<p>Papers of the NAACP, Pt. 13, Series A, B, &amp; C on Microfilm #5925 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <otherfindaid id="aspace_15486e9764e58268aba148daa4810d6d">
+    <head>Other Finding Aids</head>
+<p>The container list for Series A of this collecion can be found in the University Publications of America finding aid and is available <extref xlink:href="http://cisupa.proquest.com/ksc_assets/catalog/1431_PapersNAACPPart13SerA.pdf">here</extref>. </p><p>  The container list for Series B of this collecion can be found in the University Publications of America finding aid and is available <extref xlink:href="http://cisupa.proquest.com/ksc_assets/catalog/1433_PapersNAACPPart13SerB.pdf">here</extref>. </p><p>  The container list for Series C of this collecion can be found in the University Publications of America finding aid and is available <extref xlink:href="http://cisupa.proquest.com/ksc_assets/catalog/1436_PapersNAACPPart13SerC.pdf">here</extref>.</p>  </otherfindaid>
+  <controlaccess>
+    <subject source="ingest">Defense industries, United States.</subject>
+    <subject source="ingest">Discrimination in employment, United States.</subject>
+    <subject source="ingest">African Americans, Employment.</subject>
+    <persname audience="internal" source="ingest">Hillman, Sidney, 1887-1946.</persname>
+    <persname audience="internal" source="ingest">Weaver, Robert C.(Robert Clifton), 1907-1997.</persname>
+    <corpname audience="internal" source="ingest">National Association for the Advancement of Colored People, Archives.</corpname>
+    <corpname audience="internal" source="ingest">United States. Office of Production Management-Labor Division.</corpname>
+  </controlaccess>
+  <unitid type="bibid">9213979</unitid>
+  <dsc/>
+</archdesc>
+</ead>

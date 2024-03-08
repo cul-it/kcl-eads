@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05955</eadid><filedesc><titlestmt><titleproper>International Brotherhood of Pulp, Sulphite, and Paper Mill Workers Files on 1921-1926 Strike <num>5955</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>November 15, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:17:35 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>International Brotherhood of Pulp Sulphite, and Paper Mill Workers Files on 1921-1926 Strike</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">International Brotherhood of Pulp, Sulphite, and Paper Mill Workers</corpname>
+    </origination>
+    <unitid>5955</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1921/1926" type="inclusive">1921-1926</unitdate>
+    <physdesc id="aspace_c2633e46ab5750a10bcb0e98cdb17046" label="Quantity:">0.3 linear ft.</physdesc>
+    <physdesc id="aspace_5be9ce413b3682929423105ce073ccde" label="Forms of Material:">Records (documents).</physdesc>
+    <abstract id="aspace_1e2ca46c6d7a0508f12fae9a755007af">Photocopies of meeting minutes and proceedings, correspondence, and other materials relating to the International Brotherhood of Pulp, Sulphite, and Paper Mill Workers' strike against the International Paper Company from 1921 to 1926.</abstract>
+    <langmaterial id="aspace_70c008f3e63af4e31d0945de4c03abed">Collection material in English</langmaterial>
+    <unitid type="bibid">5743714</unitid>
+  </did>
+  <odd id="aspace_f09edfea010f78fe0fad463cc7675742">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, May 30, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Elizabeth Parker, November 15, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_ee140c7420ed261db259e2f8fae8b1f8">
+    <head>Biographical / Historical</head>
+<p>The International Brotherhood of Pulp, Sulphite, and Paper Mill Workers, formed in 1909, represented skilled as well as non-skilled workers. It merged with the United Papermakers Paperworkers in 1972, forming the United Paperworkers International Union (UPIU). In 1999, UPIU joined with the Oil, Chemical and Atomic Workers Union to form the Paper, Allied-Industrial, Chemical and Energy Workers International Union (PACE). In 2005, PACE merged with the United Steel Workers of America. </p><p> The United Paperworkers International Union was formed in 1972, when the United Papermakers and Paperworkers (1957-1972) merged with the International Brotherhood of Pulp, Sulphite, and Paper Mill Workers (1909-1972). The United Papermakers and Paperworkers had evolved in 1957 from a merger between the International Brotherhood of Paper Makers (1893-1957) and the United Paperworkers of America (1946-1957).</p>  </bioghist>
+  <scopecontent id="aspace_4d04a0f7136f74e0ed408c3c8e8f7fc7">
+    <head>Scope and Contents</head>
+<p>This collection consists of photocopies of meeting minutes and proceedings, correspondence, and other materials relating to the International Brotherhood of Pulp, Sulphite, and Paper Mill Workers' strike against the International Paper Company from 1921 to 1926.</p>  </scopecontent>
+  <accessrestrict id="aspace_b57da2fedf841b97980124b85a73b97b">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_efcdf0d2e31de5e3d398006b377c03f3">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_fadfece7f7ca0ab0c807943f5ba6f46c">
+    <head>Preferred Citation</head>
+<p>International Brotherhood of Pulp, Sulphite, and Paper Mill Workers Files on 1921-1926 Strike #5955. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_32e0f6c686bae9c79486dbe44a3d3408">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05432mf.html"> 5432 mf: International Brotherhood of Pulp, Sulphite and Paper Mill Workers Records on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05288.html"> 5288: International Brotherhood Pulp, Sulphite, Paper Mill Workers, Local 670 (Utica, NY) Minute Book</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05432.html"> 5432: International Brotherhood of Pulp, Sulphite and Paper Mill Workers Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05781.html"> 5781: International Brotherhood of Pulp, Sulphite, and Paper Mill Workers and United Papermakers and Paperworkers Records of Negotiations</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06030.html"> 6030: Archival Collective Bargaining Agreements File</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05097.html"> 5097: New York State Board of Mediation and Arbitration Transcripts and Exhibits</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Paper industry workers -- Labor unions -- United States.</subject>
+    <subject source="ingest">Collective bargaining -- Paper industry -- United States.</subject>
+    <corpname audience="internal" source="ingest">International Brotherhood of Pulp, Sulphite, and Paper Mill Workers.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5743714</unitid>
+  <dsc><c01 id="aspace_9167db59cba333a7b144cf8f7f9a158e" level="file"><did><unittitle>Strike files [folder 1 of 2]</unittitle><unitdate datechar="creation" normal="1921/1921">1921</unitdate><physdesc id="aspace_16beea70125ad63b9f994655e600b45b" label="Format:">Letter</physdesc><container id="aspace_f4c5230b8b78f7436f0bbf9535547fe0" label="unspecified" type="box">1</container><container id="aspace_ff8b25d973f65b36a86f355d052e33d1" parent="aspace_f4c5230b8b78f7436f0bbf9535547fe0" type="folder">1</container></did></c01><c01 id="aspace_b859a28c06d1e3a76fcee291e36a0bb8" level="file"><did><unittitle>Strike files [folder 2 of 2]</unittitle><unitdate datechar="creation" normal="1921/1921">1921</unitdate><physdesc id="aspace_da8e8f8c8f4bd5a7211496140e8bacb2" label="Format:">Letter</physdesc><container id="aspace_f14e649f4a3774a5273cf0c4f889f38f" label="unspecified" type="box">1</container><container id="aspace_76bdc12d40c060c80a552327af2ce029" parent="aspace_f14e649f4a3774a5273cf0c4f889f38f" type="folder">2</container></did></c01><c01 id="aspace_876e1c48d9306dafd09d1277bce5d9eb" level="file"><did><unittitle>Strike files [folder 1 of 2]</unittitle><unitdate datechar="creation" normal="1922/1922">1922</unitdate><physdesc id="aspace_235ad0e895ea2a4b98ecab571e108aa6" label="Format:">Letter</physdesc><container id="aspace_c78c23ff39a158b6319d5a098bb30879" label="unspecified" type="box">1</container><container id="aspace_93d46d9a3a140301d822e6dbc6eb1647" parent="aspace_c78c23ff39a158b6319d5a098bb30879" type="folder">3</container></did></c01><c01 id="aspace_c08ad58463b6835b482f3228cc138cab" level="file"><did><unittitle>Strike files [folder 2 of 2]</unittitle><unitdate datechar="creation" normal="1922/1922">1922</unitdate><physdesc id="aspace_04daefb241f997d5d65dd343f51bfb0a" label="Format:">Letter</physdesc><container id="aspace_62514151ae08d76c455a532730f80da9" label="unspecified" type="box">1</container><container id="aspace_8c22937da5a3404cc813c194bd8b2347" parent="aspace_62514151ae08d76c455a532730f80da9" type="folder">4</container></did></c01><c01 id="aspace_e588c760806b8bd4b523d2a31d66e2a6" level="file"><did><unittitle>Strike files</unittitle><unitdate datechar="creation" normal="1923/1923">1923</unitdate><physdesc id="aspace_ebc55d332c74bdc91de25657956babb0" label="Format:">Letter</physdesc><container id="aspace_0c5861167c5096cac15fbc44a58a7695" label="unspecified" type="box">1</container><container id="aspace_1daecc68d27fa4ce691c26a129d4418f" parent="aspace_0c5861167c5096cac15fbc44a58a7695" type="folder">5</container></did></c01><c01 id="aspace_5aedcc55e8f3b3d283b73a3ddb3fcd45" level="file"><did><unittitle>Strike files</unittitle><unitdate datechar="creation" normal="1924/1926" type="inclusive">1924-1926</unitdate><physdesc id="aspace_6249d65c7b6a106f52ff45a54eb982b0" label="Format:">Letter</physdesc><container id="aspace_3db83da99670cd22db2f392336c81b74" label="unspecified" type="box">1</container><container id="aspace_647f79d61ec2089fbdc884eb53a6aa7e" parent="aspace_3db83da99670cd22db2f392336c81b74" type="folder">6</container></did></c01></dsc>
+</archdesc>
+</ead>

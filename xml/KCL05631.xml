@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05631</eadid><filedesc><titlestmt><titleproper>Brotherhood of Railroad Trainmen Chicago, Milwaukee, St. Paul and Pacific Railroad General Committee File <num>5631</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 25, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 15:51:27 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Brotherhood of Railroad Trainmen Chicago, Milwaukee, St. Paul and Pacific Railroad General Committee File</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Brotherhood of Railroad Trainmen (BRT)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Chicago, Milwaukee, St. Paul and Pacific Railroad (MILW)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Milwaukee Road (MILW)</corpname>
+    </origination>
+    <unitid>5631</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1932/1944" type="inclusive">1932-1944</unitdate>
+    <physdesc id="aspace_8919c211c82651f07c6bca650f79b50b" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_c63bfc81e9c0b3339c7f177345c2fb5b" label="Forms of Material:">Records (documents).</physdesc>
+    <langmaterial id="aspace_b4492a6a9fcf6b4cea14ecfd6647318a">Collection material in English</langmaterial>
+    <unitid type="bibid">5677101</unitid>
+  </did>
+  <odd id="aspace_c191460053ef98e4ffa31fadf5ee3892">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, March 04, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 25, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_0a0fddbaeb525f814348d4394e2936e8">
+    <head>Biographical / Historical</head>
+<p>The Brotherhood of Railroad Trainmen was founded in 1883 in Oneonta, N.Y. as a protective and insurance organization. By the time of its merger with three other railroad labor unions to form the United Transportation Union in 1969, it had the greatest membership of any of the operating railroad brotherhoods. </p><p> The Brotherhood of Railroad Trainmen (BRT) was established to represent members' interests in obtaining a satisfactory contract with management. The first Canadian lodge was established in Moncton, New Brunswick in 1885, and the first Ladies' Auxiliary was organized in Fort Gratiot, Mich. in 1889. These records reflect the union's political and fraternal activities as well as its actions in the areas of collective bargaining, grievances, and railroad and labor legislation. As the largest of the unions which merged to form the United Transportation Union in 1969, the bulk of its then current files formed the basis for the files now held in the merged union's headquarters. </p><p> The rail service members of the BRT included conductors and their assistants, dining car stewards, ticket collectors, train baggagemen, brakemen, and train flagmen. The yard service members of the BRT included yardmasters, yard conductors, switchtenders, foremen, flagmen, brakemen, switchmen, car tenders, operators, hump riders, and car operators. In 1933, the BRT organized interstate bus operators, and included them under BRT contracts held with U.S. bus companies. </p><p> BRT officers were elected at the Grand Lodge Convention of the Brotherhood, held every 4 years. The principal officers included a president, an assistant to the president, a general secretary-treasurer, Canadian and national legislative representatives, a senior vice-president, BRT representative, and National Railroad Board of Adjustment representative. The BRT had four governing boards: the Board of Directors, Board of Trustees and Insurance, Board of Appeals, and Executive Board.</p>  </bioghist>
+  <accessrestrict id="aspace_e6754ee3d7f3522a4d8f389655c19d78">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_b95fc1232ef09675bc720edb9c972ceb">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_8e7beb58f9357129cf5cdce1429f7707">
+    <head>Preferred Citation</head>
+<p>Brotherhood of Railroad Trainmen Chicago, Milwaukee, St. Paul and Pacific Railroad General Committee File #5631. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_1e17389fccde97995f14f55372c50d86">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05021.html"> 5021: Brotherhood of Railroad Trainmen Additional Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05102.html"> 5102: Emergency Board No. 129, Long Island Railroad and the Brotherhood of Railroad Trainmen, Locals 517 and 1090, Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05149.html"> 5149: Brotherhood of Railroad Trainmen Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05149mb.html"> 5149 MB: Brotherhood of Railroad Trainmen Memorabilia</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05149p.html"> 5149 P: Brotherhood of Railroad Trainmen Photographs</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05348.html"> 5348: W.P. Kennedy as President of the Brotherhood of Railroad Trainmen against the Long Island Railroad Company Court Documents</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05446.html"> 5446: Brotherhood of Railroad Trainmen Ledger</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05612.html"> 5612: Brotherhood of Railroad Trainmen Moosic Tunnel Lodge no.93 Meeting Minutes</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05623.html"> 5623: Brotherhood of Railroad Trainmen Legislative Board of New York Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05647.html"> 5647: Brotherhood of Railroad Trainmen Joppa Lodge (Toledo, OH) Minute Books</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05894.html"> 5894: Brotherhood of Railroad Trainmen Additional Railroad Booklets</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06268p.html"> 6268 P: Joint Committee of Adjustment for the Rock Island System's Order of Railway Conductors and Brotherhood of Railroad Trainmen Photograph</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06312p.html"> 6312 P: Judith Sullivan Kowalczyk Collection of Brotherhood of Railroad Trainmen Photographs</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06312pubs.html"> 6312 PUBS: Judith Sullivan Kowalczyk Collection of Brotherhood of Railroad Trainmen Publications</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06312m.html"> 6312m: Brotherhood of Railroad Trainmen Annual Report of the Legislative Board</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06405pubs.html"> 6405 PUBS: William Sharp Collection of The Railroad Trainmen's Journal</extref> 6480 MB: Paul Berger Collection of Brotherhood of Railroad Trainmen Memorabilia</p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Railroads--Employees--Labor unions--United States.</subject>
+    <corpname audience="internal" source="ingest">Brotherhood of Railroad Trainmen.</corpname>
+    <corpname audience="internal" source="ingest">Chicago, Milwaukee, and St. Paul Railway Company.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5677101</unitid>
+  <dsc><c01 id="aspace_94193f782f7107b38141132325e42213" level="file"><did><unittitle>Brotherhood of Railway Trainmen. General Committee File. Chicago, Milwaukee, St. Paul, Pacific.</unittitle><unitdate datechar="creation" normal="1929/1947" type="inclusive">1929-1947</unitdate><container id="aspace_5a61efabf34e69b8dc2fcc495d60967d" label="unspecified" type="box">1</container><container id="aspace_7901d01e35fd6ca7505a4b7eeb8eb9aa" parent="aspace_5a61efabf34e69b8dc2fcc495d60967d" type="folder">1</container></did><scopecontent id="aspace_9651a3496115ed6776d910868f9b6a1f"><head>Scope and Contents</head><p>March 21 1929 to May 17 1947.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

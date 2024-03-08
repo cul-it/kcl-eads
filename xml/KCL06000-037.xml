@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06000-037</eadid><filedesc><titlestmt><titleproper>UNITE Communications Department Records <num>6000/037</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 30, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:20:59 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>UNITE Communications Department Records</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Union of Needletrades, Industrial and Textile Employees (UNITE)</corpname>
+    </origination>
+    <unitid>6000/037</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.61 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1962/2003" type="inclusive">1962-2003</unitdate>
+    <physdesc id="aspace_1859f7c6e597bef9fc6db79e7159a98d" label="Quantity:">0.6 linear ft.</physdesc>
+    <physdesc id="aspace_04b17a81d2e00393f31fae2698d15c8c" label="Forms of Material:">Records.</physdesc>
+    <langmaterial id="aspace_a3920da1aeae6116125c603cdc612c78">Collection material in English</langmaterial>
+    <unitid type="bibid">6179006</unitid>
+  </did>
+  <odd id="aspace_e674144c2f1420eaa53a1d216475425a">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 05, 2012</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 30, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_24deb6137433cb9e6772b1ad01bf111c">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_a94ce1b478da037b60922758689ccf8b">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_cb5242cca9b9acec41892cbf8f38cae2">
+    <head>Preferred Citation</head>
+<p>UNITE Communications Department Records #6000/037. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_236a96b917aed48d175d4cef2b21e15d">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06000-032.html"> 6000/032: UNITE Communications Department Joann Mort Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06000-037av.html"> 6000/037 AV: UNITE Communications Department Audio-Visual Materials</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06000-037p.html"> 6000/037 P: UNITE Communications Department Photographs</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Textile workers--Labor unions</subject>
+    <subject source="ingest">Clothing workers--Labor unions</subject>
+    <corpname audience="internal" source="ingest">Union of Needletrades, Industrial, and Textile Employees.</corpname>
+    <corpname audience="internal" source="ingest">Amalgamated Clothing and Textile Workers Union --Archives</corpname>
+    <corpname audience="internal" source="ingest">Union of Needletrades, Industrial, and Textile Employees --Archives</corpname>
+    <corpname audience="internal" source="ingest">Union of Needletrades, Industrial, and Textile Employees. Communications Department--Archives</corpname>
+    <corpname audience="internal" source="ingest">UNITE HERE (Organization) --Archives</corpname>
+  </controlaccess>
+  <unitid type="bibid">6179006</unitid>
+  <dsc><c01 id="aspace_a067d4aac597c45c5b5561841a4b0c3b" level="file"><did><unittitle>UNITE Communications Dept.</unittitle><unitdate datechar="creation" normal="1997/1997">1997</unitdate><container id="aspace_0e20f415257e0ed6ac584f0223f8027f" label="unspecified" type="box">1</container><container id="aspace_b276cc4d05bc49636e790dcccea790c8" parent="aspace_0e20f415257e0ed6ac584f0223f8027f" type="folder">1</container></did></c01><c01 id="aspace_36ea1c9dd1e20d6962befa445d113096" level="file"><did><unittitle>UNITE Communications Dept.</unittitle><unitdate datechar="creation" normal="1985/1997" type="inclusive">1985-1997</unitdate><container id="aspace_0e5f0f13e0657ec4d9c2b82d7acec312" label="unspecified" type="box">1</container><container id="aspace_f0c2a013b6d13cf87a77fbc494f1ae13" parent="aspace_0e5f0f13e0657ec4d9c2b82d7acec312" type="folder">2</container></did></c01><c01 id="aspace_afa0e9cfc5eb4236766acedd6fd2b597" level="file"><did><unittitle>AFL-CIO</unittitle><unitdate datechar="creation" normal="1962/1972" type="inclusive">1962-1972</unitdate><container id="aspace_b520b8056a9b3fffb8625883cb52db42" label="unspecified" type="box">1</container><container id="aspace_5bf36c86aa030446c2f26432c586a41b" parent="aspace_b520b8056a9b3fffb8625883cb52db42" type="folder">3</container></did></c01><c01 id="aspace_1c6e1f55197946cb4e40ff48e31b8d4e" level="file"><did><unittitle>Hillman Logos, Ads</unittitle><unitdate datechar="creation" normal="1997/1997">1997</unitdate><container id="aspace_90ae85ed21dea358b3d9f3829f259bfe" label="unspecified" type="box">1</container><container id="aspace_6cc054433be8dee62a17593200822649" parent="aspace_90ae85ed21dea358b3d9f3829f259bfe" type="folder">4</container></did></c01><c01 id="aspace_282d68d724194f9b8075db8d8b89781b" level="file"><did><unittitle>Comm. Dept? UNITE</unittitle><unitdate datechar="creation" normal="2003/2003">2003</unitdate><container id="aspace_fd925ae5c793c748eb1452fb018798b8" label="unspecified" type="box">1</container><container id="aspace_e4083d82b7275d23c8e094c410b0ee80" parent="aspace_fd925ae5c793c748eb1452fb018798b8" type="folder">5</container></did></c01><c01 id="aspace_c3a29ce429c16f5304407611757a501c" level="file"><did><unittitle>Safety &amp; Health + Safety</unittitle><unitdate datechar="creation" normal="1992/1992">1992</unitdate><container id="aspace_735a53b3dbc05e22a50ab3a8a816f4db" label="unspecified" type="box">1</container><container id="aspace_94ad2f9ceaf14b0e434f371c72ec0a17" parent="aspace_735a53b3dbc05e22a50ab3a8a816f4db" type="folder">6</container></did></c01><c01 id="aspace_b1011b95041910a85cf153df4b9b3904" level="file"><did><unittitle>Organization (Ind. 17-18)</unittitle><unitdate datechar="creation" normal="1994/1994">1994</unitdate><container id="aspace_38f0a04df14a7cee4542f380a927c871" label="unspecified" type="box">1</container><container id="aspace_3ee70760653c8a3ac9fd9847feb7963a" parent="aspace_38f0a04df14a7cee4542f380a927c871" type="folder">7</container></did></c01><c01 id="aspace_43bfeefe415c6c5b5d154809f9edd84e" level="file"><did><unittitle>UNITE Newsletters</unittitle><unitdate datechar="creation" normal="1995/1995">1995</unitdate><container id="aspace_2c09a623cd8d21edcb5fb6a149c0c302" label="unspecified" type="box">1</container><container id="aspace_90adbadcc56de918ffdcf3e230371fd2" parent="aspace_2c09a623cd8d21edcb5fb6a149c0c302" type="folder">8</container></did></c01><c01 id="aspace_ef4c2ea17f62ed36a85a839cefbdc70a" level="file"><did><unittitle>Justice</unittitle><unitdate datechar="creation" normal="1992/1992">1992</unitdate><container id="aspace_69e5e63782e58f933c221584f9c673df" label="unspecified" type="box">1</container><container id="aspace_fdd99bf211efdc8edcc88959cbe45767" parent="aspace_69e5e63782e58f933c221584f9c673df" type="folder">9</container></did></c01><c01 id="aspace_3bf6ebe2ec3bea6cba59ad60822850e3" level="file"><did><unittitle>United Hatters, AFL Affiliation, 1896</unittitle><container id="aspace_9f86706d1af408a24f75e5097d85fd97" label="unspecified" type="box">2</container></did></c01></dsc>
+</archdesc>
+</ead>

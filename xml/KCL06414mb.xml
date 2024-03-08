@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06414mb</eadid><filedesc><titlestmt><titleproper>Interfaith Worker Justice Memorabilia <num>6414 MB</num></titleproper><author>Compiled by M. Clark</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>May 26, 2017</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:47:47 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Interfaith Worker Justice Memorabilia</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Interfaith Worker Justice</corpname>
+    </origination>
+    <unitid>6414 MB</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.33 cubic feet</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="0000/2999" type="inclusive">0000-2999</unitdate>
+    <physdesc id="aspace_09d38abd2a583c3fa0e493a40aff0a89" label="Quantity:">0.3 linear ft.</physdesc>
+    <physdesc id="aspace_fc3bb96d98630750f70b906557746b48" label="Forms of Material:">Memorabilia.</physdesc>
+    <abstract id="aspace_53c9bab17727efbbb38664da04e712ef">Union buttons collected: UFCW; UNITE HERE!; PCUN; Jobs with Justice; Episcopal Diocese of Chicago; NFWM; OCAW; NYSUT; Oregon Farm Workers; Workplace Warriors; Capital District ALF; Brach's; UFW-AFL-CIO; SEIU Local #47</abstract>
+    <langmaterial id="aspace_bbf9f76212648637cb60bffb0cb7a9d1">Collection material in English</langmaterial>
+    <unitid type="bibid">9431508</unitid>
+  </did>
+  <odd id="aspace_3e4f7d869802f076ec7726760b490c81">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>M. Clark, April 29, 2016</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, May 26, 2017</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_3edfcffa7640a5432dff815645c0ef2e">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_f6c180fbb2f94a39735d82ac7e1f2617">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_91280448a4c5bde3fa9be7d121f013aa">
+    <head>Preferred Citation</head>
+<p>Interfaith Worker Justice Memorabilia #6414 MB. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_afd35e20939b482757624185e8e653da">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06414.html"> 6414: Interfaith Worker Justice Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06414av.html"> 6414 AV: Interfaith Worker Justice Audio-Visual Materials</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06414d.html"> 6414 (d): Interfaith Worker Justice Records Digital</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06414g.html"> 6414 G: Interfaith Worker Justice Posters</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <corpname audience="internal" source="ingest">Interfaith Worker Justice (Organization)</corpname>
+    <corpname source="ingest">Jobs with Justice</corpname>
+    <corpname audience="internal" source="ingest">United Food and Commercial Workers International Union</corpname>
+    <corpname audience="internal" source="ingest">UNITE HERE (Organization)</corpname>
+    <corpname audience="internal" source="ingest">Episcopal Church. b Diocese of Chicago</corpname>
+    <corpname audience="internal" source="ingest">New York State United Teachers</corpname>
+    <corpname audience="internal" source="ingest">National Farm Worker Ministry (U.S.)</corpname>
+    <corpname audience="internal" source="ingest">Organization of Chinese American Women</corpname>
+    <corpname audience="internal" source="ingest">Brach's</corpname>
+    <corpname audience="internal" source="ingest">Service Employees International Union. Local 47</corpname>
+  </controlaccess>
+  <unitid type="bibid">9431508</unitid>
+  <dsc><c01 id="aspace_f938a6247b5140b3cebaaebfbb6cac62" level="file"><did><unittitle>Union Buttons: UFCW; UNITE HERE!; PCUN; Jobs with Justice; Episcopal Diocese of Chicago</unittitle><container id="aspace_2094a44df221f6b77371adc6d04d95a6" label="unspecified" type="box">1</container><container id="aspace_accb8377528e043587a102fd6ff8df7b" parent="aspace_2094a44df221f6b77371adc6d04d95a6" type="folder">1</container></did></c01><c01 id="aspace_1ced608171f743c8c4527c553ebde821" level="file"><did><unittitle>Union Buttons: NFWM; OCAW; NYSUT; Oregon Farm Workers; Workplace Warriors</unittitle><container id="aspace_23260720c30c90f9cdef7c847daed152" label="unspecified" type="box">1</container><container id="aspace_9234732d75320fe328ad433a83ee1090" parent="aspace_23260720c30c90f9cdef7c847daed152" type="folder">2</container></did></c01><c01 id="aspace_6a7af7caf1562b3a37eb92d7cbf76db9" level="file"><did><unittitle>Union Buttons: Capital District ALF; Brach's; UFW-AFL-CIO; SEIU Local #47</unittitle><container id="aspace_d04f8d86c8b187aebec5d0f4bfca8b2d" label="unspecified" type="box">1</container><container id="aspace_2b4320013f7548890d39428253d30b87" parent="aspace_d04f8d86c8b187aebec5d0f4bfca8b2d" type="folder">3</container></did></c01><c01 id="aspace_0cd53f7eddb76977ad32dee2e24afb12" level="file"><did><unittitle>Red velour bag - Ashford</unittitle><container id="aspace_8dc37e7e6bd7c70e81ae25537ce3a347" label="unspecified" type="box">1</container><container id="aspace_9ad62b25a090a27a1affb83d30e7bca8" parent="aspace_8dc37e7e6bd7c70e81ae25537ce3a347" type="folder">4</container></did></c01></dsc>
+</archdesc>
+</ead>

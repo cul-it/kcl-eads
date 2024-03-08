@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05892mf</eadid><filedesc><titlestmt><titleproper>Auburn (NY) Area Labor Council "Meeting Minutes of the Auburn (NY) Area Labor Council" and Amalgamated Meat Cutters, Butcher Workmen and Affiliated Crafts of North America on Microfilm <num>5892 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>May 06, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:14:27 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Auburn (NY) Area Labor Council "Meeting Minutes of the Auburn (NY) Area Labor Council" and Amalgamated Meat Cutters, Butcher Workmen and Affiliated Crafts of North America on Microfilm</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Auburn (NY) Area Labor Council</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Amalgamated Meat Cutters, Butcher Workmen and Affiliated Crafts of North America</corpname>
+    </origination>
+    <unitid>5892 mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.67 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1950/1987" type="inclusive">1950-1987</unitdate>
+    <physdesc id="aspace_9f9d158781998ffd5b11cc6469849c09" label="Quantity:">6 microfilm reels</physdesc>
+    <physdesc id="aspace_3cfb095366153300c71b08ddb2c81425" label="Forms of Material:">Minutes, ecords, microfilm.</physdesc>
+    <langmaterial id="aspace_72f1ff86fa0495659f98438c2d21bdbe">Collection material in English</langmaterial>
+    <unitid type="bibid">5727795</unitid>
+  </did>
+  <odd id="aspace_aa6016ef969bdde62523bea5a879235b">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, May 06, 2015</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, May 06, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_33a55da17e177ee57a68f866f24f262e">
+    <head>Biographical / Historical</head>
+<p>Auburn (N.Y.) Area Labor Council is part the New York State AFL-CIO which is a federation of 3,000 affiliated public sector, private sector, and building trades unions throughout the state, representing 2.5 million members, retirees and their families</p>  </bioghist>
+  <scopecontent id="aspace_46eee5472ffda470c5eda7b16db1a3d8">
+    <head>Scope and Contents</head>
+<p>Contents of this collection are as follows: Amalgamted Meat Cutters. Jan 5, 1950-Dec. 3, 1953 ; Auburn Area Council. Jan. 16, 1951-Dec. 6, 1988 ; Auburn Area Coucil. Jan 8, 1985-Feb. 3, 1987. </p><p> Duplicate negative copies are available upon request.</p>  </scopecontent>
+  <accessrestrict id="aspace_ec85e6a6bcc9a1e8c6b41a49e6fb9dbc">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_a5f38d6d64767a55f39aa7649ef9c29f">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_bd205503b0f2d6624c58581eac9d59a3">
+    <head>Preferred Citation</head>
+<p>Auburn (NY) Area Labor Council "Meeting Minutes of the Auburn (NY) Area Labor Council" and Amalgamated Meat Cutters, Butcher Workmen and Affiliated Crafts of North America on Microfilm #5892 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <corpname audience="internal" source="ingest">Auburn (NY) Area Labor Council</corpname>
+    <corpname audience="internal" source="ingest">Amalgamated Meat Cutters, Butcher Workmen and Affiliated Crafts of North America</corpname>
+  </controlaccess>
+  <unitid type="bibid">5727795</unitid>
+  <dsc><c01 id="aspace_c9a6c9b59af466b29ca7bbb9bca2916e" level="file"><did><unittitle>Jan. 5, 1950 - Dec. 3, 1953 - Service Copy 1</unittitle><container id="aspace_9410ab759dfca7e14c2ed23c81bb82cc" label="unspecified" type="reel">1</container></did></c01><c01 id="aspace_1df7f5df593474321508af070a866cdc" level="file"><did><unittitle>Jan. 5, 1950 - Dec. 3, 1953 - Service Copy 2</unittitle><container id="aspace_78d30e93417ff3f0a885f17eec62e0ef" label="unspecified" type="reel">2</container></did></c01><c01 id="aspace_9d5bd9ec0cbb18e4f0dd974ebb55d839" level="file"><did><unittitle>Jan. 16, 1951 - Dec. 6, 1988 - Service Copy 1</unittitle><container id="aspace_376d7dc4152fd71bb0491815bbc33e2e" label="unspecified" type="reel">3</container></did></c01><c01 id="aspace_f772052e620d6b647deba94490e26efe" level="file"><did><unittitle>Jan. 16, 1951 - Dec. 6, 1988 - Service Copy 2</unittitle><container id="aspace_3d4f50d4db2e41f979b8a0e3769713e7" label="unspecified" type="reel">4</container></did></c01><c01 id="aspace_37942fec57e48cae6f40534d8b8b947f" level="file"><did><unittitle>Jan. 8, 1985 - Feb. 3, 1987 - Service Copy 1</unittitle><container id="aspace_fac4e20ede56b139c8bb2756c6a66a50" label="unspecified" type="reel">5</container></did></c01><c01 id="aspace_6b505305bc77a87a523d8a4bc9c61f60" level="file"><did><unittitle>Jan. 8, 1985 - Feb. 3, 1987 - Service Copy 2</unittitle><container id="aspace_c5da1848661ab8df285d2b61cf44df29" label="unspecified" type="reel">6</container></did></c01></dsc>
+</archdesc>
+</ead>

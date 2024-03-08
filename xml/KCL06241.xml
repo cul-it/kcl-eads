@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06241</eadid><filedesc><titlestmt><titleproper>Brody, David Collection of Dunlop Commission Papers <num>6241</num></titleproper><author>Compiled by R. Miles</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 07, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:38:32 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>David Brody Collection of Dunlop Commission Papers</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Brody, David</persname>
+    </origination>
+    <unitid>6241</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1993/1995" type="inclusive">1993-1995</unitdate>
+    <physdesc id="aspace_66628ca47264659374f38e629a29908a" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_841b052a1715719878e6192949169657" label="Forms of Material:">Records.</physdesc>
+    <langmaterial id="aspace_aecef24e235f80851d67ea147af6680f">Collection material in English</langmaterial>
+    <unitid type="bibid">6188931</unitid>
+  </did>
+  <odd id="aspace_b35fe0eec1a1504bbb89b8c7947a68f5">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>R. Miles, March 07, 2016</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, March 07, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_30da2435b3d15808595767ce138bd49c">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_79aa96625c3b245dbbf291123af16e09">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_7ab712734322b3ab33211d4380618bdc">
+    <head>Preferred Citation</head>
+<p>David Brody Collection of Dunlop Commission Papers #6241. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_63b3ba26d272cd452a4fc1dbd94ffa87">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06220.html"> 6220: U.S. Commission on the Future of Worker-Management Relations (Dunlop Commission) Documents</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06262.html"> 6262: Thomas A. Kochan Collection of Dunlop Commission Papers</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Appelbaum, Eileen, 1940-</persname>
+    <persname audience="internal" source="ingest">Beaumont, Richard A.</persname>
+    <persname audience="internal" source="ingest">Brody, David</persname>
+    <persname audience="internal" source="ingest">Freeman, Richard</persname>
+    <persname audience="internal" source="ingest">Knicely, Howard V.</persname>
+    <persname audience="internal" source="ingest">Rogers, Joel, 1952-</persname>
+    <persname audience="internal" source="ingest">Sola, Stephen Andrew</persname>
+    <persname audience="internal" source="ingest">Yager, Daniel V.</persname>
+    <corpname audience="internal" source="ingest">George Meany Center for Labor Studies</corpname>
+    <corpname audience="internal" source="ingest">ILR Labor Law Reform Conference</corpname>
+    <corpname audience="internal" source="ingest">United States. Commission on the Future of Worker-Management Relations</corpname>
+  </controlaccess>
+  <unitid type="bibid">6188931</unitid>
+  <dsc><c01 id="aspace_3bada0f04cf02b1162f2e772e4bf89c8" level="file"><did><unittitle>ILR. Labor Law Reform Conference. Correspondence.</unittitle><unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate><container id="aspace_660f64b9a25a06d63d0fe10902c231ea" label="unspecified" type="box">1</container><container id="aspace_d71e49b0de924f4b6de0c1cd697e5dc4" parent="aspace_660f64b9a25a06d63d0fe10902c231ea" type="folder">1</container></did></c01><c01 id="aspace_16c6bce34912a09831f155806a516d82" level="file"><did><unittitle>ILR. Labor Law Reform Conference. Papers.</unittitle><unitdate datechar="creation" normal="1993/1993">1993</unitdate><container id="aspace_8a98eafb338b684d6de4cc4a30351d98" label="unspecified" type="box">1</container><container id="aspace_9e4208cd1006cd407bb0a5596944cd37" parent="aspace_8a98eafb338b684d6de4cc4a30351d98" type="folder">2</container></did></c01><c01 id="aspace_b498d5a40683e8b4f7f418d4b381403f" level="file"><did><unittitle>George Meany Center for Labor Studies. Seminar for Secretary-Treasurers. Proceedings.</unittitle><unitdate datechar="creation" normal="1993/1993">1993</unitdate><container id="aspace_b7d3b58e978a56d56ac0dfa47426a33b" label="unspecified" type="box">1</container><container id="aspace_ccfb650bc632cd9080fb57b973206b3e" parent="aspace_b7d3b58e978a56d56ac0dfa47426a33b" type="folder">3</container></did></c01><c01 id="aspace_2e5e89b4c4c42f897885bd17e251f9b3" level="file"><did><unittitle>Dunlop Commission. Appelbaum, Eileen. Testimony.</unittitle><unitdate datechar="creation" normal="1994/1994">1994</unitdate><container id="aspace_02f3c916c18b9f9cd8b5cb01a2f94808" label="unspecified" type="box">1</container><container id="aspace_3cdaa1b265a224987431d152920ddb3f" parent="aspace_02f3c916c18b9f9cd8b5cb01a2f94808" type="folder">4</container></did></c01><c01 id="aspace_3cb2eb731a8fa025d65af167e0cfc0e1" level="file"><did><unittitle>Dunlop Commission. Beaumont, Richard A. Statement.</unittitle><unitdate datechar="creation" normal="1994/1994">1994</unitdate><container id="aspace_e4870947c5f1e4ab5ee305f3f7e8cd92" label="unspecified" type="box">1</container><container id="aspace_9094dd3fc8ae46dcb192219a15cc58fe" parent="aspace_e4870947c5f1e4ab5ee305f3f7e8cd92" type="folder">5</container></did></c01><c01 id="aspace_a1c6d581cc97412057161744ce5a9888" level="file"><did><unittitle>Dunlop Commission. Brody, David. Statement.</unittitle><unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate><container id="aspace_384523526489940f78a79fcb5b2cd7a4" label="unspecified" type="box">1</container><container id="aspace_007f20dd62f75fc4e560a6a536e84a1b" parent="aspace_384523526489940f78a79fcb5b2cd7a4" type="folder">6</container></did></c01><c01 id="aspace_9ee591076621b22f5a32c5a20fb60445" level="file"><did><unittitle>Dunlop Commission. Knicely, Howard V. Statement.</unittitle><unitdate datechar="creation" normal="1994/1994">1994</unitdate><container id="aspace_20a2642683d18408aa35e0e6a42432a9" label="unspecified" type="box">1</container><container id="aspace_3f095d1870752b176dda52e6dc9386d1" parent="aspace_20a2642683d18408aa35e0e6a42432a9" type="folder">7</container></did></c01><c01 id="aspace_0cd799fc3bc4ba4e396eb0862bf87379" level="file"><did><unittitle>Dunlop Commission. Rogers, Joel. Statement.</unittitle><unitdate datechar="creation" normal="1994/1994">1994</unitdate><container id="aspace_1f67aa3a7d2c025d7e327158ffada92d" label="unspecified" type="box">1</container><container id="aspace_3613a08a2a4364e1fe7c3e97a6ced0e5" parent="aspace_1f67aa3a7d2c025d7e327158ffada92d" type="folder">8</container></did></c01><c01 id="aspace_370d29d12fe1a20b45972cad8240e4f4" level="file"><did><unittitle>Dunlop Commission. Rogers, Joel and Richard Freeman. Statement.</unittitle><unitdate datechar="creation" normal="1994/1995" type="inclusive">1994-1995</unitdate><container id="aspace_2a9bf8e772bb3a172fd0ef13ee043b97" label="unspecified" type="box">1</container><container id="aspace_749af152b548a9faa22af3ded0e41f44" parent="aspace_2a9bf8e772bb3a172fd0ef13ee043b97" type="folder">9</container></did></c01><c01 id="aspace_4caba3572c2e24469dd1d45bad4abbce" level="file"><did><unittitle>Dunlop Commission. Sola, Stephen Andrew. Statement.</unittitle><unitdate datechar="creation" normal="1993/1993">1993</unitdate><container id="aspace_7756e2f30f65c8608d4191861b0cd56a" label="unspecified" type="box">1</container><container id="aspace_90511d4607cb324d88e1ec0f133b1885" parent="aspace_7756e2f30f65c8608d4191861b0cd56a" type="folder">10</container></did></c01><c01 id="aspace_afedd2ceb543fe53521657141b8ea1ed" level="file"><did><unittitle>Dunlop Commission. Yager, Daniel V. Statement.</unittitle><unitdate datechar="creation" normal="1994/1994">1994</unitdate><container id="aspace_871658e460b136a9647dc4bd7a40c343" label="unspecified" type="box">1</container><container id="aspace_fc737adc4490b95160c7ef244798f7b7" parent="aspace_871658e460b136a9647dc4bd7a40c343" type="folder">11</container></did></c01><c01 id="aspace_9e2811bb9433f0f86a3c43a11197ae3e" level="file"><did><unittitle>Dunlop Commission. Papers.</unittitle><unitdate datechar="creation" normal="1993/1995" type="inclusive">1993-1995</unitdate><container id="aspace_d9b43ea03f11955c5882ed5e102f787e" label="unspecified" type="box">1</container><container id="aspace_10e0fd777f7bbee914eb00cd9868aa8f" parent="aspace_d9b43ea03f11955c5882ed5e102f787e" type="folder">12</container></did></c01><c01 id="aspace_c6324af1bc20ba59b99c6f1c787fa8b6" level="file"><did><unittitle>TEAM Act. Papers.</unittitle><unitdate datechar="creation" normal="1995/1995">1995</unitdate><container id="aspace_15aa95ffd4f5edf6fa096262b012c6fd" label="unspecified" type="box">1</container><container id="aspace_2f1c03e064fc03cf352f5c427de65699" parent="aspace_15aa95ffd4f5edf6fa096262b012c6fd" type="folder">13</container></did></c01></dsc>
+</archdesc>
+</ead>

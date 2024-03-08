@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05927</eadid><filedesc><titlestmt><titleproper>Teachers Union of the City of New York Additional Records <num>5927</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 17, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:15:56 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Teachers Union of the City of New York Additional Records</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Teachers Union of the City of New York</corpname>
+    </origination>
+    <unitid>5927</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1931/1937" type="inclusive">1931-1937</unitdate>
+    <physdesc id="aspace_371bf873be8ef57ae12598733718810f" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_40c12c669319925efd4f7c1417a887c4" label="Forms of Material:">Records (documents).</physdesc>
+    <abstract id="aspace_cc37c0f0809c5ddc7d4b5207075da9fd">The collection consists of a few folders of photocopies of miscellaneous documents, including convention proceedings, rank and file meetings, speeches, and pamphlets produced by the union. Most material spans the 1930s.</abstract>
+    <langmaterial id="aspace_78f9b98858a4801ddd554a406db70c5c">Collection material in English</langmaterial>
+    <unitid type="bibid">5734541</unitid>
+  </did>
+  <odd id="aspace_9499ac62573487feb4a2477c88065c74">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 08, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 17, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <scopecontent id="aspace_e7d75a0c5c883d29a2980a215cf54b7e">
+    <head>Scope and Contents</head>
+<p>The collection consists of a few folders of photocopies of miscellaneous documents, including convention proceedings, rank and file meetings, speeches, and pamphlets produced by the union. Most material spans the 1930s.</p>  </scopecontent>
+  <accessrestrict id="aspace_5d900993350bac2fb83e3aeaebc690fb">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_70b74dd46e2060a135b5369d7ea69b76">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_551c8dccd83c9996872a0796baa3312a">
+    <head>Preferred Citation</head>
+<p>Teachers Union of the City of New York Additional Records #5927. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_382e03eb3325b2938c74884945a5dcdd">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05015.html"> 5015: Teachers Union of the City of New York Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05445.html"> 5445: Teachers Union of the City of New York Records</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Teachers' unions--New York (State)--New York.</subject>
+    <corpname audience="internal" source="ingest">Teachers' Union of the City of New York.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5734541</unitid>
+  <dsc><c01 id="aspace_dc1dc9bf6efabaaef146000b16d84dbe" level="file"><did><unittitle>American League Against War and Fascism</unittitle><unitdate datechar="creation" normal="1934/1935" type="inclusive">1934-1935</unitdate><container id="aspace_4ed02b129e56663c44b1f33f2aacc1f1" label="unspecified" type="box">1</container><container id="aspace_0c3407b01d2740d24fe30da09a5d45ea" parent="aspace_4ed02b129e56663c44b1f33f2aacc1f1" type="folder">1</container></did></c01><c01 id="aspace_2e2a35489eb26ee67eff8ee624a741de" level="file"><did><unittitle>Rank and File Meetings</unittitle><unitdate datechar="creation" normal="1934/1935" type="inclusive">1934-1935</unitdate><container id="aspace_5c2a77b4acf1149d5ebc8a9a57707485" label="unspecified" type="box">1</container><container id="aspace_f1b9d6f2ed63169c685d465b0b721985" parent="aspace_5c2a77b4acf1149d5ebc8a9a57707485" type="folder">2</container></did></c01><c01 id="aspace_481dfa2f5fb16e85d48803dcbd357115" level="file"><did><unittitle>Rank and File Meetings - Academic Freedom Tenure</unittitle><unitdate datechar="creation" normal="1934/1935" type="inclusive">1934-1935</unitdate><container id="aspace_a4990a6ccabb15bab4e2284f7b4f5a55" label="unspecified" type="box">1</container><container id="aspace_59ec964518c4900a6e4f637f40baf89b" parent="aspace_a4990a6ccabb15bab4e2284f7b4f5a55" type="folder">3</container></did></c01><c01 id="aspace_bb724845a3169b094b36fc1cc899a2bd" level="file"><did><unittitle>Unemployed Teachers</unittitle><unitdate datechar="creation" normal="1934/1935" type="inclusive">1934-1935</unitdate><container id="aspace_4be91e75f9817b6b621b7daa542f1fe0" label="unspecified" type="box">1</container><container id="aspace_cefe78670fc8c58a36a432f72a8a98eb" parent="aspace_4be91e75f9817b6b621b7daa542f1fe0" type="folder">4</container></did></c01><c01 id="aspace_ea85f4e709c3885731d9a12c241eb80f" level="file"><did><unittitle>Teachers Unions</unittitle><unitdate datechar="creation" normal="1931/1937" type="inclusive">1931-1937</unitdate><container id="aspace_fb1d30d98ddf8fed6f1720e10ba53c87" label="unspecified" type="box">1</container><container id="aspace_14c6347f7d2b3d8ff88d5b2653012a19" parent="aspace_fb1d30d98ddf8fed6f1720e10ba53c87" type="folder">5</container></did></c01><c01 id="aspace_5c491921440c945e9504efa5da4b19c7" level="file"><did><unittitle>Executive Board Meetings 1933</unittitle><unitdate datechar="creation" normal="1933/1933">1933</unitdate><container id="aspace_48a4164730211c1ce537f895d5ac3723" label="unspecified" type="box">1</container><container id="aspace_23b15a07aab3f8060502ef3833d3acca" parent="aspace_48a4164730211c1ce537f895d5ac3723" type="folder">6</container></did></c01><c01 id="aspace_4767fb18b19667c1988b93e8f4d33032" level="file"><did><unittitle>Executive Board Meetings 1933</unittitle><unitdate datechar="creation" normal="1933/1933">1933</unitdate><container id="aspace_8960d887440f899a0f59c9898063c88b" label="unspecified" type="box">1</container><container id="aspace_eaea5063c258283c5241e8fc837f9ed5" parent="aspace_8960d887440f899a0f59c9898063c88b" type="folder">7</container></did></c01><c01 id="aspace_f878993fc2aaea8e54474339d0a3530a" level="file"><did><unittitle>1934</unittitle><unitdate datechar="creation" normal="1934/1934">1934</unitdate><container id="aspace_1eda11705197961bdf314b8deafbbae9" label="unspecified" type="box">1</container><container id="aspace_993ab373f133777e5dd2807ec1f8c6c1" parent="aspace_1eda11705197961bdf314b8deafbbae9" type="folder">8</container></did></c01><c01 id="aspace_01de098d50912f9c30df11ad9f2eb0e0" level="file"><did><unittitle>Henry/Hans Linvill/Linville</unittitle><unitdate datechar="creation" normal="1934/1934">1934</unitdate><container id="aspace_4d85715c3a15d598d9595d8be423368f" label="unspecified" type="box">1</container><container id="aspace_d505fbe70ee3723455ced0da04168353" parent="aspace_4d85715c3a15d598d9595d8be423368f" type="folder">9</container></did></c01><c01 id="aspace_8284d199d9f869998302d3e8b989e318" level="file"><did><unittitle>Rank and File Group in the Teachers Union</unittitle><unitdate datechar="creation" normal="1934/1934">1934</unitdate><container id="aspace_aec414c626bfca6521d83b91dd556ca9" label="unspecified" type="box">1</container><container id="aspace_60a04074b144c5706b0ba237440b58f8" parent="aspace_aec414c626bfca6521d83b91dd556ca9" type="folder">10</container></did></c01><c01 id="aspace_fe3cab3f77015cf4c8cfa4bd5fcbaf94" level="file"><did><unittitle>Rank and File &amp; other Union Papers</unittitle><unitdate datechar="creation" normal="1932/1934" type="inclusive">1932-1934</unitdate><container id="aspace_d153959b7dd50dbaec360762c9d19987" label="unspecified" type="box">1</container><container id="aspace_84a49b4e708531fb8c5afd1d7c068734" parent="aspace_d153959b7dd50dbaec360762c9d19987" type="folder">11</container></did></c01><c01 id="aspace_6fa019377fc1482c48428fb62cc204a6" level="file"><did><unittitle>Mimeographing</unittitle><unitdate datechar="creation" normal="1935/1936" type="inclusive">1935-1936</unitdate><container id="aspace_3895ce9a754aa1f8dcca18800d19ce1d" label="unspecified" type="box">1</container><container id="aspace_c420f0070ca67a90827eea1d61a32bac" parent="aspace_3895ce9a754aa1f8dcca18800d19ce1d" type="folder">12</container></did></c01></dsc>
+</archdesc>
+</ead>

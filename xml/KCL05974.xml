@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05974</eadid><filedesc><titlestmt><titleproper>Hammond, Additional Papers <num>5974</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 18, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:18:22 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Reese Hammond Additional Papers</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Hammond, Reese</persname>
+    </origination>
+    <unitid>5974</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1957/1991" type="inclusive">1957-1991</unitdate>
+    <physdesc id="aspace_257e414d73d5d668194ff886922eab45" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_5ade5d476ba09e6f5212860e5be581a9" label="Forms of Material:">Papers (documents).</physdesc>
+    <langmaterial id="aspace_1ba54bc94820d884c50b7562c5e342d6">Collection material in English</langmaterial>
+    <unitid type="bibid">5743746</unitid>
+  </did>
+  <odd id="aspace_b4798aca7f63ada46bd9251301afae9e">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, January 06, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 18, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_1010acb66e171d43b1bbb6c034e3191d">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_2efe5e8cf80ed007ce014207440b0c38">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_519e360b81016b70b32f9d403e762858">
+    <head>Preferred Citation</head>
+<p>Reese Hammond Additional Papers #5974. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_73fd63643fbbc53802a3e87c9892936d">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05954.html"> 5954: Reese Hammond Papers</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Labor unions--Organizing</subject>
+    <subject source="ingest">Labor movement</subject>
+    <persname audience="internal" source="ingest">Hammond, Reese.</persname>
+  </controlaccess>
+  <unitid type="bibid">5743746</unitid>
+  <dsc><c01 id="aspace_ee77b470746d8f66e9a8c82ae34e5c7c" level="file"><did><unittitle>Highlights of the ALF-CIO Convention: Supplemental Materials</unittitle><unitdate datechar="creation" normal="1957/1957">1957</unitdate><container id="aspace_0b756814e8c99ba5570a3ff96682a77b" label="unspecified" type="box">1</container><container id="aspace_ec12af66e507a722736a2e938529ac50" parent="aspace_0b756814e8c99ba5570a3ff96682a77b" type="folder">1</container></did></c01><c01 id="aspace_d29b031f4f97888fdbe5784582812673" level="file"><did><unittitle>Trades Union Congress (TUC)</unittitle><unitdate datechar="creation" normal="1982/1984" type="inclusive">1982-1984</unitdate><container id="aspace_e8356fe97c7612c42588d27446505288" label="unspecified" type="box">1</container><container id="aspace_01c962e125428f8123d90d7e614e41db" parent="aspace_e8356fe97c7612c42588d27446505288" type="folder">2</container></did></c01><c01 id="aspace_27adc6bc386f86d087421a41f5461ebf" level="file"><did><unittitle>City and Guilds of London Institute</unittitle><unitdate datechar="creation" normal="1984/1990" type="inclusive">1984-1990</unitdate><container id="aspace_b0cc97aaf63049f0877a7e34a56084d7" label="unspecified" type="box">1</container><container id="aspace_3806f8d88eefd8a7e9f37f4607d5bc79" parent="aspace_b0cc97aaf63049f0877a7e34a56084d7" type="folder">3</container></did></c01><c01 id="aspace_dfe4b8228492fc2e338cba34ef33fe0e" level="file"><did><unittitle>Academy of Work and Learning</unittitle><unitdate datechar="creation" normal="1989/1989">1989</unitdate><container id="aspace_dfcb8246a70b044f2eae3860afc58403" label="unspecified" type="box">1</container><container id="aspace_31c20160bb0935872864fac9fefe90b3" parent="aspace_dfcb8246a70b044f2eae3860afc58403" type="folder">4</container></did></c01><c01 id="aspace_e35f536f3c2778e88a390a09b5f5ad86" level="file"><did><unittitle>Contract Extension for Consulting Services</unittitle><unitdate datechar="creation" normal="1989/1989">1989</unitdate><container id="aspace_65a5087dee00623e4d70de34c4844e03" label="unspecified" type="box">1</container><container id="aspace_7093c6ad67151486ce44f8d3e54349e9" parent="aspace_65a5087dee00623e4d70de34c4844e03" type="folder">5</container></did><scopecontent id="aspace_f41fa3b1bbe327e8a387a63c8dc5a021"><head>Scope and Contents</head><p>Contract with International Union of Operating Engineers (IUOE) as Director of Education.</p></scopecontent></c01><c01 id="aspace_27960411e1f95583439770e7f1a5b0e4" level="file"><did><unittitle>Tripartite Program for Apprenticeship and Associate Degree in Labor Studies</unittitle><unitdate datechar="creation" normal="1991/1991">1991</unitdate><container id="aspace_ad490c38efce03a43cda0ab0edf1d1cd" label="unspecified" type="box">1</container><container id="aspace_1fc4b7baf3e2452c1dd5ade691cba0b5" parent="aspace_ad490c38efce03a43cda0ab0edf1d1cd" type="folder">6</container></did><scopecontent id="aspace_d2751f0697bf2ecc53de5f9fe2496a69"><head>Scope and Contents</head><p>George Meany Center for Labor Studies report to the Department of Labor, contract no.99-8-1383-42-20.</p></scopecontent></c01><c01 id="aspace_07157c25cc50d4bb4cf86b562c18c78d" level="file"><did><unittitle>Biographies of Labor Leaders</unittitle><container id="aspace_7387ea1cd8a32be7d3ee66fb3b3563ae" label="unspecified" type="box">1</container><container id="aspace_a7faaa2d4dd71cbe589748dafc185f6c" parent="aspace_7387ea1cd8a32be7d3ee66fb3b3563ae" type="folder">7</container></did><scopecontent id="aspace_e4816fa9b712689fc406fba2b409e7c8"><head>Scope and Contents</head><p>Text for audio tapes in 5974 AV. Text for tapes 1 (Labor and Organizing), 3 (Labor and Communism), 4 (AFL-CIO Merger/UAW Split), 5 (McClellan Committee and Teamster's Expulsion), 8 (Labor and Foreign Policy), and 9 (Early Social Issues and Labor). No Date</p></scopecontent></c01><c01 id="aspace_a173aae603fac44749df0ab91b7a4127" level="file"><did><unittitle>District 1199C Training and Upgrading Fund</unittitle><container id="aspace_81f5454170fe550c5552b2014739c4ad" label="unspecified" type="box">1</container><container id="aspace_de9ee7b71c5563fa114afc9d6c439014" parent="aspace_81f5454170fe550c5552b2014739c4ad" type="folder">8</container></did><scopecontent id="aspace_19b51648fa01e9bbf6a87c91f533e4e1"><head>Scope and Contents</head><p>A Manual for Union-Management Educational Partnerships. No Date</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

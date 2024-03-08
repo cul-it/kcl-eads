@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06359</eadid><filedesc><titlestmt><titleproper>Kibildis, Melba CIRL Annual Meeting Materials <num>6359</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 07, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:45:15 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Melba Kibildis CIRL Annual Meeting Materials</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Cataflio, Maria</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Committee of Industrial Relations Librarians (CIRL)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Kibildis, Melba</persname>
+    </origination>
+    <unitid>6359</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1978/2004" type="inclusive">1978-2004</unitdate>
+    <physdesc id="aspace_242acf146322ddac9eccbafce6b42bc0" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_1ebc2480f00423101d82c65de22ec020" label="Forms of Material:">Records.</physdesc>
+    <langmaterial id="aspace_1ac02dc610d81f645b50b009b3c638d0">Collection material in English</langmaterial>
+    <unitid type="bibid">8234261</unitid>
+  </did>
+  <odd id="aspace_d4eaac2a291a40298f8a734c18b66bce">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, August 20, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, March 07, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_5d8b44353a1f78f183a3b0dc6255302f">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_207696809c3f34b02d061dc2927c5c28">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_2e94bd587f0c1b2587dc509a1eb40067">
+    <head>Preferred Citation</head>
+<p>Melba Kibildis CIRL Annual Meeting Materials #6359. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_172d175409e8b80adb1664880d2a84ac">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05171.html"> 5171: Committee of Industrial Relations Librarians (CIRL) Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05171p.html"> 5171 P: Committee of Industrial Relations Librarians (CIRL) 38th Annual Conference Photographs</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06359p.html"> 6359 P: Maria Cataflio CIRL Photographs</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Cataflio, Maria</persname>
+    <persname audience="internal" source="ingest">Kibildis, Melba</persname>
+    <corpname audience="internal" source="ingest">Committee of Industrial Relations Librarians</corpname>
+  </controlaccess>
+  <unitid type="bibid">8234261</unitid>
+  <dsc><c01 id="aspace_1e0d7db85d489465fb9832e1d6a0bdb3" level="file"><did><unittitle>32nd Annual Meeting, MIT</unittitle><unitdate datechar="creation" normal="1978/1978">1978</unitdate><container id="aspace_44aad903e7bd77f461cd56a3fce83d46" label="unspecified" type="box">1</container><container id="aspace_ca28a34c8e7e5d08a1a60b20875bfd66" parent="aspace_44aad903e7bd77f461cd56a3fce83d46" type="folder">1</container></did></c01><c01 id="aspace_0c77501116b860d4955fe820b53c83bb" level="file"><did><unittitle>33rd Annual Meeting, Toronto</unittitle><unitdate datechar="creation" normal="1979/1979">1979</unitdate><container id="aspace_a11061fcd3e743cb1d1d1ea993a0a52a" label="unspecified" type="box">1</container><container id="aspace_ed080e7c1b99ad8c68d6b1a091e4f6fd" parent="aspace_a11061fcd3e743cb1d1d1ea993a0a52a" type="folder">2</container></did></c01><c01 id="aspace_a9a74ada2359e033291bef5dd05de208" level="file"><did><unittitle>34th Annual Meeting, Washington, DC</unittitle><unitdate datechar="creation" normal="1980/1980">1980</unitdate><container id="aspace_f2d32f33e250ebb932c58124331be0b3" label="unspecified" type="box">1</container><container id="aspace_95401087f44af1df80536baca2632311" parent="aspace_f2d32f33e250ebb932c58124331be0b3" type="folder">3</container></did></c01><c01 id="aspace_f552c8cc0ee250174fd51069f11a327f" level="file"><did><unittitle>35th Annual Meeting, Cornell University</unittitle><unitdate datechar="creation" normal="1981/1981">1981</unitdate><container id="aspace_814c2edcf25ef7f2f3ac735836d51002" label="unspecified" type="box">1</container><container id="aspace_d62b7ba88515d132be851dad636148fe" parent="aspace_814c2edcf25ef7f2f3ac735836d51002" type="folder">4</container></did></c01><c01 id="aspace_231df6eaf9386f6916faefb05ed08a84" level="file"><did><unittitle>36th Annual Meeting, Ann Arbor, MI</unittitle><unitdate datechar="creation" normal="1982/1982">1982</unitdate><container id="aspace_c5fb945fda4e70b3151e48227fc7ac6f" label="unspecified" type="box">1</container><container id="aspace_75ee1fd8944a21d79fc4c2799fe32bd6" parent="aspace_c5fb945fda4e70b3151e48227fc7ac6f" type="folder">5</container></did></c01><c01 id="aspace_848cbb4d7527a6b262dfaec6e399704a" level="file"><did><unittitle>37th Annual Meeting, Minneapolis, MN</unittitle><unitdate datechar="creation" normal="1983/1983">1983</unitdate><container id="aspace_5c0caf789c228cd19e29bdba6c7191b5" label="unspecified" type="box">1</container><container id="aspace_6a4832c29857244c1876b114d42a4393" parent="aspace_5c0caf789c228cd19e29bdba6c7191b5" type="folder">6</container></did></c01><c01 id="aspace_8511e6fe0f8c1e239e6f50a089b5be0a" level="file"><did><unittitle>38th Annual Meeting, Princeton, NJ</unittitle><unitdate datechar="creation" normal="1984/1984">1984</unitdate><container id="aspace_e6d52a71d06aa5d85090a9c000f64c01" label="unspecified" type="box">1</container><container id="aspace_9de4015c2b4e06b5fa553bee63522e51" parent="aspace_e6d52a71d06aa5d85090a9c000f64c01" type="folder">7</container></did></c01><c01 id="aspace_dcdc9d3c6eb6d36497fa813e5f99d3b9" level="file"><did><unittitle>39th Annual Meeting, Edmonton, Alberta</unittitle><unitdate datechar="creation" normal="1985/1985">1985</unitdate><container id="aspace_a5ff2b8180fdaa25263669c3c1790f4a" label="unspecified" type="box">1</container><container id="aspace_227f3d6f25bf4b36e5b1fd4bd77fe514" parent="aspace_a5ff2b8180fdaa25263669c3c1790f4a" type="folder">8</container></did></c01><c01 id="aspace_6d45e36d3f48a139bd0cdca300b2ac05" level="file"><did><unittitle>40th Annual Meeting, Wayne State University</unittitle><unitdate datechar="creation" normal="1986/1986">1986</unitdate><container id="aspace_ed71b3042f5884fd4d831b3927bd8828" label="unspecified" type="box">1</container><container id="aspace_1b135cf42d8e3bc2e8bd4bd4bcb62fd5" parent="aspace_ed71b3042f5884fd4d831b3927bd8828" type="folder">9</container></did></c01><c01 id="aspace_ff3f4e228f661c337636faf5ebc55419" level="file"><did><unittitle>41st Annual Meeting, Boston, MA</unittitle><unitdate datechar="creation" normal="1987/1987">1987</unitdate><container id="aspace_2a642a71495d581e85b30e6ce11b8dc3" label="unspecified" type="box">1</container><container id="aspace_800e3d6cd2c7b41d6d43ba519916f4f3" parent="aspace_2a642a71495d581e85b30e6ce11b8dc3" type="folder">10</container></did><scopecontent id="aspace_2771452e241e20e6c4cb0a0f25c2e4e8"><head>Scope and Contents</head><p>Joint Meeting with the Industrial Relations Research Association (IRRA)</p></scopecontent></c01><c01 id="aspace_15eefe51b843ade8fd25485d4ce82750" level="file"><did><unittitle>41nd Annual Meeting, Washington, DC</unittitle><unitdate datechar="creation" normal="1988/1988">1988</unitdate><container id="aspace_bdd13373f87139ff841894ae8505bf38" label="unspecified" type="box">1</container><container id="aspace_3ceb7d4eaf8a23ae29dbb9881519d788" parent="aspace_bdd13373f87139ff841894ae8505bf38" type="folder">11</container></did></c01><c01 id="aspace_b5441dc50748e56ac38d57adb146c2ec" level="file"><did><unittitle>55th Annual Meeting, Princeton, NJ</unittitle><unitdate datechar="creation" normal="1997/1997">1997</unitdate><container id="aspace_15136f91f1f724b2ee3b4ec3c9c60f34" label="unspecified" type="box">1</container><container id="aspace_08dac8e23f610573143815cfcdfaf68c" parent="aspace_15136f91f1f724b2ee3b4ec3c9c60f34" type="folder">12</container></did></c01><c01 id="aspace_9c44d6358f34fc15125ff80b4e24883a" level="file"><did><unittitle>55th Annual Meeting, Detroit, MI</unittitle><unitdate datechar="creation" normal="2001/2001">2001</unitdate><container id="aspace_fb8c0aa46a9a594d2eb1800917a348fd" label="unspecified" type="box">1</container><container id="aspace_af8de4c8e25afd959e669638e1a043ef" parent="aspace_fb8c0aa46a9a594d2eb1800917a348fd" type="folder">13</container></did></c01><c01 id="aspace_f4c497b0563af825494b04359386e710" level="file"><did><unittitle>Melba Kibildis CIRL History and Mementos</unittitle><unitdate datechar="creation" normal="1982/2004" type="inclusive">1982-2004</unitdate><container id="aspace_fa88d41c1b586160146063403aa07d35" label="unspecified" type="box">1</container><container id="aspace_1e5b43220f7ed036ee52621afd3cbf47" parent="aspace_fa88d41c1b586160146063403aa07d35" type="folder">14</container></did></c01></dsc>
+</archdesc>
+</ead>

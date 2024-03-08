@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05834mf</eadid><filedesc><titlestmt><titleproper>"Utica Daily Union" on Microfilm <num>5834 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 12, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:12:25 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>"Utica Daily Union" on Microfilm</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Utica Daily Union Newspaper</corpname>
+    </origination>
+    <unitid>5834 mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1895/1897" type="inclusive">1895-1897</unitdate>
+    <physdesc id="aspace_73b944c789ffb0196cd29483f71de538" label="Quantity:">3 microfilm reels</physdesc>
+    <physdesc id="aspace_484531a5d3058a2aa6b5ae854f43ee34" label="Forms of Material:">Newspapers, microfilm.</physdesc>
+    <langmaterial id="aspace_4c1fd6c443b65824e98649ea30d54464">Collection material in English</langmaterial>
+    <unitid type="bibid">5713662</unitid>
+  </did>
+  <odd id="aspace_4e4a27d0b98c161ab3e291b7037723c4">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, February 12, 2016</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, February 12, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_08f5cb64fcbc0a83860f43f74544dc7e">
+    <head>Biographical / Historical</head>
+<p>The Utica Daily Union is a newspaper from Utica, N.Y., it started publishing daily (except Sundays) in 1895, and covers the area of Utica and Oneida.</p>  </bioghist>
+  <accessrestrict id="aspace_1fa4605d5b42d57cf72cee7aef3d6f6b">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_e714378de7cccc73c367edbeb9cb6746">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_e9b5db71028cedc97bd4bb892861cd34">
+    <head>Preferred Citation</head>
+<p>"Utica Daily Union" on Microfilm #5834 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Labor unions--New York (State)--Utica.</subject>
+    <corpname audience="internal" source="ingest">Utica Daily Union Newspaper</corpname>
+  </controlaccess>
+  <unitid type="bibid">5713662</unitid>
+  <dsc><c01 id="aspace_6bd4897cee827dd714ec87c3f3042a95" level="file"><did><unittitle>July 1895 - May 1896</unittitle><container id="aspace_0d393395953411576f088f8435855875" label="unspecified" type="reel">2</container></did></c01><c01 id="aspace_990593de2d7af8111ed53fce386d7462" level="file"><did><unittitle>June 1896 - December 1896</unittitle><container id="aspace_f4c2a5c8e1c9a022e5537bec851a37c9" label="unspecified" type="reel">4</container></did></c01><c01 id="aspace_256cb202cc1e9d78de87b27eae6d9c6d" level="file"><did><unittitle>January 1897-July 1897</unittitle><container id="aspace_bcc5eb7e6a1e13eae9653335a8f5cab6" label="unspecified" type="reel">6</container></did></c01></dsc>
+</archdesc>
+</ead>

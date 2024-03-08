@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05780-107p</eadid><filedesc><titlestmt><titleproper>ILGWU. Legal Department photographs <num>5780/107 P</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 28, 2011</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:03:45 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILGWU. Legal Department photographs</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Siems, Frederick Rolle, 1915-</persname>
+    </origination>
+    <origination label="Creator">
+      <corpname role="creator" source="ingest">International Ladies' Garment Workers' Union</corpname>
+    </origination>
+    <unitid>5780/107 P</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1967/1973" type="inclusive">1967-1973</unitdate>
+    <physdesc id="aspace_36a21a3928dfb50a5eb3dae35e956884" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_432f5b3baf3c95f63304e22eda70d623" label="Forms of Material:">Articles, reprints, pamphlets, correspondence, photographs.</physdesc>
+    <abstract id="aspace_73b0ea0573c7adb33d4657149bab1084">This collection consists of photographs taken during the ILGWU strike against the Kellwood Company between 1967 and 1972. Included are images of meetings and rallies, as well as of the memorial service Eugene Hampton, an ILGWU member who was killed during the strike.</abstract>
+    <langmaterial id="aspace_8803af4405024a7a90d8f3cfe2649979">Collection material in English</langmaterial>
+    <unitid type="bibid">6849850</unitid>
+  </did>
+  <odd id="aspace_57e73316d63695ed100b5f88f34b60a8">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel">http://www.ilr.cornell.edu/library/kheel</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, May 25, 2012</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_5b6ed10b03149f805f2b441d7cdb1d7d">
+    <head>Biographical / Historical</head>
+<p>Founded in 1900 by local union delegates representing about 2,000 members in cities in the northeastern United States, the ILGWU grew in geographical scope, membership size, political influence to become one of the most powerful forces in American organized labor by mid-century. Representing workers in the women's garment industry, the ILGWU worked to improve working and living conditions of its members through collective bargaining agreements, training programs, health care facilities, cooperative housing, educational opportunities, and other efforts. In 1995, the ILGWU merged with the Amalgamated Clothing and Textile Workers Union (ACTWU) to form the Union of Needletrades, Industrial and Textile Employees (UNITE).</p>  </bioghist>
+  <bioghist id="aspace_e29788099bf660b2ab8986332f2f7be3">
+    <head>Biographical / Historical</head>
+<p>From very early on in its existence, the ILGWU had need for legal counsel, and this was handled in the union's main offices in cooperation with hired attorneys. As the union grew and especially after the passage of the Taft-Hartley Act in 1947, the union found cause to establish a Legal Department. The department provided general legal counsel to the union and its affiliates, worked to develop collective bargaining agreement terms, and represented the ILGWU in litigation and arbitration. After the formation of the Master Agreements Department in 1965, the responsibilities for developing CBA terms shifted to the new department.</p>  </bioghist>
+  <scopecontent id="aspace_437f64f21b74238354aa2e57a8e7c531">
+    <head>Scope and Contents</head>
+<p>The Legal Department records do not comprehensively document the ILGWU legal activities, instead focusing on specific cases or series of cases. </p><p> Two ILGWU cases are documented in the Legal Department records. The first case involved the Kellwood Corporation, and the second involved the Donnelly Garment Company. The records relating to the Kellwood case (5780/107, 5780/107 AV, 5780/107 P) include court documents, correspondence and memoranda, surveys of strikers, organizing leaflets and newsletters (from both the union and the company), Steve Honeyman's draft accounts of the strike, audio and transcripts of Honeyman's interviews with ILGWU members and staff, newspaper clippings, photographs, and other printed material. The Donnelly Garment Company's case against the ILGWU is documented primarily through transcripts of the case, legal briefs, and related court documents. </p><p> Records on series of cases are the most general and extensive of the Legal Department records. They include records on ILGWU cases in the U.S. courts (5780/081), records documenting cases before the National War Labor Board (5780/085), and records relating to a wide variety contract negotiations, arbitration proceedings, and courts cases (5780/063). </p><p> Researchers may find complementary material in the other parts of the ILGWU records, such as the papers of the international leadership, especially the papers of ILGWU presidents (Series IV); the records of local unions in instances where these affiliates were involved in litigation or arbitration (Series III); and the collective bargaining agreements (Series VI). Related collections at the Kheel Center include decisions of the Coat and Suit Industry's Impartial Chairman (6036/015) and decisions of the Dress Industry's Impartial Chairman (6036/017). </p><p> This collection consists of photographs taken during the ILGWU strike against the Kellwood Company between 1967 and 1972. Included are images of meetings and rallies, as well as of the memorial service Eugene Hampton. Hampton was an ILGWU member who was killed during the strike.</p>  </scopecontent>
+  <accessrestrict id="aspace_af513b8019bfdf7edfb0e7a2f88d3b30">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_0c1a61c3d5b77b0da5151f7608bcc440">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_e0b98e7e12936bdb20a51be3c3d70aba">
+    <head>Preferred Citation</head>
+<p>ILGWU. Legal Department photographs #5780/107 P. Kheel Center for Labor- Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_66182bf439a49df8bb106681699cc4ae">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="rmc.library.cornell.edu/ead/htmldocs/KCL05780.html"> 5780: ILGWU records</extref> <extref xlink:href="rmc.library.cornell.edu/ead/htmldocs/KCL05780-107.html"> 5780/107: ILGWU. Legal Department records</extref> <extref xlink:href="rmc.library.cornell.edu/ead/htmldocs/KCL05780-107av.html"> 5780/107 AV: ILGWU. Legal Department audio-visual materials</extref> <extref xlink:href="rmc.library.cornell.edu/ead/htmldocs/KCL05780-081.html"> 5780/081: ILGWU. Legal Department records</extref> <extref xlink:href="rmc.library.cornell.edu/ead/htmldocs/KCL05780-063.html"> 5780/063: ILGWU. Legal Department records</extref> <extref xlink:href="rmc.library.cornell.edu/ead/htmldocs/KCL05780- 162.html"> 5780/162: ILGWU. Legal Department. Donnelly Garment Company v. ILGWU records</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Women's clothing industry--United States.</subject>
+    <subject source="ingest">Labor unions--Clothing workers--United States.</subject>
+    <subject source="ingest">Clothing workers--United States.</subject>
+    <subject source="ingest">Industrial relations--United States.</subject>
+    <genreform source="ingest">Photographs.</genreform>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union.</corpname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union. Legal Dept.</corpname>
+  </controlaccess>
+  <unitid type="bibid">6849850</unitid>
+  <dsc><c01 id="aspace_6f759cc5acdc46858992a907a0261ded" level="file"><did><unittitle>[Damage to cars]</unittitle><container id="aspace_b32d59addf2c06b3f582487fe10fb0f5" label="unspecified" type="box">1</container><container id="aspace_9e0d594d7c9a504e5ec64233dd6cd206" parent="aspace_b32d59addf2c06b3f582487fe10fb0f5" type="folder">1</container></did></c01><c01 id="aspace_d58c146807e1d8c404ca7e96d555ca08" level="file"><did><unittitle>Photos requested by Kellwood</unittitle><container id="aspace_7e5184e59d789d35d1b0893378b44ce7" label="unspecified" type="box">1</container><container id="aspace_a377e9c140bb371722535875e4226a90" parent="aspace_7e5184e59d789d35d1b0893378b44ce7" type="folder">2</container></did></c01><c01 id="aspace_a58eb6934ac0082e139eb229fd53fedc" level="file"><did><unittitle>[Rallies]</unittitle><container id="aspace_f6c57ce87cefbf454d45cd3eee9d59d8" label="unspecified" type="box">1</container><container id="aspace_06f70b849e0db0b3620f7fdecef0670c" parent="aspace_f6c57ce87cefbf454d45cd3eee9d59d8" type="folder">3</container></did><scopecontent id="aspace_cad3558868d61b372a415ae8f538c0c0"><head>Scope and Contents</head><p>circa 1967</p></scopecontent></c01><c01 id="aspace_a5b672fe69b2d1766ca9bc74eff0242c" level="file"><did><unittitle>Strike vote meeting</unittitle><container id="aspace_f85930ba6902054e85994f1fd44564ca" label="unspecified" type="box">1</container><container id="aspace_88f0e3ea029cea01862315ef97c8715f" parent="aspace_f85930ba6902054e85994f1fd44564ca" type="folder">4</container></did><scopecontent id="aspace_4086e2483ca781f5177353805dbdfacf"><head>Scope and Contents</head><p>Carpenter Hall, Little Rock, Arkansas</p></scopecontent></c01><c01 id="aspace_4112caad057448f1dfd1007ff8da54b2" level="file"><did><unittitle>Kellwood strike</unittitle><unitdate datechar="creation" normal="1967/1973" type="inclusive">1967-1973</unitdate><container id="aspace_7b77680efe88cf996cb0702d8ad34966" label="unspecified" type="box">1</container><container id="aspace_33b780ee26778e7bd0f93abe245edff3" parent="aspace_7b77680efe88cf996cb0702d8ad34966" type="folder">5</container></did><scopecontent id="aspace_7dd9f00edc32d9a4837b05e31ecf21df"><head>Scope and Contents</head><p>Includes picket, strike headquarters, and meeting with Congressman Mills</p></scopecontent></c01><c01 id="aspace_7fb1569376c2db6d7d620952a032c9d1" level="file"><did><unittitle>Eugene Hampton memorial</unittitle><unitdate datechar="creation" normal="1972/1972">1972</unitdate><container id="aspace_95dd3b83cdf33e971024bac502005db8" label="unspecified" type="box">1</container><container id="aspace_c3a286ee82cd1764e9059816a733cc81" parent="aspace_95dd3b83cdf33e971024bac502005db8" type="folder">6</container></did><scopecontent id="aspace_64ae514f5b9e7e689e266f4e7e201d66"><head>Scope and Contents</head><p>Negatives</p></scopecontent></c01><c01 id="aspace_559745268a6d597731053cd34c799cba" level="file"><did><unittitle>Eugene Hampton memorial</unittitle><unitdate datechar="creation" normal="1972/1972">1972</unitdate><container id="aspace_29e33791b0e8a40de48c42438ed5abf3" label="unspecified" type="box">1</container><container id="aspace_2760fa341fc2092143738594a14e0c39" parent="aspace_29e33791b0e8a40de48c42438ed5abf3" type="folder">7</container></did></c01><c01 id="aspace_f7670a102d7890280c3cad9fccd65015" level="file"><did><unittitle>Eugene Hampton memorial</unittitle><unitdate datechar="creation" normal="1972/1972">1972</unitdate><container id="aspace_a2511a1dd3d27cda4ac11acbbc0167bb" label="unspecified" type="box">1</container><container id="aspace_856bb47e2c0f352efd1aca1860b7eb80" parent="aspace_a2511a1dd3d27cda4ac11acbbc0167bb" type="folder">8</container></did></c01><c01 id="aspace_7ed492f39a9bf9dcb32c061cdea0cd1d" level="file"><did><unittitle>Eugene Hampton memorial</unittitle><unitdate datechar="creation" normal="1972/1972">1972</unitdate><container id="aspace_1db80e3ca49df3930265f79a1ee09258" label="unspecified" type="box">1</container><container id="aspace_4ca6fd1eaa99061eda8caf163f8d2ae3" parent="aspace_1db80e3ca49df3930265f79a1ee09258" type="folder">9</container></did></c01><c01 id="aspace_cb28746afe596c1c32ab7984b8d479c1" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation" normal="1972/1973" type="inclusive">1972-1973</unitdate><container id="aspace_bf83062081092589449539ae1e41001b" label="unspecified" type="box">1</container><container id="aspace_ea90a58c73ff4df4876cf263792f2794" parent="aspace_bf83062081092589449539ae1e41001b" type="folder">10</container></did></c01><c01 id="aspace_b362f471ff4f2c1ddaced4eccd7b2998" level="file"><did><unittitle>Negatives</unittitle><container id="aspace_8b7ed57d844a8177160f6a5cfec6c684" label="unspecified" type="box">1</container><container id="aspace_092c48a4558999c5ef534cc9204db6f9" parent="aspace_8b7ed57d844a8177160f6a5cfec6c684" type="folder">11</container></did></c01></dsc>
+</archdesc>
+</ead>

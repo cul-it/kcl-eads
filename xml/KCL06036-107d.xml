@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06036-107d</eadid><filedesc><titlestmt><titleproper>Dedication of David Dubinsky Historic Landmark Plaque Digital Records <num>6036/107 (d)</num></titleproper><author>Compiled by E. Parker</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 29, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:26:52 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Dedication of David Dubinsky Historic Landmark Plaque Digital Records</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Segal, Ryna Appleton</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Historic Landmarks Preservation Committee of New York</corpname>
+    </origination>
+    <unitid>6036/107 (d)</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 collection</extent>
+      <extent altrender="carrier">3.92 megabytes</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="2018/2018">2018</unitdate>
+    <physdesc id="aspace_fefcf647ff1f170656b9c7a37be42363" label="Quantity:">0 linear ft.</physdesc>
+    <physdesc id="aspace_1a6ef9b0bdba44e49e47f79b2c16d1ac" label="Forms of Material:">Photograph (digital), speech.</physdesc>
+    <abstract id="aspace_bc0b84f0ceaf3940a6dc8d7395003ae2">This collection consists of two digital files documenting the dedication of the David Dubinsky historic landmark plaque in New York City by the Historic Landmarks Preservation Committee. One file contains the speech given by Ryna Appleton Segal, David Dubinsky's granddaughter, at the ceremony; the other is a digital photograph of the plaque taken by Ryna Appleton Segal.</abstract>
+    <langmaterial id="aspace_9c87b0ccb81e5ccc03ebe3f9234c6c86">Collection material in English</langmaterial>
+    <unitid type="bibid">11074803</unitid>
+  </did>
+  <odd id="aspace_c6d95ad3aab30a959ba8c890fa60a6c4">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>E. Parker, October 29, 2019</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Elizabeth Parker, October 29, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_9e605bb65af84aa691bd299da44b2a1b">
+    <head>Biographical / Historical</head>
+<p>The International Ladies' Garment Workers' Union was once one of the largest labor unions in the United States founded in 1900 by local union delegates representing about 2,000 members in cities in the northeastern United States. It was one of the first U.S. Unions to have a membership consisting of mostly females, and it played a key role in the labor history of the 1920s and 1930s. The union is generally referred to as the "ILGWU" or the "ILG". The ILGWU grew in geographical scope, membership size, and political influence to become one of the most powerful forces in American organized labor by mid-century. Representing workers in the women's garment industry, the ILGWU worked to improve working and living conditions of its members through collective bargaining agreements, training programs, health care facilities, cooperative housing, educational opportunities, and other efforts. The ILGWU merged with the Amalgamated Clothing and Textile Workers Union in 1995 to form the Union of Needle trades, Industrial and Textile Employees (UNITE). UNITE merged with the Hotel Employees and Restaurant Employees Union (HERE) in 2004 to create a new union known as UNITE HERE. The two unions that formed UNITE in 1995 represented only 250,000 workers between them, down from the ILGWU's peak membership of 450,000 in 1969.</p>  </bioghist>
+  <accessrestrict id="aspace_77b0826a91a562c3e4cf3d64c9cb5a17">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_3de4a7f9a151b4be36a6c507714cfd75">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_b472920d70fb2eb56e0f928f89e92ea8">
+    <head>Preferred Citation</head>
+<p>Dedication of David Dubinsky Historic Landmark Plaque Digital Records #6036/107 (d). Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Historic preservation &gt; New York (State) &gt; New York</subject>
+    <persname audience="internal" source="ingest">Dubinsky, David, 1892-1982</persname>
+    <persname audience="internal" source="ingest">Segal, Ryna Appleton</persname>
+    <corpname audience="internal" source="ingest">New York (N.Y.). Landmarks Preservation Commission</corpname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union.</corpname>
+  </controlaccess>
+  <unitid type="bibid">11074803</unitid>
+  <dsc><c01 id="aspace_4c1a0294803ee0cfe38f69287f379ffe" level="file"><did><unittitle>\\Kheel\Born Digital Holdings\6036-107d</unittitle><container id="aspace_2d98432056143902caf3de616bc7fca2" label="unspecified" type="box">1</container></did><c02 id="aspace_8d0d05b247c9cb08ca9ba54eaad68699" level="file"><did><unittitle>Ryna Segal's Remarks at Plaque Dedication</unittitle><unitdate datechar="creation" normal="2018/2018">2018</unitdate><container id="aspace_222408ba4c98e49c094abaf5eb536fae" label="unspecified" type="box">1</container><container id="aspace_69109971cfd539fcedf098298231476d" parent="aspace_222408ba4c98e49c094abaf5eb536fae" type="folder">1</container></did></c02><c02 id="aspace_5c7fdb4ecc5e22eaf02ca7c6055f6ecc" level="file"><did><unittitle>Ryna Segal's Photograph of Plaque</unittitle><unitdate datechar="creation" normal="2018/2018">2018</unitdate><container id="aspace_d725a5f0980401d2c80520b93ebc0565" label="unspecified" type="box">1</container><container id="aspace_d36c7eee6dee632337cfe39dbc09bd94" parent="aspace_d725a5f0980401d2c80520b93ebc0565" type="folder">2</container></did></c02></c01></dsc>
+</archdesc>
+</ead>

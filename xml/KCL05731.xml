@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05731</eadid><filedesc><titlestmt><titleproper>Smith, Margaret Earhart Records <num>5731</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 28, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 15:55:26 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Margaret Earhart Smith Records</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Smith, Margaret Earhart</persname>
+    </origination>
+    <unitid>5731</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1941/1952" type="inclusive">1941-1952</unitdate>
+    <physdesc id="aspace_a7079ae170a9168f32d155e2ed3ecc65" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_f803ea7269a78ba6ece792c7881aee09" label="Forms of Material:">Papers (documents).</physdesc>
+    <langmaterial id="aspace_d0e85bb09a626d22c795491cbe58bc9d">Collection material in English</langmaterial>
+    <unitid type="bibid">5697004</unitid>
+  </did>
+  <odd id="aspace_cf27860563b09e380c9fe6e616407e48">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 03, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 28, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_fc14e7ca2e7cc847dba01ae88aed62eb">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_36180bdca0523eda3d3b34727d7e1add">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_971cf5030f0d63ffb161b60d119b1763">
+    <head>Preferred Citation</head>
+<p>Margaret Earhart Smith Records #5731. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Smith, Margaret Earhart.</persname>
+  </controlaccess>
+  <unitid type="bibid">5697004</unitid>
+  <dsc><c01 id="aspace_3b48c9f80b56cab45db6084772e39faf" level="file"><did><unittitle>A-79 Smith. U.E.</unittitle><unitdate datechar="creation" normal="1946/1950" type="inclusive">1946-1950</unitdate><container id="aspace_adc491536f1dc2327576cd062294af0b" label="unspecified" type="box">1</container><container id="aspace_53996387d1c73d110b7ee6165e157cb0" parent="aspace_adc491536f1dc2327576cd062294af0b" type="folder">1</container></did></c01><c01 id="aspace_5ac2d135845e4603268b3cc0f288164c" level="file"><did><unittitle>National CIO Community Services Committee</unittitle><unitdate datechar="creation" normal="1949/1949">1949</unitdate><container id="aspace_6224e9e5481ac222dec403594f6eaefa" label="unspecified" type="box">1</container><container id="aspace_97539956c63e54a872f63cc6aa76f420" parent="aspace_6224e9e5481ac222dec403594f6eaefa" type="folder">2</container></did></c01><c01 id="aspace_e5638ca477195bf855d9492e96277add" level="file"><did><unittitle>A-79 Smith, W.E.</unittitle><unitdate datechar="creation" normal="1941/1948" type="inclusive">1941-1948</unitdate><container id="aspace_32fa19a035bfb3fa2aef89034df4ba90" label="unspecified" type="box">1</container><container id="aspace_1ab54fee493c5a8043b785c3639853ef" parent="aspace_32fa19a035bfb3fa2aef89034df4ba90" type="folder">3</container></did></c01><c01 id="aspace_e466ac9223da8520d79bf2358d048e4f" level="file"><did><unittitle>A-79 Smith, U.E.</unittitle><unitdate datechar="creation" normal="1950/1951" type="inclusive">1950-1951</unitdate><container id="aspace_8cdfbfcc4bc0682f67cae4c7abf64259" label="unspecified" type="box">1</container><container id="aspace_669f76b20345e8b473151005f283ef91" parent="aspace_8cdfbfcc4bc0682f67cae4c7abf64259" type="folder">4</container></did></c01><c01 id="aspace_f8a5d97cbcfc58bcdd3bf37249238403" level="file"><did><unittitle>ALES Conference Reports 1943-1952</unittitle><unitdate datechar="creation" normal="1943/1952" type="inclusive">1943-1952</unitdate><container id="aspace_49099e99303071475425a0250fc7e6da" label="unspecified" type="box">1</container><container id="aspace_754c16a90e79e0e964e16c9d63ce4880" parent="aspace_49099e99303071475425a0250fc7e6da" type="folder">5</container></did></c01><c01 id="aspace_a2dc58c0017ec12179042a3ee29de5a1" level="file"><did><unittitle>W - E - Universities (Wave)</unittitle><unitdate datechar="creation" normal="1945/1945">1945</unitdate><container id="aspace_a5342e083cddfe5da882663816db56f9" label="unspecified" type="box">1</container><container id="aspace_675d1a777a37d5b54d5150c0341e68ba" parent="aspace_a5342e083cddfe5da882663816db56f9" type="folder">6</container></did></c01><c01 id="aspace_bf21591d0fca8144f92559ad34a1cdd5" level="file"><did><unittitle>Mis. W.E. Material Clippings Removed</unittitle><unitdate datechar="creation" normal="1948/1948">1948</unitdate><container id="aspace_b61f845110d8ce360505c166b1673789" label="unspecified" type="box">1</container><container id="aspace_cc34e83a5fd06dc9823641e2455a3ff3" parent="aspace_b61f845110d8ce360505c166b1673789" type="folder">7</container></did></c01><c01 id="aspace_3ea7221284e7933a399ad450de4c5f13" level="file"><did><unittitle>American Laborers want a Labor Extension Service</unittitle><unitdate datechar="creation" normal="1944/1948" type="inclusive">1944-1948</unitdate><container id="aspace_e4cbf7000d705ce2b70802c68ea44b24" label="unspecified" type="box">1</container><container id="aspace_48b90929dece332e6fe7f8b571b79248" parent="aspace_e4cbf7000d705ce2b70802c68ea44b24" type="folder">8</container></did></c01><c01 id="aspace_06793fafca7648ec3c84c937dc867e7c" level="file"><did><unittitle>A-79 Smith, W.E. Workers Ed. - University</unittitle><unitdate datechar="creation" normal="1946/1949" type="inclusive">1946-1949</unitdate><container id="aspace_12028645e47416129fee5e9d76f3614d" label="unspecified" type="box">1</container><container id="aspace_94e593f30eb27c5129dcf4d4783f5972" parent="aspace_12028645e47416129fee5e9d76f3614d" type="folder">9</container></did></c01><c01 id="aspace_c6f492a8d47bdc058848c49094631a51" level="file"><did><unittitle>American Education Service Conference Special Service Attended 1944-1950</unittitle><unitdate datechar="creation" normal="1944/1950" type="inclusive">1944-1950</unitdate><container id="aspace_6a8845d8569380e379ff17b91a01f498" label="unspecified" type="box">1</container><container id="aspace_749adea32996e00472bac26a661982e9" parent="aspace_6a8845d8569380e379ff17b91a01f498" type="folder">10</container></did></c01><c01 id="aspace_01385053e98b55fc6bb78b05402372ef" level="file"><did><unittitle>Cornell</unittitle><unitdate datechar="creation" normal="1948/1949" type="inclusive">1948-1949</unitdate><container id="aspace_8acdea2dab48aa5dd3b0f60ac25964f9" label="unspecified" type="box">1</container><container id="aspace_4061cedba07755a94f60545c0d0f80a0" parent="aspace_8acdea2dab48aa5dd3b0f60ac25964f9" type="folder">11</container></did></c01></dsc>
+</archdesc>
+</ead>

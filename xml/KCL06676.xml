@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06676</eadid><filedesc><titlestmt><titleproper>Groveland Mills Records <num>6676</num></titleproper><author>Compiled by M. Clark</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 09, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:49:05 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Groveland Mills Records</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Groveland Mills</corpname>
+    </origination>
+    <unitid>6676</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1869/1884" type="inclusive">1869-1884</unitdate>
+    <physdesc id="aspace_f8ddadb2eb7c1aeaaa161b3d7de20d92" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_de1b123cdd6eba9d5f6523f8521098c9" label="Forms of Material:">Letter books, records (documents) .</physdesc>
+    <abstract id="aspace_577f263fbf403f513e822d3b8ab870e2">Letter books of outgoing correspondence, 1867-1869, 1875-1876, including invoices; also incoming postcards to Groveland Mills, 1883-1884; and a group of cancelled checks, 1872-1873.</abstract>
+    <langmaterial id="aspace_8c9aae442646e3a809df892c937708de">Collection material in English</langmaterial>
+    <unitid type="bibid">11022170</unitid>
+  </did>
+  <odd id="aspace_9816503215b7f262f550094e56794839">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>M. Clark, September 05, 2019</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Marcie Farwell, October 09, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_0b6563aac1da833bbd83aa8b7037f5c8">
+    <head>Biographical / Historical</head>
+<p>Woolen mill located in Groveland, Mass.</p>  </bioghist>
+  <scopecontent id="aspace_478a31293babf51f7ba91ddb882c7a29">
+    <head>Scope and Contents</head>
+<p>Letter books of outgoing correspondence, 1867-1869, 1875-1876, including invoices; also incoming postcards to Groveland Mills, 1883-1884; and a group of cancelled checks, 1872-1873.</p>  </scopecontent>
+  <custodhist id="aspace_8153acb80c2ffb0f2aec389cf4224547">
+    <head>Custodial History</head>
+<p>American Textile History Museum Collection, gift of Charles W. Arnold.</p>  </custodhist>
+  <accessrestrict id="aspace_d18ba24b8ea689e96fab8a623e578df0">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_de95107e1b8d23db7fb35477e268e95d">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_8debab9bb5363e604a1c0007ff9460ba">
+    <head>Preferred Citation</head>
+<p>Groveland Mills Records #6676. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Business records</subject>
+    <subject source="ingest">Checks</subject>
+    <subject source="ingest">Invoices</subject>
+    <subject source="ingest">Textile industry</subject>
+    <subject source="ingest">Woolen and worsted manufacture</subject>
+    <subject source="ingest">Wool technology -- General</subject>
+    <subject source="ingest">Groveland (Mass.)</subject>
+    <corpname audience="internal" source="ingest">Groveland Mills, Inc.</corpname>
+  </controlaccess>
+  <unitid type="bibid">11022170</unitid>
+  <dsc><c01 id="aspace_9a57b8c242e039322243655d40a1884a" level="file"><did><unittitle>Outgoing Correspondence</unittitle><unitdate datechar="creation" normal="1869/1884" type="inclusive">1869-1884</unitdate><container id="aspace_0f06c06af9df0586b5e6f700538f24b3" label="unspecified" type="box">1</container><container id="aspace_bf6dcd4bc48ec44db88e54dc246680cc" parent="aspace_0f06c06af9df0586b5e6f700538f24b3" type="folder">1</container></did><scopecontent id="aspace_767dc41fc5171b937f4f04fa13df4fc7"><head>Scope and Contents</head><p>8 incoming post cards (1883-1884) ; 5 cancelled checks (1872-1873) [found among Stevens papers] included with the bound correspondence</p></scopecontent></c01><c01 id="aspace_bf75391b5522bddc801b86c049e72fd3" level="file"><did><unittitle>Outgoing Correspondence</unittitle><unitdate datechar="creation" normal="1875/1876" type="inclusive">1875-1876</unitdate><container id="aspace_8e60697179bdb4188adebec014c65492" label="unspecified" type="box">1</container><container id="aspace_e5502095bfb35707a000407c7bb2d12f" parent="aspace_8e60697179bdb4188adebec014c65492" type="folder">2</container></did></c01></dsc>
+</archdesc>
+</ead>

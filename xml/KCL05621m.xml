@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05621m</eadid><filedesc><titlestmt><titleproper>AFL-CIO Sub-Committee to Clarify Language of Section 3, Article XXI of Constitution Transcript <num>5621m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 25, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 15:51:07 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>AFL-CIO Sub-Committee to Clarify Language of Section 3, Article XXI of Constitution Transcript</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">American Federation of Labor-Congress of Industrial Organizations (AFL-CIO)</corpname>
+    </origination>
+    <unitid>5621m</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 folders</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1964/1964">1964</unitdate>
+    <physdesc id="aspace_b61a096da47909875533652f38c28953" label="Quantity:">1 file folder.</physdesc>
+    <physdesc id="aspace_4aea37fae8f73de297eadc41b8715443" label="Forms of Material:">Transcripts.</physdesc>
+    <abstract id="aspace_27ed03a974f799e52ce3c393694befdf">This collection consists of a transcript of proceedings of the AFL-CIO Subcommittee meeting to clarify language of Section 3 of Article XXI, on April 20, 1964.</abstract>
+    <langmaterial id="aspace_dc20e26127ddc25899a7934421456ec3">Collection material in English</langmaterial>
+    <unitid type="bibid">5677073</unitid>
+  </did>
+  <odd id="aspace_ccab880fd053bb0e8e04f6944438c694">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 22, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 25, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <scopecontent id="aspace_9a4480c78b6695e5c361b458aec4fc7d">
+    <head>Scope and Contents</head>
+<p>This collection consists of a transcript of proceedings of the AFL-CIO Subcommittee meeting to clarify language of Section 3 of Article XXI, on April 20, 1964.</p>  </scopecontent>
+  <accessrestrict id="aspace_07da46717fd7f97c2f3b073ebe768ca2">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_4929782b3894401aab8579fdf3aabd10">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_8e9ba92fbcaef7d780ac961140813434">
+    <head>Preferred Citation</head>
+<p>AFL-CIO Sub-Committee to Clarify Language of Section 3, Article XXI of Constitution Transcript #5621m. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Labor laws and legislation. United States.</subject>
+    <corpname audience="internal" source="ingest">AFL-CIO.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5677073</unitid>
+  <dsc><c01 id="aspace_e8cce838b570f98d86a6dc6180b36b3b" level="file"><did><unittitle>Transcript of proceedings of the AFL-CIO Subcommittee meeting to clarify language of Section 3 of Article XXI</unittitle><unitdate datechar="creation" normal="1964/1964">1964</unitdate><container id="aspace_aedde668729e31e4bdafe67e47ad734d" label="unspecified" type="box">1</container></did><scopecontent id="aspace_574b4ed4a663dcf32ea919e895e9c8a9"><head>Scope and Contents</head><p>Washington, D.C.; April 20, 1964; 66 pages.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

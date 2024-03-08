@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06022oh</eadid><filedesc><titlestmt><titleproper>Delia Gottlieb Interview "My Father, Jacob Potofsky" <num>6022 OH</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 17, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:23:59 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Delia Gottlieb Interview "My Father, Jacob Potofsky"</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Gottlieb, Delia</persname>
+    </origination>
+    <unitid>6022 OH</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.44 cubic feet</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="0000/2999" type="inclusive">0000-2999</unitdate>
+    <physdesc id="aspace_4e65a5555a655b90c33802f744017239" label="Quantity:">0.4 linear ft.</physdesc>
+    <physdesc id="aspace_52c9eceffa2595a8fccd4d74aff101ec" label="Forms of Material:">Records, oral histories (document genre).</physdesc>
+    <langmaterial id="aspace_d581ba53d042ea0cc0ba693f325cddec">Collection material in English</langmaterial>
+    <unitid type="bibid">5767533</unitid>
+  </did>
+  <odd id="aspace_e7bbd773079929018cce9bbb83f4223e">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, February 28, 2012</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, February 17, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_9a774d29ba7fce5a5021bc48d8391b6f">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_9ba71b20cee45479dd48d37d319c9de4">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_728b4b89690c8abd59a632f5fed1b98e">
+    <head>Preferred Citation</head>
+<p>Delia Gottlieb Interview "My Father, Jacob Potofsky" #6022 OH. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_593ce9f0710d233cb366a74eb96f8214">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06253oh.html"> 6253 OH: Philoine Fried and Delia Gottlieb Interview "Reminiscing About the ACWA While Viewing 5743 P Images"</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06286mb.html"> 6286 MB: Delia Gottlieb Collection of Jacob Potofsky Memorabilia</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06286pubs.html"> 6286 PUBS: Delia Gottlieb Collection of Publications</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Gottlieb, Delia</persname>
+    <persname audience="internal" source="ingest">Potofsky, Jacob S.(Jacob Samuel), 1894-1979.</persname>
+  </controlaccess>
+  <unitid type="bibid">5767533</unitid>
+  <dsc><c01 id="aspace_2dd6df2113f95dabfdd2214b3f51471d" level="file"><did><unittitle>Gottlieb, Delia, Interview. "My Father, Jacob Potofsky" (1)</unittitle><container id="aspace_537454d9c7daebb67720530bcfc6ab0f" label="unspecified" type="box">1</container><container id="aspace_a0fb2578fbb6309b6c9daa9cb7874717" parent="aspace_537454d9c7daebb67720530bcfc6ab0f" type="folder">1</container></did><scopecontent id="aspace_fcb2501c667919e37763fb539a0e30c2"><head>Scope and Contents</head><p>Master copy</p></scopecontent></c01><c01 id="aspace_7f570b42207e8b5b20df9cbb0a00a888" level="file"><did><unittitle>Gottlieb, Delia, Interview. "My Father, Jacob Potofsky" (1)</unittitle><container id="aspace_cf95dbaabb339bfda9db1994e86dbf1c" label="unspecified" type="box">2</container><container id="aspace_993e69fa3aeeb11a7ce83d6eebe00d86" parent="aspace_cf95dbaabb339bfda9db1994e86dbf1c" type="folder">1</container></did><scopecontent id="aspace_d7be8c4c5b2ece7db1c71000ee797b05"><head>Scope and Contents</head><p>use copy</p></scopecontent></c01><c01 id="aspace_5b26d8d936e7175c1df6dafd316e5c26" level="file"><did><unittitle>Gottlieb, Delia, Interview. "My Father, Jacob Potofsky" (2)</unittitle><container id="aspace_16ffb1df3b7db470635ee7edab2f3176" label="unspecified" type="box">3</container><container id="aspace_e8ba2619c5f2ae06eb97dbc286c4d3f4" parent="aspace_16ffb1df3b7db470635ee7edab2f3176" type="folder">1</container></did><scopecontent id="aspace_1f922f44af316720a27275f537127b2a"><head>Scope and Contents</head><p>Master copy</p></scopecontent></c01><c01 id="aspace_aec8a515f75c57e699205cbda5722d34" level="file"><did><unittitle>Gottlieb, Delia, Interview. "My Father, Jacob Potofsky" (2)</unittitle><container id="aspace_b186dbe3bcad895ee54f149ab858bf62" label="unspecified" type="box">4</container><container id="aspace_7ec013c55c4a7eedf5781b0a07f570fa" parent="aspace_b186dbe3bcad895ee54f149ab858bf62" type="folder">1</container></did><scopecontent id="aspace_1f64697909bbec384cf36a7e79e8af4d"><head>Scope and Contents</head><p>use copy</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

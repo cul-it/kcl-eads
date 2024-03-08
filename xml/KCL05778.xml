@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05778</eadid><filedesc><titlestmt><titleproper>Strebel, Gustave Papers and Photographs <num>5778</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 02, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 15:57:50 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Gustave Strebel Papers and Photographs</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Strebel, Gustave</persname>
+    </origination>
+    <unitid>5778</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1940/1946" type="inclusive">1940-1946</unitdate>
+    <physdesc id="aspace_f4e31632b723f7136cc6b8588b193597" label="Quantity:">0.3 linear ft.</physdesc>
+    <physdesc id="aspace_6ba330204095b9ae51a6cd3661bb17a9" label="Forms of Material:">Papers (documents).</physdesc>
+    <langmaterial id="aspace_eeb13f77c1c4907cfd898aa8dee20486">Collection material in English</langmaterial>
+    <unitid type="bibid">5702254</unitid>
+  </did>
+  <odd id="aspace_402854f601ef8c458267485b2448d2cf">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 17, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 02, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_8737c86eb0de990c6f17da1edc78204b">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_07f2173a9fcd76c0c99899b00d7078d1">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_44462c31b80dba6ae8a7c10a7add70b0">
+    <head>Preferred Citation</head>
+<p>Gustave Strebel Papers and Photographs #5778. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_ddda3a7427a6f65238db4dafd5c90223">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619.html"> 5619: ACWA Records</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Strebel, Gustave.</persname>
+  </controlaccess>
+  <unitid type="bibid">5702254</unitid>
+  <dsc><c01 id="aspace_01284f7f439de3a6130c8eadfcdcb000" level="file"><did><unittitle>8 Black and White Photographs</unittitle><unitdate datechar="creation" normal="1940/1942" type="inclusive">1940-1942</unitdate><container id="aspace_d052659dcfcc62a96e9c8a482a9ff6a3" label="unspecified" type="box">1</container><container id="aspace_08c42637cc3df134bc4eb3b0a5ae5c88" parent="aspace_d052659dcfcc62a96e9c8a482a9ff6a3" type="folder">1</container></did></c01><c01 id="aspace_ff3544ca3d0d4a09c1965f1ca13367ba" level="file"><did><unittitle>Gustave Strebel Papers</unittitle><unitdate datechar="creation" normal="1942/1946" type="inclusive">1942-1946</unitdate><container id="aspace_a797af4ea48e3cb21f7819c17416ee70" label="unspecified" type="box">1</container><container id="aspace_4d710f4633b5d4c73f5dc38466a0cbab" parent="aspace_a797af4ea48e3cb21f7819c17416ee70" type="folder">2</container></did></c01></dsc>
+</archdesc>
+</ead>

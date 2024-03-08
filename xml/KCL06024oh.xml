@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06024oh</eadid><filedesc><titlestmt><titleproper>Fried, Philoine Interview "My Mother Bessie Abramowitz Hillman" <num>6024 OH</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 30, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:24:01 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Philoine Fried Interview "My Mother Bessie Abramowitz Hillman"</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Fried, Philoine</persname>
+    </origination>
+    <unitid>6024 OH</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.44 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1996/1996">1996</unitdate>
+    <physdesc id="aspace_5f6e1e28938e1f43f62db855cf700018" label="Quantity:">0.4 linear ft.</physdesc>
+    <physdesc id="aspace_1986364558bb74f38a26a0d297f7b2c9" label="Forms of Material:">Audiovisual materials.</physdesc>
+    <langmaterial id="aspace_733fd7b54afcc7742a9285d24bc1e709">Collection material in English</langmaterial>
+    <unitid type="bibid">5767527</unitid>
+  </did>
+  <odd id="aspace_a9ce7ca88fd4d7e9e9befe42a1797aa7">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, February 28, 2012</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 30, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <scopecontent id="aspace_5db2164f739963b601f1ed88ddd1130f">
+    <head>Scope and Contents</head>
+<p>Interview was done by Richard Strassberg.</p>  </scopecontent>
+  <accessrestrict id="aspace_f47aa6889ce7dbce02bf1ab0237883ad">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_58901eeb6c62955b66a228d682dd47a7">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_cca676c64e772000c335d1c41c41d754">
+    <head>Preferred Citation</head>
+<p>Philoine Fried Interview "My Mother Bessie Abramowitz Hillman" #6024 OH. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_22014c82f8ec2d32ab4f1c5df8ab88cc">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06064.html"> 6064: Philoine Fried Additional Files and Memorabilia</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06064p.html"> 6064 P: Philione Fried Collection of Sidney and Bessie Abramowitz Hillman Photographs</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06064m.html"> 6064m: Philoine Fried Collection of Sidney and Bessie Hillman Additional Documents and Memorabilia</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06064mb.html"> 6064 MB: Philoine Fried Memorabilia</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06253oh.html"> 6253 OH: Philoine Fried and Delia Gottlieb Interview "Reminiscing About the ACWA While Viewing 5743 P Images"</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Fried, Philoine</persname>
+    <persname audience="internal" source="ingest">Hillman, Bessie Abramowitz</persname>
+    <persname audience="internal" source="ingest">Strassberg, Richard</persname>
+  </controlaccess>
+  <unitid type="bibid">5767527</unitid>
+  <dsc><c01 id="aspace_75a71313e55bd2933cc6e75b53d95867" level="file"><did><unittitle>Fried, Philoine, Interview. "My Mother Bessie Abramovitz Hillman." - tape 1</unittitle><container id="aspace_18780d36a7ba6d786dad7ef6961f208d" label="unspecified" type="box">1</container><container id="aspace_05ee5a056932bb2f392973c99c0e845a" parent="aspace_18780d36a7ba6d786dad7ef6961f208d" type="folder">1</container></did><scopecontent id="aspace_b7fa9363c7b34614de06e308450a56e7"><head>Scope and Contents</head><p>Master copy</p></scopecontent></c01><c01 id="aspace_cddce6c520ef8a1ac226e4113d5213e6" level="file"><did><unittitle>Fried, Philoine, Interview. "My Mother Bessie Abramovitz Hillman." - tape 1</unittitle><container id="aspace_e3fdf82fdf7a44fd6451bb3358d1ec0e" label="unspecified" type="box">2</container><container id="aspace_f924b3ae2b1b1b01c72d4aeb34b5c996" parent="aspace_e3fdf82fdf7a44fd6451bb3358d1ec0e" type="folder">1</container></did><scopecontent id="aspace_6ca5f37732294f9fed9b0ae71cbbd88b"><head>Scope and Contents</head><p>use copy</p></scopecontent></c01><c01 id="aspace_fd6b75e27ebd01858923309e2301bf77" level="file"><did><unittitle>Fried, Philoine, Interview. "My Mother Bessie Abramovitz Hillman." - tape 2</unittitle><container id="aspace_0c6f0b66b57e7c8de79ed19ae1825e2d" label="unspecified" type="box">3</container><container id="aspace_291440fe7a92c8a4d707cafae30c6b62" parent="aspace_0c6f0b66b57e7c8de79ed19ae1825e2d" type="folder">1</container></did><scopecontent id="aspace_cd6b53f2128143575e1f580cef9fbe32"><head>Scope and Contents</head><p>Master copy</p></scopecontent></c01><c01 id="aspace_212a340ffec43abdc44e355ccd6f61b8" level="file"><did><unittitle>Fried, Philoine, Interview. "My Mother Bessie Abramovitz Hillman." - tape 2</unittitle><container id="aspace_b9912238c2061d2150f242a050191a98" label="unspecified" type="box">4</container><container id="aspace_08021967f0445446d38ff0ce31f01101" parent="aspace_b9912238c2061d2150f242a050191a98" type="folder">1</container></did><scopecontent id="aspace_b117f12de0b11e42d63d0aa6e050eda4"><head>Scope and Contents</head><p>use copy</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

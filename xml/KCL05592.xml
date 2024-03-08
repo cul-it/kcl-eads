@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05592</eadid><filedesc><titlestmt><titleproper>House Officer Bargaining, Non-Profit Hospitals and the Board: Healthy Interaction <num>5592</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 20, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 15:46:47 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>House Officer Bargaining Non-Profit Hospitals and the Board: Healthy Interaction</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Brown, Jeff</persname>
+    </origination>
+    <origination label="Creator">
+      <corpname role="creator" source="ingest">Yale Law School</corpname>
+    </origination>
+    <unitid>5592</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1974/1974">1974</unitdate>
+    <physdesc id="aspace_cb32be1e1d905651d8395cf62a3608c8" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_9d3d6de07fb3b78f12206ce3560ba252" label="Forms of Material:">Records (documents), manuscripts (documents).</physdesc>
+    <abstract id="aspace_db8d3624612d055859408205292a0b52">Typed copy of manuscript.</abstract>
+    <langmaterial id="aspace_2fad0158393a04234497514853d3634a">Collection material in English</langmaterial>
+    <unitid type="bibid">5667721</unitid>
+  </did>
+  <odd id="aspace_0815ebd4590c7db5d7a633f76bf19962">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 14, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 20, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_56ef7e5a0ab28e9470c240df53845944">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_0bc02e01349deb8740a53cc9135c0303">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_da1a44a6ff1a338ec45746684503d74c">
+    <head>Preferred Citation</head>
+<p>House Officer Bargaining, Non-Profit Hospitals and the Board: Healthy Interaction #5592. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Arbitration, Industrial.</subject>
+    <subject source="ingest">Collective bargaining.</subject>
+    <persname audience="internal" source="ingest">Brown, Jeff.</persname>
+    <corpname audience="internal" source="ingest">Yale Law School.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5667721</unitid>
+  <dsc><c01 id="aspace_2779eac458c62c71f43fb7283a116169" level="file"><did><unittitle>House Officer Bargaining, Non-Profit Hospitals and the Board: Healthy Interaction</unittitle><unitdate datechar="creation" normal="1974/1974">1974</unitdate><container id="aspace_1b33056a3a70053f06f7226e0b66a018" label="unspecified" type="box">1</container><container id="aspace_bcdde9481b79186348843f50ab12ecde" parent="aspace_1b33056a3a70053f06f7226e0b66a018" type="folder">1</container></did><scopecontent id="aspace_ee6bd7073e360742ea40df282357e8a6"><head>Scope and Contents</head><p>Typed manuscript</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

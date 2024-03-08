@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05932mb</eadid><filedesc><titlestmt><titleproper>Typographical Tools, Reference Books, and Union Working Cards <num>5932 MB</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 18, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:16:25 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Typographical Tools, Reference Books, and Union Working Cards</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Barile, Vincent</persname>
+    </origination>
+    <unitid>5932 MB</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1950/1950">1950</unitdate>
+    <physdesc id="aspace_f8d413aa7730297ae7c85cc2504a9b9d" label="Quantity:">2 linear ft.</physdesc>
+    <physdesc id="aspace_0c9ffe90027381978588d4c61ae37d5c" label="Forms of Material:">Memorabilia.</physdesc>
+    <langmaterial id="aspace_2303285ecc44f203953be3f9d8385dff">Collection material in English</langmaterial>
+    <unitid type="bibid">8239535</unitid>
+  </did>
+  <odd id="aspace_1e3b565b2965bca3b26d6eef6fc666aa">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 09, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 18, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_aed7125064d123b126eb3d4d40cd6b54">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_ef78558ddd2d379e04e7df2c0e9960db">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_f7f6d22b17432f9dc6b33e7c3cc8564a">
+    <head>Preferred Citation</head>
+<p>Typographical Tools, Reference Books, and Union Working Cards #5932 MB. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Barrile, Vincent 1898-1989</persname>
+    <corpname audience="internal" source="ingest">International Typographical Union</corpname>
+  </controlaccess>
+  <unitid type="bibid">8239535</unitid>
+  <dsc><c01 id="aspace_b726b6de42b7c2d3277acb0e6673298b" level="file"><did><unittitle>Printers' Ready Reference and Diagrams of Imposition ; The Science of Imposition by John Reed</unittitle><container id="aspace_6e65bcf26c69d5f0e05fb204d35046ce" label="unspecified" type="box">1</container><container id="aspace_1a17a19d53e14ecf731087b18da230da" parent="aspace_6e65bcf26c69d5f0e05fb204d35046ce" type="folder">1</container></did><scopecontent id="aspace_7d1507f6372918a1cf531e17e678f6c0"><head>Scope and Contents</head><p>2 volumes</p></scopecontent></c01><c01 id="aspace_0d6a7f9e9aeb43943b4a858a66c90b00" level="file"><did><unittitle>Specimen book of type faces , ornaments ; Union Label Directory ; One Line Showing of Type Faces</unittitle><container id="aspace_51192ac5131ceafe25507170fe830e9e" label="unspecified" type="box">1</container><container id="aspace_cf8935e69357176b37052d2e263ccd3c" parent="aspace_51192ac5131ceafe25507170fe830e9e" type="folder">2</container></did><scopecontent id="aspace_034aa3a662ff424b767e50e1d721ec61"><head>Scope and Contents</head><p>3 volumes</p></scopecontent></c01><c01 id="aspace_e7649e0c9519d7ce611bae43af414ae1" level="file"><did><unittitle>Ninth Graphic Arts Production Yearbook</unittitle><unitdate datechar="creation" normal="1950/1950">1950</unitdate><container id="aspace_5420d499a1927a8d0ee28a97bd3cdf2d" label="unspecified" type="box">1</container><container id="aspace_21fde2b83ed6d3a42c22d3e31fd9671b" parent="aspace_5420d499a1927a8d0ee28a97bd3cdf2d" type="folder">3</container></did><scopecontent id="aspace_5ce8c172d76e31736c43d2c432f36e97"><head>Scope and Contents</head><p>1 large volume</p></scopecontent></c01><c01 id="aspace_98ce6b1d2de9ce0d9d78107a10f9e5e0" level="file"><did><unittitle>Eighth Graphic Arts Production Yearbook</unittitle><container id="aspace_16773807cfa73cef4349e1ca82fbb2cc" label="unspecified" type="box">1</container><container id="aspace_2ca9c16561252efd20706df3d949194a" parent="aspace_16773807cfa73cef4349e1ca82fbb2cc" type="folder">4</container></did><scopecontent id="aspace_4f4d24c4c5c10f29ab789063d0ff8e52"><head>Scope and Contents</head><p>1 volume</p></scopecontent></c01><c01 id="aspace_080b56b6d73eb83f4193e4e5cc3a3ed4" level="file"><did><unittitle>Certificates of Apprenticeship</unittitle><container id="aspace_88a0daf39cf5944f890c7abfc449f9d4" label="unspecified" type="box">1</container><container id="aspace_260d31dbf1d67557bb44141f5a5cd6c6" parent="aspace_88a0daf39cf5944f890c7abfc449f9d4" type="folder">5</container></did></c01><c01 id="aspace_13087478fd8e750936e3638a238343c2" level="file"><did><unittitle>Slide viewer</unittitle><container id="aspace_89f02a3d7b8a3151bb16a3212c445fec" label="unspecified" type="box">1</container><container id="aspace_03c52accc410a00fe62ad2aa2f865be6" parent="aspace_89f02a3d7b8a3151bb16a3212c445fec" type="folder">6</container></did></c01><c01 id="aspace_db560127014021d3b5ac94ad779aa10c" level="file"><did><unittitle>Stamp plate "Cornell University" ; Intertype - print guide</unittitle><container id="aspace_e0b978de616faadee520103fecc7c997" label="unspecified" type="box">1</container><container id="aspace_93887e654a4458df405b319fb007a4f5" parent="aspace_e0b978de616faadee520103fecc7c997" type="folder">7</container></did></c01><c01 id="aspace_ad69be14999ed9febd7e571ee14a22f9" level="file"><did><unittitle>Metal rulers (3)</unittitle><container id="aspace_c6235e6a9592dbf779f804260d400229" label="unspecified" type="box">1</container><container id="aspace_b4df62643de74e41aa5e74f190fdd298" parent="aspace_c6235e6a9592dbf779f804260d400229" type="folder">8</container></did></c01></dsc>
+</archdesc>
+</ead>

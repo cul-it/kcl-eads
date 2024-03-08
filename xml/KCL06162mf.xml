@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06162mf</eadid><filedesc><titlestmt><titleproper>"Lotta Di Classe" on Microfilm <num>6162 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 23, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:32:00 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>"Lotta Di Classe" on Microfilm</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Lotta Di Classe</corpname>
+    </origination>
+    <unitid>6162 mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.11 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1912/1917" type="inclusive">1912-1917</unitdate>
+    <physdesc id="aspace_d45cd9b4161f56684a168d842e7e133e" label="Quantity:">1 microfilm reel</physdesc>
+    <physdesc id="aspace_15f76e87f105b26933e536bebb9d75ad" label="Forms of Material:">Records, microfilm .</physdesc>
+    <langmaterial id="aspace_9f75e70203b85881668318eed82829d4">Collection material in Italian</langmaterial>
+    <unitid type="bibid">5823234</unitid>
+  </did>
+  <odd id="aspace_59f9e50a2b20859e89544c8ce0b7f466">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, February 23, 2016</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, February 23, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_9799283e617ccc4761aeb807c4a18991">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_f5cc4ebb79ce6ae265f1304ba50c87d1">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_24a03b8fba9a198e0ddaca876b3ac685">
+    <head>Preferred Citation</head>
+<p>"Lotta Di Classe" on Microfilm #6162 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Labor unions -- Clothing workers</subject>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union -- Archives</corpname>
+  </controlaccess>
+  <unitid type="bibid">5823234</unitid>
+  <dsc><c01 id="aspace_1775b0af4b2010bf6cbaa7b20038ffda" level="file"><did><unittitle>Lotta Di Classe - 1912-1917 - [vol. 1, 3-4, 6 - Feb. 3-Dec. 1912, 1914-1915, 1917]</unittitle><container id="aspace_ff17cbbf5e2614c4dab76abb1044e662" label="unspecified" type="reel">1</container></did></c01></dsc>
+</archdesc>
+</ead>

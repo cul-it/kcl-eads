@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06615</eadid><filedesc><titlestmt><titleproper>Shaw, E. A. &amp; Company Records <num>6615</num></titleproper><author>Compiled by M. Clark</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 09, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:48:36 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>E. A. Shaw &amp; Company Records</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">E. A. Shaw &amp; Company</corpname>
+    </origination>
+    <unitid>6615</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1932/1956" type="inclusive">1932-1956</unitdate>
+    <physdesc id="aspace_b73b89f42f0b4573eea2a592ab704e11" label="Quantity:">0.2 linear ft.</physdesc>
+    <physdesc id="aspace_d3403f39cec12cf85ed96fa460895b13" label="Forms of Material:">Correspondence .</physdesc>
+    <abstract id="aspace_3b2091f3422afd146a9c456cf92984c6">Business records, 1932-1956, most from the Boston office &amp; centering on information about ramie. Includes correspondence, all concerning ramie; some letters discuss decortication &amp; degumming of the fibers. Also a file of information about ramie, and folders of samples of ramie twine, some of which was made in Switzerland &amp; tested by the Plymouth Cordage Co.</abstract>
+    <langmaterial id="aspace_4738193de215c41b9d963278f30f9039">Collection material in English</langmaterial>
+    <unitid type="bibid">11024663</unitid>
+  </did>
+  <odd id="aspace_20d43af75ba65e48852deed42893a9b2">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>M. Clark, September 10, 2019</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Marcie Farwell, October 09, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_8b196de9e32b3e88d186ad4d7edfded2">
+    <head>Biographical / Historical</head>
+<p>E.A. Shaw &amp; Co., cotton merchants &amp; raw materials dealers with offices in Los Angeles and Boston.</p>  </bioghist>
+  <scopecontent id="aspace_42c2afe2060747ba60b244b47fd01ab8">
+    <head>Scope and Contents</head>
+<p>Collection mostly from the Boston office and centering on information about ramie, a fiber obtained from the bark of the ramie plant. Includes correspondence, 1932-1933, 1948-1949, and 1954, all concerning ramie; some letters discuss decortication and degumming of the fibers. Also includes a file of information, 1956, about ramie; and folders of samples of ramie twine, including some made in Switzerland and tested by the Plymouth Cordage Co.</p>  </scopecontent>
+  <custodhist id="aspace_df11b857846ee412924f7c8aed28da2b">
+    <head>Custodial History</head>
+<p>American Textile History Museum Collection, gift of Gordon Shaw.</p>  </custodhist>
+  <accessrestrict id="aspace_8b9df76f8ddeb4f3f05b540f84390f3d">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_f14477e8722d8a8b51cdbd58153ccffe">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_bcbce7f949de0c318a90259b92ad65f5">
+    <head>Preferred Citation</head>
+<p>E. A. Shaw &amp; Company Records #6615. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Business records</subject>
+    <subject source="ingest">Cotton trade</subject>
+    <subject source="ingest">Plant fiber industry</subject>
+    <subject source="ingest">Ramie</subject>
+    <subject source="ingest">Ramie industry</subject>
+    <subject source="ingest">Textile industry</subject>
+    <subject source="ingest">Other natural fibers</subject>
+    <subject source="ingest">Textile raw materials</subject>
+    <subject source="ingest">Boston (Mass.)</subject>
+    <subject source="ingest">Los Angeles (Calif.)</subject>
+    <corpname audience="internal" source="ingest">E. A. Shaw &amp; Company</corpname>
+    <corpname audience="internal" source="ingest">Plymouth Cordage Company.</corpname>
+  </controlaccess>
+  <unitid type="bibid">11024663</unitid>
+  <dsc><c01 id="aspace_5ff86bbb98506ca31664515c102a4d97" level="file"><did><unittitle>Sample No. 1</unittitle><container id="aspace_d94a43d38eb42b852aa0f1e96a9d1e6b" label="unspecified" type="box">1</container><container id="aspace_cf70ef4e35f5bb8990f5e5de9ab932c5" parent="aspace_d94a43d38eb42b852aa0f1e96a9d1e6b" type="folder">1</container></did></c01><c01 id="aspace_419202a5018fb14946135895390381de" level="file"><did><unittitle>Sample No. 2</unittitle><container id="aspace_8e22d2c814acc4f19bdcaeb6b82772e3" label="unspecified" type="box">1</container><container id="aspace_7ce3e732a91aea285616dd0ad857ef3e" parent="aspace_8e22d2c814acc4f19bdcaeb6b82772e3" type="folder">2</container></did></c01><c01 id="aspace_d142e26070e0a2df10f8fdf15776bd73" level="file"><did><unittitle>Sample No. 3</unittitle><container id="aspace_8401485e3ff61bfb783f2645935a2aab" label="unspecified" type="box">1</container><container id="aspace_e993d9533607ff8cb4242befd5ea03d4" parent="aspace_8401485e3ff61bfb783f2645935a2aab" type="folder">3</container></did></c01><c01 id="aspace_8bd72f0943429cf2802a6cdb51b7366d" level="file"><did><unittitle>Sample No. 4</unittitle><container id="aspace_c1195250ca3dd340e5383e969960d57d" label="unspecified" type="box">1</container><container id="aspace_d4277b73e9fd8e1367174278752bea12" parent="aspace_c1195250ca3dd340e5383e969960d57d" type="folder">4</container></did></c01><c01 id="aspace_8e1e6226ee1ace0aa337caf1e2c20c92" level="file"><did><unittitle>Sample No. 5</unittitle><container id="aspace_8e2b3ff5fac05530b198386bb0dca522" label="unspecified" type="box">1</container><container id="aspace_ed3c7b36a87fcccd6b6161265347f79b" parent="aspace_8e2b3ff5fac05530b198386bb0dca522" type="folder">5</container></did></c01><c01 id="aspace_7a330c888ce058deb0353dd477303d18" level="file"><did><unittitle>Sample No. 6</unittitle><container id="aspace_c9e714166c716dd1fd1ed8e22306cb53" label="unspecified" type="box">1</container><container id="aspace_87f8ad8942468208acec0b3ccf3aaff0" parent="aspace_c9e714166c716dd1fd1ed8e22306cb53" type="folder">6</container></did></c01><c01 id="aspace_6edc0e239cc649d3fa56a3f6f387a6df" level="file"><did><unittitle>Sample No. 7 &amp; 8</unittitle><container id="aspace_cab71ac5e58f4888cd39c134c90808af" label="unspecified" type="box">1</container><container id="aspace_4f8ff4d75e68367e04b52c639c662f10" parent="aspace_cab71ac5e58f4888cd39c134c90808af" type="folder">7</container></did></c01><c01 id="aspace_72f92f14567cecb435edb5f6437d8aaa" level="file"><did><unittitle>"Ramie" - Harry Stone (Agent) Letters</unittitle><unitdate datechar="creation" normal="1932/1933" type="inclusive">1932-1933</unitdate><container id="aspace_efb122fb0e2dac4106fd93c90c19e674" label="unspecified" type="box">1</container><container id="aspace_3e6d74392d4fc8c922d1b8a14e695312" parent="aspace_efb122fb0e2dac4106fd93c90c19e674" type="folder">8</container></did></c01><c01 id="aspace_4f3d237e618d3e41090a22f7138c19e2" level="file"><did><unittitle>"Ramie" - Harry Stone (Agent) -- Letter + notes, 1949, w/samples of Ramie</unittitle><container id="aspace_d26dd04ccbdf747910f9f05da9980dff" label="unspecified" type="box">1</container><container id="aspace_4c1a2d69c64decbea833eaa8649b9a1e" parent="aspace_d26dd04ccbdf747910f9f05da9980dff" type="folder">9</container></did></c01><c01 id="aspace_7982d27d13ca859b3d06ed6f7a116c81" level="file"><did><unittitle>"Ramie" - Harry Stone (Agent) - Letters, w/sample</unittitle><unitdate datechar="creation" normal="1953/1956" type="inclusive">1953-1956</unitdate><container id="aspace_afa4a5a714bdaf56b6f7e90524e9daf6" label="unspecified" type="box">1</container><container id="aspace_6599336503c281c12046f9d4d8b1b570" parent="aspace_afa4a5a714bdaf56b6f7e90524e9daf6" type="folder">10</container></did></c01><c01 id="aspace_4aa23f3114e1f5cf08b545bed8c89af0" level="file"><did><unittitle>"Ramie" - Ramie rope samples, made in Switzerland, tested by Plymouth Cordase Co.</unittitle><unitdate datechar="creation" normal="1949/1949">1949</unitdate><container id="aspace_c197f57f4f27f6e5628f4277dceb8082" label="unspecified" type="box">1</container><container id="aspace_0def3ee29d5d26817c51dfbdb142e33a" parent="aspace_c197f57f4f27f6e5628f4277dceb8082" type="folder">11</container></did></c01><c01 id="aspace_cae0953a5a5281e3a49371aec90b0781" level="file"><did><unittitle>"Ramie"</unittitle><unitdate datechar="creation" normal="1956/1956">1956</unitdate><container id="aspace_087ccec361a6e3192ca94cb37c0079e8" label="unspecified" type="box">1</container><container id="aspace_2a3b81c982e1fd492d0a0a4bfbc135e9" parent="aspace_087ccec361a6e3192ca94cb37c0079e8" type="folder">12</container></did></c01></dsc>
+</archdesc>
+</ead>

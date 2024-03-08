@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06317-012av</eadid><filedesc><titlestmt><titleproper>Kheel Center Triangle Fire Centennial Commemoration Collection New York Society for Ethical Culture Audio-Visual Materials <num>6317/012 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 26, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:42:30 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Kheel Center Triangle Fire Centennial Commemoration Collection New York Society for Ethical Culture Audio-Visual Materials</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Kheel Center</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Remember the Triangle Fire Coalition</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">New York Society for Ethical Culture</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Cuckson, Robert</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Block, Mike</persname>
+    </origination>
+    <unitid>6317/012 AV</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.11 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="2011/2011">2011</unitdate>
+    <physdesc id="aspace_9ed706b809153efe370abba21cdd29cb" label="Quantity:">0.1 linear ft.</physdesc>
+    <physdesc id="aspace_94ae8c8949bf02d38f0ee1ef86ef2feb" label="Forms of Material:">Audiovisual materials.</physdesc>
+    <langmaterial id="aspace_7cc6d8c6aedada50da77b8568b56df16">Collection material in English</langmaterial>
+    <unitid type="bibid">7504541</unitid>
+  </did>
+  <odd id="aspace_cbabefb9b9b54183b874914a1a31efe8">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, May 15, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, August 26, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_ec82e49ab002d217214359fa07a32579">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_366307df8fc6c616bfe064a242f8ff12">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_dd92c088a799f356b51b3e0858cffd00">
+    <head>Preferred Citation</head>
+<p>Kheel Center Triangle Fire Centennial Commemoration Collection New York Society for Ethical Culture Audio-Visual Materials #6317/012 AV. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Clothing trade--New York (State)--New York--History--20th century</subject>
+    <subject source="ingest">Strikes and lockouts--New York (State)--New York--History--20th century</subject>
+    <subject source="ingest">Fires--New York (State)--New York--History--20th century</subject>
+    <persname audience="internal" source="ingest">Block, Mike</persname>
+    <persname audience="internal" source="ingest">Cuckson, Robert</persname>
+    <corpname source="ingest">Society for Ethical Culture</corpname>
+    <corpname audience="internal" source="ingest">Triangle Shirtwaist Company --Fire, 1911</corpname>
+  </controlaccess>
+  <unitid type="bibid">7504541</unitid>
+  <dsc><c01 id="aspace_70e87d5c3d0a927cd635bc3b1ece8698" level="file"><did><unittitle>New York Society for Ethical Culture Triangle Fire Concert Live 3-28-2011</unittitle><container id="aspace_b9c71ab5ef77df3d90284e2e60656f36" label="unspecified" type="box">1</container></did></c01></dsc>
+</archdesc>
+</ead>

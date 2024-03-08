@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05827</eadid><filedesc><titlestmt><titleproper>United Brotherhood of Carpenters and Joiners of America Mohawk Valley District Council of Carpenters Minute Books <num>5827</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 17, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:12:02 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>United Brotherhood of Carpenters and Joiners of America Mohawk Valley District Council of Carpenters Minute Books</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">United Brotherhood of Carpenters and Joiners of America (UBC)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">United Brotherhood of Carpenters and Joiners of America. Mohawk Valley District Council of Carpenters.</corpname>
+    </origination>
+    <unitid>5827</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1942/1961" type="inclusive">1942-1961</unitdate>
+    <physdesc id="aspace_bbdc88cd0d56fe0f5b8be345018b3377" label="Quantity:">0.3 linear ft.</physdesc>
+    <physdesc id="aspace_374839e5bff0e733ec6db2b701645f57" label="Forms of Material:">Minutes (documents), minute books.</physdesc>
+    <abstract id="aspace_f886ee2062ccb002682c5223a544d15c">Five minute books of the United Brotherhood of Carpenters &amp; Joiners of America, Mohawk Valley District Council of Carpenters, from 1942-1961.</abstract>
+    <langmaterial id="aspace_17ef6676bf2f86c044caa19a5c8cce91">Collection material in English</langmaterial>
+    <unitid type="bibid">5713195</unitid>
+  </did>
+  <odd id="aspace_071afb18242b9eee22f3b12e08ee4457">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, April 29, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 17, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_c5514cd770202e01485a025295e91891">
+    <head>Biographical / Historical</head>
+<p>The United Brotherhood of Carpenters and Joiners of America often referred to as the United Brotherhood of Carpenters was formed in 1881. It has grown to be one of the largest trade unions in the United States, and between its chapters and locals there is international cooperation that poises the brotherhood for a global role. Today the United Brotherhood of Carpenters is considered one of North America's largest building-trades unions, with almost a half-million members in the construction and wood-products industries.</p>  </bioghist>
+  <scopecontent id="aspace_87de302e5f6deb2e172183e5cec81fd6">
+    <head>Scope and Contents</head>
+<p>This collection consists of five minute books of the United Brotherhood of Carpenters &amp; Joiners of America, Mohawk Valley District Council of Carpenters, from 1942-1961.</p>  </scopecontent>
+  <accessrestrict id="aspace_82196b67a8ffc5561ba969c3cb44d635">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_31cfe0ccc6e96f255f211083814e0c17">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_2dfa9b74d9db2cb895f0bd9924de548a">
+    <head>Preferred Citation</head>
+<p>United Brotherhood of Carpenters and Joiners of America Mohawk Valley District Council of Carpenters Minute Books #5827. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_8633496916454237c5e49a174f54e960">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05278.html"> 5278: Utica Trades Assembly Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05288.html"> 5288: International Brotherhood Pulp, Sulphite, Paper Mill Workers, Local 670 (Utica, NY) Minute Book</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05810.html"> 5810: United Brotherhood of Carpenters and Joiners of America Local 125 (Utica, NY) Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05810mf.html"> 5810 mf: United Brotherhood of Carpenters and Joiners of America Local 125 (Utica, NY) Records on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05811.html"> 5811: International Typographical Union Local 62 (Utica, NY) Minute Book</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05826.html"> 5826: United Brotherhood of Carpenters and Joiners of America Local 337 (Whitesboro, NY) Minute Books</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05826mf.html"> 5826 mf: United Brotherhood of Carpenters and Joiners of America Local 337 (Whitesboro, NY) Minute Books on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05827mf.html"> 5827 mf: United Brotherhood of Carpenters and Joiners of America Mohawk Valley District Council of Carpenters Minute Books on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05828.html"> 5828: United Brotherhood of Carpenters and Joiners of America Local 3211 (Herkimer, NY) Minute Books</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05828mf.html"> 5828 mf: United Brotherhood of Carpenters and Joiners of America Local 3211 (Herkimer, NY) Minute Books on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05829.html"> 5829: Utica, NY, Building Trades Council Minute Books</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05829mf.html"> 5829 mf: Utica, NY, Building Trades Council Minute Books on Microfilm</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Carpenters--Labor unions--New York (State)--Mohawk River Valley.</subject>
+    <corpname audience="internal" source="ingest">United Brotherhood of Carpenters and Joiners of America.</corpname>
+    <corpname audience="internal" source="ingest">United Brotherhood of Carpenters and Joiners of America. Mohawk Valley District Council of Carpenters.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5713195</unitid>
+  <dsc><c01 id="aspace_7ca76f4f45cfba415efcfe87888527d2" level="file"><did><unittitle>Minute book</unittitle><unitdate datechar="creation" normal="1942/1949" type="inclusive">1942-1949</unitdate><container id="aspace_cbdd77fa3229a960a0aa32dd55caad18" label="unspecified" type="box">1</container><container id="aspace_7f4c011cc6167abd915ec04c753001d9" parent="aspace_cbdd77fa3229a960a0aa32dd55caad18" type="folder">1</container></did><scopecontent id="aspace_6d8755a85f6911ebc48940ddf8266159"><head>Scope and Contents</head><p>March 28, 1942-May 28, 1949</p></scopecontent></c01><c01 id="aspace_24bc2a0871c2e545baa5bb91548096b3" level="file"><did><unittitle>Minute book</unittitle><unitdate datechar="creation" normal="1949/1953" type="inclusive">1949-1953</unitdate><container id="aspace_512064352996d7af559005fda45eea46" label="unspecified" type="box">1</container><container id="aspace_264f2089ae7abb67fab0859a2a99dc67" parent="aspace_512064352996d7af559005fda45eea46" type="folder">2</container></did><scopecontent id="aspace_f3fd45bd2683e4d29750ebdb01f034d1"><head>Scope and Contents</head><p>August 27,1949-June 26, 1953</p></scopecontent></c01><c01 id="aspace_994ce87fc8eda12bdd1a63c425f01c0d" level="file"><did><unittitle>Minute book</unittitle><unitdate datechar="creation" normal="1953/1955" type="inclusive">1953-1955</unitdate><container id="aspace_f64ceb8bd369a933e1f8b47873f0cbd9" label="unspecified" type="box">1</container><container id="aspace_0049fe35f840cbcd1184c9efdabed601" parent="aspace_f64ceb8bd369a933e1f8b47873f0cbd9" type="folder">3</container></did><scopecontent id="aspace_7b0431fab845493c27f387621739c0ee"><head>Scope and Contents</head><p>July 24, 1953-October 28, 1955</p></scopecontent></c01><c01 id="aspace_5109f3c606c7254dfc0ea0a1e3acccd0" level="file"><did><unittitle>Minute book</unittitle><unitdate datechar="creation" normal="1955/1958" type="inclusive">1955-1958</unitdate><container id="aspace_1cde35038c55d6d0bcf334396729b149" label="unspecified" type="box">1</container><container id="aspace_f9c7e438d0f1ff5a67f6a10cbfde8147" parent="aspace_1cde35038c55d6d0bcf334396729b149" type="folder">4</container></did><scopecontent id="aspace_dc452fe224e4cce3d5f33a95e7587ed9"><head>Scope and Contents</head><p>December 16, 1955-December 19, 1958</p></scopecontent></c01><c01 id="aspace_c81a1f07509a08a5fce6ee67bc1ad977" level="file"><did><unittitle>Minute book</unittitle><unitdate datechar="creation" normal="1959/1961" type="inclusive">1959-1961</unitdate><container id="aspace_46b1ccd3a18ff15a8cd49388198b3db9" label="unspecified" type="box">1</container><container id="aspace_311574e4da4edf1b089dd6466e089ba5" parent="aspace_46b1ccd3a18ff15a8cd49388198b3db9" type="folder">5</container></did><scopecontent id="aspace_9e9e1222361d5ba67d272fe58245ed7b"><head>Scope and Contents</head><p>March 20, 1959-April 28, 1961</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

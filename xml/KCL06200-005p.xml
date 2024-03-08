@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06200-005p</eadid><filedesc><titlestmt><titleproper>UNITE HERE Local 23-25 Photographs <num>6200/005 P</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 03, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:36:25 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>UNITE HERE Local 23-25 Photographs</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">UNITE HERE</corpname>
+    </origination>
+    <unitid>6200/005 P</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1971/1971">1971</unitdate>
+    <physdesc id="aspace_e0ecf116ae50b87ea35c906b46c12106" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_a8a832cd60a118026418552dad8a2df0" label="Forms of Material:">Photographs.</physdesc>
+    <langmaterial id="aspace_f0a0984527980c6a04f3d7a1d52aa800">Collection material in English</langmaterial>
+    <unitid type="bibid">7130067</unitid>
+  </did>
+  <odd id="aspace_8644de47ed5eb6a11cdd866be2629b22">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, May 03, 2012</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, March 03, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_1229b046d1e627f6e9de9aeef1c8e64b">
+    <head>Biographical / Historical</head>
+<p>UNITE HERE is a labor union in the United States and Canada, that was formed in 2004 by the merger of the Union of Needletrades, Industrial, and Textile Employees (UNITE) and Hotel Employees and Restaurant Employees Union (HERE). The membership is made up mainly of workers in the hotel, food service, laundry, warehouse, and casino gaming industries. In 2005, UNITE HERE left the AFL-CIO and joined the Change to Win Federation along with other unions including the Teamsters, SEIU and the UFCW. In may 2009, Bruce Raynor, president, left UNITE HERE, taking with hiim several local unions and between 105,000 and 150,000 members. They formed Workers United. September 17, 2009, UNITE HERE announced that it would re-join the AFL-CIO.</p>  </bioghist>
+  <accessrestrict id="aspace_76d2e9827c8676f2b316c2a2a1ffa20c">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_31c2f6537aa412e8c08eab46f20beb88">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_6275517ed9208b41de09bf2973e0cdf5">
+    <head>Preferred Citation</head>
+<p>UNITE HERE Local 23-25 Photographs #6200/005 P. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_6f9b7ea1ab4ba50d6d448e2383231ed9">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06200.html"> 6200: UNITE HERE Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06200-005.html"> 6200/005: UNITE HERE Local 23-25 Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06200-005mb.html"> 6200/005 MB: UNITE HERE Local 23-25 Memorabilia</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Clothing workers--Labor unions--New York (State)--Photographs</subject>
+    <subject source="ingest">Textile workers--Labor unions--New York (State)--Photographs</subject>
+    <corpname audience="internal" source="ingest">UNITE HERE (Organization)--Photographs</corpname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union. Local 23-25 (New York, N.Y.)--Photographs</corpname>
+    <corpname audience="internal" source="ingest">Union of Needletrades, Industrial and Textile Employees. Local 23-25 (New York, N.Y.)--Photographs</corpname>
+  </controlaccess>
+  <unitid type="bibid">7130067</unitid>
+  <dsc><c01 id="aspace_654cc999cbcea8b17d3b55ddc1f50f9d" level="file"><did><unittitle>Holiday Party Group photograph</unittitle><container id="aspace_312f815bd5a278a2e0bfc8dca04e43f2" label="unspecified" type="box">1</container><container id="aspace_6d49bb8d7bdfdeb49dcc345dc7a4c481" parent="aspace_312f815bd5a278a2e0bfc8dca04e43f2" type="folder">1</container></did><scopecontent id="aspace_2fb2a1d1fe864c6c74f3726fcf55e06b"><head>Scope and Contents</head><p>1 photograph</p></scopecontent></c01><c01 id="aspace_4d0ff4e293ae573cc8e301315b43869d" level="file"><did><unittitle>Sketch and Pamphlet</unittitle><unitdate datechar="creation" normal="1971/1971">1971</unitdate><container id="aspace_648518ff14e4ed09286b134c9694924f" label="unspecified" type="box">1</container><container id="aspace_f19602ef70e4bd8e90a0667482025c82" parent="aspace_648518ff14e4ed09286b134c9694924f" type="folder">2</container></did><scopecontent id="aspace_9673a9f552684e55e8c4d846e6a90d7e"><head>Scope and Contents</head><p>National Jewish Hospital and Research Center</p></scopecontent></c01><c01 id="aspace_e726d84f641fd801250a8cda8db7b14d" level="file"><did><unittitle>Unlabeled photograph of an Asian woman</unittitle><container id="aspace_d8352b4431680e60352eeb4c84abdd5b" label="unspecified" type="box">1</container><container id="aspace_7e93afcc7aabad50e0a40573d9abfaee" parent="aspace_d8352b4431680e60352eeb4c84abdd5b" type="folder">3</container></did><scopecontent id="aspace_153e6c0ad968dda1de0a083368e33c74"><head>Scope and Contents</head><p>oversized photograph</p></scopecontent></c01><c01 id="aspace_cef740d964604460be21796b79ee0c0f" level="file"><did><unittitle>UNITE HERE! oversized photograph</unittitle><container id="aspace_e3c83354168f847322a6403d125e0c9c" label="unspecified" type="box">1</container><container id="aspace_b49336539763fdcd5df9fcb9e0d3baaa" parent="aspace_e3c83354168f847322a6403d125e0c9c" type="folder">4</container></did></c01><c01 id="aspace_76b155557bcb6c9ea6ac8921299e5b2b" level="file"><did><unittitle>slides</unittitle><container id="aspace_85d8216375d7049801470eaccb2a4a07" label="unspecified" type="box">2</container><container id="aspace_36b6fdbc7e7604d2ef2cc401d712a5c6" parent="aspace_85d8216375d7049801470eaccb2a4a07" type="folder">1</container></did><scopecontent id="aspace_16681de28ae7099a174f782d53e7d70c"><head>Scope and Contents</head><p>22 slides</p></scopecontent></c01><c01 id="aspace_db207da55028644c70bfe2a192c90424" level="file"><did><unittitle>unmarked photo</unittitle><container id="aspace_c767b11368f9774805e0ca2923ce892f" label="unspecified" type="box">2</container><container id="aspace_31df02db9c26813b169e167a2bb10470" parent="aspace_c767b11368f9774805e0ca2923ce892f" type="folder">2</container></did><scopecontent id="aspace_a9c63b7148fab99b75a313436c3147d3"><head>Scope and Contents</head><p>5 photographs</p></scopecontent></c01><c01 id="aspace_d5e6037c178db962f61be64ce9ece161" level="file"><did><unittitle>Martin Luther King, Jr. photograph</unittitle><container id="aspace_541418936de6a5bf9841f6177ffce577" label="unspecified" type="box">2</container><container id="aspace_38d0e48ce7176e4bcb3a014d99b6154d" parent="aspace_541418936de6a5bf9841f6177ffce577" type="folder">3</container></did><scopecontent id="aspace_b987da87d1686e4ae8c6f29a57fb8b21"><head>Scope and Contents</head><p>1 photograph</p></scopecontent></c01><c01 id="aspace_312d60249a45a741a3df7568823527cf" level="file"><did><unittitle>unlabeled portrait photographs</unittitle><container id="aspace_c557c365ac9fee3e99f0968013490b13" label="unspecified" type="box">2</container><container id="aspace_11b24adf73b35a79dc7c3dfa5f1bc742" parent="aspace_c557c365ac9fee3e99f0968013490b13" type="folder">4</container></did><scopecontent id="aspace_02432fbf2afab748ed9862350612a9eb"><head>Scope and Contents</head><p>2 photographs</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

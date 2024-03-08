@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06148m</eadid><filedesc><titlestmt><titleproper>Ellis, Barbara G. "Triangle" Teleplay <num>6148m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 23, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:31:24 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Barbara G. Ellis "Triangle" Teleplay</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Ellis, Barbara G.</persname>
+    </origination>
+    <unitid>6148m</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 folders</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="2002/2002">2002</unitdate>
+    <physdesc id="aspace_d1d2be462eb9043f6fb8c49b58ef08a3" label="Quantity:">1 file folder</physdesc>
+    <physdesc id="aspace_a2275f5da165a314a4de5a5db7b21dda" label="Forms of Material:">Script.</physdesc>
+    <abstract id="aspace_2e58df9a5c9d9b721b203f63eea9881f">Teleplay "Triangle" by B.G. Ellis. Insribed by author.</abstract>
+    <langmaterial id="aspace_e79ac1bdc9f2b23654145074691d3ac9">Collection material in English</langmaterial>
+    <unitid type="bibid">5819035</unitid>
+  </did>
+  <odd id="aspace_211bcafa5b8df5788adbdb64c3e2ee8d">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 31, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, February 23, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <scopecontent id="aspace_3d7738bf9399d2f3fd2abf49d870afe1">
+    <head>Scope and Contents</head>
+<p>This collection consists of a typescript of the teleplay "Triangle" by B.G. Ellis. The teleplay is inscribed to the Kheel collection.</p>  </scopecontent>
+  <accessrestrict id="aspace_d23be350fcb7e96b35b6496ff746086b">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_61aff6b3408407ba198b5787875e572d">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_0682564188b58f12bac23cdef651fc51">
+    <head>Preferred Citation</head>
+<p>Barbara G. Ellis "Triangle" Teleplay #6148m. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <unitid type="bibid">5819035</unitid>
+  <dsc><c01 id="aspace_cfcd8ff36dab5bfa1c9c62f5ecee20ba" level="file"><did><unittitle>"Triangle"</unittitle><unitdate datechar="creation" normal="2002/2002">2002</unitdate><container id="aspace_d53b3ccf93664b44a4571b0a9323b0ba" label="unspecified" type="box">1</container></did><scopecontent id="aspace_7dec56e87eb42113b0a5316c93f8e93b"><head>Scope and Contents</head><p>Teleplay; 116 pages.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

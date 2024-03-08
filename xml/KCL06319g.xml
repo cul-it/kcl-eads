@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06319g</eadid><filedesc><titlestmt><titleproper>COLA "The Solidarity With" Graphics <num>6319 G</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 26, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:43:22 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>COLA "The Solidarity With" Graphics</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Cornell Organization for Labor Action</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Ertl, John</persname>
+    </origination>
+    <unitid>6319 G</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.78 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="2011/2011">2011</unitdate>
+    <physdesc id="aspace_9fe40313380d9b8fe74db716005de604" label="Quantity:">0.8 linear ft.</physdesc>
+    <physdesc id="aspace_19ca88f740acfd25e5a81e0f528955e4" label="Forms of Material:">Graphics.</physdesc>
+    <langmaterial id="aspace_27ed78722b0b4e7f258fccb64b2ea2ee">Collection material in English</langmaterial>
+    <unitid type="bibid">7357718</unitid>
+  </did>
+  <odd id="aspace_56a584982ca2381f3cb80699b18c0bfe">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, June 13, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, August 26, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_bbb9b5f7cf605ec8d84ad1b5dbfa7811">
+    <head>Biographical / Historical</head>
+<p>COLA is the Cornell Organization for Labor Action.</p>  </bioghist>
+  <accessrestrict id="aspace_82c99380b48314e593f1c2851ab30773">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_6e31735ba71eaadb062615a80c82385b">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_8ef6ac21e42608f3a3b2a7805a4c916e">
+    <head>Preferred Citation</head>
+<p>COLA "The Solidarity With" Graphics #6319 G. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Ertl, John</persname>
+    <corpname audience="internal" source="ingest">Cornell Organization for Labor Action (COLA)</corpname>
+  </controlaccess>
+  <unitid type="bibid">7357718</unitid>
+  <dsc><c01 id="aspace_3560d9fbb3106a5fd627f82b60208f93" level="file"><did><unittitle>part of this material was removed and placed in box 2</unittitle><container id="aspace_ccb31e78ea9dc4ea903b36cc5942a33a" label="unspecified" type="box">1</container></did><c02 id="aspace_2e5f5c4c891fa6ab6f81e6109d313efd" level="file"><did><unittitle>Graphics (6)</unittitle><container id="aspace_c3d5a8be000bbd337aef07861457d9c8" label="unspecified" type="box">1</container><container id="aspace_99cbd6a6dcdf6cb41f4cdd6c51e0f6c8" parent="aspace_c3d5a8be000bbd337aef07861457d9c8" type="Folder">1</container></did></c02></c01><c01 id="aspace_7da3a04bc35f58cf204823d420ded633" level="file"><did><unittitle>Graphics</unittitle><container id="aspace_b498b35645fc3bbcae5f602907a6357a" label="unspecified" type="box">2</container><container id="aspace_cd4a338234dbc4fb345c8a8cc48771af" parent="aspace_b498b35645fc3bbcae5f602907a6357a" type="Folder">1</container></did><scopecontent id="aspace_9c88d97f1f91617af63b7e6f87ff6f0f"><head>Scope and Contents</head><p>10 - Broadsides, graphics, newspapers, posters, etc.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

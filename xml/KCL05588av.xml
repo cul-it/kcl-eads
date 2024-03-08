@@ -1,49 +1,68 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html lang="en">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-  <title>Internal Server Error at &#x2F;repositories&#x2F;4&#x2F;resource_descriptions&#x2F;10207.xml</title>
-  <meta name="robots" content="NONE,NOARCHIVE" />
-  <style type="text/css">
-    html * { padding:0; margin:0; }
-    body * { padding:10px 20px; }
-    body * * { padding:0; }
-    body { font:small sans-serif; background:#eee; }
-    body>div { border-bottom:1px solid #ddd; }
-    h1 { font-weight:normal; margin-bottom:.4em; }
-    h1 span { font-size:60%; color:#666; font-weight:normal; }
-    table { border:none; border-collapse: collapse; width:100%; }
-    td, th { vertical-align:top; padding:2px 3px; }
-    th { width:12em; text-align:right; color:#666; padding-right:.5em; }
-    #info { background:#f6f6f6; }
-    #info ol { margin: 0.5em 4em; }
-    #info ol li { font-family: monospace; }
-    #summary { background: #ffc; }
-    #explanation { background:#eee; border-bottom: 0px none; }
-  </style>
-</head>
-<body>
-  <div id="summary">
-    <h1>Internal Server Error <span>(500)</span></h1>
-    <table class="meta">
-      <tr>
-        <th>Request Method:</th>
-        <td>GET</td>
-      </tr>
-      <tr>
-        <th>Request URL:</th>
-        <td>http:&#x2F;&#x2F;localhost:8089&#x2F;repositories&#x2F;4&#x2F;resource_descriptions&#x2F;10207.xml?include_unpublished=true&amp;numbered_cs=true&amp;include_daos=true</td>
-      </tr>
-    </table>
-  </div>
-  <div id="info">
-    <p>(DatabaseError) Java::JavaSql::SQLNonTransientConnectionException: No operations allowed after connection closed.</p>
-  </div>
-
-  <div id="explanation">
-    <p>
-    You're seeing this error because you use <code>JRuby::Rack::ErrorApp::ShowStatus</code>.
-    </p>
-  </div>
-</body>
-</html>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05588av</eadid><filedesc><titlestmt><titleproper>Cole, David Interviews <num>5588 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 20, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 15:46:27 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>David Cole Interviews</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Cole, David L.</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Mackell, Thomas J., Jr.</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Morris, J.</persname>
+    </origination>
+    <unitid>5588 AV</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.67 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1974/1975" type="inclusive">1974-1975</unitdate>
+    <physdesc id="aspace_042ec8e046861bfb7440373831074983" label="Quantity:">0.7 linear ft.</physdesc>
+    <physdesc id="aspace_786bfe08bfa15e87b759c75fa8cdc0e1" label="Forms of Material:">Audiovisual materials, oral histories (document genre).</physdesc>
+    <abstract id="aspace_1de73c5cf1e1f91a63a10bfabd3fc3c5">Audio tapes of David Cole interviews.</abstract>
+    <langmaterial id="aspace_f23ba41bd92aefb3ce99d24f448b3e19">Collection material in English</langmaterial>
+    <unitid type="bibid">7588785</unitid>
+  </did>
+  <odd id="aspace_c0ad1308df42dae34b1dd54ac71e02f8">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, March 01, 2012</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 20, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_b63679e5021e40a375771a1088e4f402">
+    <head>Biographical / Historical</head>
+<p>David Lawrence Cole was a graduate of Harvard University (BS., 1921) and Fairleigh Dickinson University (LL.B., 1924, LL.D., 1964.) Although he practiced law in Paterson, N.J. from 1926 until his death as senior partner in the law firm of Cole, Berman &amp; Belksy, David Cole will chiefly be remembered for a distinguished career as a government arbitrator and mediator. In this field he served on numerous state and federal boards and in various governmental agencies. Cole was chairman of the New Jersey State Board of Mediation; a public member of Region 2, United States War Labor Board; and chairman of the Presidential Boards of Inquiry in the bituminous coal industry (1948) and in the longshore industry (1953, 1968). Cole was also a member or chairman of numerous Presidential Emergency Boards which settled disputes in the railroad and airline industries (1948-1958); the chairman of the conciliation service for the New York City transit service (1961-1965); director of the Federal Mediation and Conciliation Service (1952-1953); chairman of the New Jersey Governor's Committee on Public Utility Strike Service (1952-1953); member of the President's Labor-Management Advisory Committee (1961-1964); and member of the New York Governor's Public Employee Relations Committee (1966-1968), which established the New York State Public Employee Relations Board. Cole was also appointed as chairman of the President's Commission on Industrial Peace in 1973. </p><p> Beyond his public service, Mr. Cole was active as a counsel for employer groups in the textile industry (1926-1942) and as an impartial chairman for other labor-management contract disputes. He was also impartial arbitrator for the AFL-CIO Internal Disputes Plan (1954-1976), served as a visiting professor at the New York State School of Industrial and Labor Relations at Cornell University (1954-1955) and was Kestenbaum lecturer at Harvard in 1962. Mr. Cole was the author of INDUSTRIAL PEACE (1963).</p>  </bioghist>
+  <accessrestrict id="aspace_8f0b40b1b1ddb6f415de84e7f2021ea6">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_df07928bb51bad99af840fed60c08d8a">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_75d096d6248f9d883e2b6e987afe6e0f">
+    <head>Preferred Citation</head>
+<p>David Cole Interviews #5588 AV. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_d6a7b7fe9ec30bc4b106c75adec193eb">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05122.html"> 5122: David L. Cole Arbitration Transcripts</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05588.html"> 5588: David L. Cole Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05588mf.html"> 5588 mf: David Cole Additional Arbitration Records on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05737oht.html"> 5737 OHT: Oral History Interview with David Cole by Jerry N. Hess</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06116m.html"> 6116m: David L. Cole Report on "Conscious Promotion in Practice of Better Labor-Management Cooperation"</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06201oh.html"> 6201 OH: Dennis Gaffney Collection of a Paul Cole Interview Audio-Visual Materials</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06202.html"> 6202: New York State AFL-CIO Paul Cole Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06202av.html"> 6202 AV: New York State AFL-CIO Paul Cole Interviews Audio-Visual Materials</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06202oh.html"> 6202 OH: New York State AFL-CIO Paul Cole Interviews Oral History on Minidiscs</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06202pd.html"> 6202 P(d): New York State AFL-CIO Paul Cole Digital Photographs</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Cole, David L.</persname>
+    <persname audience="internal" source="ingest">Makell, Thomas J., Jr.</persname>
+    <persname audience="internal" source="ingest">Morris, J.</persname>
+  </controlaccess>
+  <unitid type="bibid">7588785</unitid>
+  <dsc><c01 id="aspace_cd89440b27be9d741cda97145a023254" level="file"><did><unittitle>David L. Cole - Session I - 11/18/1974: tape 1</unittitle><unitid>1</unitid><unitdate datechar="creation" normal="1974/1974">1974</unitdate><container id="aspace_9d88b0516d041a3afafd70e665e957d0" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_63431ceec45c7d778a2d9848ac957fca" level="file"><did><unittitle>David L. Cole - Session I - 11/18/1974: tape 2</unittitle><unitid>1</unitid><unitdate datechar="creation" normal="1974/1974">1974</unitdate><container id="aspace_21e8629450c3a2a4f9f98943b5d3c6be" label="unspecified" type="box">2</container></did></c01><c01 id="aspace_21b548264af96d829acc5a0137ed5432" level="file"><did><unittitle>David L. Cole - Session II - 2/26/1975: tape 1</unittitle><unitid>1</unitid><unitdate datechar="creation" normal="1975/1975">1975</unitdate><container id="aspace_9b759a9a6ada6788ad1b63f306f33bb0" label="unspecified" type="box">3</container></did></c01><c01 id="aspace_46584386c5f30deb29fd94b6ba3d2f2d" level="file"><did><unittitle>David L. Cole - Session II - 2/26/1975: tape 2</unittitle><unitid>1</unitid><unitdate datechar="creation" normal="1975/1975">1975</unitdate><container id="aspace_6ddb60ea65d998307551d1f4717e4a43" label="unspecified" type="box">4</container></did></c01><c01 id="aspace_bef2843480e728b34f2ef8a2f941a517" level="file"><did><unittitle>David L. Cole - Session II - 2/26/1975: tape 3</unittitle><unitid>1</unitid><unitdate datechar="creation" normal="1975/1975">1975</unitdate><container id="aspace_2798e69cdae3b2aa4610df25249bb373" label="unspecified" type="box">5</container></did></c01><c01 id="aspace_6f76a3bcd36894c33c4705bbde326478" level="file"><did><unittitle>Discussions with David Cole, Project produced by Dave Israel</unittitle><unitid>1</unitid><container id="aspace_f4c1a1c63fe8de60f16acc1038875556" label="unspecified" type="box">6</container></did></c01></dsc>
+</archdesc>
+</ead>

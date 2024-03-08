@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05780-071</eadid><filedesc><titlestmt><titleproper>ILGWU. Local 25. The Message, <num>5780/071</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 2011</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:01:57 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILGWU. Local 25. The Message</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname source="ingest">International Ladies' Garment Workers' Union. Local 23-25 (New York, N.Y.)</corpname>
+    </origination>
+    <unitid>5780/071</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1913/1918" type="bulk">1913-1918.</unitdate>
+    <physdesc id="aspace_c8d54495a2de31f9d4d10581f08437d8" label="Quantity:">.5 linear feet</physdesc>
+    <physdesc id="aspace_1486884780a2bc2696f46a37ecc93dec" label="Forms of Material:">Bound volumes.</physdesc>
+    <abstract id="aspace_784aca5e03f262b5f8035fea159fcb45">Collection consists of issues of Local 25's publication, The Message, from 1913-1918.</abstract>
+    <langmaterial id="aspace_fd5a3c61bcea4ed975030df191d6fff8">Collection material in English</langmaterial>
+    <unitid type="bibid">6323007</unitid>
+  </did>
+  <odd id="aspace_c18f2a3a381a0cf7b7fae396278323a8">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183<extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref><extref xlink:href="http://www.ilr.cornell.edu/library/kheel">http://www.ilr.cornell.edu/library/kheel</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff</item>
+      </defitem>
+      <defitem>
+        <label>Date completed:</label>
+        <item>April 2011</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Cheryl Beredo, April 2011</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_cd089750eb34fd61c224a7d9d621d58c">
+    <head>Biographical / Historical</head>
+<p>The International Ladies' Garment Workers' Union was founded in New York City in 1900 by mostly Socialist immigrant workers who sought to unite the various crafts in the growing women's garment industry. The union soon reflected changes in the sector and rapidly organized thousands of unskilled and semi-skilled women, mostly Jewish and Italian young immigrants. Exemplifying the "new unionism," the ILGWU led two of the most widespread and best-known industrial strikes of the early Twentieth Century: the shirtwaist makers' strike of 1909 in New York City and the cloak makers' strike of 1910 in Chicago. The union also tried to adapt to the fragmented and unstable nature of the industry. It adopted the "protocol of peace," a system of industrial relations that attempted to ensure stability and limit strikes and production disruption by providing for an arbitration system to resolve disputes.</p><p> The ILGWU exemplified the European-style social unionism of its founding members. They pursued bread and butter issues but provided educational opportunities, benefits, and social programs to union members as well. In 1919, the ILGWU became the first American union to negotiate an unemployment compensation fund that was contributed to by its employers. The ILGWU also pioneered in the establishment of an extremely progressive health care program for its members which included not only regional Union Health Centers but also a resort for union workers, known as Unity House. The Union also had an imaginative and pioneering Education Department which not only trained workers in traditional union techniques, but provided courses in citizenship and the English language.</p><p> David Dubinsky, an immigrant from Belarus who came to the US in 1911, provided strong leadership that led to unprecedented growth in the union during his presidency from 1932 to 1966. He led the union through successful internal anti-communist struggles, built on the ascendancy of industrial unionism by encouraging the formation of the Committee for Industrial Organization, and helped the union become an important political force in New York City and state politics, and in the national Democratic Party and Liberal Party as well.</p><p> In the period following the Second World War, the union suffered a decline in membership as manufacturers avoided unionization and took advantage of less expensive labor by moving shops from the urban centers in the northeast to the south, and later abroad. The ethnic and racial character of the ILGWU also changed as European immigrants were supplanted by Asians, Latin Americans, African- Americans, and immigrants from the Caribbean.</p><p> In July 1995 the ILGWU merged with the Amalgamated Clothing and Textile Workers Union (ACTWU) at a joint convention, forming UNITE (Union of Needletrades, Industrial and Textile Employees). At the time the new union had a membership of about 250,000 in the United States, Canada, and Puerto Rico.</p>  </bioghist>
+  <bioghist id="aspace_a040da3d36d44ecdd24572af2c0e8c1a">
+    <head>Biographical / Historical</head>
+<p>Local 25 of the International Ladies' Garment Workers Union (ILGWU), also known as the Ladies' Waist and Dressmakers Union, was chartered in 1905 and based in New York, New York.</p>  </bioghist>
+  <scopecontent id="aspace_060595e43f8586ef1e8545940543959f">
+    <head>Scope and Contents</head>
+<p>Collection consists of issues of Local 25's publication, The Message, from 1913-1918.</p>  </scopecontent>
+  <accessrestrict id="aspace_7f45f46dbbf74e590adbe8185ba07ed2">
+    <head>Conditions Governing Access</head>
+<p>The ILGWU Records, except for publications and materials produced for publication, are restricted. Materials created prior to twenty years from the current date are open to researchers only with prior written permission from the Director of the Kheel Center; materials created during the past twenty-years are closed; the minutes of the General Executive Board are closed. For more information contact the Kheel Center.</p>  </accessrestrict>
+  <userestrict id="aspace_3dbc51024fe5f126d09ef8596052cf68">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_d6936fc7c085401df51347addd7c59ad">
+    <head>Preferred Citation</head>
+<p>ILGWU. Local 25. The Message. 5780/071. Kheel Center for Labor-Management Documentation and Archives, Martin P. Catherwood Library, Cornell University.</p>  </prefercite>
+  <relatedmaterial id="aspace_aaca24601a47e9b628064f50da6014e9">
+    <head>Related Materials</head>
+<p>5780. ILGWU Records</p><p> 5780/042. ILGWU. Local 25. L'Operaia</p><p> 5780/139mf. ILGWU. Local 25. L'Operaia. Microfilm</p>  </relatedmaterial>
+  <odd id="aspace_93cd66c1645b91e811250c80d4b570a4">
+    <head>General</head>
+<p>"Permanent deposit."</p>  </odd>
+  <controlaccess>
+    <subject source="ingest">Labor unions--Clothing workers--New York (State)--New York.</subject>
+    <subject source="ingest">Labor unions--Clothing workers--United States.</subject>
+    <subject source="ingest">Textile workers--New York (State)--New York.</subject>
+    <subject source="ingest">Textile workers--United States.</subject>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union.</corpname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union. Local 23-25 (New York, N.Y.)</corpname>
+  </controlaccess>
+  <unitid type="bibid">6323007</unitid>
+  <dsc><c01 id="aspace_a7069aff35ac1ef94cbaff21792ea615" level="file"><did><unittitle>The Message. Vol.I</unittitle><unitdate calendar="gregorian" datechar="creation" era="ce" normal="1913/1914" type="inclusive">1913-1914</unitdate><container id="aspace_ba88ba59427d6af8fcf917840c34586e" label="unspecified" type="box">1</container><container id="aspace_f75fc847fe4ca431ddfa44f43c231994" parent="aspace_ba88ba59427d6af8fcf917840c34586e" type="folder">1</container></did></c01><c01 id="aspace_db77262866e9e5236a112e484761026d" level="file"><did><unittitle>The Message. Vol.II</unittitle><unitdate datechar="creation" normal="1915/1915">1915</unitdate><container id="aspace_b0e3048f68c506aaa14810ca50e40915" label="unspecified" type="box">1</container><container id="aspace_541539a8120ff489e3af520acdf2f22a" parent="aspace_b0e3048f68c506aaa14810ca50e40915" type="folder">2</container></did></c01><c01 id="aspace_6e6a531ae51a10f8755478e771977324" level="file"><did><unittitle>The Message. Vol.III</unittitle><unitdate datechar="creation" normal="1916/1916">1916</unitdate><container id="aspace_9ce3ffc15dce90612efe0c8e212c2b69" label="unspecified" type="box">1</container><container id="aspace_1610057448d074ee5b39a89259d606ef" parent="aspace_9ce3ffc15dce90612efe0c8e212c2b69" type="folder">3</container></did><scopecontent id="aspace_9bde42e60a262ebded8ee1db52407757"><head>Scope and Contents</head><p>2 copies</p></scopecontent></c01><c01 id="aspace_2dc19138b111015cb68a98f72f27c820" level="file"><did><unittitle>The Message. IV</unittitle><unitdate datechar="creation" normal="1917/1917">1917</unitdate><container id="aspace_f9ff806fd4a7fd2d03be85291b8e2982" label="unspecified" type="box">1</container><container id="aspace_f7835f677df694b5a64dbec1859505bc" parent="aspace_f9ff806fd4a7fd2d03be85291b8e2982" type="folder">4</container></did></c01><c01 id="aspace_0983777cccb3fe5a6454435f0a92efba" level="file"><did><unittitle>The Message. V</unittitle><unitdate datechar="creation" normal="1918/1918">1918</unitdate><container id="aspace_f21032468df99b75243274f1c6834408" label="unspecified" type="box">1</container><container id="aspace_ea01268d290ddd32d89c9b39d6bb8bfe" parent="aspace_f21032468df99b75243274f1c6834408" type="folder">5</container></did></c01><c01 id="aspace_7720a7f25dc510bd5c5514fb23003e2f" level="file"><did><unittitle>The Workers Look at the Stars</unittitle><unitdate datechar="creation" normal="1927/1927">1927</unitdate><container id="aspace_91d8684d291643f28213ead0f84deeb7" label="unspecified" type="box">1</container><container id="aspace_7dbebaed3c4eb2f8902b04e6193c8822" parent="aspace_91d8684d291643f28213ead0f84deeb7" type="folder">6</container></did></c01></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06098mb</eadid><filedesc><titlestmt><titleproper>Sidney Hillman Foundation Banners <num>6098 MB</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 19, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:29:21 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Sidney Hillman Foundation Banners</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Sidney Hillman Foundation</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Union of Needletrades, Industrial and Textile Employees (UNITE)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Workers United</corpname>
+    </origination>
+    <unitid>6098 MB</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="0000/2999" type="inclusive">0000-2999</unitdate>
+    <physdesc id="aspace_2309d2d99326a73f00b58330e5343cb0" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_784e2e2a5d506fb72fb214172d1d872f" label="Forms of Material:">Memorabilia.</physdesc>
+    <abstract id="aspace_4c61698778131e24d707e09702aefeaf">This collection consists of a banner for The Sidney Hillman Foundation.</abstract>
+    <langmaterial id="aspace_46c0d6c490fa7ab386814f8002e56733">Collection material in English</langmaterial>
+    <unitid type="bibid">7516126</unitid>
+  </did>
+  <odd id="aspace_7932ebc906d927e9aafaa155c0bcafcc">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, September 30, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, August 19, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_c668865d46bdf676f0dc1773dcd8a45d">
+    <head>Biographical / Historical</head>
+<p>The Sidney Hillman Foundation was named for the labor leader, Sidney Hillman (1887-1946), who was the first president of the Amalgamated Clothing Workers of America (ACWA). Immediately after his death, his union wished to honor him with a memorial that would carry on his commitments to the lives of working people. On November 17, 1946, the General Executive Board of the ACWA voted to establish the Sidney Hillman Foundation. ACWA contributed the first $100,000 and then raised one million dollars from other organizations. In 1947, the Board of Directors issued the first grants for scholarships, research and lectures on college campuses, and for medical research at the Sidney Hillman Health Centers. </p><p> In 1950, the Foundation launched the Hillman Prize in order to promote socially-responsible journalism. Starting with awards in Book, Magazine, Newspaper, and Broadcast, the prize is now also offered in the categories of Photojournalism, Web, and Opinion and Analysis. One important note is that the Hillman Foundation changed its dating system for prizes in 1999/ 2000. The Foundation decided to name the prize for the year it was given rather than the year the work was produced, changing the pattern of the previous fifty years. This new system continues to the present. This means that in effect there are no prizes for the year 1999, but a year was not skipped in the granting of awards.</p>  </bioghist>
+  <accessrestrict id="aspace_930b9eabf2c0e61e05d13e86f58abb84">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_243fd9fdf57566ec9dce78646ba3eeb2">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_757e2e3908ff29cf483ab67d10ebeb4a">
+    <head>Preferred Citation</head>
+<p>Sidney Hillman Foundation Banners #6098 MB. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <persname audience="internal" source="ingest">Hillman, Sidney, 1887-1946</persname>
+    <corpname audience="internal" source="ingest">Sidney Hillman Foundation</corpname>
+  </controlaccess>
+  <unitid type="bibid">7516126</unitid>
+  <dsc><c01 id="aspace_b9a73ad2c98145d172554e8ce5132a8c" level="file"><did><unittitle>Sidney Hillman Foundation Banner - 24x70</unittitle><container id="aspace_3490600cfdde9284474ea92c065fee22" label="unspecified" type="box">1</container></did></c01></dsc>
+</archdesc>
+</ead>

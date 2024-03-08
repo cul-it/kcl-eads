@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05780-002p</eadid><filedesc><titlestmt><titleproper>ILGWU. David Dubinsky photographs, <num>5780/002 P</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>July 2011</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 15:58:08 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILGWU. David Dubinsky photographs</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname source="ingest">International Ladies' Garment Workers' Union.</corpname>
+    </origination>
+    <unitid>5780/002 P</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1945/1967" type="bulk">1945-1967</unitdate>
+    <physdesc id="aspace_94ac38d73344a3405608ce2059e7ff42" label="Quantity:">2.7 linear feet</physdesc>
+    <physdesc id="aspace_deade867203b1abeb6a51eb7503f11d7" label="Forms of Material:">Photographs</physdesc>
+    <abstract id="aspace_009db918e2f2d09bf230f40291589287">Contains photograph albums presented to David Dubinsky, as well as photograph albums featuring David Dubinsky between 1945 and 1967. Several albums document Dubinsky's international travels, as well as his participation in events in the United States.</abstract>
+    <langmaterial id="aspace_b71acd7e13fc501072edae8488cb6727">Collection material in English</langmaterial>
+    <unitid type="bibid">6849869</unitid>
+  </did>
+  <odd id="aspace_74f56d185e3cb2f73e3842e6a6388260">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183<extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref><extref xlink:href="http://www.ilr.cornell.edu/library/kheel">http://www.ilr.cornell.edu/library/kheel</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff</item>
+      </defitem>
+      <defitem>
+        <label>Date completed:</label>
+        <item>July 2011</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Cheryl Beredo, July 2011</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_3ad11860c7a22874a2d4d39b3c225928">
+    <head>Biographical / Historical</head>
+<p>The International Ladies' Garment Workers' Union was founded in New York City in 1900 by mostly Socialist immigrant workers who sought to unite the various crafts in the growing women's garment industry. The union soon reflected changes in the sector and rapidly organized thousands of unskilled and semi-skilled women, mostly Jewish and Italian young immigrants. Exemplifying the "new unionism," the ILGWU led two of the most widespread and best-known industrial strikes of the early Twentieth Century: the shirtwaist makers' strike of 1909 in New York City and the cloak makers' strike of 1910 in Chicago. The union also tried to adapt to the fragmented and unstable nature of the industry. It adopted the "protocol of peace," a system of industrial relations that attempted to ensure stability and limit strikes and production disruption by providing for an arbitration system to resolve disputes.</p><p> The ILGWU exemplified the European-style social unionism of its founding members. They pursued bread and butter issues but provided educational opportunities, benefits, and social programs to union members as well. In 1919, the ILGWU became the first American union to negotiate an unemployment compensation fund that was contributed to by its employers. The ILGWU also pioneered in the establishment of an extremely progressive health care program for its members which included not only regional Union Health Centers but also a resort for union workers, known as Unity House. The Union also had an imaginative and pioneering Education Department which not only trained workers in traditional union techniques, but provided courses in citizenship and the English language.</p><p> David Dubinsky, an immigrant from Belarus who came to the US in 1911, provided strong leadership that led to unprecedented growth in the union during his presidency from 1932 to 1966. He led the union through successful internal anti-communist struggles, built on the ascendancy of industrial unionism by encouraging the formation of the Committee for Industrial Organization, and helped the union become an important political force in New York City and state politics, and in the national Democratic Party and Liberal Party as well.</p><p> In the period following the Second World War, the union suffered a decline in membership as manufacturers avoided unionization and took advantage of less expensive labor by moving shops from the urban centers in the northeast to the south, and later abroad. The ethnic and racial character of the ILGWU also changed as European immigrants were supplanted by Asians, Latin Americans, African- Americans, and immigrants from the Caribbean.</p><p> In July 1995 the ILGWU merged with the Amalgamated Clothing and Textile Workers Union (ACTWU) at a joint convention, forming UNITE (Union of Needletrades, Industrial and Textile Employees). At the time the new union had a membership of about 250,000 in the United States, Canada, and Puerto Rico.</p>  </bioghist>
+  <bioghist id="aspace_2682ba4954cb152368b32afcd1bc74fc">
+    <head>Biographical / Historical</head>
+    <chronlist>
+      <chronitem>
+        <date>1892</date>
+        <eventgrp>
+          <event>Born February 22nd in Brest-Litovsk, then in Russia, son of Bezalel and Shaine Wishingrad Dobnievski.</event>
+          <event>Moved to Lodz, where the family operated a bakery.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1903</date>
+        <eventgrp>
+          <event>Began to work in father's bakery after attending three terms in Hebrew Zionist school.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1907</date>
+        <eventgrp>
+          <event>Qualified as master baker and joined bakers' union, organized by the General Jewish Workers Union, the Bund.</event>
+          <event>Served as secretary of the bakers' union.</event>
+          <event>Arrested, together with 60 other members of the union, in the course of a strike; released after payment of 25 rubles by father.</event>
+          <event>Left Lodz to live with an uncle in Brest-Litovsk; after three months returned to Lodz and rejoined the bakers' union.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1908</date>
+        <eventgrp>
+          <event>Arrested while attending an illegal meeting of the bakers and, as a second offender, exiled to a small Siberian village.</event>
+          <event>Escaped and made his way to Chelyabinsk and from there to Lodz, working as a baker under an assumed name.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1910</date>
+        <eventgrp>
+          <event>Sailed, with an older brother, Chaira, to New York City.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1911</date>
+        <eventgrp>
+          <event>Arrived in NYC on January 1st.</event>
+          <event>Lived on Lower East Side and became apprenticed to learn the cutter's craft.</event>
+          <event>Accepted as a member of Local 10, Cutters' Union of the International Ladies' Garment Workers' Union, on July 13th.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1914</date>
+        <eventgrp>
+          <event>Married Emma Goldberg, an undergarment operator and member of the ILGWU. (The couple had one child, a daughter, Jean.)</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1918</date>
+        <eventgrp>
+          <event>Elected to executive board of Local 10.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1919</date>
+        <eventgrp>
+          <event>Elected vice-president of Local 10.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1920</date>
+        <eventgrp>
+          <event>Elected chairman of Local 10.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1921</date>
+        <eventgrp>
+          <event>Elected president of Local 10.</event>
+          <event>Elected general manager (a new office combining duties of manager and secretary) of Local 10 in December.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1922</date>
+        <eventgrp>
+          <event>Elected vice president of ILGWU and member of General Executive Board.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1929</date>
+        <eventgrp>
+          <event>Elected General Secretary-Treasurer of ILGWU.</event>
+          <event>Served as Acting President of ILGWU.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1932</date>
+        <eventgrp>
+          <event>Elected by GEB in June as President, following death of President Benjamin Schlesinger.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1934</date>
+        <eventgrp>
+          <event>Elected vice president of American Federation of Labor in October.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1935</date>
+        <eventgrp>
+          <event>Joined with John L. Lewis of Mine Workers and Sidney Hillman of Amalgamated Clothing Workers to form a Committee for Industrial Organization.</event>
+          <event>First U.S. labor representative to the International Labor Organization.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1936.</date>
+        <eventgrp>
+          <event>Joined in founding the American Labor Party in New York State.</event>
+          <event>Served as Democratic Party elector for the ticket of Franklin D. Roosevelt and John N. Garner.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1944</date>
+        <eventgrp>
+          <event>Joined in founding Liberal Party.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1945</date>
+        <eventgrp>
+          <event>Elected vice president of American Federation of Labor.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1966</date>
+        <eventgrp>
+          <event>Offered resignation as President to GEB at meeting of March 14th, to take effect April 12th.</event>
+          <event>Resignation effective June 15th, anniversary of date on which he was first elected President.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1982</date>
+        <eventgrp>
+          <event>Died in New York City on September 17, 1982.</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+  </bioghist>
+  <scopecontent id="aspace_db4db386ac0e0ad1a3947d9d463a5d4b">
+    <head>Scope and Contents</head>
+<p>Contains photograph albums presented to David Dubinsky, as well as photograph albums featuring David Dubinsky between 1945 and 1967. Several albums document Dubinsky's international travels, as well as his participation in events in the United States.</p>  </scopecontent>
+  <accessrestrict id="aspace_1449dfc498cb09a1a2226265b9cef09a">
+    <head>Conditions Governing Access</head>
+<p>The ILGWU Records, except for publications and materials produced for publication, are restricted. Materials created prior to twenty years from the current date are open to researchers only with prior written permission from the Director of the Kheel Center; materials created during the past twenty-years are closed; the minutes of the General Executive Board are closed. For more information contact the Kheel Center.</p>  </accessrestrict>
+  <prefercite id="aspace_5142c5299a34a9d3d3a99e1f2dc9cd42">
+    <head>Preferred Citation</head>
+<p>ILGWU. David Dubinsky photographs. 5780/002 P. Kheel Center for Labor-Management Documentation and Archives, Martin P. Catherwood Library, Cornell University.</p>  </prefercite>
+  <relatedmaterial id="aspace_288e10a623364f15d78f74c4d5512436">
+    <head>Related Materials</head>
+<p>5780. ILGWU records</p><p> 5780/002. ILGWU. David Dubinsky correspondence</p><p> 5780/002 AV. ILGWU. David Dubinsky audio-visual recordings</p><p> 5780/002 MB. ILGWU. David Dubinsky memorabilia</p><p> 5780/136. ILGWU. David Dubinsky scrapbooks</p><p> 5780/179 MB. ILGWU. David Dubinsky memorabilia</p><p> 5780/179 P. ILGWU. David Dubinsky photographs</p>  </relatedmaterial>
+  <odd id="aspace_466d70326f46fefbecf1ca8715cc2d6e">
+    <head>General</head>
+<p>"Permanent deposit"</p>  </odd>
+  <controlaccess>
+    <subject source="ingest">Women's clothing industry--United States.</subject>
+    <subject source="ingest">Labor unions--Clothing workers--United States.</subject>
+    <subject source="ingest">Clothing workers--United States.</subject>
+    <subject source="ingest">Industrial relations--United States.</subject>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union.</corpname>
+    <persname audience="internal" source="ingest">Dubinsky, David, 1892-1982</persname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union.</corpname>
+  </controlaccess>
+  <unitid type="bibid">6849869</unitid>
+  <dsc><c01 id="aspace_956d278bbad71bb7e4ce3b5ee7e7b017" level="file"><did><unittitle>Photo Album</unittitle><unitdate datechar="creation" normal="1959/1959">1959</unitdate><container id="aspace_a2b0a181398986104d5211fb5a6ba201" label="unspecified" type="box">1</container><container id="aspace_82f121ce42e6028f31ecc09cb7365da9" parent="aspace_a2b0a181398986104d5211fb5a6ba201" type="folder">1</container></did><scopecontent id="aspace_df42bb0316951354c99ee09f7f5834dc"><head>Scope and Contents</head><p>Visit to Joseph Breslaw Community Center, established by ILGWU, Joint Board Cloakmakers Unions, Local 35, with the cooperation of the American Histadrut Campaign</p></scopecontent></c01><c01 id="aspace_66f070781bd2a61d97fb67f12b825c4d" level="file"><did><unittitle>Photo Album</unittitle><unitdate datechar="creation" normal="1957/1957">1957</unitdate><container id="aspace_73f9aafc97bc6e8e3c1328f1b718a4b1" label="unspecified" type="box">1</container><container id="aspace_630488fba07cd396f06f64deb916e5c6" parent="aspace_73f9aafc97bc6e8e3c1328f1b718a4b1" type="folder">2</container></did><scopecontent id="aspace_8943b044dd65680219230ef04b290910"><head>Scope and Contents</head><p>Homage of the French ORT to Mr. David Dubinsky</p></scopecontent></c01><c01 id="aspace_f9867fad36af18fd0a51f2e075cd1d34" level="file"><did><unittitle>Photo Album</unittitle><unitdate datechar="creation" normal="1957/1957">1957</unitdate><container id="aspace_87c38c9399e7fa1edf8cc2f68728eac8" label="unspecified" type="box">1</container><container id="aspace_264ba922888280e51041f63f0de914f0" parent="aspace_87c38c9399e7fa1edf8cc2f68728eac8" type="folder">3</container></did><scopecontent id="aspace_4431863337affde3113c1a2c96e050db"><head>Scope and Contents</head><p>Dedicated to David Dubinsky on occasion of the 20th anniversary of the Wyoming Valley District. Also contains clippings</p></scopecontent></c01><c01 id="aspace_67e0e53a4191c591140a71cc7cbd7414" level="file"><did><unittitle>Photo Album</unittitle><unitdate datechar="creation" normal="1956/1956">1956</unitdate><container id="aspace_7348eacf0af922ee0935a98dfa327fd6" label="unspecified" type="box">1</container><container id="aspace_1d1f5748dacd28914c8271f312e864f1" parent="aspace_7348eacf0af922ee0935a98dfa327fd6" type="folder">4</container></did><scopecontent id="aspace_02b18f340f4211bf5fac204e196112e2"><head>Scope and Contents</head><p>Presented to David Dubinsky by La Union Cortadores de Confecciones, Medidas y Afines</p></scopecontent></c01><c01 id="aspace_ef52779c5264a3137f9601c57cda651c" level="file"><did><unittitle>Photo Album</unittitle><unitdate datechar="creation" normal="1966/1966">1966</unitdate><container id="aspace_f21180b02398ea087a6b08b5372c5ef5" label="unspecified" type="box">1</container><container id="aspace_5ebf67aeef0c379c83d9b2b5778df362" parent="aspace_f21180b02398ea087a6b08b5372c5ef5" type="folder">5</container></did><scopecontent id="aspace_547f3497bc5db24e8d2c3b51551283e7"><head>Scope and Contents</head><p>Presented to David Dubinsky by "International House," The Greater Haifa Trade School of the Histadrut</p></scopecontent></c01><c01 id="aspace_e2a9ff30ce951c717c89f54cd9e1a78e" level="file"><did><unittitle>Photo Album, War Time Views of Jewish Palestine</unittitle><unitdate datechar="creation" normal="1945/1945">1945</unitdate><container id="aspace_8cdc657aa038ec795aaa24e2a65c5ec1" label="unspecified" type="box">1</container><container id="aspace_3d28d15b3703ec66e5c6c22bbd7f5a88" parent="aspace_8cdc657aa038ec795aaa24e2a65c5ec1" type="folder">6</container></did><scopecontent id="aspace_348b414177391b4c83edd7211fc662b5"><head>Scope and Contents</head><p>Presented to David Dubinsky by Executive Committee of the General Federation of Jewish Labour in Eretz Israel (Palestine)</p></scopecontent></c01><c01 id="aspace_98d434adb6a2b7563e4d591af6a2d33a" level="file"><did><unittitle>Photo Album, Laying of the Cornerstone for the Industrial Co-operative Building at Holon</unittitle><unitdate datechar="creation" normal="1949/1949">1949</unitdate><container id="aspace_789a3759ae1af8d5e736d87e0815fbfb" label="unspecified" type="box">1</container><container id="aspace_8b62bec9cc6c250fb45c18bf5d88f06b" parent="aspace_789a3759ae1af8d5e736d87e0815fbfb" type="folder">7</container></did><scopecontent id="aspace_a9e24bc43fd4a243f1860b855c61d8cf"><head>Scope and Contents</head><p>Presented to David Dubinsky by the Central Union of Workers Producers and Service Co-operative Societies</p></scopecontent></c01><c01 id="aspace_83da7cbf714253b2c67bc39eaf4d6ed8" level="file"><did><unittitle>Photos of prizes, awards, diplomas presented to David Dubinsky</unittitle><container id="aspace_f085efa6874c23498f511f99265b0bc8" label="unspecified" type="box">1</container><container id="aspace_b8981e6034109b9ffe043ad7fb603ae0" parent="aspace_f085efa6874c23498f511f99265b0bc8" type="folder">8</container></did></c01><c01 id="aspace_94c86bf65b603b04090898bada78ff4c" level="file"><did><unittitle>Photo Album</unittitle><unitdate datechar="creation" normal="1957/1957">1957</unitdate><container id="aspace_689e572115c52dae744e3762cd641d91" label="unspecified" type="box">2</container><container id="aspace_c418c2f969a8da26c9405d20e906b39c" parent="aspace_689e572115c52dae744e3762cd641d91" type="folder">1</container></did><scopecontent id="aspace_867f35b58f653dc09e0229a0cc5b8940"><head>Scope and Contents</head><p>Presented to David Dubinsky by ILGWU General Executive Board on the 25th anniversary of his presidency; includes letters of congratulations and clippings</p></scopecontent></c01><c01 id="aspace_d3165d7ba128e8b91818030b06c245d4" level="file"><did><unittitle>Photo Album</unittitle><unitdate datechar="creation" normal="1959/1959">1959</unitdate><container id="aspace_03a6938d0f33017acbe4ec7b119d0229" label="unspecified" type="box">2</container><container id="aspace_a454d75ef11061ef33a50d1239a962b7" parent="aspace_03a6938d0f33017acbe4ec7b119d0229" type="folder">2</container></did><scopecontent id="aspace_48c87a100bf43bc54c9da159cb991270"><head>Scope and Contents</head><p>Presented to David Dubinsky in appreciation of his participation in the opening ceremony of Kupat Holim's Central Hospital for the Negev in Beersheba</p></scopecontent></c01><c01 id="aspace_84fa71ebcc0680196b5791fecca401f5" level="file"><did><unittitle>President Johnson's State of the Union Message</unittitle><unitdate datechar="creation" normal="1967/1967">1967</unitdate><container id="aspace_e08897681b6e0773720e9884d04d95e4" label="unspecified" type="box">2</container><container id="aspace_6597b221d2883aac0a10d95f8a8b4e88" parent="aspace_e08897681b6e0773720e9884d04d95e4" type="folder">3</container></did><scopecontent id="aspace_f20b7c4527a76aa75a3e5ea8437176e6"><head>Scope and Contents</head><p>Presented to David Dubinsky from C.L. Dennis, International President, Brotherhood of Railway and Airline Clerks</p></scopecontent></c01><c01 id="aspace_48be08709354a912f3c7585b7fa24bb0" level="file"><did><unittitle>Photo Album</unittitle><unitdate datechar="creation" normal="1955/1955">1955</unitdate><container id="aspace_f8f8151675f370e21e108e5cc908844c" label="unspecified" type="box">2</container><container id="aspace_b84fa2eae25cc3077febbb4286d89a7d" parent="aspace_f8f8151675f370e21e108e5cc908844c" type="folder">4</container></did><scopecontent id="aspace_a9112a8dbe83289db03849d4985eeb64"><head>Scope and Contents</head><p>Presented to David and Emma Dubinsky from the Histadrut Executive Bureau on the occasion of their visit to Israel</p></scopecontent></c01><c01 id="aspace_0fc68c45a4e3e1fa54b2c2b002db28f5" level="file"><did><unittitle>Photo Album</unittitle><unitdate datechar="creation" normal="1956/1956">1956</unitdate><container id="aspace_1adcca271a92664dde5e13b3a0e689b0" label="unspecified" type="box">2</container><container id="aspace_b16a139b756f5e5195d8428634536cb3" parent="aspace_1adcca271a92664dde5e13b3a0e689b0" type="folder">5</container></did><scopecontent id="aspace_62ab25bc70ff292bf5b8278405a5969c"><head>Scope and Contents</head><p>Presented to David Dubinsky after his visit to la Casas de lose Obreros del Vestido, Argentina</p></scopecontent></c01><c01 id="aspace_d733ee2c9dd3ca25b93c326f21b474a4" level="file"><did><unittitle>Photo Album</unittitle><container id="aspace_eeafcbc0f24597936f603ec501b0e6a9" label="unspecified" type="box">2</container><container id="aspace_bd98cd3c9b36bdb8734899fb738d337f" parent="aspace_eeafcbc0f24597936f603ec501b0e6a9" type="folder">6</container></did><scopecontent id="aspace_88446d1a2c82e2565de7f87ae6370efd"><head>Scope and Contents</head><p>David Dubinsky in Europe</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05780-139mf</eadid><filedesc><titlestmt><titleproper>ILGWU Local 25 Publication "L'Operaia" on Microfilm <num>5780/139 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 2011</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:05:19 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILGWU Local 25 Publication "L'Operaia" on Microfilm, <date>1913-1919</date></unittitle>
+    <unitid>5780/139 mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1913/1919" type="inclusive">1913-1919</unitdate>
+    <physdesc id="aspace_0ad03de6e3ab8a8d788c9ada75c0d4cb" label="Quantity:">4 microfilm reels</physdesc>
+    <physdesc id="aspace_66278e69380d16aa45a31eec80d0ed6c" label="Forms of Material:">Microfilm.</physdesc>
+    <abstract id="aspace_c641c830e3dfb828e9b40f753ac49476">Collection contains issues of L'Operaia, the newsletter of Local 25 of the International Ladies' Garment Workers' Union.</abstract>
+    <langmaterial id="aspace_4ced376cbcd215f8c7e4ccc334a96112">Collection material in Italian</langmaterial>
+    <unitid type="bibid">9139875</unitid>
+  </did>
+  <odd id="aspace_b5415481392aa35b2994ab3ed63e1cf7">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183<extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref><extref xlink:href="http://www.ilr.cornell.edu/library/kheel">http://www.ilr.cornell.edu/library/kheel</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff</item>
+      </defitem>
+      <defitem>
+        <label>Date completed:</label>
+        <item>April 2011</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Cheryl Beredo, April 2011</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_129749a780bba5fe4dbf5b4c8fe7a564">
+    <head>Biographical / Historical</head>
+<p>The International Ladies' Garment Workers' Union was founded in New York City in 1900 by mostly Socialist immigrant workers who sought to unite the various crafts in the growing women's garment industry. The union soon reflected changes in the sector and rapidly organized thousands of unskilled and semi-skilled women, mostly Jewish and Italian young immigrants. Exemplifying the "new unionism," the ILGWU led two of the most widespread and best-known industrial strikes of the early Twentieth Century: the shirtwaist makers' strike of 1909 in New York City and the cloak makers' strike of 1910 in Chicago. The union also tried to adapt to the fragmented and unstable nature of the industry. It adopted the "protocol of peace," a system of industrial relations that attempted to ensure stability and limit strikes and production disruption by providing for an arbitration system to resolve disputes.</p><p> The ILGWU exemplified the European-style social unionism of its founding members. They pursued bread and butter issues but provided educational opportunities, benefits, and social programs to union members as well. In 1919, the ILGWU became the first American union to negotiate an unemployment compensation fund that was contributed to by its employers. The ILGWU also pioneered in the establishment of an extremely progressive health care program for its members which included not only regional Union Health Centers but also a resort for union workers, known as Unity House. The Union also had an imaginative and pioneering Education Department which not only trained workers in traditional union techniques, but provided courses in citizenship and the English language.</p><p> David Dubinsky, an immigrant from Belarus who came to the US in 1911, provided strong leadership that led to unprecedented growth in the union during his presidency from 1932 to 1966. He led the union through successful internal anti-communist struggles, built on the ascendancy of industrial unionism by encouraging the formation of the Committee for Industrial Organization, and helped the union become an important political force in New York City and state politics, and in the national Democratic Party and Liberal Party as well.</p><p> In the period following the Second World War, the union suffered a decline in membership as manufacturers avoided unionization and took advantage of less expensive labor by moving shops from the urban centers in the northeast to the south, and later abroad. The ethnic and racial character of the ILGWU also changed as European immigrants were supplanted by Asians, Latin Americans, African- Americans, and immigrants from the Caribbean.</p><p> In July 1995 the ILGWU merged with the Amalgamated Clothing and Textile Workers Union (ACTWU) at a joint convention, forming UNITE (Union of Needletrades, Industrial and Textile Employees). At the time the new union had a membership of about 250,000 in the United States, Canada, and Puerto Rico.</p>  </bioghist>
+  <bioghist id="aspace_2df1feb3a4aee5bae1ceda7e32f641c8">
+    <head>Biographical / Historical</head>
+<p>Local 25 of the International Ladies' Garment Workers' Union (ILGWU), also known as the Ladies' Waist and Dressmakers Union, was chartered in 1905 and based in New York, New York.</p>  </bioghist>
+  <scopecontent id="aspace_a2ecfcdf0ba0de5aa653efdf6e13aba1">
+    <head>Scope and Contents</head>
+<p>Collection contains issues of L'Operaia, the newsletter of Local 25 of the International Ladies' Garment Workers' Union.</p>  </scopecontent>
+  <accessrestrict id="aspace_ec69069dd82608c23b09a777981ddb01">
+    <head>Conditions Governing Access</head>
+<p>The ILGWU Records, except for publications and materials produced for publication, are restricted. Materials created prior to twenty years from the current date are open to researchers only with prior written permission from the Director of the Kheel Center; materials created during the past twenty-years are closed; the minutes of the General Executive Board are closed. For more information contact the Kheel Center.</p>  </accessrestrict>
+  <prefercite id="aspace_c7114c0f95f0a9d450f8b6c13002220b">
+    <head>Preferred Citation</head>
+<p>ILGWU Local 25 Publication "L'Operaia" on Microfilm, 5780/139 mf. Kheel Center for Labor-Management Documentation and Archives, Martin P. Catherwood Library, Cornell University.</p>  </prefercite>
+  <relatedmaterial id="aspace_713ebb59ff66105da1e49c9d90b35082">
+    <head>Related Materials</head>
+<p>5780. ILGWU Records</p><p> 5780/042. ILGWU. Local 25. L'Operaia.</p><p> 5780/071. ILGWU. Local 25. The Message</p>  </relatedmaterial>
+  <odd id="aspace_603e9fb977cacd52df6cf08dd20d19d6">
+    <head>General</head>
+<p>Description based on: Vol. 2, no. 1 (30 ag. 1913); title from caption.</p><p> "Permanent deposit"</p>  </odd>
+  <controlaccess>
+    <subject source="ingest">Clothing workers--Labor unions--New York (State)--New York--Periodicals.</subject>
+    <subject source="ingest">Clothing workers--New York (State)--New York--Periodicals.</subject>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers Union --Periodicals.</corpname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers Union. Local 23-25 (New York, N.Y.)--Periodicals.</corpname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union.</corpname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union. Local 23-25 (New York, N.Y.)</corpname>
+  </controlaccess>
+  <unitid type="bibid">9139875</unitid>
+  <dsc><c01 id="aspace_0a049da9b8b748ecfb20d06bad4b99d2" level="file"><did><unittitle>L'Operaia. Vol.2:no.1-Vol.4:no.21.</unittitle><unitdate datechar="creation" normal="1913/1915" type="inclusive">1913-1915</unitdate><container id="aspace_92d4d84a0bb26ff6326c9822b89db36b" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_878a49d62c3419aaee7a9c1fb7d203a8"><head>Scope and Contents</head><p>Italian. August 30, 1913-May 22, 1915. Positive.</p></scopecontent></c01><c01 id="aspace_0d97f87d697ee499ce95de608b299d1c" level="file"><did><unittitle>L'Operaia. Vol.5:no.1-Vol.5:no.53.</unittitle><unitdate datechar="creation" normal="1916/1916">1916</unitdate><container id="aspace_b51227350d07868236014d2b0f413a38" label="unspecified" type="reel">2</container></did><scopecontent id="aspace_7479baffb088bc57aaf77711b5d2c6df"><head>Scope and Contents</head><p>Italian. January 1, 1916-December 30, 1916. Positive.</p></scopecontent></c01><c01 id="aspace_46a1a5fed9b4c6b1e3a18900936ad248" level="file"><did><unittitle>L'Operaia. Vol.6:no.1-Vol.6:no.27; Vol.5:no.28-Vol.5:no.52.</unittitle><unitdate datechar="creation" normal="1917/1917">1917</unitdate><container id="aspace_f32a931859a7362ae0740fe3b8a3f220" label="unspecified" type="reel">3</container></did><scopecontent id="aspace_2327d07cc9b353e907ba3a2352d54304"><head>Scope and Contents</head><p>Italian. January 6, 1917-December 29, 1917. Beginning with issue number 28, in 1917, enumeration reverted from Volume 6 to Volume 5. Positive.</p></scopecontent></c01><c01 id="aspace_d25645bf2e552ee42a9354b9009d5484" level="file"><did><unittitle>L'Operaia. Vol.6:no.1-Vol.7:no.2.</unittitle><unitdate datechar="creation" normal="1918/1919" type="inclusive">1918-1919</unitdate><container id="aspace_264badf0d6657360696b7dddfab381b9" label="unspecified" type="reel">4</container></did><scopecontent id="aspace_ecb5766486480f53db052d3087383388"><head>Scope and Contents</head><p>Italian. January 5, 1918-January 11, 1919. Positive.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

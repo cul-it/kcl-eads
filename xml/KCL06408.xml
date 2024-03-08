@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06408</eadid><filedesc><titlestmt><titleproper>Chatman, Abraham Collection of the Rochester Joint Board, ACWA News Clippings and Photographs <num>6408</num></titleproper><author>Compiled by R. Miles</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 24, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:47:29 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Abraham Chatman Collection of the Rochester Joint Board, ACWA News Clippings and Photographs</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Chatman, Abraham D.</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Amalgamated Clothing Workers of America (ACWA)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">10/1/2015Amalgamated Clothing Workers of America. Rochester Joint Board.</persname>
+    </origination>
+    <unitid>6408</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">4.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1930/1982" type="inclusive">1930-1982</unitdate>
+    <physdesc id="aspace_bb84124a61ab81f9adcc257e6bf7c361" label="Quantity:">4 linear ft.</physdesc>
+    <physdesc id="aspace_3d8a8e583a38f062c2e98f4d99b33ac5" label="Forms of Material:">News clippings, photographs.</physdesc>
+    <langmaterial id="aspace_6d22b8ca44c8b65170b9d755f1a26d42">Collection material in English</langmaterial>
+    <unitid type="bibid">9200844</unitid>
+  </did>
+  <odd id="aspace_2e189e5ef18fdefe940fc424f112cc0d">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>R. Miles, March 14, 2016</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, March 24, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_24359becaa2c879baf905ca62bef680c">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_035effa998210a87608be6aaff655aae">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_2cf35a9ff4456ec84ba4eb2e826e0380">
+    <head>Preferred Citation</head>
+<p>Abraham Chatman Collection of the Rochester Joint Board, ACWA News Clippings and Photographs #6408. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <unitid type="bibid">9200844</unitid>
+  <dsc><c01 id="aspace_ca3fab47095936cc0253054183b3acce" level="file"><did><unittitle>Forward - vol. L, no.17,736 (July 13, 1946)</unittitle><unitdate datechar="creation" normal="1946/1946">1946</unitdate><container id="aspace_3b657df0c4003bed387a1ce8e5a48878" label="unspecified" type="box">1</container><container id="aspace_19fc7f6590ae174f040c0a0d99ebdada" parent="aspace_3b657df0c4003bed387a1ce8e5a48878" type="folder">1</container></did></c01><c01 id="aspace_f298146143bee2cef5d27efa0cdfbc79" level="file"><did><unittitle>Times-Union, Rochester - Broadside/Poster - (Saturday, June 19, 1982)</unittitle><unitdate datechar="creation" normal="1982/1982">1982</unitdate><container id="aspace_3a34a6fb8def95670800de6e6d132c6b" label="unspecified" type="box">1</container><container id="aspace_ca8e205a9249b31bc99551135d774094" parent="aspace_3a34a6fb8def95670800de6e6d132c6b" type="folder">2</container></did></c01><c01 id="aspace_b9b5f910b02625c5109c9c02b9fcd29a" level="file"><did><unittitle>Abraham Chatman Portrait</unittitle><container id="aspace_b9cf3fde88d8f29969a8b117396c61b3" label="unspecified" type="box">1</container><container id="aspace_46304d6553d80bb1200b7095eb623ef1" parent="aspace_b9cf3fde88d8f29969a8b117396c61b3" type="folder">3</container></did></c01><c01 id="aspace_ed00a8051a55ab10d61a97a4167ec894" level="file"><did><unittitle>Keogh (1983) - (contains the Amalgamated Song Book and 8 photographs</unittitle><container id="aspace_771d851f22fe421cfc7c250b28dbded6" label="unspecified" type="box">1</container><container id="aspace_96ebd803735ef0c9559dda63ea0157b9" parent="aspace_771d851f22fe421cfc7c250b28dbded6" type="folder">4</container></did></c01><c01 id="aspace_22732db686cc0929f7e9c62f8d030450" level="file"><did><unittitle>Standard-Times - New Bedford, Mass. (Friday, August 18, 1967) - also contains 5 photographs</unittitle><unitdate datechar="creation" normal="1967/1967">1967</unitdate><container id="aspace_098b0dfc48d64f05ffe6e5241b646723" label="unspecified" type="box">1</container><container id="aspace_56ad2607cd3c60183afb0627821c2bb2" parent="aspace_098b0dfc48d64f05ffe6e5241b646723" type="folder">5</container></did></c01><c01 id="aspace_baef3523bbdd0ad3e497530bbe3805df" level="file"><did><unittitle>Labor and Culture (Fall, 1941)</unittitle><unitdate datechar="creation" normal="1941/1941">1941</unitdate><container id="aspace_fb22d0d1021e45f9d11386d3fa6a59c9" label="unspecified" type="box">1</container><container id="aspace_b2902726b09d331ec744eeb2222c63aa" parent="aspace_fb22d0d1021e45f9d11386d3fa6a59c9" type="folder">6</container></did></c01><c01 id="aspace_10060c7daab207aec73005370c38dc4d" level="file"><did><unittitle>Tenth Biennial Convention of the AMCWA (1930-1934)</unittitle><unitdate datechar="creation" normal="1930/1934" type="inclusive">1930-1934</unitdate><container id="aspace_3b9b5b89dfa286a848fb32721b3e3542" label="unspecified" type="box">1</container><container id="aspace_f4310ae25137c4913f54edad18af157e" parent="aspace_3b9b5b89dfa286a848fb32721b3e3542" type="folder">7</container></did></c01><c01 id="aspace_3b8208c33b92680dce0ee2f1a90dcd1b" level="file"><did><unittitle>Proceedings and Executive Council Reports of the AFL-CIO (Nov. 15-20, 1979)</unittitle><unitdate datechar="creation" normal="1979/1979">1979</unitdate><container id="aspace_83aa1f8912d7365e2ed8a504e86364f7" label="unspecified" type="box">1</container><container id="aspace_a864b1d2ab6f18378e0162e031efe309" parent="aspace_83aa1f8912d7365e2ed8a504e86364f7" type="folder">8</container></did></c01><c01 id="aspace_68aa45db7a527eb102bfa953b3b07aac" level="file"><did><unittitle>ILGWU Clippings - Scrapbook on the ILG Fight, 1947, collected by Abraham D. Chatman, Manager of the Rochester Joint Board, Amalgamated Clothing Workers of America</unittitle><unitdate datechar="creation" normal="1947/1947">1947</unitdate><container id="aspace_c3cc9a2a4df48324ea3d207d5a8c2e84" label="unspecified" type="box">1</container><container id="aspace_fdce994a60ce60f40d01a5304f87b40a" parent="aspace_c3cc9a2a4df48324ea3d207d5a8c2e84" type="folder">9</container></did></c01><c01 id="aspace_40498a57a51f33eda6e2044f652cd4f7" level="file"><did><unittitle>Scrapbook of news clippings</unittitle><unitdate datechar="creation" normal="1937/1940" type="inclusive">1937-1940</unitdate><container id="aspace_d34df628711b7a345c1535f9503144d9" label="unspecified" type="box">1</container><container id="aspace_802f65c3852061dd8f1241bb8e80cb4e" parent="aspace_d34df628711b7a345c1535f9503144d9" type="folder">10</container></did></c01><c01 id="aspace_718e6134585934f0f8c802ac23028e97" level="file"><did><unittitle>Scrapbook of clippings covering the period from the early 1930's to 1951 and chiefly devoted to the activities of the Rochester Joint Board, Amalgamated Clothing Workers of America collected by Abraham D. Chatman, Manager of the Rochester Joint Board</unittitle><unitdate datechar="creation" normal="1930/1951" type="inclusive">1930-1951</unitdate><container id="aspace_ba4ecf4d7d57531b2c4579f395995444" label="unspecified" type="box">1</container><container id="aspace_d2a01340b278e10df17269ea14988560" parent="aspace_ba4ecf4d7d57531b2c4579f395995444" type="folder">11</container></did></c01></dsc>
+</archdesc>
+</ead>

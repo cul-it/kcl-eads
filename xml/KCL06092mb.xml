@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06092mb</eadid><filedesc><titlestmt><titleproper>Labor Action Coalition Memorabilia <num>6092 MB</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>January 30, 2014</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:29:05 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Labor Action Coalition Memorabilia</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Labor Action Coalition</corpname>
+    </origination>
+    <unitid>6092 MB</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1969/1981" type="inclusive">1969-1981</unitdate>
+    <physdesc id="aspace_6ab1331bc1439fee70020da7f86c58ca" label="Quantity:">0.3 linear ft.</physdesc>
+    <physdesc id="aspace_4c33c0213f6f57c3a2dc79eca7042482" label="Forms of Material:">Buttons, pins.</physdesc>
+    <langmaterial id="aspace_bcd5a6c1fdc014664c3ce1739cbd99f1">Collection material in English</langmaterial>
+    <unitid type="bibid">8283002</unitid>
+  </did>
+  <odd id="aspace_34c8d44f54dd8d7329eeedb90c21a034">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel">http://www.ilr.cornell.edu/library/kheel</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, November 11, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, January 30, 2014</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_ac3f520d9f48da15b543eb961d76163a">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_7e1ae8b7869f841a4d728bc6fab75d4c">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_56784997a0f00604548d234ee499d6bc">
+    <head>Preferred Citation</head>
+<p>Labor Action Coalition Memorabilia #6092 MB. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_deb0c694b163bb78cba3371eb14f22b0">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06092.html"> 6092: Labor Action Coalition Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06092av.html">6092 AV: Labor Action Coalition Audio-Visual Material</extref></p>  </relatedmaterial>
+  <unitid type="bibid">8283002</unitid>
+  <dsc><c01 id="aspace_c0c8342ecd5882df475648ef8d99da00" level="file"><did><unittitle>Miscellaneous buttons/pins</unittitle><container id="aspace_21b51fcf9c8a643a4195e498684a39f8" label="unspecified" type="box">1</container><container id="aspace_7ea30003de32208002635983883b768f" parent="aspace_21b51fcf9c8a643a4195e498684a39f8" type="folder">1</container></did><scopecontent id="aspace_75f3453ca2a905fdeb28ec73d9d3a683"><head>Scope and Contents</head><p>"A Woman's Place is in her Union" ; "I am for Kennedy '80" ; "Dump Nixon" ; "District 65 of the UAW, Cornell Chapter" ; "UAW" ; small pin with a profile on it ; "Don't Mourn: Organize" ; pin in shape of white bird ; pin in shape of a book with character writing on one side, a profile of a man on the other ; "March 28, March on Harrisburg, Keep TMI Shut Down" ; "Solidarity, I Support Service/Maintenance, Cornell Chapter, U.A.W." (2) ; "I Was There Solidarity Day, September 19, 1981, Machinists Union"</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

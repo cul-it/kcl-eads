@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06323</eadid><filedesc><titlestmt><titleproper>TWUA Executive Council Minutes <num>6323</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 26, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:43:35 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>TWUA Executive Council Minutes</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Textile Workers' Union of America (TWUA)</corpname>
+    </origination>
+    <unitid>6323</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1973/1976" type="inclusive">1973-1976</unitdate>
+    <physdesc id="aspace_c524b568d4838d67e19c62a58ac491e6" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_0c9b6bf43ed9d5f8a32a45ee3f8f5bbf" label="Forms of Material:">Minutes.</physdesc>
+    <langmaterial id="aspace_3d108f3d23d073c74e5077c9617b6e0e">Collection material in English</langmaterial>
+    <unitid type="bibid">7544858</unitid>
+  </did>
+  <odd id="aspace_8ba679bc8e2208342345abc2b2bab769">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 11, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, August 26, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_10f84eba721d9396582738d920e96f8c">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_8bbe34373ddb9961d35362e38049487a">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_7d1a8a190b87939e4757a583a0c9e2e4">
+    <head>Preferred Citation</head>
+<p>TWUA Executive Council Minutes #6323. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <corpname audience="internal" source="ingest">Textile Workers Union of America.</corpname>
+    <corpname audience="internal" source="ingest">Amalgamated Clothing and Textile Workers Union --Archives</corpname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union --Archives</corpname>
+    <corpname audience="internal" source="ingest">Textile Workers Union of America. --Archives</corpname>
+    <corpname audience="internal" source="ingest">Union of Needletrades, Industrial and Textile Employees --Archives</corpname>
+    <corpname audience="internal" source="ingest">UNITE HERE (Organization) --Archives</corpname>
+    <corpname audience="internal" source="ingest">Textile workers--Labor unions--New York (State)</corpname>
+    <corpname audience="internal" source="ingest">Clothing workers--Labor unions--New York (State)</corpname>
+  </controlaccess>
+  <unitid type="bibid">7544858</unitid>
+  <dsc><c01 id="aspace_a80fdfddfce403b1f665aae21ced0d46" level="file"><did><unittitle>TWUA Executive Council Meeting: Nov.29-30</unittitle><unitdate datechar="creation" normal="1973/1973">1973</unitdate><container id="aspace_4d6a23b69ac2d72494b51120ce980686" label="unspecified" type="box">1</container><container id="aspace_3be672c1b3403aac88ad4998471da599" parent="aspace_4d6a23b69ac2d72494b51120ce980686" type="Folder">1</container></did></c01><c01 id="aspace_51384a92ddfc5edd20dad5f5acbd5f19" level="file"><did><unittitle>TWUA Executive Council Meeting: Oct.14-17</unittitle><unitdate datechar="creation" normal="1973/1973">1973</unitdate><container id="aspace_b50e3082f020e433400b8649cd9c9d29" label="unspecified" type="box">1</container><container id="aspace_3c203cda5764a242938a0ee08611f5be" parent="aspace_b50e3082f020e433400b8649cd9c9d29" type="Folder">2</container></did></c01><c01 id="aspace_177bb3877fccf798044174f998ac501f" level="file"><did><unittitle>TWUA Executive Council Meeting: June 11-15</unittitle><unitdate datechar="creation" normal="1973/1973">1973</unitdate><container id="aspace_b9aa2ed12296a0ee5e0a628d5457b4a8" label="unspecified" type="box">1</container><container id="aspace_8b6ea30f6b3e95eab2171deead7f9499" parent="aspace_b9aa2ed12296a0ee5e0a628d5457b4a8" type="Folder">3</container></did></c01><c01 id="aspace_c65e8726ba1ac9ab9ade58691bf5edd8" level="file"><did><unittitle>TWUA Executive Council Meeting: March 5-8</unittitle><unitdate datechar="creation" normal="1973/1973">1973</unitdate><container id="aspace_41ee104ac2b03ccdc45b1c0b11ad0de4" label="unspecified" type="box">1</container><container id="aspace_99224a948df4519993526c434dd3d900" parent="aspace_41ee104ac2b03ccdc45b1c0b11ad0de4" type="Folder">4</container></did></c01><c01 id="aspace_3f849db88b5e6bc98309da381ed5a1a8" level="file"><did><unittitle>TWUA Executive Council Meeting: Oct.8</unittitle><unitdate datechar="creation" normal="1975/1975">1975</unitdate><container id="aspace_eee14fcefb03b2437ab9d8d7305112b0" label="unspecified" type="box">1</container><container id="aspace_6104f4fdf88bc8bef2e8dc04e241599e" parent="aspace_eee14fcefb03b2437ab9d8d7305112b0" type="Folder">5</container></did></c01><c01 id="aspace_55135449eb0f7b0f854402e3640e2d35" level="file"><did><unittitle>TWUA Executive Council Meeting: July 25</unittitle><unitdate datechar="creation" normal="1975/1975">1975</unitdate><container id="aspace_24922a1e1fc2da04027be2153c873d4b" label="unspecified" type="box">1</container><container id="aspace_6bba9dcb7f50639e1b5a697e2788668d" parent="aspace_24922a1e1fc2da04027be2153c873d4b" type="Folder">6</container></did></c01><c01 id="aspace_43d4b5b50ab078fa1f94bb7aba4b8a7c" level="file"><did><unittitle>TWUA Executive Council Meeting: April 22-25</unittitle><unitdate datechar="creation" normal="1975/1975">1975</unitdate><container id="aspace_4d9eb25f56e04312b269f6b0ca8aede7" label="unspecified" type="box">1</container><container id="aspace_d9b568aee4d288e2115397dc89dd450c" parent="aspace_4d9eb25f56e04312b269f6b0ca8aede7" type="Folder">7</container></did></c01><c01 id="aspace_4ffddb16e01066d442b0e5d52f68dd0f" level="file"><did><unittitle>TWUA Executive Council Meeting: Jan. 27-30</unittitle><unitdate datechar="creation" normal="1975/1975">1975</unitdate><container id="aspace_6b4183445244b860b1e5287606000b56" label="unspecified" type="box">1</container><container id="aspace_4f03b3989d0926f68fc6e617c8f1d5ff" parent="aspace_6b4183445244b860b1e5287606000b56" type="Folder">8</container></did></c01><c01 id="aspace_da76cf98c7c8e5a9a295a22c2b5127dd" level="file"><did><unittitle>TWUA Executive Council Meeting: May 24-28</unittitle><unitdate datechar="creation" normal="1976/1976">1976</unitdate><container id="aspace_24b92edfd5ea576a4163ebc6b0c5020a" label="unspecified" type="box">1</container><container id="aspace_a6cd5b16423de47116a47e93d9cea397" parent="aspace_24b92edfd5ea576a4163ebc6b0c5020a" type="Folder">9</container></did></c01><c01 id="aspace_d46bcb86f13b9169590d85486f6e0420" level="file"><did><unittitle>TWUA Executive Council Meeting: April 28-30</unittitle><unitdate datechar="creation" normal="1976/1976">1976</unitdate><container id="aspace_a824c16113f563cf0594fb74a0ab78f1" label="unspecified" type="box">1</container><container id="aspace_094f19ee6a56468456de5e0d920f801c" parent="aspace_a824c16113f563cf0594fb74a0ab78f1" type="Folder">10</container></did></c01><c01 id="aspace_888f312e79b13cde9bb5c413e743d1fb" level="file"><did><unittitle>TWUA Executive Council Meeting: March 16-17</unittitle><unitdate datechar="creation" normal="1976/1976">1976</unitdate><container id="aspace_481121d03916ed23ce6703b10f13e2fb" label="unspecified" type="box">1</container><container id="aspace_6abeb5048ea0350a2677aa69ce1248ef" parent="aspace_481121d03916ed23ce6703b10f13e2fb" type="Folder">11</container></did></c01><c01 id="aspace_f4aa5e58ee7b7d07707ad45d675135a2" level="file"><did><unittitle>TWUA Executive Council Meeting: Jan. 6-9</unittitle><unitdate datechar="creation" normal="1976/1976">1976</unitdate><container id="aspace_8b887d1848489ae6d71f14176ad10a86" label="unspecified" type="box">1</container><container id="aspace_df5229ccdd561af7dcc7f926365748ed" parent="aspace_8b887d1848489ae6d71f14176ad10a86" type="Folder">12</container></did></c01></dsc>
+</archdesc>
+</ead>

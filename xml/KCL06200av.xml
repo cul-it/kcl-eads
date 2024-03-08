@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06200av</eadid><filedesc><titlestmt><titleproper>UNITE HERE Audio-Visual Materials <num>6200 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 27, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:36:30 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>UNITE HERE Audio-Visual Materials</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">UNITE HERE</corpname>
+    </origination>
+    <unitid>6200 AV</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.56 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="2004/2004">2004</unitdate>
+    <physdesc id="aspace_669220e936fc19d87eb86eae21697b80" label="Quantity:">1.6 linear ft.</physdesc>
+    <physdesc id="aspace_1ffaa8b61623c65be2c6e7a6219d0c67" label="Forms of Material:">Audiovisual material.</physdesc>
+    <langmaterial id="aspace_d5cad50c8f963a34a2bb2f5af5aa4147">Collection material in English</langmaterial>
+    <unitid type="bibid">7672124</unitid>
+  </did>
+  <odd id="aspace_69bfc82eab0bddf0d6dce90977a7d8ae">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, May 02, 2012</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 27, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_3538429082800bea947f132858186135">
+    <head>Biographical / Historical</head>
+<p>UNITE HERE is a labor union in the United States and Canada, that was formed in 2004 by the merger of the Union of Needletrades, Industrial, and Textile Employees (UNITE) and Hotel Employees and Restaurant Employees Union (HERE). The membership is made up mainly of workers in the hotel, food service, laundry, warehouse, and casino gaming industries. </p><p> In 2005, UNITE HERE left the AFL-CIO and joined the Change to Win Federation along with other unions including the Teamsters, SEIU and the UFCW. In may 2009, Bruce Raynor, president, left UNITE HERE, taking with hiim several local unions and between 105,000 and 150,000 members. They formed Workers United. </p><p> September 17, 2009, UNITE HERE announced that it would re-join the AFL-CIO.</p>  </bioghist>
+  <accessrestrict id="aspace_e2aa900a85b51baf1fdd04780222604d">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_4de9a1df7cb8d69ecdfd29fb3644a799">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_a3749e0b95ab25a28c2737344f84d82c">
+    <head>Preferred Citation</head>
+<p>UNITE HERE Audio-Visual Materials #6200 AV. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_6ab332c0b3baaeb8a4dedd9f4dc14eee">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06200.html"> 6200: UNITE HERE Records</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Clothing workers--Labor unions--United States</subject>
+    <subject source="ingest">Textile workers--Labor unions--United States.</subject>
+    <corpname audience="internal" source="ingest">Amalgamated Clothing and Textile Workers Union</corpname>
+    <corpname source="ingest">Amalgamated Clothing Workers of America</corpname>
+    <corpname source="ingest">Textile Workers Union of America</corpname>
+    <corpname audience="internal" source="ingest">UNITE HERE (Organization)</corpname>
+  </controlaccess>
+  <unitid type="bibid">7672124</unitid>
+  <dsc><c01 id="aspace_0d3c3435dacf8bb25cac1aff2b483961" level="file"><did><unittitle>Working together for a better future</unittitle><unitid>1</unitid><container id="aspace_b3130d2102d7a47c9f9c3763f0be29f4" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_8cb5ad891c9c8894ad6fe352ab8aed3b" level="file"><did><unittitle>Working together for a better future</unittitle><unitid>2</unitid><container id="aspace_b6b36e945a2ec5ffc5d69200d6fe0bd9" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_397d2c54e64c5a66f3c0384edae1923b" level="file"><did><unittitle>Working together for a better future</unittitle><unitid>3</unitid><container id="aspace_6037e949b745e8cb41f93044fa48f450" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_ebb38dddce09dda8556a6e32b3c9fba6" level="file"><did><unittitle>Working together for a better future</unittitle><unitid>4</unitid><container id="aspace_b745543657ea4998af563f6667f3bca4" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_6df8a833e7052f0f8850ed8f4dfff072" level="file"><did><unittitle>Fior Roman - UNITE HERE Convention video</unittitle><unitid>5</unitid><container id="aspace_818168561947ab0737fb9e3ff6c604e8" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_ba5ce1cbfd94e2dc5a53ca836a09e505" level="file"><did><unittitle>Merger Convention Highlights 2004</unittitle><unitid>6</unitid><unitdate datechar="creation" normal="2004/2004">2004</unitdate><container id="aspace_cd3068fe03c0cb9deb52607493f15ff1" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_ee8afdaf064c1ddbaeebb339a0e033c3" level="file"><did><unittitle>Merger Convention Highlights 2004</unittitle><unitid>7</unitid><unitdate datechar="creation" normal="2004/2004">2004</unitdate><container id="aspace_28a56904e10f0e042be82851799b6b00" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_18582e64791f104275dfbbdc92816fe7" level="file"><did><unittitle>Merger Convention Highlights 2004</unittitle><unitid>8</unitid><unitdate datechar="creation" normal="2004/2004">2004</unitdate><container id="aspace_fe55f9c77673eb95c586bf6fd33d078c" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_f378a2cc94a296bba8fd24abd7ed6b8a" level="file"><did><unittitle>We do the work "Sewing our future"</unittitle><unitid>9</unitid><container id="aspace_317c591c9fd15956347f089cdfa98935" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_54bab9dabd29e4b622f771669a8c2f25" level="file"><did><unittitle>Land of Promise</unittitle><unitid>10</unitid><container id="aspace_65dbbb3a003f1262eff5dcf305923591" label="unspecified" type="box">1</container></did><scopecontent id="aspace_378c74a98d0085cc4358af2b74bc479d"><head>Scope and Contents</head><p>My name is Mary Brown ; Hail to the Chief</p></scopecontent></c01><c01 id="aspace_7b3632c522247bcc664ed0feb8ddda6e" level="file"><did><unittitle>Looking Back Moving Forward</unittitle><unitid>11</unitid><container id="aspace_cb55422234bf196381a2e41452a5d2e9" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_e3ca53328c41468f9771b4af01b61e0a" level="file"><did><unittitle>Bernice Yeung's radio piece about 9/11</unittitle><unitdate datechar="creation" normal="2001/2001">2001</unitdate><container id="aspace_5c973a539c1b4685e81c33baa20ab471" label="unspecified" type="box">2</container></did></c01><c01 id="aspace_f52b16227319a6f6b4111501e6ca8231" level="file"><did><unittitle>Looking back moving forward</unittitle><container id="aspace_c3ed5055c49e247ba0783ef2933e2b6d" label="unspecified" type="box">3</container></did></c01><c01 id="aspace_604241bd47bf679d1f2e2bbc92186c60" level="file"><did><unittitle>Chinese Christian Herald Crusades -- 20th Anniversary (2002)</unittitle><unitdate datechar="creation" normal="2002/2002">2002</unitdate><container id="aspace_f541dde8588385102a3d612227851ad6" label="unspecified" type="box">4</container></did></c01><c01 id="aspace_eb57d50a5d28238e15a491cadd6a4e47" level="file"><did><unittitle>UNITE!, Paul Shapiro</unittitle><container id="aspace_026e4f28acaec90fdcd061ecdeef4a97" label="unspecified" type="box">5</container></did></c01><c01 id="aspace_7ca66b6d32badb898b87966ee8bc3fa6" level="file"><did><unittitle>Music for living collection</unittitle><container id="aspace_a2904b14f3bc1876a7c8552e7846b90f" label="unspecified" type="box">6</container></did></c01></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05820mf</eadid><filedesc><titlestmt><titleproper>United Brotherhood of Carpenters and Joiners of America Local 240 (East Rochester, NY) Minute Books on Microfilm <num>5820 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 06, 2013</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:11:42 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>United Brotherhood of Carpenters and Joiners of America Local 240 (East Rochester, NY) Minute Books on Microfilm</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">United Brotherhood of Carpenters and Joiners of America</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">UBC Local 240</corpname>
+    </origination>
+    <unitid>5820 mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.22 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1914/1976" type="inclusive">1914-1976</unitdate>
+    <physdesc id="aspace_bf8e2838429d254b3d03dee921e6b0c0" label="Quantity:">4 microfilm reels</physdesc>
+    <physdesc id="aspace_dce8349e8c0b257ca87bd40f98b4802a" label="Forms of Material:">Minute books, microfilm.</physdesc>
+    <langmaterial id="aspace_c9721c5377d8cdcdbf4884e9ffade05c">Collection material in English</langmaterial>
+    <unitid type="bibid">5713162</unitid>
+  </did>
+  <odd id="aspace_2db5e316bdb79c2845adef14d9201fa4">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel">http://www.ilr.cornell.edu/library/kheel</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, September 26, 2012</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, February 06, 2013</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_696399c2e9f6ec7561d926c589df5692">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_e628e74cc04cadc843bce556d5c610ee">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_f6d711c826082d0ba378651b3ba8f184">
+    <head>Preferred Citation</head>
+<p>United Brotherhood of Carpenters and Joiners of America Local 240 (East Rochester, NY) Minute Books on Microfilm, #5820 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <corpname audience="internal" source="ingest">United Brotherhood of Carpenters &amp; Joiners of America</corpname>
+    <corpname audience="internal" source="ingest">UBC Local 240, East Rochester, NY.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5713162</unitid>
+  <dsc><c01 id="aspace_693f50d11bb17b65aa585195d34e88ee" level="file"><did><unittitle>Vol. 1-5 (1914-1963)</unittitle><container id="aspace_6441b3815cbd865eb3377f902b499fed" label="unspecified" type="reel">1</container></did></c01><c01 id="aspace_61013947a47fadd39d5b565362559451" level="file"><did><unittitle>Vol. 1</unittitle><unitid>1</unitid><unitdate datechar="creation" normal="1914/1920" type="inclusive">1914-1920</unitdate><container id="aspace_a968ea55c34bd82657dbdc81b435dd20" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_632bfbf726e74683dd04ee47a2773bcc"><head>Scope and Contents</head><p>7/19/1914 - 7/6/1920</p></scopecontent></c01><c01 id="aspace_7c13751edbf539efd999250ad7f199bd" level="file"><did><unittitle>Vol. 2</unittitle><unitid>2</unitid><unitdate datechar="creation" normal="1920/1925" type="inclusive">1920-1925</unitdate><container id="aspace_580e919943a9eed255c89e28c6d6820a" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_9eac5ff34912ca7915b1dbb05436db87"><head>Scope and Contents</head><p>7/20/1920 - 9/3/1925</p></scopecontent></c01><c01 id="aspace_6cbdc919c37cac5e74b657951ed2018b" level="file"><did><unittitle>Vol. 3</unittitle><unitid>3</unitid><unitdate datechar="creation" normal="1925/1935" type="inclusive">1925-1935</unitdate><container id="aspace_692cdfee5cfc96a0ae16ee939e2d270d" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_afa8e72d3d0988e03d7789bd051230a7"><head>Scope and Contents</head><p>9/17/1925 - 1/7/1935</p></scopecontent></c01><c01 id="aspace_c70348887dcf03984ebb5e24d9e894d1" level="file"><did><unittitle>Vol. 4</unittitle><unitid>4</unitid><unitdate datechar="creation" normal="1935/1946" type="inclusive">1935-1946</unitdate><container id="aspace_d09c522087730ec4193b48f0ee138e8c" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_55d69f68eb36e3968decbb1db80d21f1"><head>Scope and Contents</head><p>1/21/1935 - 12/5/1946</p></scopecontent></c01><c01 id="aspace_93a7ca0a4a289a3e5fa8cb1e7b815680" level="file"><did><unittitle>Vol. 5</unittitle><unitid>5</unitid><unitdate datechar="creation" normal="1947/1963" type="inclusive">1947-1963</unitdate><container id="aspace_566164f6ebad7cb66e0c6e04817427ce" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_2f698684eb361c95988def0322d4f925"><head>Scope and Contents</head><p>1/2/1947 - 3/7/1963</p></scopecontent></c01><c01 id="aspace_c627ba26d6bd0b0d82a9b5c637db8d62" level="file"><did><unittitle>Vol. 6-7 (1963-1976)</unittitle><container id="aspace_b6fc5a21c643f3528cbd97cd38308a68" label="unspecified" type="reel">2</container></did></c01><c01 id="aspace_99a4d034e6a1b87426d85d3da1e0261d" level="file"><did><unittitle>Vol. 6</unittitle><unitid>1</unitid><unitdate datechar="creation" normal="1963/1970" type="inclusive">1963-1970</unitdate><container id="aspace_15c51a4cf3756e95634878bd35267afd" label="unspecified" type="reel">2</container></did><scopecontent id="aspace_ab5718691aafb189f821aa205d655d50"><head>Scope and Contents</head><p>4/4/1963 - 2/5/1970</p></scopecontent></c01><c01 id="aspace_4adf22747ece3ffefca874c2f1b1fca5" level="file"><did><unittitle>Vol. 7</unittitle><unitid>2</unitid><unitdate datechar="creation" normal="1970/1976" type="inclusive">1970-1976</unitdate><container id="aspace_e00eff49e84058bcecb0e98451689559" label="unspecified" type="reel">2</container></did><scopecontent id="aspace_b20e6264c4bb2441024f64d93580c8e0"><head>Scope and Contents</head><p>3/5/1970 - 1/6/1976</p></scopecontent></c01><c01 id="aspace_1e71b8be807b90691fad5f8d4ddd05e8" level="file"><did><unittitle>Negative copy of Reel 1.</unittitle><container id="aspace_d2639ebf9aa2e59fddf1c50e1052d08e" label="unspecified" type="reel">3</container></did></c01><c01 id="aspace_0e26a43260f478580ef479b58289b522" level="file"><did><unittitle>Negative copy of Reel 2.</unittitle><container id="aspace_22c3eefdff1a28484f98664d000113c4" label="unspecified" type="reel">4</container></did></c01></dsc>
+</archdesc>
+</ead>

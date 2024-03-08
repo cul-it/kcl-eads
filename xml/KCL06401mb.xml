@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06401mb</eadid><filedesc><titlestmt><titleproper>Gellis, Mortimer Insurance Workers International Union Memorabilia <num>6401 MB</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 24, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:47:11 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Mortimer Gellis Insurance Workers International Union Memorabilia</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Gellis, Mortimer</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Insurance Workers International Union (IWIU)</corpname>
+    </origination>
+    <unitid>6401 MB</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1955/1963" type="inclusive">1955-1963</unitdate>
+    <physdesc id="aspace_78d3a5283dc62652632d39156546df16" label="Quantity:">0.3 linear ft.</physdesc>
+    <physdesc id="aspace_a2f56e48796575431dfe163d8d9b1d20" label="Forms of Material:">Memorabilia.</physdesc>
+    <langmaterial id="aspace_3672bc3e4a7208b9738561b0458f3302">Collection material in English</langmaterial>
+    <unitid type="bibid">8893783</unitid>
+  </did>
+  <odd id="aspace_0609c459e1aa3c9d45a37f51e0c1a02a">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, May 06, 2015</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, March 24, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_915feef06754d97c783fd12b7b981f56">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_b231b52ead7f52726f8fd4ad327de193">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_fd99eeb12371a25c1bce5dc3b8a17bff">
+    <head>Preferred Citation</head>
+<p>Mortimer Gellis Insurance Workers International Union Memorabilia #6401 MB. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <unitid type="bibid">8893783</unitid>
+  <dsc><c01 id="aspace_5d78cf9b41b2c0e2020ff8e3773f104a" level="file"><did><unittitle>Insurance Workers International Union-AFL-CIO Clipboard</unittitle><container id="aspace_982b46c5239351c7b50151cf08d02069" label="unspecified" type="box">1</container><container id="aspace_b059d0ef6df4047fa77d438461301c65" parent="aspace_982b46c5239351c7b50151cf08d02069" type="folder">1</container></did></c01><c01 id="aspace_886fd9eb9c60b25de1c6ba3f96bb76e3" level="file"><did><unittitle>Mortimer Gellis Badges (7 pieces)</unittitle><container id="aspace_42293d7024e539d6780aea773e04bb27" label="unspecified" type="box">1</container><container id="aspace_581f6c0927cb7be3b1511a640cbf8bdb" parent="aspace_42293d7024e539d6780aea773e04bb27" type="folder">2</container></did><scopecontent id="aspace_1e196b018e2280184325a57c1745cfe0"><head>Scope and Contents</head><p>6th Constitutional Convention, Insurance Workers International Union; 3 Executive Board badges (writing on ribbons is faded); 2 Guest badges, one from 1955, one from 1963; Congress of Industrial Organizations Delegate badge</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

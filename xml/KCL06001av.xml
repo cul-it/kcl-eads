@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06001av</eadid><filedesc><titlestmt><titleproper>Randolph, A. Philip "For Jobs and Freedom" Audio-Visual Materials <num>6001 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 12, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:22:14 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>A. Philip Randolph "For Jobs and Freedom" Audio-Visual Materials</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Randolph, A. Philip</persname>
+    </origination>
+    <unitid>6001 AV</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">5 items</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1996/1996">1996</unitdate>
+    <physdesc id="aspace_4cfd40ab923a74c26dcb6abf9eb04249" label="Quantity:">1 VHS tape.</physdesc>
+    <physdesc id="aspace_c34456c367be2f4d7499ff54eb3463c6" label="Forms of Material:">Video cassette tapes.</physdesc>
+    <langmaterial id="aspace_8358a5c75acbc77e148571da0c864af9">Collection material in English</langmaterial>
+    <unitid type="bibid">9298119</unitid>
+  </did>
+  <odd id="aspace_f50d2a02a5e85d2f30cb725a0f967c0f">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, September 26, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, August 12, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_80458f1fe737094b4c815deace80a6af">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_713f65f100cc2bd929097677a6eada4b">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_ca4742431ca29b7c9f20b8eecc4f8d5c">
+    <head>Preferred Citation</head>
+<p>A. Philip Randolph "For Jobs and Freedom" Audio-Visual Materials #6001 AV. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <unitid type="bibid">9298119</unitid>
+  <dsc><c01 id="aspace_44c7646a19249c9b54ed0ff3f34a8bbe" level="file"><did><unittitle>A. Philip Randolph: For Jobs and Freedom</unittitle><unitid>1</unitid><container id="aspace_a6f2d1605d08416d3db0378950478f09" label="unspecified" type="box">1</container></did><scopecontent id="aspace_3b0ab19f9dc65f170af822b63fba14ff"><head>Scope and Contents</head><p>VHS tapes now housed with 6118 AV in box 306, ff 26</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

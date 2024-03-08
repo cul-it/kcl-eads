@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06036-017</eadid><filedesc><titlestmt><titleproper>Decisions of Harry Uviller, Impartial Chairman of the Board of Arbitration <num>6036/017</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 30, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:25:03 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Decisions of Harry Uviller, Impartial Chairman of the Board of Arbitration</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Uviller, Harry</persname>
+    </origination>
+    <unitid>6036/017</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1936/1938" type="inclusive">1936- 1938</unitdate>
+    <physdesc id="aspace_15a61fdd5b1898d5c054914b95bb9432" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_95897b13aedd9656abf3d130db28d7d0" label="Forms of Material:">Records.</physdesc>
+    <abstract id="aspace_137cd640b4731d76d9f3ebb264d71b3c">This collection consists of decisions made by Harry Uviller, the impartial chairman of the New York City Board of Arbitration, between 1936 and 1938.</abstract>
+    <langmaterial id="aspace_b430021f0988ea66cbd0b25eabcdd21c">Collection material in English</langmaterial>
+    <unitid type="bibid">5767587</unitid>
+  </did>
+  <odd id="aspace_4ef34f94edf1de077d74f5e1a1a8374f">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, August 29, 2011</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 30, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_bb854bb426ddbb3f8239087f4f9d7162">
+    <head>Biographical / Historical</head>
+<p>The International Ladies' Garment Workers' Union was once one of the largest labor unions in the United States founded in 1900 by local union delegates representing about 2,000 members in cities in the northeastern United States. It was one of the first U.S. Unions to have a membership consisting of mostly females, and it played a key role in the labor history of the 1920s and 1930s. The union is generally referred to as the "ILGWU" or the "ILG". The ILGWU grew in geographical scope, membership size, and political influence to become one of the most powerful forces in American organized labor by mid-century. Representing workers in the women's garment industry, the ILGWU worked to improve working and living conditions of its members through collective bargaining agreements, training programs, health care facilities, cooperative housing, educational opportunities, and other efforts. The ILGWU merged with the Amalgamated Clothing and Textile Workers Union in 1995 to form the Union of Needle trades, Industrial and Textile Employees (UNITE). UNITE merged with the Hotel Employees and Restaurant Employees Union (HERE) in 2004 to create a new union known as UNITE HERE. The two unions that formed UNITE in 1995 represented only 250,000 workers between them, down from the ILGWU's peak membership of 450,000 in 1969.</p>  </bioghist>
+  <bioghist id="aspace_1259fd87ce4f2cf28150e3946cc73e36">
+    <head>Biographical / Historical</head>
+<p>Harry Uviller (1897-1973) was a U.S. trade union leader. After joining the women's garment industry in 1915 as a part-time bookkeeper and salesman in the coat trade, he continued to remain involved with the garment industry and became the general manager of the American Coat and Suite Manufacturers. Uviller was appointed impartial chairman of the New York City Dress industry by Mayor Fiorello LaGuardia in 1936. From 1955 to 1958, he concurrently served as chair of the New York State Mediation Board, and in 1958, he and Senator Herbert H. Lehman served as mediators in the general dress strike of that year. Uviller mediated hundreds of labor disputes and was known for dealing fairly with both labor and management.</p>  </bioghist>
+  <scopecontent id="aspace_67c61bea0265a8e56594cd06ac201c4c">
+    <head>Scope and Contents</head>
+<p>Important disputes in the garment industry were submitted to a permanent Board of Arbitration who would hand down final decisions. On January 24, 1914, the Board of Arbitration created a Committee on Immediate Action that consisted of chief clerks as well as an Impartial Chairman, whose job was to arbitrate all disputes that the clerks were unable to settle and supervise labor conditions. This collection contains bound decisions and awards rendered by Harry Uviller, Impartial Chairman and Administrator for the Dress Industry. The cases date from 1936-1938, are arranged by decision date, and include a brief description of the case and the decision rendered.</p>  </scopecontent>
+  <accessrestrict id="aspace_4a983098be1610fffebbcdf2e17e006f">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_463ad2893e55b0529b639e9f307ff5cc">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_925f965f04bd3311bacc446b159e2fe3">
+    <head>Preferred Citation</head>
+<p>Decisions of Harry Uviller, Impartial Chairman of the Board of Arbitration #6036/017. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_8f4a3db42b88e34e636bacf62177f364">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780.html"> 5780: ILGWU records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-081.html"> 5780/081: ILGWU Legal Department Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06036-015.html"> 6036/015: Impartial Chairman, Decisions, Coat and Suit Industry</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Clothing workers -- Labor unions -- New York (State) -- New York.</subject>
+    <persname audience="internal" source="ingest">Uviller, Harry, 1897-1973.</persname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union -- Archives.</corpname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union. -- Local 22 (New York, N.Y.) -- Archives.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5767587</unitid>
+  <dsc><c01 id="aspace_e339d4a84756f57733b4db399b651922" level="file"><did><unittitle>Decisions of Mr. Harry Uviller, Impartial Chairman and Administrator for the Dress Industry</unittitle><unitdate datechar="creation" normal="1936/1936">1936</unitdate><container id="aspace_356b843a655843753a1e0e97dcef9d09" label="unspecified" type="box">1</container><container id="aspace_c08598daa87a6c239a11ad907af23995" parent="aspace_356b843a655843753a1e0e97dcef9d09" type="folder">1</container></did><scopecontent id="aspace_0d5fa4ad16c2e7a78c2538e3ed37d6c0"><head>Scope and Contents</head><p>Bound volume 1; Decisions from March 26, 1936 thru Decmeber 31, 1936.</p></scopecontent></c01><c01 id="aspace_ebd5cb7e05f9bc5749b9296e298c9c0b" level="file"><did><unittitle>Decisions of Mr. Harry Uviller, Impartial Chairman and Administrator for the Dress Industry</unittitle><unitdate datechar="creation" normal="1937/1937">1937</unitdate><container id="aspace_7e36245455037103617aeb5f66a7fc96" label="unspecified" type="box">1</container><container id="aspace_a6827ae8519551f9da6227c98eb90452" parent="aspace_7e36245455037103617aeb5f66a7fc96" type="folder">2</container></did><scopecontent id="aspace_065d0f4ab756f914cba1814fd560d2c3"><head>Scope and Contents</head><p>Bound volume 2; Decisions from January 1, 1937 thru June 30, 1947.</p></scopecontent></c01><c01 id="aspace_cf6a6442adfbdcb482647209da7238e6" level="file"><did><unittitle>Decisions of Mr. Harry Uviller, Impartial Chairman and Administrator for the Dress Industry</unittitle><unitdate datechar="creation" normal="1937/1937">1937</unitdate><container id="aspace_6685af92a07ffcbd007eb2e6b2adbe5c" label="unspecified" type="box">1</container><container id="aspace_9b5b1af0149bf831dd7fd2fffa8dbd91" parent="aspace_6685af92a07ffcbd007eb2e6b2adbe5c" type="folder">3</container></did><scopecontent id="aspace_9b92e12f814b2f706bbda2df4f92d843"><head>Scope and Contents</head><p>Bound volume 3; Decisions from July 1, 1937 thru Decmeber 31, 1937.</p></scopecontent></c01><c01 id="aspace_2e93f2e748664e1e24665b04e206ee15" level="file"><did><unittitle>Decisions of Mr. Harry Uviller, Impartial Chairman and Administrator for the Dress Industry</unittitle><unitdate datechar="creation" normal="1938/1938">1938</unitdate><container id="aspace_4cd49d13527d8411367af116cfb3482f" label="unspecified" type="box">1</container><container id="aspace_a8d18d3f58ca28eece8828d05e262685" parent="aspace_4cd49d13527d8411367af116cfb3482f" type="folder">4</container></did><scopecontent id="aspace_0592efc76d179725b9a034b2940e7e30"><head>Scope and Contents</head><p>Bound volume 4; Decisions from January 1, 1939 thru June 30, 1938.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

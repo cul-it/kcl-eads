@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05780-185pubs</eadid><filedesc><titlestmt><titleproper>Gerechtigkeit (Justice) <num>5780/185 PUBS</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>June 20, 2014</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:07:23 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Gerechtigkeit (Justice)</unittitle>
+    <origination label="Creator">
+      <corpname role="creator" source="ingest">International Ladies' Garment Workers' Union</corpname>
+    </origination>
+    <unitid>5780/185 PUBS</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1931/1938" type="inclusive">1931-1938</unitdate>
+    <physdesc id="aspace_e04f7c091b6fa708a5af2d09d91fc153" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_5cc1dc54f7b165feebfcf92a727842e9" label="Forms of Material:">Publication.</physdesc>
+    <abstract id="aspace_5e55a38f1d93b244e5f76e4ab3148e56">This collection contains issues of Gerechtigkeit, the Yiddish-language edition of the ILGWU's official organ Justice.</abstract>
+    <langmaterial id="aspace_2502d4c1bcd080f192dacc805a773fed">Collection material in YIddish</langmaterial>
+    <unitid type="bibid">8511843</unitid>
+  </did>
+  <odd id="aspace_9bb455ae14f70518839b6f3870520d4c">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel">http://www.ilr.cornell.edu/library/kheel</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, June 20, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kathryn Dowgiewicz, June 20, 2014</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_b8603275bb93998e47217be9d6998fc7">
+    <head>Biographical / Historical</head>
+<p>Founded in 1900 by local union delegates representing about 2,000 members in cities in the northeastern United States, the ILGWU grew in geographical scope, membership size, political influence to become one of the most powerful forces in American organized labor by mid-century. Representing workers in the women's garment industry, the ILGWU worked to improve working and living conditions of its members through collective bargaining agreements, training programs, health care facilities, cooperative housing, educational opportunities, and other efforts. In 1995, the ILGWU merged with the Amalgamated Clothing and Textile Workers Union (ACTWU) to form the Union of Needletrades, Industrial and Textile Employees (UNITE).</p>  </bioghist>
+  <bioghist id="aspace_e2f7cab17f75210bde1c28b1c1cb6544">
+    <head>Biographical / Historical</head>
+<p>Justice was the official organ of the ILGWU from 1919 to 1995. Editions of Justice were published in English, Italian, Spanish, and Yiddish. When compared side by side, the content of some of these different editions of Justice shows significant differences.</p>  </bioghist>
+  <scopecontent id="aspace_09b3ac2a3fc2303f678be298dd0c6c32">
+    <head>Scope and Contents</head>
+<p>This collection contains issues of Gerechtigkeit, the Yiddish-language edition of the ILGWU's official organ Justice. These are bound books containing issues of the publication for select years. For a more complete collection see 5780/185mf.</p>  </scopecontent>
+  <accessrestrict id="aspace_a872832a4f22d3d404d62053c7b8cc98">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_7e2a4e04b0e64a1cef0b719eb836f322">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_e5a7ec9ef65f66a3e096e0c5b1a9bc7b">
+    <head>Preferred Citation</head>
+<p>Gerechtigkeit (Justice) #5780/185 PUBS. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_a41a1819655e2affcdb9d40310ce4270">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780.html"> 5780: ILGWU records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-185mf.html"> 5780/185 mf: ILGWU. Gerechtigkeit (Justice). Microfilm</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Labor unions--Clothing workers--New York (State)--New York.</subject>
+    <subject source="ingest">Labor unions--Clothing workers--United States.</subject>
+    <subject source="ingest">Textile workers--New York (State)--New York.</subject>
+    <subject source="ingest">Textile workers--United States.</subject>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union.</corpname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union.</corpname>
+  </controlaccess>
+  <unitid type="bibid">8511843</unitid>
+  <dsc><c01 id="aspace_9ae6b9a402af0d439a6a4c5540891e9e" level="file"><did><unittitle>Gerechtigkeit (Justice)</unittitle><unitdate datechar="creation" normal="1931/1933" type="inclusive">1931-1933</unitdate><container id="aspace_d9c4a9aba0abc021c054e0b6d2125c1b" label="unspecified" type="box">1</container><container id="aspace_602ff2c59221e5a0426d52a55498429a" parent="aspace_d9c4a9aba0abc021c054e0b6d2125c1b" type="folder">1</container></did></c01><c01 id="aspace_3a6385f06d2f66eb40e8fa5b0a9ec11a" level="file"><did><unittitle>Gerechtigkeit (Justice)</unittitle><unitdate datechar="creation" normal="1931/1933" type="inclusive">1931-1933</unitdate><container id="aspace_5e2621ed93f4729d7d5e08ffd6b97d8d" label="unspecified" type="box">1</container><container id="aspace_fddad00e13dab94a867513963678b0ea" parent="aspace_5e2621ed93f4729d7d5e08ffd6b97d8d" type="folder">2</container></did></c01><c01 id="aspace_e4e27d8fc0a0d6e14fc69e4cc494b4ec" level="file"><did><unittitle>Gerechtigkeit (Justice)</unittitle><unitdate datechar="creation" normal="1934/1936" type="inclusive">1934-1936</unitdate><container id="aspace_9ce3dafcf39fa3a4a75127b4e9f70948" label="unspecified" type="box">1</container><container id="aspace_16388623d6d4c4f499b7b6172e8c5bde" parent="aspace_9ce3dafcf39fa3a4a75127b4e9f70948" type="folder">3</container></did></c01><c01 id="aspace_253347e78098fb2f9ac9b89cb78cb4bd" level="file"><did><unittitle>Gerechtigkeit (Justice)</unittitle><unitdate datechar="creation" normal="1937/1938" type="inclusive">1937-1938</unitdate><container id="aspace_fe941a0b6ddd7647752d9d1e7393b789" label="unspecified" type="box">1</container><container id="aspace_335bfe3f1cf1c1406c2a4df168818cea" parent="aspace_fe941a0b6ddd7647752d9d1e7393b789" type="folder">4</container></did></c01></dsc>
+</archdesc>
+</ead>

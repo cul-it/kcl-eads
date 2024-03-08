@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06036-102mb</eadid><filedesc><titlestmt><titleproper>Fabio Schettini ILGWU Memorabilia <num>6036/102 MB</num></titleproper><author>Compiled by E. Parker</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>June 05, 2018</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:26:46 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Fabio Schettini ILGWU Memorabilia</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Schettini, Fabio, :International Ladies Garment Workers' Union (ILGWU)</persname>
+    </origination>
+    <unitid>6036/102 MB</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.67 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1940/1970" type="inclusive">1940-1970</unitdate>
+    <physdesc id="aspace_901bb00e9287ff61ea5350e02f51f17c" label="Quantity:">0.7 linear ft.</physdesc>
+    <physdesc id="aspace_5592c7f33c96a17f6a33e02e14af63ba" label="Forms of Material:">Memorabilia.</physdesc>
+    <abstract id="aspace_f05e944058209552a347169eb0449730">This collections consists of various pieces of memorabilia documenting Fabio Schettini's work with the ILGWU and the Liberal Party.</abstract>
+    <langmaterial id="aspace_3973788cf488f0f5b357dee6567b5f4e">Collection material in English</langmaterial>
+    <unitid type="bibid">10377597</unitid>
+  </did>
+  <odd id="aspace_34040f1d44b0fcc0ef009f88f848332b">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>E. Parker, June 05, 2018</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>E. Parker, June 05, 2018</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_cc547b182aca9bd130579e21ffc36be1">
+    <head>Biographical / Historical</head>
+<p>The International Ladies' Garment Workers' Union was once one of the largest labor unions in the United States founded in 1900 by local union delegates representing about 2,000 members in cities in the northeastern United States. It was one of the first U.S. Unions to have a membership consisting of mostly females, and it played a key role in the labor history of the 1920s and 1930s. The union is generally referred to as the "ILGWU" or the "ILG". The ILGWU grew in geographical scope, membership size, and political influence to become one of the most powerful forces in American organized labor by mid-century. Representing workers in the women's garment industry, the ILGWU worked to improve working and living conditions of its members through collective bargaining agreements, training programs, health care facilities, cooperative housing, educational opportunities, and other efforts. The ILGWU merged with the Amalgamated Clothing and Textile Workers Union in 1995 to form the Union of Needle trades, Industrial and Textile Employees (UNITE). UNITE merged with the Hotel Employees and Restaurant Employees Union (HERE) in 2004 to create a new union known as UNITE HERE. The two unions that formed UNITE in 1995 represented only 250,000 workers between them, down from the ILGWU's peak membership of 450,000 in 1969.</p>  </bioghist>
+  <bioghist id="aspace_5e28bbc34f584f8b33a5f835f18198f4">
+    <head>Biographical / Historical</head>
+<p>Fabio Schettini was born in Brooklyn, New York on September 26, 1909. He earned his Bachelor of Science fron City College in 1943. Mr. Schettini joined ILGWU Local 48 in May 1944, where his mother-in-law was already a member. He worked as a business agent, price adjuster, and union organizer for the ILGWU. Mr. Schettini participated in the Mirror Coat Strike in 1949 and organized for the ILGWU in Bensonhurst neighborhood in Brooklyn. </p><p> According to his ILGWU autobiography (see Collection 5087/177, Box 2, Folder 30), he "learned [his] trade in Italy for four years and had [his] entire education in the evening schools of New York City. [He] was for 16 years a member of the Amalgamated Clothing Workers of America." </p><p> In 1964, he ran for New York State Assembly as the Liberal Party candidate, loosing to Democrat Noah Goldstein. In 1965, he ran for New York City Council as a Liberal Party candidate and campaigned for Republican John Lindsay's mayoral campaign. </p><p> Mr. Schettini was married to Antoinette Schettini. Together they had five children: Roland, Elaine, Linda, Nicholas, and Terry. His widow and children donated the materials in this collection.</p>  </bioghist>
+  <bioghist id="aspace_0f39e1397deb4c0a18dcc490bba65941">
+    <head>Biographical / Historical</head>
+<p>Local 48 of the International Ladies' Garment Workers' Union (ILGWU), also known as the Italian Cloakmakers' Union, was chartered by members of Local 1 and Local 35 in 1916 and based in New York, New York. As membership and industry declined in the 1970s, the local became Local 48 United Coat, Suit and Allied Garment Workers' Union of Brooklyn, Queens and Staten Island (coat and suit workers in all crafts in Brooklyn, Queens and Staten Island), and later Local 48 Coat, Suit, Dress, Rainwear and Allied Workers Union of North Brooklyn. In late 1981, the Joint Board approved a measure to dissolve Local 48, and Local 89 was renamed Local 89-48 to honor the historic significance of the Italian cloakmakers.</p>  </bioghist>
+  <scopecontent id="aspace_68ad8979541da89c962225a6a64fe3f7">
+    <head>Scope and Contents</head>
+<p>This collection consists of pieces of memorabilia collected by Fabio Schettini during his time working for the ILGWU and the Liberal Party. Of interest are the various badges Mr. Schettini received during his attendance at various conferences for the IFGWU and the AFL-CIO. Also of interest is the broadside from Mr. Schettini's 1964 campaign.</p>  </scopecontent>
+  <accessrestrict id="aspace_9b0aa1ecb20eab7202641066631a0a5d">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_294addb8266c78d1797ec4f608c37cc4">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_a187322f75acc25d8e649c0242e59d2a">
+    <head>Preferred Citation</head>
+<p>Fabio Schettini ILGWU Memorabilia #6036/102 MB. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_055d0bb6c762b90ba0a0bde21832f50c">
+    <head>Related Materials</head>
+<p>Related Collections: 6036/102 P: Fabio Schettini ILGWU Photographs 6036/102m: Fabio Schettini ILGWU Files 6036/102 PUBS: Fabio Schettini ILGWU Publications <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-040.html"> 5780/040: ILGWU Local 48 Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-177.html"> 5780/177: ILGWU Communications Department Biography Files</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Clothing workers &gt; Labor unions &gt; United States.</subject>
+    <subject source="ingest">Clothing workers &gt; Labor unions &gt; New York (State) &gt; New York.</subject>
+    <persname audience="internal" source="ingest">Schettini, Fabio</persname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union.</corpname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union. Local 48 (New York, N.Y.)</corpname>
+    <corpname audience="internal" source="ingest">Liberal Party of New York State.</corpname>
+    <corpname audience="internal" source="ingest">AFL-CIO</corpname>
+  </controlaccess>
+  <unitid type="bibid">10377597</unitid>
+  <dsc><c01 id="aspace_4c1d51f21a9ea9e534f3d1f79ab8a7b6" level="file"><did><unittitle>Place card "Colonial Mansion"</unittitle><container id="aspace_1ebeab7cadcf0d1afa064bc40f674242" label="unspecified" type="box">1</container><container id="aspace_aa5cc2c3c81de4f04cf4abbe7534a9c7" parent="aspace_1ebeab7cadcf0d1afa064bc40f674242" type="folder">1</container></did></c01><c01 id="aspace_c325ecbfd1bf8b325168f95756d1438e" level="file"><did><unittitle>Small square bowl -- "Int. Ladies Garment Workers Union, Union Made, ILGWU, AFL-CIO ; Symbol of Decency, Fair labor Standards and the American Way of Life"</unittitle><container id="aspace_3a6f5a9e51051fe33ea97173d415683c" label="unspecified" type="box">1</container><container id="aspace_9e2ba83756ac9ac8049c52092506085f" parent="aspace_3a6f5a9e51051fe33ea97173d415683c" type="folder">2</container></did></c01><c01 id="aspace_69b924836d77ef81b49e815803eeef16" level="file"><did><unittitle>Badges and Anniversary Pin -- "43rd Annual Convention(1970)" ; " Committee" -- "Local 19822" pin</unittitle><container id="aspace_5f10c241f76f8a6f3d8fd27b15b6e79b" label="unspecified" type="box">1</container><container id="aspace_f88106d74432ead764d0e0c841f930cf" parent="aspace_5f10c241f76f8a6f3d8fd27b15b6e79b" type="folder">3</container></did></c01><c01 id="aspace_e90790905e6cdce4870961feb77b7625" level="file"><did><unittitle>Badges -- Guest (1982), 31st Convention ; Delegate (1968), 33rd Convention ; Delegate (1962), 31st Convention ; Sert. At Arms (1962), 31st Convention ; Delegate (1940) Silver Jubilee Convention</unittitle><unitdate datechar="creation" normal="1940/1982" type="inclusive">1940-1982</unitdate><container id="aspace_4f5f9959356ce873901e3a03753e00c3" label="unspecified" type="box">1</container><container id="aspace_182584f13ee91f2b07f857db30cb3202" parent="aspace_4f5f9959356ce873901e3a03753e00c3" type="folder">4</container></did></c01><c01 id="aspace_98e5f42f62cd59f1b88aa0f8fe0d4d97" level="file"><did><unittitle>UNITE! Souvenir bag</unittitle><container id="aspace_6ca930321927ac69f722a6900e36218f" label="unspecified" type="box">1</container><container id="aspace_8b3e063f6f967e9cd972b1883936ecbb" parent="aspace_6ca930321927ac69f722a6900e36218f" type="folder">5</container></did></c01><c01 id="aspace_4cdfea250fd4b544addd74d807a04d4a" level="file"><did><unittitle>Broadside - Vote LBJ the Liberal Way, Elect Fabio Schettini (2 copies)</unittitle><container id="aspace_16f8c2ed28bff10ae5bda13ac3356963" label="unspecified" type="box">1</container><container id="aspace_efad5b7253821b85cecf39bd13b98ea8" parent="aspace_16f8c2ed28bff10ae5bda13ac3356963" type="folder">6</container></did></c01><c01 id="aspace_afc1844e3ff7a89f918798b7f8b27ea7" level="file"><did><unittitle>Convention Floor map - showing location for seating for each union</unittitle><container id="aspace_043472468f9b3e12d5ecf94be1064357" label="unspecified" type="box">1</container><container id="aspace_75cdc0571267a943d3a69dc8557e4c87" parent="aspace_043472468f9b3e12d5ecf94be1064357" type="folder">7</container></did></c01></dsc>
+</archdesc>
+</ead>

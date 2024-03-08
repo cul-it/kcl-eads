@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05780-070mf</eadid><filedesc><titlestmt><titleproper>ILGWU Publication "The Ladies' Garment Worker" on Microfilm <num>5780/070 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 2011</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:01:57 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILGWU Publication "The Ladies' Garment Worker" on Microfilm</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname source="ingest">International Ladies' Garment Workers' Union.</corpname>
+    </origination>
+    <unitid>5780/070 mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.56 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1911/1917" type="inclusive">1911-1917</unitdate>
+    <physdesc id="aspace_39a3185458453a69f77d5c9dddb76cb8" label="Quantity:">2 microfilm reels</physdesc>
+    <physdesc id="aspace_1c93a5f3d1786183775780a849a39fae" label="Forms of Material:">Microfilm, publications.</physdesc>
+    <abstract id="aspace_865c617b6f1e553266d6f512d6e07ceb">Collection consists of microfilmed issues of the Ladies' Garment Worker published between 1910 and 1918.</abstract>
+    <langmaterial id="aspace_ffbedfd3280c57832f5fc92ec86de46f">Collection material in English, Italian, and Yiddish.</langmaterial>
+    <unitid type="bibid">8896428</unitid>
+  </did>
+  <odd id="aspace_15a95762c86022255f7f3d63246821c5">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183<extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref><extref xlink:href="http://www.ilr.cornell.edu/library/kheel">http://www.ilr.cornell.edu/library/kheel</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff</item>
+      </defitem>
+      <defitem>
+        <label>Date completed:</label>
+        <item>Kheel Staff</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Cheryl Beredo, August 2011</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_afa0242ba25cb68a3015c042ae4f789a">
+    <head>Biographical / Historical</head>
+<p>The International Ladies' Garment Workers' Union was founded in New York City in 1900 by mostly Socialist immigrant workers who sought to unite the various crafts in the growing women's garment industry. The union soon reflected changes in the sector and rapidly organized thousands of unskilled and semi-skilled women, mostly Jewish and Italian young immigrants. Exemplifying the "new unionism," the ILGWU led two of the most widespread and best-known industrial strikes of the early Twentieth Century: the shirtwaist makers' strike of 1909 in New York City and the cloak makers' strike of 1910 in Chicago. The union also tried to adapt to the fragmented and unstable nature of the industry. It adopted the "protocol of peace," a system of industrial relations that attempted to ensure stability and limit strikes and production disruption by providing for an arbitration system to resolve disputes.</p><p> The ILGWU exemplified the European-style social unionism of its founding members. They pursued bread and butter issues but provided educational opportunities, benefits, and social programs to union members as well. In 1919, the ILGWU became the first American union to negotiate an unemployment compensation fund that was contributed to by its employers. The ILGWU also pioneered in the establishment of an extremely progressive health care program for its members which included not only regional Union Health Centers but also a resort for union workers, known as Unity House. The Union also had an imaginative and pioneering Education Department which not only trained workers in traditional union techniques, but provided courses in citizenship and the English language.</p><p> David Dubinsky, an immigrant from Belarus who came to the US in 1911, provided strong leadership that led to unprecedented growth in the union during his presidency from 1932 to 1966. He led the union through successful internal anti-communist struggles, built on the ascendancy of industrial unionism by encouraging the formation of the Committee for Industrial Organization, and helped the union become an important political force in New York City and state politics, and in the national Democratic Party and Liberal Party as well.</p><p> In the period following the Second World War, the union suffered a decline in membership as manufacturers avoided unionization and took advantage of less expensive labor by moving shops from the urban centers in the northeast to the south, and later abroad. The ethnic and racial character of the ILGWU also changed as European immigrants were supplanted by Asians, Latin Americans, African- Americans, and immigrants from the Caribbean.</p><p> In July 1995 the ILGWU merged with the Amalgamated Clothing and Textile Workers Union (ACTWU) at a joint convention, forming UNITE (Union of Needletrades, Industrial and Textile Employees). At the time the new union had a membership of about 250,000 in the United States, Canada, and Puerto Rico.</p>  </bioghist>
+  <bioghist id="aspace_0d1684853e3d440534bb7388af9b4890">
+    <head>Biographical / Historical</head>
+<p>First published by the ILGWU in April 1910, the Ladies' Garment Worker was the official organ of the International and issued monthly in Yiddish, English, and Italian. In 1919, the Ladies' Garment Worker ceased publication and Justice became the official organ of the ILGWU.</p>  </bioghist>
+  <scopecontent id="aspace_45302a3e2ccc01e2ef1e4afe2e6b9bde">
+    <head>Scope and Contents</head>
+<p>Collection consists of microfilmed issues of the Ladies' Garment Worker published between 1910 and 1918.</p>  </scopecontent>
+  <accessrestrict id="aspace_492acb7d5e54fc18675bf8d90af3f5e2">
+    <head>Conditions Governing Access</head>
+<p>The ILGWU Records, except for publications and materials produced for publication, are restricted. Materials created prior to twenty years from the current date are open to researchers only with prior written permission from the Director of the Kheel Center; materials created during the past twenty-years are closed; the minutes of the General Executive Board are closed. For more information contact the Kheel Center.</p>  </accessrestrict>
+  <userestrict id="aspace_49149ade66fcc82d769d95a418e9cf40">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_04c7e01cd598db23a2167cce242f9706">
+    <head>Preferred Citation</head>
+<p>ILGWU Publication "The Ladies' Garment Worker" on Microfilm, 5780/070 mf. Kheel Center for Labor-Management Documentation and Archives, Martin P. Catherwood Library, Cornell University.</p>  </prefercite>
+  <relatedmaterial id="aspace_e7851e29a1b9a0b3bc9840b366bb84cd">
+    <head>Related Materials</head>
+<p>5780. ILGWU records</p><p> 5780/070. ILGWU. Ladies' Garment Worker</p>  </relatedmaterial>
+  <odd id="aspace_c7fa6b84a19e85a568decb6498cab648">
+    <head>General</head>
+<p>"Permanent deposit."</p>  </odd>
+  <controlaccess>
+    <subject source="ingest">Labor unions--Clothing workers--New York (State)--New York.</subject>
+    <subject source="ingest">Labor unions--Clothing workers--United States.</subject>
+    <subject source="ingest">Textile workers--New York (State)--New York.</subject>
+    <subject source="ingest">Textile workers--United States.</subject>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union.</corpname>
+  </controlaccess>
+  <unitid type="bibid">8896428</unitid>
+  <dsc><c01 id="aspace_37ed4424aa2eaf68e2b745fb36a45169" level="file"><did><unittitle>Ladies' Garment Worker</unittitle><unitdate datechar="creation" normal="1910/1913" type="inclusive">1910-1913</unitdate><container id="aspace_0542569c1d5b4abc16cee8825d8b6ed2" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_9f474ec06a5f78961804663d2e51a513"><head>Scope and Contents</head><p>vol.1 (1910:Apr.) - vol.4 (1913)</p></scopecontent></c01><c01 id="aspace_ae2b8ab79297aa3c04a02e601173f204" level="file"><did><unittitle>Ladies' Garment Worker</unittitle><unitdate datechar="creation" normal="1917/1918" type="inclusive">1917-1918</unitdate><container id="aspace_448df688f60932b75a875e6056d9e152" label="unspecified" type="reel">2</container></did><scopecontent id="aspace_cba46eee2d7656635eddb5fc9941e49d"><head>Scope and Contents</head><p>vol.8 (1917) - vol.9 (1918)</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

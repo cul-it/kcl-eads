@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06317-010p</eadid><filedesc><titlestmt><titleproper>Kheel Center Triangle Fire Centennial Commemoration Collection Berkeley City College Photographs <num>6317/010 P</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 26, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:42:23 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Kheel Center Triangle Fire Centennial Commemoration Collection Berkeley City College Photographs</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Kheel Center</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Remember the Triangle Fire Coalition</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Berkeley City College</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Ruberto, Laura</persname>
+    </origination>
+    <unitid>6317/010 P</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="2011/2011">2011</unitdate>
+    <physdesc id="aspace_8aa56af0a0a274fdd41286e5e705f6a7" label="Quantity:">0.3 linear ft.</physdesc>
+    <physdesc id="aspace_f48bc659ba96652af974d528cf9b2b31" label="Forms of Material:">Photographs.</physdesc>
+    <langmaterial id="aspace_345e00e6a23135524f478eb88debf597">Collection material in English</langmaterial>
+    <unitid type="bibid">7504534</unitid>
+  </did>
+  <odd id="aspace_dc85817d4e8afa9d243cc4bcfa8fec6d">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, April 16, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, August 26, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_20f4da21860c0ac4910247f9de6493a7">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_e6da978f09eabe8c88bfd1a48d441081">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_7e2b83de72fd134e2d8b9db20bf2388f">
+    <head>Preferred Citation</head>
+<p>Kheel Center Triangle Fire Centennial Commemoration Collection Berkeley City College Photographs #6317/010 P. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_90994ce5844fda90052a773e9ebc7bfb">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06317.html"> 6317: Kheel Center Triangle Fire Centennial Commemoration Collection</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06317mb.html"> 6317 MB: Kheel Center Triangle Fire Centennial Commemoration Collection Memorabilia</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06317pubs.html"> 6317 PUBS: Kheel Center Triangle Fire Centennial Commemoration Collection Publications</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06317-010.html"> 6317/010: Kheel Center Triangle Fire Centennial Commemoration Collection Berkeley City College</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06317-010mb.html"> 6317/010 MB: Kheel Center Triangle Fire Centennial Commemoration Collection Berkeley City College Memorabilia</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Clothing trade--New York (State)--New York--History--20th century</subject>
+    <subject source="ingest">Strikes and lockouts--New York (State)--New York--History--20th century</subject>
+    <subject source="ingest">Fires--New York (State)--New York--History--20th century</subject>
+    <persname audience="internal" source="ingest">Ruberto, Laura</persname>
+    <corpname audience="internal" source="ingest">Berkely City College</corpname>
+    <corpname audience="internal" source="ingest">Triangle Shirtwaist Company --Fire, 1911</corpname>
+  </controlaccess>
+  <unitid type="bibid">7504534</unitid>
+  <dsc><c01 id="aspace_e35acc4b53a42fe1655fc053bd19eac6" level="file"><did><unittitle>Memorial Pins with Melanie Shapiro</unittitle><container id="aspace_59a6a502dad369bd1bec931deed7e26d" label="unspecified" type="box">1</container><container id="aspace_265f9cb72d0a553d1c03b616a7467c5b" parent="aspace_59a6a502dad369bd1bec931deed7e26d" type="Folder">1</container></did><scopecontent id="aspace_af5e7b4d598a21c7eb2fa5cacfed2c69"><head>Scope and Contents</head><p>13 photographs</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

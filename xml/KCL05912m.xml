@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05912m</eadid><filedesc><titlestmt><titleproper>Commons, John R. "Accident Prevention, Health and Group Insurance" Manuscript <num>5912m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 17, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:15:14 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>John R. Commons "Accident Prevention, Health and Group Insurance" Manuscript</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Commons, John R.</persname>
+    </origination>
+    <unitid>5912m</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 folders</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1918/1918">1918</unitdate>
+    <physdesc id="aspace_d643b52502b2352fff88db9b10c4c230" label="Quantity:">1 file folder.</physdesc>
+    <physdesc id="aspace_ea48070cef8d902041f7d8d05dd9bf17" label="Forms of Material:">Manuscripts (documents).</physdesc>
+    <abstract id="aspace_c1b09f574e1a8d8fd53714d12ac7a0de">Three chapters on accidents, group insurance, and health insurance by John R. Commons.</abstract>
+    <langmaterial id="aspace_f2adb776a11b112c04c4fd9267f0cb98">Collection material in English</langmaterial>
+    <unitid type="bibid">5734512</unitid>
+  </did>
+  <odd id="aspace_75212390f0123171449c26e723b54538">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 24, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 17, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <scopecontent id="aspace_1c529641830a2d3583dca90de146d61d">
+    <head>Scope and Contents</head>
+<p>This collection consists of three chapters on accidents, group insurance, and health insurance by John R. Commons. This unpublished manuscript was sent from Commons to H.A. Millis of the Health Insurance Commission in 1918.</p>  </scopecontent>
+  <accessrestrict id="aspace_a14eec230c419f864bc2bcf113603b01">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_c1458620f3994d9758b08431c2947dde">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_1166230deb5ef33a04d6e5a995c7be8b">
+    <head>Preferred Citation</head>
+<p>John R. Commons "Accident Prevention, Health and Group Insurance" Manuscript #5912m. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_7580cb6bb1a0c2b13e95f1bf19fa59fa">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04057.html"> /4057: James A. Gross NLRB Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04073.html"> /4073: James O. Morris Office Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05001mf.html"> 5001 mf: American Association for Labor Legislation Records on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05001pam.html"> 5001 PAM: American Association for Labor Legislation Pamphlet File</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05236.html"> 5236: Edwin Emil Witte Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05583-1.html"> 5583/1: Archives Organization File (AOF) Part 1</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05618.html"> 5618: Charles D. Wrege Research Papers Regarding History of Management</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05738mf.html"> 5738 mf: John R. Commons Collection on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-047.html"> 5780/047: ILGWU Joint Board Dress &amp; Waistmakers' Union of Greater New York Managers' Correspondence</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06014.html"> 6014: Charles D. Wrege Collection of History of Management Documents</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06034.html"> 6034: Rare Pamphlet Collection</extref> 6206: Clyde Summers Office Files</p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Health insurance.</subject>
+    <persname audience="internal" source="ingest">Commons, John R.</persname>
+  </controlaccess>
+  <unitid type="bibid">5734512</unitid>
+  <dsc><c01 id="aspace_4021738642b1b66307a6d44da75d7302" level="file"><did><unittitle>Accidents, group insurance, and health insurance</unittitle><unitdate datechar="creation" normal="1918/1918">1918</unitdate><container id="aspace_98759f5543989f8228e993ee0274b80f" label="unspecified" type="box">1</container></did></c01></dsc>
+</archdesc>
+</ead>

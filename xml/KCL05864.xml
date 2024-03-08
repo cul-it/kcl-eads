@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05864</eadid><filedesc><titlestmt><titleproper>ILGWU Chicago Joint Board Additional <num>5864</num></titleproper><author>Compiled by R. Miles</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 17, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:13:27 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ILGWU Chicago Joint Board Additional</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">International Ladies' Garment Workers' Union (ILGWU)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">ILGWU Chicago Joint Board</corpname>
+    </origination>
+    <unitid>5864</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1918/1946" type="inclusive">1918-1946</unitdate>
+    <physdesc id="aspace_ef4352b6eeb4746a26600a74184d999d" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_bb96f86e93ece2846cde59b05431fc13" label="Forms of Material:">Records (documents).</physdesc>
+    <abstract id="aspace_b7334dbc2ca0b5fa05a510c32b987532">International Ladies' Garment Workers' Union. Chicago Joint Board. Scrapbook of Morris A. Goldstein, Secretary-Treasurer of Joint Board, 1930s-1940s</abstract>
+    <langmaterial id="aspace_3d9fc2748244e732254e27c224396fcc">Collection material in English</langmaterial>
+    <unitid type="bibid">5722537</unitid>
+  </did>
+  <odd id="aspace_727455f65ffeded938ebcd3a1041eca3">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>R. Miles, June 10, 2009</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 17, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_1c01b8a66746a6bc5eb17289576bc6b3">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_63129ddf4c7bf2e056736c833029a690">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_8338b4de4f0f7adf4b0240d8f2f3e2cb">
+    <head>Preferred Citation</head>
+<p>ILGWU Chicago Joint Board Additional #5864. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_8f57e8c1efa482378bb874658053d27e">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780.html"> 5780: ILGWU records</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Women's clothing industry--United States.</subject>
+    <subject source="ingest">Clothing workers--Labor unions--United States.</subject>
+    <subject source="ingest">Clothing workers--United States.</subject>
+    <subject source="ingest">Industrial relations--United States.</subject>
+    <persname audience="internal" source="ingest">Goldstein, Morris A.</persname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union.</corpname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union. Chicago Joint Board.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5722537</unitid>
+  <dsc><c01 id="aspace_de26765d01f4c5f199160bbafbae0e11" level="file"><did><unittitle>Scrapbook</unittitle><unitdate datechar="creation" normal="1918/1946" type="inclusive">1918-1946</unitdate><container id="aspace_ac1025aefa91c64da135f822d75ceefd" label="unspecified" type="box">1</container><container id="aspace_f641f4062f23ef8029345493c64c6e86" parent="aspace_ac1025aefa91c64da135f822d75ceefd" type="folder">1</container></did><scopecontent id="aspace_2a3fd8ac9bdae824e058d138898f1ed6"><head>Scope and Contents</head><p>Newspaper clippings, photographs, telegrams, etc.</p></scopecontent></c01><c01 id="aspace_5e0ef70d9bda9ac63fe994f52c70ee9d" level="file"><did><unittitle>Scrapbook</unittitle><unitdate datechar="creation" normal="1918/1946" type="inclusive">1918-1946</unitdate><container id="aspace_2794f92abe4b28736bea9d07e59beb6b" label="unspecified" type="box">1</container><container id="aspace_815e3df44bc1a565bdba090ac6b5434b" parent="aspace_2794f92abe4b28736bea9d07e59beb6b" type="folder">1</container></did><scopecontent id="aspace_a4209d228c4457b8289812c991645596"><head>Scope and Contents</head><p>Newspaper clippings, photographs, telegrams, etc.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

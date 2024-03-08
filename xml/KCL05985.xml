@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05985</eadid><filedesc><titlestmt><titleproper>NAA Additional Files Regarding Proceedings <num>5985</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 24, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:18:53 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>NAA Additional Files Regarding Proceedings</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">National Academy of Arbitrators (NAA)</corpname>
+    </origination>
+    <unitid>5985</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1987/1994" type="inclusive">1987-1994</unitdate>
+    <physdesc id="aspace_72f59d4744702ea33e020701dbf90eef" label="Quantity:">1 linear ft.</physdesc>
+    <physdesc id="aspace_038463d4855b027cf0647b2f59681406" label="Forms of Material:">Records (documents).</physdesc>
+    <langmaterial id="aspace_d67e8154344e995f689467c5a972010b">Collection material in English</langmaterial>
+    <unitid type="bibid">5745665</unitid>
+  </did>
+  <odd id="aspace_58c4189ef602c987750f392c4e03dfc5">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, September 19, 2011</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 24, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_7d76efcda376586800410e927a33177a">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_fc7246b650b06942c1d3eed5f7bbe363">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_b9914a26070ff4a3759c2ea3e702c266">
+    <head>Preferred Citation</head>
+<p>NAA Additional Files Regarding Proceedings #5985. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_161e93ab8851187537127069ff7fc13a">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05796.html"> 5796: NAA Additional Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05775.html"> 5775: NAA Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06004.html"> 6004: NAA Additional Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06004av.html"> 6004 AV: NAA Audio-Visual Material</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06004ohm.html"> 6004 OHM: NAA History Committee Oral History Interview Masters</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06004oht.html"> 6004 OHT: NAA History Committee Oral History Interview Transcripts</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06205.html"> 6205: NAA Committee Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05246.html"> 5246: NAA Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05246.html"> 5246: NAA Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06136.html"> 6136: Dennis Nolan Collection of National Academy of Arbitrators History Files</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Professional associations--United States.</subject>
+    <subject source="ingest">Trade associations--United States.</subject>
+    <subject source="ingest">Arbitration, Industrial--United States.</subject>
+    <corpname audience="internal" source="ingest">National Academy of Arbitrators</corpname>
+  </controlaccess>
+  <unitid type="bibid">5745665</unitid>
+  <dsc><c01 id="aspace_0746d8bf30b8a6808d21b9aea0764b1f" level="file"><did><unittitle>Corres. Proceedings 1994</unittitle><unitdate datechar="creation" normal="1994/1994">1994</unitdate><container id="aspace_aa0b2abadf2275d2ae057515917f9433" label="unspecified" type="box">1</container><container id="aspace_6d847496825ccb44e61badce94ddabe2" parent="aspace_aa0b2abadf2275d2ae057515917f9433" type="folder">1</container></did></c01><c01 id="aspace_edd3a4bdcace4a6ead0ff31965768723" level="file"><did><unittitle>1993 Proceedings Correspondence.</unittitle><unitdate datechar="creation" normal="1993/1993">1993</unitdate><container id="aspace_6f39e512ee1d9f453cd8daeabadfb5f5" label="unspecified" type="box">1</container><container id="aspace_4940f4113df1302936cdaf060e4ee4d2" parent="aspace_6f39e512ee1d9f453cd8daeabadfb5f5" type="folder">2</container></did></c01><c01 id="aspace_06fa2db3c3064fc5e34d8a6bd9887bc3" level="file"><did><unittitle>Proceedings 1991 NAA</unittitle><unitdate datechar="creation" normal="1991/1991">1991</unitdate><container id="aspace_bb4c0bfd7e56407ecb4c4c83372eb11e" label="unspecified" type="box">1</container><container id="aspace_654a9a59695cf6abcd0d2bd81efd5470" parent="aspace_bb4c0bfd7e56407ecb4c4c83372eb11e" type="folder">3</container></did></c01><c01 id="aspace_a06c08cd1abccb8a4f20dc187fb4f563" level="file"><did><unittitle>1992 Proceedings Correspondence</unittitle><unitdate datechar="creation" normal="1992/1992">1992</unitdate><container id="aspace_9805de0b7791af05242e2321857321be" label="unspecified" type="box">1</container><container id="aspace_5f3bd5a7c92c356728c02c45730ee71f" parent="aspace_9805de0b7791af05242e2321857321be" type="folder">4</container></did></c01><c01 id="aspace_fc68f7acc6c07c6207d19c2bdd812739" level="file"><did><unittitle>1990 Proceedings Correspondence</unittitle><unitdate datechar="creation" normal="1990/1990">1990</unitdate><container id="aspace_1a4d7f0947e81130888267aa5f54005a" label="unspecified" type="box">1</container><container id="aspace_c01eab4d47a5368048facba36a0bfa30" parent="aspace_1a4d7f0947e81130888267aa5f54005a" type="folder">5</container></did></c01><c01 id="aspace_0fa2d1b481fede033e740aff716c3280" level="file"><did><unittitle>1987-1989 Proceedings Corres.</unittitle><unitdate datechar="creation" normal="1987/1989" type="inclusive">1987-1989</unitdate><container id="aspace_6ecce450b83ec30dd5344a4f2485b439" label="unspecified" type="box">1</container><container id="aspace_20ff78154c7477f20599e2dc354167d4" parent="aspace_6ecce450b83ec30dd5344a4f2485b439" type="folder">6</container></did></c01><c01 id="aspace_4498e0f695227e792894c8e5517e4854" level="file"><did><unittitle>Edited Manuscript from 1991 NAA Proceedings [folder 1 of 4]</unittitle><unitdate datechar="creation" normal="1991/1991">1991</unitdate><container id="aspace_8c454dfdc85678d96f8eabc4c0d0bef3" label="unspecified" type="box">1</container><container id="aspace_dead2c1691cb00652dba06cfc271c503" parent="aspace_8c454dfdc85678d96f8eabc4c0d0bef3" type="folder">7</container></did></c01><c01 id="aspace_30ea5e8291a8b74fb4970bbb1c3e8686" level="file"><did><unittitle>Edited Manuscript from 1991 NAA Proceedings [folder 2 of 4]</unittitle><unitdate datechar="creation" normal="1991/1991">1991</unitdate><container id="aspace_0876d61fc219f2c3555329e1706a24cd" label="unspecified" type="box">1</container><container id="aspace_1e57970143e1acbd02c82545669d006e" parent="aspace_0876d61fc219f2c3555329e1706a24cd" type="folder">8</container></did></c01><c01 id="aspace_ddb8d0aed2cc20a8acf3615ad2aeff7b" level="file"><did><unittitle>Edited Manuscript from 1991 NAA Proceedings [folder 3 of 4]</unittitle><unitdate datechar="creation" normal="1991/1991">1991</unitdate><container id="aspace_5107293216518a04356345923089d22f" label="unspecified" type="box">1</container><container id="aspace_c2614a88f50bcaaa2ddf3c59bb752562" parent="aspace_5107293216518a04356345923089d22f" type="folder">9</container></did></c01><c01 id="aspace_60872bd50ad475c501af432cb07985bf" level="file"><did><unittitle>Edited Manuscript from 1991 NAA Proceedings [folder 4 of 4]</unittitle><unitdate datechar="creation" normal="1991/1991">1991</unitdate><container id="aspace_01f781dce64d1ad1359e887185a6b524" label="unspecified" type="box">1</container><container id="aspace_c7742608b95453ac3e50f26a2b612424" parent="aspace_01f781dce64d1ad1359e887185a6b524" type="folder">10</container></did></c01><c01 id="aspace_36809845736d4f3047c259179773593d" level="file"><did><unittitle>Edited Manuscript from 1994 NAA Proceedings [folder 1 of 2]</unittitle><unitdate datechar="creation" normal="1994/1994">1994</unitdate><container id="aspace_d349a57969f05d912a7ca1f82f099e1f" label="unspecified" type="box">1</container><container id="aspace_309cade05286b68e8b7b8dcaa1b08434" parent="aspace_d349a57969f05d912a7ca1f82f099e1f" type="folder">11</container></did></c01><c01 id="aspace_ff5c97dd3d0cffa5997a45160d161fae" level="file"><did><unittitle>Edited Manuscript from 1994 NAA Proceedings [folder 2 of 2]</unittitle><unitdate datechar="creation" normal="1994/1994">1994</unitdate><container id="aspace_df16fe4a1091aa1fc753508557948f92" label="unspecified" type="box">1</container><container id="aspace_7b36f5c5f70273341f9f2ea272fcc293" parent="aspace_df16fe4a1091aa1fc753508557948f92" type="folder">12</container></did></c01></dsc>
+</archdesc>
+</ead>

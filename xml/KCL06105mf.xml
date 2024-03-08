@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06105mf</eadid><filedesc><titlestmt><titleproper>United Auto Workers Local 686 (Lockport, NY) on Microfilm. <num>6105 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 28, 2013</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:29:41 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>United Auto Workers Local 686 (Lockport, NY) on Microfilm.</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">International Union, United Automobile, Aerospace, and Agricultural Implement Workers of America. Local 686 (Lockport, N.Y.)</corpname>
+    </origination>
+    <unitid>6105 mf</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic feet</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="0000/2999" type="inclusive">0000-2999</unitdate>
+    <physdesc id="aspace_a30b898b7f2fa9eb5de7818ea84edfca" label="Quantity:">8 microfilm reels</physdesc>
+    <physdesc id="aspace_9cd85af4323fa85dcfde9482e6afadfa" label="Forms of Material:">Correspondence, reports, publications, microfilm.</physdesc>
+    <abstract id="aspace_0b87d54d607c7ef60216d91e6390f249">This collection consists of the microfilmed records of the United Auto Workers Local 686</abstract>
+    <langmaterial id="aspace_ee403a14e38cc3b31f19848e2ade0c57">Collection material in English</langmaterial>
+    <unitid type="bibid">5798891</unitid>
+  </did>
+  <odd id="aspace_7db3f521b5011020a7f2a522d6d45302">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183<extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref><extref xlink:href="http://www.ilr.cornell.edu/library/kheel">http://www.ilr.cornell.edu/library/kheel</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff</item>
+      </defitem>
+      <defitem>
+        <label>Date completed:</label>
+        <item>February 28, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, February 2013</item>
+      </defitem>
+    </list>
+  </odd>
+  <accessrestrict id="aspace_39d19dba5cf838376171de30b3602a6d">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_96864a443ac1308d7256cd2c17bcc994">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_c19292d267b2a714de7fc699464d7f77">
+    <head>Preferred Citation</head>
+<p>United Auto Workers. Local 686 (Lockport, NY) on Microfilm. #6105 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_8fbf5b63b6b06534b31b68fc9a75fdc7">
+    <head>Related Materials</head>
+<p>Related collections: <extref xlink:href="rmc.library.cornell.edu/ead/htmldocs/KCL05677.html"> 5677: International Union, United Automobile, Aerospace, and Agricultural Implement Workers of America. Local 686 (Lockport, NY). Records</extref> <extref xlink:href="rmc.library.cornell.edu/ead/htmldocs/KCL05677av.html"> 5677 AV: International Union, United Automobile, Aerospace, and Agricultural Implement Workers of America. Local 686 (Lockport, NY). Audio-Visual Materials</extref> <extref xlink:href="rmc.library.cornell.edu/ead/htmldocs/KCL05677mf.html"> 5677mf: International Union, United Automobile, Aerospace, and Agricultural Implement Workers of America. Local 686 (Lockport, NY). Microfilm</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Labor unions--New York (State)--Lockport</subject>
+    <subject source="ingest">Automobile industry workers--Labor unions--New York (State)--Lockport</subject>
+    <subject source="ingest">Mediation and conciliation, Industrial</subject>
+    <corpname audience="internal" source="ingest">International Union, United Automobile, Aerospace, and Agricultural Implement Workers of America.</corpname>
+    <persname audience="internal" source="ingest">Addes, George</persname>
+    <corpname audience="internal" source="ingest">Garno, Harold J.</corpname>
+    <corpname audience="internal" source="ingest">General Motors Corporation --Archives</corpname>
+    <corpname audience="internal" source="ingest">Harrison Radiator --Archives</corpname>
+    <corpname audience="internal" source="ingest">International Union, United Automobile, Aerospace, and Agricultural Implement Workers of America. Local 686 (Lockport, N.Y.)--Archives</corpname>
+    <corpname audience="internal" source="ingest">Lockport Mills --Archives</corpname>
+    <corpname audience="internal" source="ingest">Norton Laboratories --Archives</corpname>
+    <corpname audience="internal" source="ingest">Reuther, Walter,</corpname>
+    <corpname audience="internal" source="ingest">Webster Block Company --Archives</corpname>
+  </controlaccess>
+  <unitid type="bibid">5798891</unitid>
+  <dsc><c01 id="aspace_5c272931e6cae2e5ac0ad252933752fd" level="series"><did><unittitle>(Online container list not yet available.)</unittitle></did></c01></dsc>
+</archdesc>
+</ead>

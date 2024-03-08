@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05670</eadid><filedesc><titlestmt><titleproper>ACWA Organizer Ida Alter Diaries <num>5670</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 25, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 15:52:54 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>ACWA Organizer Ida Alter Diaries</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">Amalgamated Clothing Workers of America (ACWA)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Atler, Ida</persname>
+    </origination>
+    <unitid>5670</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.33 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1934/1937" type="inclusive">1934-1937</unitdate>
+    <physdesc id="aspace_d1f9456981595af6b7aaf6ced358c52b" label="Quantity:">0.3 linear ft.</physdesc>
+    <physdesc id="aspace_2e10c61606384162c47869f77c0f7373" label="Forms of Material:">Diaries.</physdesc>
+    <abstract id="aspace_5e189cbcb7c69a194859f087a9787d4c">These materials include handwritten accounts of organizing activities in NYS as well as newspaper clippings, organizing leaflets, broadsides, arm bands for strikers, song sheets and correspondence.</abstract>
+    <langmaterial id="aspace_3872df6af44e75b40db1ab2e368d49ea">Collection material in English</langmaterial>
+    <unitid type="bibid">5689641</unitid>
+  </did>
+  <odd id="aspace_246623d1cd8a6851a57efd7b7fb54cab">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, June 19, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 25, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <scopecontent id="aspace_1a491ea3066c95d98c7f937ae09dd128">
+    <head>Scope and Contents</head>
+<p>These materials include handwritten accounts of organizing activities in NYS as well as newspaper clippings, organizing leaflets, broadsides, arm bands for strikers, song sheets and correspondence.</p>  </scopecontent>
+  <accessrestrict id="aspace_c8f9ce0c1ce8cd1b7f6d09c82fba7214">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_32a74e8ad454da63e53c1910dfc772a2">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_cc4e61ff47d942000e255753174312dc">
+    <head>Preferred Citation</head>
+<p>ACWA Organizer Ida Alter Diaries #5670. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_a7ba912c97a115489f76f45bb26fda3b">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619.html"> 5619: ACWA Records</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Clothing workers --United States.</subject>
+    <persname audience="internal" source="ingest">Alter, Ida.</persname>
+    <corpname audience="internal" source="ingest">American Clothing Workers of America.</corpname>
+  </controlaccess>
+  <unitid type="bibid">5689641</unitid>
+  <dsc><c01 id="aspace_90a31788e9cbfabbab42bd7abb0a21f7" level="file"><did><unittitle>Scrapbook of pamphlets, news clippings, and memorabilia</unittitle><unitdate datechar="creation" normal="1934/1934">1934</unitdate><container id="aspace_41ef4c38f5e879e68b990b25e16e5a16" label="unspecified" type="box">1</container><container id="aspace_6033874fc20d7a56a68ef86518ab9448" parent="aspace_41ef4c38f5e879e68b990b25e16e5a16" type="folder">1</container></did></c01><c01 id="aspace_302b6c94c8b156eaf6ce651f383ffe2f" level="file"><did><unittitle>Scrapbook of pamphlets, news clippings, and memorabilia</unittitle><unitdate datechar="creation" normal="1937/1937">1937</unitdate><container id="aspace_d09f69be30dfe045bfe2558e8ae3ebd0" label="unspecified" type="box">1</container><container id="aspace_915c3d9b424cb2e4611ddd59f850dfd6" parent="aspace_d09f69be30dfe045bfe2558e8ae3ebd0" type="folder">2</container></did></c01></dsc>
+</archdesc>
+</ead>

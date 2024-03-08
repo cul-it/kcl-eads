@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06493</eadid><filedesc><titlestmt><titleproper>Ellis, A. D. &amp; Son Records <num>6493</num></titleproper><author>Compiled by M. Clark</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 09, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:48:01 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>A. D. Ellis &amp; Son Records</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname role="creator" source="ingest">A. D. Ellis &amp; Son</corpname>
+    </origination>
+    <unitid>6493</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1911/1934" type="inclusive">1911-1934</unitdate>
+    <physdesc id="aspace_898a6727dc898f65d41376634ff3f579" label="Quantity:">0.5 linear ft.</physdesc>
+    <physdesc id="aspace_baac28335bc31215d0c273a51a416d87" label="Forms of Material:">Correspondence, records (documents) .</physdesc>
+    <abstract id="aspace_96eb2bf0823a8de142930947f12bcdc8">Records include payroll (From Ellis, Converse &amp; Co.), outgoing correspondence, notebook of orders, weaving drafts &amp; counts, including price lists and costs, and 2 folders of miscellaneous drafts. Correspondents include H. &amp; W.H. Lewis, Laidlaw Co., &amp; Lynx Corp., all of New York City. Includes Navy contracts &amp; government bids, 1917-1934.</abstract>
+    <langmaterial id="aspace_07dc6ac601aaad7989247242d2629d79">Collection material in English</langmaterial>
+    <unitid type="bibid">11022013</unitid>
+  </did>
+  <odd id="aspace_a3598ba0ef69b9c559cef2e8b97d2ce6">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>M. Clark, September 05, 2019</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Marcie Farwell, October 09, 2019</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_8d858f9fff32c41b08e0edcafc8b5c8a">
+    <head>Biographical / Historical</head>
+<p>A.D. Ellis &amp; Son, Monson, Mass. Woolen manufacturers. One of several mills belonging to Dwight W. Ellis &amp; established in 1872 to produce fine cassimeres. Around 1875, Arthur D. Ellis became a partner. Over time the mill manufactured broadcloth, billiard cloth, uniform cloth &amp; jerseys. By the late 1930's auto &amp; uniform cloth were its only products. The company closed in 1961.</p>  </bioghist>
+  <scopecontent id="aspace_dc52c34c91c582eff7e1b3547694408c">
+    <head>Scope and Contents</head>
+<p>Records include general outgoing correspondence, 1872-1887, 1899-1901; and correspondence concerning sales, etc., 1915-1934. Correspondents include H. &amp; W.H. Lewis, Laidlaw Company, and Lynx Corporation, all of New York City. Collection also includes Navy contracts and government bids, 1917-1934; and payroll ledgers containing rent and board deductions and amounts produced by weavers; these are labelled Ellis, Converse &amp; Co. Also included are weaving drafts and counts, plus price lists and costs, 1910-1916</p>  </scopecontent>
+  <custodhist id="aspace_5e22406a36509cf738ec58522b69d0d0">
+    <head>Custodial History</head>
+<p>American Textile History Museum Collection, gift of A.D. Ellis &amp; Son.</p>  </custodhist>
+  <accessrestrict id="aspace_7eb2ff75608ba9b478abb3f780b4225d">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_8d0232f4bf84fe98868d3415a853328f">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_25b4c007ecba89c94126125f452b0173">
+    <head>Preferred Citation</head>
+<p>A. D. Ellis &amp; Son Records #6493. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Business records</subject>
+    <subject source="ingest">Contracts</subject>
+    <subject source="ingest">Payrolls</subject>
+    <subject source="ingest">Price lists</subject>
+    <subject source="ingest">Textile industry</subject>
+    <subject source="ingest">Weaving</subject>
+    <subject source="ingest">Woolen and worsted manufacture</subject>
+    <subject source="ingest">Labor records</subject>
+    <subject source="ingest">Weaving drafts</subject>
+    <subject source="ingest">Wool technology -- General</subject>
+    <subject source="ingest">Monson (Mass.)</subject>
+    <subject source="ingest">United States</subject>
+    <persname audience="internal" source="ingest">Converse, E. Julius.</persname>
+    <persname audience="internal" source="ingest">Ellis, Arthur D.</persname>
+    <persname audience="internal" source="ingest">Ellis, Dwight W.</persname>
+    <corpname audience="internal" source="ingest">A. D. Ellis &amp; Sons</corpname>
+    <corpname audience="internal" source="ingest">Converse, Ellis &amp; Company.</corpname>
+    <corpname audience="internal" source="ingest">D.W. Ellis &amp; Sons Woolen Mill (Monson, Mass.)</corpname>
+    <corpname audience="internal" source="ingest">Laidlaw Company (New York, N.Y.)</corpname>
+    <corpname audience="internal" source="ingest">Lynx Corporation (New York, N.Y.)</corpname>
+  </controlaccess>
+  <unitid type="bibid">11022013</unitid>
+  <dsc><c01 id="aspace_3b95f4ae5a288891b76d0db285c6b282" level="file"><did><unittitle>Production Correspondence : H.H. Lewis</unittitle><unitdate datechar="creation" normal="1915/1918" type="inclusive">1915-1918</unitdate><container id="aspace_a27a6db5022f2d7825b739f14d51ea0b" label="unspecified" type="box">1</container><container id="aspace_998746c565d2cd8a0e5f0f661b67db60" parent="aspace_a27a6db5022f2d7825b739f14d51ea0b" type="folder">1</container></did></c01><c01 id="aspace_0e4042ffe0ea8c04718ddf0bc263139b" level="file"><did><unittitle>Production Correspondence : Laidlow Co. Inc.</unittitle><unitdate datechar="creation" normal="1921/1926" type="inclusive">1921-1926</unitdate><container id="aspace_001da09f91b365dd66c2ae800207b532" label="unspecified" type="box">1</container><container id="aspace_9041c481962bb5757ad9452d6d4c1263" parent="aspace_001da09f91b365dd66c2ae800207b532" type="folder">2</container></did></c01><c01 id="aspace_6a33f38e263bf863ba05dec24a2d94a2" level="file"><did><unittitle>Navy Contracts and Government Bids</unittitle><unitdate datechar="creation" normal="1917/1934" type="inclusive">1917-1934</unitdate><container id="aspace_9f903439bab3f257d5188fdaaa1e8ccf" label="unspecified" type="box">1</container><container id="aspace_d2ca9a91a64cd363112186c57f067143" parent="aspace_9f903439bab3f257d5188fdaaa1e8ccf" type="folder">3</container></did></c01><c01 id="aspace_196a1629f2e5b0f0a84fbd0559b32878" level="file"><did><unittitle>Navy contracts and Government bids ((2 cloth samples/wool for earliest mens uniform)</unittitle><unitdate datechar="creation" normal="1917/1934" type="inclusive">1917-1934</unitdate><container id="aspace_e5216509392118815059a023bb30bdb5" label="unspecified" type="box">1</container><container id="aspace_7c1b6db9384d33191be773ec8e947748" parent="aspace_e5216509392118815059a023bb30bdb5" type="folder">4</container></did></c01><c01 id="aspace_ee24351c6cf1d0c379e4fd84f00a6f37" level="file"><did><unittitle>Correspondence in Lynx Corporation</unittitle><unitdate datechar="creation" normal="1931/1934" type="inclusive">1931-1934</unitdate><container id="aspace_c70324519aae58fdd9f10633b3237226" label="unspecified" type="box">1</container><container id="aspace_ec9dbc71c16296bb566de8018ebc2e2b" parent="aspace_c70324519aae58fdd9f10633b3237226" type="folder">5</container></did></c01><c01 id="aspace_b58d52041a4cc558707e72b997813ba7" level="file"><did><unittitle>Weaving Drafts and 3.6 counts</unittitle><container id="aspace_ad49d6cac15c26a931c2e59cf910cd34" label="unspecified" type="box">1</container><container id="aspace_05d620d580e895210a39ff7f733207ab" parent="aspace_ad49d6cac15c26a931c2e59cf910cd34" type="folder">6</container></did></c01><c01 id="aspace_ffefb3a1510abd78c4da1c793ca26ec0" level="file"><did><unittitle>Weaving Drafts and Counts</unittitle><container id="aspace_e388f1e650d18612222f5fd47104656e" label="unspecified" type="box">1</container><container id="aspace_491eebcdebbe4757fef77b287340f8d5" parent="aspace_e388f1e650d18612222f5fd47104656e" type="folder">7</container></did></c01><c01 id="aspace_79a846658743d65dd7e0015c5325c674" level="file"><did><unittitle>Weaving Drafts and Counts</unittitle><container id="aspace_b547b90ae72cd557e6de081509b38311" label="unspecified" type="box">1</container><container id="aspace_47ff308328deee06a93a3ddffa23c1ac" parent="aspace_b547b90ae72cd557e6de081509b38311" type="folder">8</container></did></c01><c01 id="aspace_72053a93e43faf15bfd45bacaf7e1344" level="file"><did><unittitle>Weaving Drafts and Counts</unittitle><unitdate datechar="creation" normal="1911/1911">1911</unitdate><container id="aspace_05a364aa5a7c88855ae6a3ddfe9fb610" label="unspecified" type="box">1</container><container id="aspace_3fc38605d2b877d87691ecfbed6bdf64" parent="aspace_05a364aa5a7c88855ae6a3ddfe9fb610" type="folder">9</container></did></c01><c01 id="aspace_14b022f7ae24517766d1f9b90f858e87" level="file"><did><unittitle>"Auto Drafts" Weaving Drafts</unittitle><container id="aspace_9b29cee22ac00561813728285ddf1d6b" label="unspecified" type="box">1</container><container id="aspace_d49432de50de812cef3579aadb403a90" parent="aspace_9b29cee22ac00561813728285ddf1d6b" type="folder">10</container></did></c01></dsc>
+</archdesc>
+</ead>

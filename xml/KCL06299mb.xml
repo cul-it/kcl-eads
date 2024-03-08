@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06299mb</eadid><filedesc><titlestmt><titleproper>Andrade, Kathy Collection of ILGWU and UNITE Quilts Memorabilia <num>6299 MB</num></titleproper><author>Compiled by Marcia Clark</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 26, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:41:04 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>Kathy Andrade Collection of ILGWU and UNITE Quilts Memorabilia</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Andrade, Kathy</persname>
+    </origination>
+    <unitid>6299 MB</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">6 cubic feet</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="0000/2999" type="inclusive">0000-2999</unitdate>
+    <physdesc id="aspace_591c80c405b6f65e526edec5bf5a2bee" label="Quantity:">6 linear ft.</physdesc>
+    <physdesc id="aspace_248f5d46fafa1911f2ef1e2c603d5198" label="Forms of Material:">Memorabilia, block quilts, quilting.</physdesc>
+    <abstract id="aspace_f3089f157f8b90791511ff071bae7908">This collection is made up of 4 hand made quilts. Three of these quilts are made up of collections of pictures taken of UNITE and ILGWU rallys. The fourth quilt is made up of small replicas of (doll size) dresses and outfits.</abstract>
+    <langmaterial id="aspace_eaceefd970ef05745e3e4b860b0f6fd7">Collection material in English</langmaterial>
+    <unitid type="bibid">6855718</unitid>
+  </did>
+  <odd id="aspace_312d1394c137f97284d443b9a5700f69">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Marcia Clark, September 26, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, August 26, 2015</item>
+      </defitem>
+    </list>
+  </odd>
+  <scopecontent id="aspace_671e7b88363714a372bcd08c67e9159b">
+    <head>Scope and Contents</head>
+<p>This collection is made up of 4 hand made quilts. Three of these quilts are made up of collections of pictures taken of UNITE and ILGWU rallys. The fourth quilt is made up of small replicas of (doll size) dresses and outfits.</p>  </scopecontent>
+  <accessrestrict id="aspace_0305997954a4438a070b8cf3ffd4471a">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_c150891718cf76ddf5fd9606fdbafbbf">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_0aee53f7d7add1acad1eb96503f7a331">
+    <head>Preferred Citation</head>
+<p>Kathy Andrade Collection of ILGWU and UNITE Quilts Memorabilia #6299 MB. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <controlaccess>
+    <subject source="ingest">Clothing workers--Labor unions--New York (State)--New York</subject>
+    <subject source="ingest">Textile workers--Labor unions--New York (State)--New York</subject>
+    <persname audience="internal" source="ingest">Andrade, Kathy</persname>
+    <corpname audience="internal" source="ingest">Amalgamated Clothing and Textile Workers Union --Collectibles</corpname>
+    <corpname audience="internal" source="ingest">International Ladies' Garment Workers' Union --Collectibles</corpname>
+    <corpname audience="internal" source="ingest">UNITE HERE (Organization) --Collectibles</corpname>
+  </controlaccess>
+  <unitid type="bibid">6855718</unitid>
+  <dsc><c01 id="aspace_3de6273c03fcf55adcc463de0a8a5756" level="file"><did><unittitle>Banner 'UNITE and FIGHT'</unittitle><container id="aspace_91d846c98d7648281927977708b12a2a" label="unspecified" type="box">1</container></did><scopecontent id="aspace_301181f214b02a5d6480c466297505c6"><head>Scope and Contents</head><p>Picture included in box - assorted photos used to make a banner</p></scopecontent></c01><c01 id="aspace_0059b4c54c30e98a502db90538836f4f" level="file"><did><unittitle>Banner - 'UNITE and FIGHT'</unittitle><container id="aspace_8f6e78d4e4f899a2c125d58fd6715577" label="unspecified" type="box">2</container></did><scopecontent id="aspace_048ffc6090ecae5f5bdcafced4848a81"><head>Scope and Contents</head><p>picture included in box - assorted photos make up the banner (each banner is different)</p></scopecontent></c01><c01 id="aspace_1f3c85539ac16eb3a9f5705e356009de" level="file"><did><unittitle>Banner - 'ILGWU's HISTORY OF FASHIONS'</unittitle><container id="aspace_78c825b87ff293176b8fe4eb7381f925" label="unspecified" type="box">3</container></did><scopecontent id="aspace_2677bb1d899d5e9ae912a2c277b0b7bd"><head>Scope and Contents</head><p>picture included in the box</p></scopecontent></c01><c01 id="aspace_3dc6f76b529bed7059d6e6821a9a320b" level="file"><did><unittitle>Banner - 'UNITE and FIGHT'</unittitle><container id="aspace_e4f8d63a710364a336d85f30bc2ec08a" label="unspecified" type="box">4</container></did><scopecontent id="aspace_ff0afaaa561e1810ef99f19968fd02fe"><head>Scope and Contents</head><p>picture included in box - assorted photos make up the banner (each banner is different)</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

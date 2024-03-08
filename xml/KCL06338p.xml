@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06338p</eadid><filedesc><titlestmt><titleproper>Miller, David P. Photographs <num>6338 P</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 07, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 16:44:26 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
+    </repository>
+    <unittitle>David P. Miller Photographs</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname role="creator" source="ingest">Miller, David P.</persname>
+    </origination>
+    <unitid>6338 P</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.33 cubic feet</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="0000/2999" type="inclusive">0000-2999</unitdate>
+    <physdesc id="aspace_cc753a438ff84161515be07464610fe6" label="Quantity:">0.3 linear ft.</physdesc>
+    <physdesc id="aspace_096b1f6a43ccd051e81a3e36a9f7b241" label="Forms of Material:">Photographs.</physdesc>
+    <langmaterial id="aspace_36059974c4489d3ab527bd5859077293">Collection material in English</langmaterial>
+    <unitid type="bibid">7654374</unitid>
+  </did>
+  <odd id="aspace_3a89827bd7291b322aaced811d6d7dad">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, April 26, 2012</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, March 07, 2016</item>
+      </defitem>
+    </list>
+  </odd>
+  <bioghist id="aspace_6810a642bf778a7a62e5164fddf239b6">
+    <head>Biographical / Historical</head>
+<p>David P. Miller was born in Cleveland, Ohio on June 21, 1919. After serving nearly five years in the US Army during World War II he received a BS from the University of Arizona in 1948. This degree was followed by an MBA from the University of California at Berkeley in 1950. </p><p> After a brief employment by the US Department of Labor as a wage economist in 1950 Miller became an Impartial Manager for the Ford-UAW retirement board, a position he held until his death. He was also an Associate Umpire for Ford and the UAW from 1952 to 1959, and the Ad Hoc S.U.B. Plan Chairman from 1958 on. Unfortunately the Ford-UAW representatives decided not to cite Associate Umpire awards in their arbitrations, only Umpire awards. This meant that Miller's roughly 1,000 memorandum decisions never served as precedents in later cases. </p><p> Miller served as an Umpire and Arbitrator for US Steel and the United Steelworkers of America from 1962 on. He was also an Umpire for the Aluminum Company of America (ALCO) and the Aluminum Workers International Union (1965 on), the Budd Company and the UAW (1971 on), and the Borroughs Corporation and the UAW (1964-1965). By his estimate he wrote about 2,000 Umpire decisions. </p><p> His ad hoc arbitration dealt mostly with newspaper and communication workers. Some of the unions involved were the CWA, OCAW, Pressmen, Typographers, IBEW, and Machinists. By his estimate he wrote about 1,000 ad hoc decisions. </p><p> Miller was a member and on the arbitration panels of the American Academy of Arbitrators and the Federal Mediation and Conciliation Service. He was a member of the Industrial Relations Research Association, the Society of Professionals in Dispute Resolution (SPIDR), and the National Academy of Arbitrators (NAA). Miller served the NAA in several capacities: Executive Secretary (1962-1968), member of the Board of Governors (1968-1971), Vice-President (1972-1973), President-Elect (1973-1974), and President (1974-1975). </p><p> David P. Miller died of a heart attack, in Detroit, Michigan, on March 22, 1975 at the age of 55.</p>  </bioghist>
+  <accessrestrict id="aspace_031ae3ec2f6918e14ab09bd4a27b79b8">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_a19cb106ba7f83be0b4c00dade75ddaa">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_263209ee3f0f97d1237425338d9f1049">
+    <head>Preferred Citation</head>
+<p>David P. Miller Photographs #6338 P. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_4abdb26036addb593c83004f57a61a66">
+    <head>Related Materials</head>
+<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06338.html"> 6338: David P. Miller Arbitration Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06338mb.html"> 6338 MB: David P. Miller Memorabilia</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="ingest">Arbitration, Industrial</subject>
+    <persname audience="internal" source="ingest">Miller, David P.</persname>
+  </controlaccess>
+  <unitid type="bibid">7654374</unitid>
+  <dsc><c01 id="aspace_aa59e2ed625670d0d718956ee9bff774" level="file"><did><unittitle>Photographs of David P. Miller</unittitle><container id="aspace_1149c5e82a9313bd6d32714276039e5b" label="unspecified" type="box">1</container></did><scopecontent id="aspace_b7d53621a92c1bd15fb14545c612bbfb"><head>Scope and Contents</head><p>Photographs in mylar sleeves in box</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>
