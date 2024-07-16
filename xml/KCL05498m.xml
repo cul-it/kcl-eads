@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05498m</eadid><filedesc><titlestmt><titleproper>Face the Nation With George Meany Transcript <num>5498m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 14, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 00:35:06 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05498m</eadid><filedesc><titlestmt><titleproper>Face the Nation With George Meany Transcript <num>5498m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 14, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-07-15 23:59:21 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -15,7 +15,7 @@
     <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1970/1970">1970</unitdate>
     <physdesc id="aspace_e3f9d4f85412c16b7d64fe0690b0a23c" label="Quantity:">1 file folder.</physdesc>
     <physdesc id="aspace_5a31dc477bbb549d019176a69e0ee60e" label="Forms of Material:">Interviews, transcripts .</physdesc>
-    <abstract id="aspace_441a7735232c6fa159b85d5ab53e6652">Transcript of Face the Nation broadcast on September 6, 1970. George Meany, Presdient of the AFL-CIO, was the featured guest.</abstract>
+    <abstract id="aspace_441a7735232c6fa159b85d5ab53e6652">Transcript of Face the Nation broadcast on September 6, 1970. George Meany, President of the AFL-CIO, was the featured guest.</abstract>
     <langmaterial id="aspace_aa6673a953af9ba6d1c30fa9d100a02f">Collection material in English</langmaterial>
     <unitid type="bibid">2299578</unitid>
   </did>
@@ -51,6 +51,9 @@
   <prefercite id="aspace_ecc22d2a341ccd588ec3f28359952af0">
     <head>Preferred Citation</head>
 <p>Face the Nation With George Meany Transcript #5498m. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <processinfo audience="internal" id="aspace_c5462a40ed199e4de31849013ab1744d">
+    <head>Processing Information</head>
+<p>Select items from this collection have been digitized and are available upon request. Please contact the Kheel Center for additional information.</p>  </processinfo>
   <controlaccess>
     <subject source="ingest">Foreign trade and employment z United States.</subject>
     <subject source="ingest">Vietnamese Conflict, 1961-1975 x Public opinion.</subject>
@@ -71,6 +74,6 @@
     <corpname audience="internal" source="ingest">United Mine Workers of America.</corpname>
   </controlaccess>
   <unitid type="bibid">2299578</unitid>
-  <dsc><c01 id="aspace_1b1c811948aa6c90ea62800f26a66488" level="file"><did><unittitle>Face the Nation transcript</unittitle><unitdate datechar="creation" normal="1970/1970">1970</unitdate><container id="aspace_5dffc8f5265d62faccef6b5130ae80d9" label="unspecified" type="box">1</container></did><scopecontent id="aspace_2ba06b39e827862a51587d7a780419de"><head>Scope and Contents</head><p>For broadcast on September 6, 1970 featuring George Meany; 17 pages.</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_1b1c811948aa6c90ea62800f26a66488" level="file"><did><unittitle>Face the Nation transcript</unittitle><unitdate datechar="creation" normal="1970/1970">1970</unitdate><container id="aspace_e068d98ceec8aa8a9338c70df5cc486f" label="unspecified" type="box">1</container></did><scopecontent id="aspace_2ba06b39e827862a51587d7a780419de"><head>Scope and Contents</head><p>For broadcast on September 6, 1970 featuring George Meany; 17 pages.</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>
