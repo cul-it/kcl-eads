@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05132m</eadid><filedesc><titlestmt><titleproper>Baseball Players Association Early Documents <num>5132m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 31, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-08 00:20:07 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05132m</eadid><filedesc><titlestmt><titleproper>Baseball Players Association Early Documents <num>5132m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 31, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-07-16 23:59:05 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -51,6 +51,11 @@
   <relatedmaterial id="aspace_fc0b86b0c4510c92144be7bcfcab0f8e">
     <head>Related Materials</head>
 <p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06355av.html"> 6355 AV: Charles Korr's Major League Baseball Interview Audio Tapes</extref></p>  </relatedmaterial>
+  <bioghist audience="internal" id="aspace_eef69cb81fb006a0913ac6425e21d12a">
+    <head>Biographical / Historical</head>
+<p>The Major League Baseball Players Association (or MLBPA) is the collective bargaining representative for all current Major League Baseball players. All players, managers, coaches, and athletic trainers who hold or have held a signed contract with a Major League club are eligible for membership in the Association.
+The MLBPA has three major divisions: a labor union, a business (Players Choice Group Licensing Program), and a charitable foundation (Major League Baseball Players Trust).
+The MLBPA primarily serves as a collective bargaining representative for all Major League Baseball players, as well as playing significant roles in MLB-related business and non-profit affairs.</p>  </bioghist>
   <controlaccess>
     <subject source="ingest">Baseball players -- Labor unions -- United States.</subject>
     <subject source="ingest">Collective bargaining -- Baseball -- United States.</subject>
@@ -58,6 +63,6 @@
     <corpname audience="internal" source="ingest">Protective Association of Professional Baseball Players.</corpname>
   </controlaccess>
   <unitid type="bibid">5601121</unitid>
-  <dsc><c01 id="aspace_2030fe3800cfbed414d80906faf1727a" level="file"><did><unittitle>Baseball Players Association Early Documents</unittitle><container id="aspace_88b431321dca33a2a88626da7122a39a" label="unspecified" type="box">1</container></did></c01></dsc>
+  <dsc><c01 id="aspace_2030fe3800cfbed414d80906faf1727a" level="file"><did><unittitle>Baseball Players Association Early Documents</unittitle><container id="aspace_a65fb12722091ec02745ba6a403b3c71" label="unspecified" type="box">1</container></did></c01></dsc>
 </archdesc>
 </ead>
