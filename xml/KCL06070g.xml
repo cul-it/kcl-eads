@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06070g</eadid><filedesc><titlestmt><titleproper>AFL-CIO Working Women's Department "Working Women Want Equal Pay" Posters <num>6070 G</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 24, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-07-26 00:22:21 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06070g</eadid><filedesc><titlestmt><titleproper>AFL-CIO Working Women's Department "Working Women Want Equal Pay" Posters <num>6070 G</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 24, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-08-02 00:21:48 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -48,13 +48,13 @@
     <head>Preferred Citation</head>
 <p>AFL-CIO Working Women's Department "Working Women Want Equal Pay" Posters #6070 G. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
   <controlaccess>
-    <subject source="ingest">Women-- Employment -- United States</subject>
-    <subject source="ingest">Wages-- Women -- United States</subject>
-    <subject source="ingest">Pay equity -- United States</subject>
+    <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2008113341" source="lcsh">Women -- Employment -- United States</subject>
+    <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2010118135" source="lcsh">Wages -- Women -- United States</subject>
+    <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2008108990" source="lcsh">Pay equity -- United States</subject>
     <corpname audience="internal" source="ingest">AFL-CIO -- Archives</corpname>
     <corpname audience="internal" source="ingest">AFL-CIO. Working Women's Department -- Archives</corpname>
   </controlaccess>
   <unitid type="bibid">5792788</unitid>
-  <dsc><c01 id="aspace_94f6dbb07f13ba053259247744308d53" level="file"><did><unittitle>AFL-CIO ; Working Womens Dept.</unittitle><container id="aspace_b09e6b66581217694c6dcb21e0427f88" label="unspecified" type="box">1</container></did></c01></dsc>
+  <dsc><c01 id="aspace_94f6dbb07f13ba053259247744308d53" level="file"><did><unittitle>AFL-CIO ; Working Womens Dept.</unittitle><container id="aspace_627745b6a1a8a294f95fe44cff17bfd3" label="unspecified" type="box">1</container></did></c01></dsc>
 </archdesc>
 </ead>
