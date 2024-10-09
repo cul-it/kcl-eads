@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04017av</eadid><filedesc><titlestmt><titleproper>Conversation with Harry Edwards Audio-Visual Materials <num>/4017 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 22, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-07-23 00:00:24 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04017av</eadid><filedesc><titlestmt><titleproper>Conversation with Harry Edwards Audio-Visual Materials <num>/4017 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 22, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-10-09 23:59:05 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -8,8 +8,8 @@
     <origination audience="internal" label="Creator">
       <persname role="creator" source="ingest">Cullen, Mary</persname>
     </origination>
-    <origination audience="internal" label="Creator">
-      <persname role="creator" source="ingest">Edwards, Harry</persname>
+    <origination label="Creator">
+      <persname authfilenumber="http://id.loc.gov/authorities/names/n79120956" source="lcnaf">Edwards, Harry T.</persname>
     </origination>
     <unitid>/4017 AV</unitid>
     <physdesc altrender="whole">
@@ -41,7 +41,7 @@
   </odd>
   <bioghist id="aspace_f60985374b010e45c604e3b2d9ccce79">
     <head>Biographical / Historical</head>
-<p>Harry Edwards (1942-) an African American Sociologist who graduated from Cornell University with a PhD, and is Professor Emeritus of Sociology at the University of California, Berkeley.</p>  </bioghist>
+<p>Harry Thomas Edwards is an American jurist. He received a B.S. degree from Cornell University in 1962 and a J.D. degree from the University of Michigan law School in 1965. He graduated from law school with distinction and was a member of the Michigan Law Review and the Order of the Coif. He was appointed to the United States Court of Appeals for the District of Columbia Circuit by President Carter in 1980. He served as Chief Judge from September 15, 1994 until July 16, 2001, and he took Senior status on November 3, 2005. He is a professor of law at New York University School of Law.</p>  </bioghist>
   <accessrestrict id="aspace_54e1a7ec412ce03d2241da3c337067ad">
     <head>Conditions Governing Access</head>
 <p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
@@ -54,11 +54,7 @@
   <relatedmaterial id="aspace_c3e1624badf7c518473ce06be6a60d21">
     <head>Related Materials</head>
 <p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05733.html"> 5733: Peter Seitz Arbitration Files</extref></p>  </relatedmaterial>
-  <controlaccess>
-    <persname audience="internal" source="ingest">Edwards, Harry</persname>
-    <persname audience="internal" source="ingest">Cullen, Mary</persname>
-  </controlaccess>
   <unitid type="bibid">7920110</unitid>
-  <dsc><c01 id="aspace_c872e3d9ec5d493c3b368d4ee20b658f" level="file"><did><unittitle>Partial transcript of taped interview.</unittitle><unitid>1</unitid><unitdate datechar="creation" normal="1978/1978">1978</unitdate><container id="aspace_3f2cbadbd87ba98652b6b8b105c0dae4" label="unspecified" type="box">1</container></did><scopecontent id="aspace_17c6c4f73c19a9f8c464f47f0f775ec4"><head>Scope and Contents</head><p>Interviewed by Mary Cullen, July 19, 1978.</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_c872e3d9ec5d493c3b368d4ee20b658f" level="file"><did><unittitle>Partial transcript of taped interview.</unittitle><unitid>1</unitid><unitdate datechar="creation" normal="1978/1978">1978</unitdate><container id="aspace_85ad957c0d71eccfd1f00b6317dabca2" label="unspecified" type="box">1</container></did><scopecontent id="aspace_17c6c4f73c19a9f8c464f47f0f775ec4"><head>Scope and Contents</head><p>Interviewed by Mary Cullen, July 19, 1978.</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>
