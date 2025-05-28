@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05529av</eadid><filedesc><titlestmt><titleproper>Daniel, Franz E. Memorial Service Audio recording <num>5529 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 18, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-01-08 21:35:10 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05529av</eadid><filedesc><titlestmt><titleproper>Daniel, Franz E. Memorial Service Audio recording <num>5529 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 18, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-28 00:00:07 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -8,8 +8,8 @@
     <origination audience="internal" label="Creator">
       <corpname role="creator" source="ingest">American Federation of Labor-Congress of Industrial Organizations (AFL-CIO)</corpname>
     </origination>
-    <origination audience="internal" label="Creator">
-      <persname role="creator" source="ingest">Cook, Alice</persname>
+    <origination label="Creator">
+      <persname authfilenumber="http://id.loc.gov/authorities/names/n80067392" role="creator" source="lcnaf">Cook, Alice H., 1903-1988</persname>
     </origination>
     <unitid>5529 AV</unitid>
     <physdesc altrender="whole">
@@ -59,10 +59,9 @@
 <p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05529m.html"> 5529m: Franz E. Daniel Memorial Service Papers</extref></p>  </relatedmaterial>
   <controlaccess>
     <persname audience="internal" source="ingest">Daniel, Franz</persname>
-    <persname audience="internal" source="ingest">Cook, Alice</persname>
     <corpname audience="internal" authfilenumber="http://id.loc.gov/authorities/names/n79086831" source="lcnaf">AFL-CIO</corpname>
   </controlaccess>
   <unitid type="bibid">9451606</unitid>
-  <dsc><c01 id="aspace_f1232a4fad2cca54eb7688c2f14fde5b" level="file"><did><unittitle>Memorial Service for Franz E. Daniel, AFL-CIO Building, Washington, D.C.</unittitle><container id="aspace_c79380cc0c24f637cae29a9e0fd10132" label="unspecified" type="box">1</container></did><c02 id="aspace_0868af4fd1a19998eb17eeb27372c937" level="file"><did><unittitle>Memorial Service for Franz E. Daniel, AFL-CIO Building, Washington, D.C.</unittitle><unitid>1</unitid><container id="aspace_7326e00322a913f9413a4c7f3b0f64c4" label="unspecified" type="box">1</container></did></c02></c01></dsc>
+  <dsc><c01 id="aspace_f1232a4fad2cca54eb7688c2f14fde5b" level="file"><did><unittitle>Memorial Service for Franz E. Daniel, AFL-CIO Building, Washington, D.C.</unittitle><container id="aspace_8266bef770779cf0a05e6c58be1116bf" label="unspecified" type="box">1</container></did><c02 id="aspace_0868af4fd1a19998eb17eeb27372c937" level="file"><did><unittitle>Memorial Service for Franz E. Daniel, AFL-CIO Building, Washington, D.C.</unittitle><unitid>1</unitid><container id="aspace_ff8e3571c7cadfb54a03479593a2094a" label="unspecified" type="box">1</container></did></c02></c01></dsc>
 </archdesc>
 </ead>
