@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06669</eadid><filedesc><titlestmt><titleproper>Gonic Manufacturing Records <num>6669</num></titleproper><author>Compiled by M. Clark</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 09, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-13 23:59:14 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06669</eadid><filedesc><titlestmt><titleproper>Gonic Manufacturing Records <num>6669</num></titleproper><author>Compiled by M. Clark</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 09, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-28 23:59:07 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -7,6 +7,9 @@
     <unittitle>Gonic Manufacturing Records</unittitle>
     <origination audience="internal" label="Creator">
       <corpname role="creator" source="ingest">Gonic Manufacturing Company</corpname>
+    </origination>
+    <origination label="source">
+      <corpname authfilenumber="http://id.loc.gov/authorities/names/n99830451" source="lcnaf">American Textile History Museum</corpname>
     </origination>
     <unitid>6669</unitid>
     <physdesc altrender="whole">
@@ -57,6 +60,9 @@
   <relatedmaterial id="aspace_464c9e51d54ecc9db9f484bb8ed865cc">
     <head>Related Materials</head>
 <p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06669p.html"> 6669 P: Gonic Manufacturing Photographs</extref></p>  </relatedmaterial>
+  <processinfo audience="internal" id="aspace_1be78eb9086f50de115e837933fd23de">
+    <head>Processing Information</head>
+<p>The ATHM # references the accession number given to collections by the American Textile History Museum (ATHM). These numbers have been kept and tracked for researchers looking for former citations. For images, these numbers will also be the digital object identifier if the item was scanned by the ATHM. The ATHM accession number for this collection was 0022.129.</p>  </processinfo>
   <controlaccess>
     <subject source="ingest">Articles of incorporation</subject>
     <subject source="ingest">Business records</subject>
@@ -70,8 +76,9 @@
     <geogname authfilenumber="http://id.loc.gov/authorities/names/n81039247" source="lcsh">Rochester (N.H.)</geogname>
     <persname audience="internal" source="ingest">Whitehouse, Nicholas V.</persname>
     <corpname audience="internal" source="ingest">Parker, Wilder &amp; Company</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n99830451" role="fmo" source="lcnaf">American Textile History Museum</corpname>
   </controlaccess>
   <unitid type="bibid">10162227</unitid>
-  <dsc><c01 id="aspace_5d501fdea85c183e5d281d9f97855837" level="file"><did><unittitle>History of the company</unittitle><unitdate datechar="creation" normal="1954/1954">1954, undated</unitdate><container id="aspace_d037e73115e6957aea3264f3bb519f4f" label="Mixed Materials" type="box">1</container><container id="aspace_7dd8c80384587c11284201876f1916db" parent="aspace_d037e73115e6957aea3264f3bb519f4f" type="folder">1</container></did></c01><c01 id="aspace_baf0a77c0933a0ba91d28b1062e53dee" level="file"><did><unittitle>Correspondence regarding dividends</unittitle><unitdate datechar="creation" normal="1905/1906" type="inclusive">1905-1906</unitdate><container id="aspace_8a2d23fadc598673e39666ca82f86198" label="Mixed Materials" type="box">1</container><container id="aspace_28ed3cafbcc1b0cc670dc3bda7659171" parent="aspace_8a2d23fadc598673e39666ca82f86198" type="folder">2</container></did></c01></dsc>
+  <dsc><c01 id="aspace_5d501fdea85c183e5d281d9f97855837" level="file"><did><unittitle>History of the company</unittitle><unitdate datechar="creation" normal="1954/1954">1954, undated</unitdate><container id="aspace_265043c1397e59a386c53d9efc340a49" label="Mixed Materials" type="box">1</container><container id="aspace_eb2ed3512644f7e5aee144d0eb131791" parent="aspace_265043c1397e59a386c53d9efc340a49" type="folder">1</container></did></c01><c01 id="aspace_baf0a77c0933a0ba91d28b1062e53dee" level="file"><did><unittitle>Correspondence regarding dividends</unittitle><unitdate datechar="creation" normal="1905/1906" type="inclusive">1905-1906</unitdate><container id="aspace_2594431941efcff2e6d4d4eed3825798" label="Mixed Materials" type="box">1</container><container id="aspace_31259b80f1e14c25c377b5bbab64b577" parent="aspace_2594431941efcff2e6d4d4eed3825798" type="folder">2</container></did></c01></dsc>
 </archdesc>
 </ead>
