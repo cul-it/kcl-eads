@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05156m</eadid><filedesc><titlestmt><titleproper>Save the Scottsboro Boys Stamps <num>5156m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 23, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:08:05 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05156m</eadid><filedesc><titlestmt><titleproper>Save the Scottsboro Boys Stamps <num>5156m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 23, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:09:37 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_6b9bcac1287b61d1b2e0d014f34c8180">Collection material in English</langmaterial>
     <unitid type="bibid">5600815</unitid>
   </did>
-  <odd id="aspace_f3433eca4d1c672456d00825af823ee4">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, October 17, 2013</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, April 23, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <scopecontent id="aspace_f79a8e30d6a408659a9fa06db5a4cbfd">
     <head>Scope and Contents</head>
 <p>This collection consists of five one cent stamps reading "Save the Scottsboro Boys."</p>  </scopecontent>
@@ -48,9 +31,6 @@
   <prefercite id="aspace_39788765af6bb7a7eff6810c430b2dec">
     <head>Preferred Citation</head>
 <p>Save the Scottsboro Boys Stamps #5156m. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_c7e1f788711b54a821d138b7dec555d0">
-    <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04073.html"> /4073: James O. Morris Office Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05676.html"> 5676: International Fur and Leather Workers Union Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05815mf.html"> 5815 mf: Papers of the International Labor Defense on Microfilm</extref></p>  </relatedmaterial>
   <bioghist audience="internal" id="aspace_aa32695b09679e9340e2ab6eadbe50b2">
     <head>Biographical / Historical</head>
 <p>The Scottsboro Boys were nine African American teenagers, ages 13 to 19, accused in Alabama of raping two white women on a train in 1931. The landmark set of legal cases from this incident dealt with racism and the right to a fair trial. The cases included a lynch mob before the suspects had been indicted, all-white juries, rushed trials, and disruptive mobs. It is commonly cited as an example of a miscarriage of justice in the United States legal system.</p><p>On March 25, 1931, two dozen people were 'hoboing' on a freight train traveling between Chattanooga and Memphis, Tennessee, the hoboes being an equal mix of African-Americans and whites. A group of white teenage boys saw 18-year-old Haywood Patterson on the train and attempted to push him off the train, claiming that it was "a white man's train". A group of whites gathered rocks and attempted to force all of the Black men from the train. Patterson and the other Black passengers were able to ward off the group. The humiliated white teenagers jumped or were forced off the train and reported to the city's sheriff that they had been attacked by a group of Black teenagers. The sheriff deputized a posse comitatus, stopped and searched the train at Paint Rock, Alabama and arrested the Black Americans. Two young white women also got off the train and accused the African American teenagers of rape. The case was first heard in Scottsboro, Alabama, in three rushed trials, in which the defendants received poor legal representation. All but 13-year-old Roy Wright were convicted of rape and sentenced to death (the common sentence in Alabama at the time for Black men convicted of raping white women), even though there was medical evidence to suggest that they had not committed the crime.</p><p>With help from the Communist Party USA (CPUSA) and the National Association for the Advancement of Colored People (NAACP), the case was appealed. The Alabama Supreme Court affirmed seven of the eight convictions, and granted 13-year-old Eugene Williams a new trial because he was a minor. Chief Justice John C. Anderson dissented, ruling that the defendants had been denied an impartial jury, fair trial, fair sentencing, and effective counsel. While waiting for their trials, eight of the nine defendants were held in Kilby Prison. The cases were twice appealed to the United States Supreme Court, which led to landmark decisions on the conduct of trials. In Powell v. Alabama (1932), it ordered new trials.</p><p>The case was first returned to the lower court and the judge allowed a change of venue, moving the retrials to Decatur, Alabama. Judge Horton was appointed. During the retrials, one of the alleged victims admitted to fabricating the rape story and asserted that none of the Scottsboro Boys touched either of the white women. The jury found the defendants guilty, but the judge set aside the verdict and granted a new trial.
@@ -58,6 +38,26 @@ The judge was replaced and the case tried under a judge who ruled frequently aga
   <processinfo audience="internal" id="aspace_cc81c34d9846147ecd216796b752818e">
     <head>Processing Information</head>
 <p>Select items from this collection have been digitized and are available upon request. Please contact the Kheel Center for additional information.</p>  </processinfo>
+  <relatedmaterial id="aspace_246f1c50d105eb4ff3e4052c5b1cd014">
+    <head>Related Materials</head>
+<p>Related Collections:  /4073: James O. Morris Office Files  5676: International Fur and Leather Workers Union Records  5815 mf: Papers of the International Labor Defense on Microfilm</p>  </relatedmaterial>
+  <odd id="aspace_c371fdf7efe3de54c3b912982de0cf46">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 17, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 23, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject source="ingest">Scottsboro Trial, Scottsboro, Ala., 1931</subject>
     <subject source="lcsh">Trials (Rape) -- Alabama -- Scottsboro</subject>
@@ -65,6 +65,6 @@ The judge was replaced and the case tried under a judge who ruled frequently aga
     <corpname audience="internal" source="ingest">United States Postal Service</corpname>
   </controlaccess>
   <unitid type="bibid">5600815</unitid>
-  <dsc><c01 id="aspace_2e758c947daf5ac2e5d094a61c679282" level="file"><did><unittitle>5 one cent stamps reading "Save the Scottsboro Boys"</unittitle><unitdate datechar="creation" normal="1931/1931">1931</unitdate><container id="aspace_3cb5737eeb1fa622ac88301e361a6cd7" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_8b2f247df992d480e835b46b45c15d6c" level="file"><did><unittitle>Images digitized from the collection.</unittitle><container id="aspace_e62c18d1ffffa240c75028f5adcc69f0" label="unspecified" type="box">2</container></did></c01></dsc>
+  <dsc><c01 id="aspace_2e758c947daf5ac2e5d094a61c679282" level="file"><did><unittitle>5 one cent stamps reading "Save the Scottsboro Boys"</unittitle><unitdate datechar="creation" normal="1931/1931">1931</unitdate><container id="aspace_6636f9f51cd70a9fca63608cc483d92c" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_8b2f247df992d480e835b46b45c15d6c" level="file"><did><unittitle>Images digitized from the collection.</unittitle><container id="aspace_830193a047cd6346a0f7e6230d5bf96d" label="unspecified" type="box">2</container></did></c01></dsc>
 </archdesc>
 </ead>

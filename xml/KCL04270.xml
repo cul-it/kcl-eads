@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04270</eadid><filedesc><titlestmt><titleproper>Herman, Francine collection of Alice H. Cook Memorial Celebration files <num>/4270</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 05, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:04:02 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04270</eadid><filedesc><titlestmt><titleproper>Herman, Francine collection of Alice H. Cook Memorial Celebration files <num>/4270</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 05, 2016</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:05:02 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -18,12 +18,24 @@
     <langmaterial id="aspace_ae7e253d802c6e2297cecb284d4d89a4">Collection material in English</langmaterial>
     <unitid type="bibid">8072249</unitid>
   </did>
-  <odd id="aspace_27f9ba9f76128dc3043640c6d2193b12">
+  <accessrestrict id="aspace_2e38ca29915d80689a6fa2238e5e4cfe">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_23641097f0b3254c722164ee334d4020">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_b49680e9a21a5ce6c183d5f49b41e088">
+    <head>Preferred Citation</head>
+<p>Francine Herman collection of Alice H. Cook Memorial Celebration files #/4270. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_cf35695ac51a81d1943918ac0fae6606">
+    <head>Related Materials</head>
+<p>Related Collections:  6273: Francine Herman Collection on Hospitality Workers and Collective Bargaining  /3012 AV: Alice Cook Biographical Reminiscences Audio-Visual Materials  /3012: Alice Cook Papers  /4282: ILR School Alice Cook 100th Birthday Conference Records  /4118 MB: ILR School Alumni Memorabilia</p>  </relatedmaterial>
+  <odd id="aspace_36a1e099ed8db69010821c63d3378067">
     <head>General</head>
     <list type="deflist">
       <defitem>
         <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
       </defitem>
       <defitem>
         <label>Compiled by:</label>
@@ -35,24 +47,12 @@
       </defitem>
     </list>
   </odd>
-  <accessrestrict id="aspace_2e38ca29915d80689a6fa2238e5e4cfe">
-    <head>Conditions Governing Access</head>
-<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
-  <userestrict id="aspace_23641097f0b3254c722164ee334d4020">
-    <head>Conditions Governing Use</head>
-<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
-  <prefercite id="aspace_b49680e9a21a5ce6c183d5f49b41e088">
-    <head>Preferred Citation</head>
-<p>Francine Herman collection of Alice H. Cook Memorial Celebration files #/4270. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_26de8355a1c8a2d4ed2bf1c571e2f9cb">
-    <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06273.html"> 6273: Francine Herman Collection on Hospitality Workers and Collective Bargaining</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL03012av.html"> /3012 AV: Alice Cook Biographical Reminiscences Audio-Visual Materials</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL03012.html"> /3012: Alice Cook Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04282.html"> /4282: ILR School Alice Cook 100th Birthday Conference Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04118mb.html"> /4118 MB: ILR School Alumni Memorabilia</extref></p>  </relatedmaterial>
   <controlaccess>
     <persname authfilenumber="http://id.loc.gov/authorities/names/n80067392" source="lcnaf">Cook, Alice H., 1903-1988</persname>
     <persname source="ingest">Herman, Francine</persname>
     <corpname authfilenumber="http://id.loc.gov/authorities/names/n81063067" source="lcnaf">New York State School of Industrial and Labor Relations</corpname>
   </controlaccess>
   <unitid type="bibid">8072249</unitid>
-  <dsc><c01 id="aspace_3be0d9a1f36cefc7f6e99f1aa1afdc31" level="file"><did><unittitle>Cook, Alice H. Memorial Celebration.</unittitle><container id="aspace_10a94c6611029ce5733e8735aa4c34a2" label="unspecified" type="box">1</container><container id="aspace_c879b9b95222ed7ddf86575a83f1d4b7" parent="aspace_10a94c6611029ce5733e8735aa4c34a2" type="folder">1</container></did></c01><c01 id="aspace_92802afc7a6dc9d3ca8c9b270181aee8" level="file"><did><unittitle>Cook, Alice H. Women and Unions.</unittitle><container id="aspace_bad1bac28f4ff61dc0792e9272263ed0" label="unspecified" type="box">1</container><container id="aspace_0a20fc4a4fdb16b229a791dbe44793a4" parent="aspace_bad1bac28f4ff61dc0792e9272263ed0" type="folder">2</container></did></c01></dsc>
+  <dsc><c01 id="aspace_3be0d9a1f36cefc7f6e99f1aa1afdc31" level="file"><did><unittitle>Cook, Alice H. Memorial Celebration.</unittitle><container id="aspace_fa09bd6f247842bc9238cd3c27a6f8b1" label="unspecified" type="box">1</container><container id="aspace_5ae4d24f7668695e06795e668c018994" parent="aspace_fa09bd6f247842bc9238cd3c27a6f8b1" type="folder">1</container></did></c01><c01 id="aspace_92802afc7a6dc9d3ca8c9b270181aee8" level="file"><did><unittitle>Cook, Alice H. Women and Unions.</unittitle><container id="aspace_3411028b9a7ff889308fe4b3e297c4d3" label="unspecified" type="box">1</container><container id="aspace_96923759485a1da0ac993119f77da8fe" parent="aspace_3411028b9a7ff889308fe4b3e297c4d3" type="folder">2</container></did></c01></dsc>
 </archdesc>
 </ead>

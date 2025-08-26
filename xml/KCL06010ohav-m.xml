@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06010ohav-m</eadid><filedesc><titlestmt><titleproper>Association for Diplomatic Studies and Training "The Labor Diplomacy Oral History Project" Audio-Visual Materials <num>6010 OH AV/M</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 13, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:28:13 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06010ohav-m</eadid><filedesc><titlestmt><titleproper>Association for Diplomatic Studies and Training "The Labor Diplomacy Oral History Project" Audio-Visual Materials <num>6010 OH AV/M</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 13, 2015</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:37:38 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_617d6d9a7e6153db0d4afcf2a4ab5be6">Collection material in English</langmaterial>
     <unitid type="bibid">5758036</unitid>
   </did>
-  <odd id="aspace_2e91a842eed5cce0b6c7043cb8ddec81">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, August 20, 2013</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Randall Miles, August 13, 2015</item>
-      </defitem>
-    </list>
-  </odd>
   <scopecontent id="aspace_969343a9e8d8619df71dc3edbe5aa0a2">
     <head>Scope and Contents</head>
 <p>The transcripts for both an Interview with John P. Windmuller conducted for the Labor Diplomacy Oral History Project by Morris Weisz on January 27, 1995 and an Interview with Margaret L. Plunkett conducted for the Labor Diplomacy Oral History Project by Thomas D. Bowie on July 28, 1995.</p>  </scopecontent>
@@ -48,12 +31,29 @@
   <prefercite id="aspace_f75e23d0126436709706de7012a9d42b">
     <head>Preferred Citation</head>
 <p>Association for Diplomatic Studies and Training "The Labor Diplomacy Oral History Project" Audio-Visual Materials #6010 OH AV/M. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <odd id="aspace_ec527df2fa2db3ed08fae7057b3a5f65">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, August 20, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, August 13, 2015</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <persname audience="internal" source="ingest">Weisz, Morris, 1914-</persname>
     <persname audience="internal" source="ingest">Windmuller, John P.</persname>
     <corpname audience="internal" source="ingest">Association for Diplomatic Studies</corpname>
   </controlaccess>
   <unitid type="bibid">5758036</unitid>
-  <dsc><c01 id="aspace_35acecf0c5915f0147e9babe408aa364" level="file"><did><unittitle>The Labor Diplomacy Oral History Project</unittitle><container id="aspace_cb4c7a050f4c0a8f0ab38f939e17fd81" label="unspecified" type="box">1</container></did></c01></dsc>
+  <dsc><c01 id="aspace_35acecf0c5915f0147e9babe408aa364" level="file"><did><unittitle>The Labor Diplomacy Oral History Project</unittitle><container id="aspace_33aec8b2ecc954e10571657ec44517f3" label="unspecified" type="box">1</container></did></c01></dsc>
 </archdesc>
 </ead>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05584mf</eadid><filedesc><titlestmt><titleproper>National Archives and Records Service Copies of Federal Documentation on Black Workers on Microfilm <num>5584 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 20, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:15:05 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05584mf</eadid><filedesc><titlestmt><titleproper>National Archives and Records Service Copies of Federal Documentation on Black Workers on Microfilm <num>5584 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 20, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:19:01 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_26a764dc1f99e0081b7392aafadf3923">Collection material in English</langmaterial>
     <unitid type="bibid">7859099</unitid>
   </did>
-  <odd id="aspace_a1976ce04b04b378bff8731cca4e9582">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, May 20, 2014</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, March 20, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_fb574418c12fb7510c952bbe5be884a7">
     <head>Biographical / Historical</head>
 <p>The National Archives and Records Administration (NARA) is the successor agency to the National Archives Establishment, which was created in 1934 and subsequently incorporated into the General Services Administration as the National Archives and Records Service in 1949. NARA was established as an independent agency in the executive branch of the Government by act of October 19, 1984 (44 U.S.C. 2101 et seq.), effective April 1, 1985. </p><p> NARA safeguards and preserves the records of our Government, ensuring that the people can discover, use, and learn from this documentary heritage; establishes policies and procedures for managing U.S. Government records; manages the Presidential Libraries system; and publishes the laws, regulations, and Presidential and other public documents.</p>  </bioghist>
@@ -48,13 +31,30 @@
   <prefercite id="aspace_9ae1d3f06e246b099a788a4003027d9e">
     <head>Preferred Citation</head>
 <p>National Archives and Records Service Copies of Federal Documentation on Black Workers on Microfilm #5584 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_82b1c6ccb56bb6a3188e3f4e55570c65">
+  <relatedmaterial id="aspace_4ab93449127c82da5211dbbbef9f78ec">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05584.html"> 5584: National Archives and Records Service Copies of Federal Documentation on Black Workers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05584a.html"> 5584 A: National Archives and Records Service Copies of Federal Documentation on Black Workers</extref></p>  </relatedmaterial>
+<p>Related Collections:  5584: National Archives and Records Service Copies of Federal Documentation on Black Workers  5584 A: National Archives and Records Service Copies of Federal Documentation on Black Workers</p>  </relatedmaterial>
+  <odd id="aspace_f168bd3850fe45084ee7e1204e94f249">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, May 20, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 20, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject source="lcsh">African Americans -- Employment -- History</subject>
   </controlaccess>
   <unitid type="bibid">7859099</unitid>
-  <dsc><c01 id="aspace_0962a93e8f0489505389b268f92b8af5" level="file"><did><unittitle>National Archives Record Group 14: U.S. Railroad Administration Division of Labor: General Subject File: File E38-11: Rates of Pay-Colored Employees</unittitle><container id="aspace_6fa03696b8b307c78ac7e74fe45cf508" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_457092be99ff6d2613a02e136a6a162b"><head>Scope and Contents</head><p>Roll I - General Order #27 &amp; Supplements and E38-11, Vol. 1 through Vol. 4</p></scopecontent></c01><c01 id="aspace_85d1a9a20c1bd0b0131099c5d3b64b6a" level="file"><did><unittitle>National Archives Record Group 14: U.S. Railroad Administration Division of Labor: General Subject File: File E38-11: Rates of Pay-Colored Employees</unittitle><container id="aspace_6db6dfd468fd29a347c70b29f27c902a" label="unspecified" type="reel">2</container></did><scopecontent id="aspace_c8c44d4f048fdeee8b669695483bd53c"><head>Scope and Contents</head><p>Roll II -- E38-11: Chicago &amp; Great Western Railroad Through E38-11A, Vol. 4</p></scopecontent></c01><c01 id="aspace_788f7431934813e182c0c9ef02bdd14c" level="file"><did><unittitle>National Archives Record Group 14: U.S. Railroad Administration Division of Labor: General Subject File: File E38-11: Rates of Pay-Colored Employees</unittitle><container id="aspace_88154ed17615ea1b04744f103d969238" label="unspecified" type="reel">3</container></did><scopecontent id="aspace_74fe4d18d2ef8f14763975659fd46032"><head>Scope and Contents</head><p>Roll III -- E38-IIA: Gus Brookings (Southern Railroad) Through E38-11H: J.W. Jackson (Houston Houston Belt &amp; Terminal Railroad)</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_0962a93e8f0489505389b268f92b8af5" level="file"><did><unittitle>National Archives Record Group 14: U.S. Railroad Administration Division of Labor: General Subject File: File E38-11: Rates of Pay-Colored Employees</unittitle><container id="aspace_40b7f2ada44cd0dd796e5f34b0295ef9" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_457092be99ff6d2613a02e136a6a162b"><head>Scope and Contents</head><p>Roll I - General Order #27 &amp; Supplements and E38-11, Vol. 1 through Vol. 4</p></scopecontent></c01><c01 id="aspace_85d1a9a20c1bd0b0131099c5d3b64b6a" level="file"><did><unittitle>National Archives Record Group 14: U.S. Railroad Administration Division of Labor: General Subject File: File E38-11: Rates of Pay-Colored Employees</unittitle><container id="aspace_660cf720b57dc407e7d12a87a16deb81" label="unspecified" type="reel">2</container></did><scopecontent id="aspace_c8c44d4f048fdeee8b669695483bd53c"><head>Scope and Contents</head><p>Roll II -- E38-11: Chicago &amp; Great Western Railroad Through E38-11A, Vol. 4</p></scopecontent></c01><c01 id="aspace_788f7431934813e182c0c9ef02bdd14c" level="file"><did><unittitle>National Archives Record Group 14: U.S. Railroad Administration Division of Labor: General Subject File: File E38-11: Rates of Pay-Colored Employees</unittitle><container id="aspace_1be9d77f2a4e1866e7184ec784f9047f" label="unspecified" type="reel">3</container></did><scopecontent id="aspace_74fe4d18d2ef8f14763975659fd46032"><head>Scope and Contents</head><p>Roll III -- E38-IIA: Gus Brookings (Southern Railroad) Through E38-11H: J.W. Jackson (Houston Houston Belt &amp; Terminal Railroad)</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

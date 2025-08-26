@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05416mf</eadid><filedesc><titlestmt><titleproper>Leiserson, William M. Decisions on Microfilm <num>5416 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 12, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:12:08 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05416mf</eadid><filedesc><titlestmt><titleproper>Leiserson, William M. Decisions on Microfilm <num>5416 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 12, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:14:54 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_7435edf2492a5b8fbc703bcb2a23061f">Collection material in English</langmaterial>
     <unitid type="bibid">5651168</unitid>
   </did>
-  <odd id="aspace_a3a5dac02c1c12f22be8f2a70cafbe76">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, May 12, 2014</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, March 12, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_d37c8874258ddd87caf85b5aedc614da">
     <head>Biographical / Historical</head>
 <p>William M. Leiserson was born in Estonia in 1883, and migrated to New York with his family at the age of seven. </p><p> "At the age of twenty-one he enrolled at the University of Wisconsin, where he received a degree in economics in 1908. While doing graduate work at Columbia University he served on the staff of the New York Commission on Employer's Liability and Unemployment. His Ph.D. thesis (1911) became the basis for the New York Employment Service System. </p><p> Returning to Wisconsin as deputy industrial commissioner, he established Wisconsin's public employment bureau and gained a reputation for his ability to adjust industrial disputes. A chronology of his major positions after he left Wisconsin serves as a guide to his half-century of contributions: </p><p> 1914-1915 Assistant director of research, U.S. Commission on Industrial Relations </p><p> 1915-1918 Professor of political science, Toledo University </p><p> 1918-1919 Chief, Division of Labor Administration, U.S. Department of Labor </p><p> 1919-1926 Impartial chairman and arbitrator, men's clothing industry in Rochester, New York, Baltimore, Chicago; faculty, Toledo University </p><p> 1926-1933 Professor of economics, Antioch College; advisory council, Ohio State Employment Service; chairman, Ohio Unemployment Commission, 1931-1932 </p><p> 1933 Executive secretary, National Labor Board (NLB) under N.R.A. </p><p> 1934 Chairman Petroleum Labor Policy Board; member Technical Board for Economic Security </p><p> 1934-1939 Chairman, National Mediation Board (NMB); member National Railway Mediation Board and Railroad Retirement Board </p><p> 1939-1943 Member, National Labor Relations Board; faculty, American University </p><p> 1943-1944 Chairman, National Mediation Board; chairman, National Railway Labor Panel </p><p> 1944-1947 Professor of economics, Johns Hopkins University, and director of study on the government of American labor organizations </p><p> 1947-1957 Consultant and arbitrator; member President's Commission on Migratory Labor; president, Industrial Relations Research Association. </p><p> Mr. Leiserson died in Washington, D.C. in 1957." [http://digicoll.library.wisc.edu/cgi/f/findaid/findaid- idx?c=wiarchives;view=reslist;subview=standard;didno=uw-whs-us0000bb;focusrgn=bioghist;cc=wiarchives;byte=356201277]</p>  </bioghist>
@@ -51,6 +34,23 @@
   <prefercite id="aspace_8a49f39c2d75ec13cae4724651c064a6">
     <head>Preferred Citation</head>
 <p>William M. Leiserson Decisions on Microfilm #5416 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <odd id="aspace_418a5868fd48832f086bec842e563fba">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, May 12, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 12, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject source="lcsh">Labor unions -- New York (State) -- Rochester -- Political activity</subject>
     <subject source="lcsh">Clothing workers -- Labor unions -- New York (State) -- Rochester</subject>
@@ -60,6 +60,6 @@
     <corpname audience="internal" rules="local" source="local">Amalgamated Clothing Workers of America. Rochester Joint Board</corpname>
   </controlaccess>
   <unitid type="bibid">5651168</unitid>
-  <dsc><c01 id="aspace_d1390b46f9c16666eeec30a0dbaaae0c" level="file"><did><unittitle>Record Group D-I9: Rochester (N.Y.) -- Clothier's Exchange and the Amalgamated Clothing Workers of America Decisions of the Impartial Chairman #1-549, Oct. 1919-Sept. 1921</unittitle><unitdate datechar="creation" normal="1921/1921">1921</unitdate><container id="aspace_78dd9a608ecc3e81c58e390bdee183c9" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_82650b5523a442d42765a5ea65191ba7"><head>Scope and Contents</head><p>negative</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_d1390b46f9c16666eeec30a0dbaaae0c" level="file"><did><unittitle>Record Group D-I9: Rochester (N.Y.) -- Clothier's Exchange and the Amalgamated Clothing Workers of America Decisions of the Impartial Chairman #1-549, Oct. 1919-Sept. 1921</unittitle><unitdate datechar="creation" normal="1921/1921">1921</unitdate><container id="aspace_42216cbb53a5fe76fa13ba71b769a4a6" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_82650b5523a442d42765a5ea65191ba7"><head>Scope and Contents</head><p>negative</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

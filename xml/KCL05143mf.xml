@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05143mf</eadid><filedesc><titlestmt><titleproper>Schneider, Anna Weinstock Papers on Microfilm <num>5143 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 07, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:07:50 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05143mf</eadid><filedesc><titlestmt><titleproper>Schneider, Anna Weinstock Papers on Microfilm <num>5143 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 07, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:09:19 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_fcec5163af0574e35e95466eb8dda9ae">Collection material in English</langmaterial>
     <unitid type="bibid">7858884</unitid>
   </did>
-  <odd id="aspace_861ac45998be6e55a9160898fae6b9ee">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, May 02, 2014</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, March 07, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_c7c506cd8b9be4eb1a2f4d49fb2d0ee6">
     <head>Biographical / Historical</head>
 <p>Schneider was the first woman Commissioner of Conciliation, U.S. Department of Labor appointed in 1922. A member of several minimum wage boards in Massachusetts, lobbyist for labor legislation in Massachusetts and organizer for the Massachusetts Suffrage Association, she was also active in union activities as President of Boston Women's Trade Union League and organizer for the International Ladies' Garment Workers' Union</p>  </bioghist>
@@ -51,13 +34,30 @@
   <prefercite id="aspace_8953ae6632281c2402c32fa75fa31a4b">
     <head>Preferred Citation</head>
 <p>Anna Weinstock Schneider Papers on Microfilm #5143 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_b6157fd1eb6d14fab19270b2dd2dc18d">
+  <relatedmaterial id="aspace_b92e71080bca1b529a85962e73331ece">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05143.html"> 5143: Anna Weinstock Schneider Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05143av.html"> 5143 AV: Anna Weinstock Schneider Audio Tapes</extref></p>  </relatedmaterial>
+<p>Related Collections:  5143: Anna Weinstock Schneider Papers  5143 AV: Anna Weinstock Schneider Audio Tapes</p>  </relatedmaterial>
+  <odd id="aspace_bcfc662cc7e07f1d18dd2381f4c9f0c1">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, May 02, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 07, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <persname audience="internal" source="ingest">Schnieder, Anna W. (Anna Weinstock)</persname>
   </controlaccess>
   <unitid type="bibid">7858884</unitid>
-  <dsc><c01 id="aspace_c78db7d4bc736b594ee98eb20bbbfc7e" level="file"><did><unittitle>Anna Weinstock Interview - June 13, 1969</unittitle><unitdate datechar="creation" normal="1969/1969">1969</unitdate><container id="aspace_6312e0bf9a42bffd227c01e4a69e33dd" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_bc018d39b00f4dd598a464a9ac9f1dd5"><head>Scope and Contents</head><p>Positive -- Print Master</p></scopecontent></c01><c01 id="aspace_70090bd9c9388eadb78e6b1c3396f06b" level="file"><did><unittitle>Anna Weinstock Interview - June 13, 1969</unittitle><unitdate datechar="creation" normal="1969/1969">1969</unitdate><container id="aspace_ee2dd49276520370904356ed3b7b832a" label="unspecified" type="reel">2</container></did><scopecontent id="aspace_9c7d24c5ca121ffe2a15f3a9275afd4c"><head>Scope and Contents</head><p>Positive -- Service copy</p></scopecontent></c01><c01 id="aspace_67bf273950248e181c7bf10d7ce7fc44" level="file"><did><unittitle>Anna Weinstock Interview - June 13, 1969</unittitle><unitdate datechar="creation" normal="1969/1969">1969</unitdate><container id="aspace_d2fbc83479966d0fe816d7ecd266bc85" label="unspecified" type="reel">3</container></did><scopecontent id="aspace_02bc39e3469be6221760df7af612d942"><head>Scope and Contents</head><p>Positive -- Service copy</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_c78db7d4bc736b594ee98eb20bbbfc7e" level="file"><did><unittitle>Anna Weinstock Interview - June 13, 1969</unittitle><unitdate datechar="creation" normal="1969/1969">1969</unitdate><container id="aspace_ae0f72b025733e280fd5e1d63fb07857" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_bc018d39b00f4dd598a464a9ac9f1dd5"><head>Scope and Contents</head><p>Positive -- Print Master</p></scopecontent></c01><c01 id="aspace_70090bd9c9388eadb78e6b1c3396f06b" level="file"><did><unittitle>Anna Weinstock Interview - June 13, 1969</unittitle><unitdate datechar="creation" normal="1969/1969">1969</unitdate><container id="aspace_237046032fd2677b7707aad4ecc0ac06" label="unspecified" type="reel">2</container></did><scopecontent id="aspace_9c7d24c5ca121ffe2a15f3a9275afd4c"><head>Scope and Contents</head><p>Positive -- Service copy</p></scopecontent></c01><c01 id="aspace_67bf273950248e181c7bf10d7ce7fc44" level="file"><did><unittitle>Anna Weinstock Interview - June 13, 1969</unittitle><unitdate datechar="creation" normal="1969/1969">1969</unitdate><container id="aspace_e3f052184852b70f9660037eea73c499" label="unspecified" type="reel">3</container></did><scopecontent id="aspace_02bc39e3469be6221760df7af612d942"><head>Scope and Contents</head><p>Positive -- Service copy</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

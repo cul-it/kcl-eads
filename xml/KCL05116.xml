@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05116</eadid><filedesc><titlestmt><titleproper>International Longshoremen's Association, United Marine Division, Local 333 and Quality Transportation Corp. et.al. Records <num>5116</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 31, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:07:16 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05116</eadid><filedesc><titlestmt><titleproper>International Longshoremen's Association, United Marine Division, Local 333 and Quality Transportation Corp. et.al. Records <num>5116</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 31, 2016</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:08:43 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -22,23 +22,6 @@
     <langmaterial id="aspace_2e1e32013a57276f838c22ca2f8d6624">Collection material in English</langmaterial>
     <unitid type="bibid">5515614</unitid>
   </did>
-  <odd id="aspace_87aa61a3fb362b4b6d3cf535527bc0ca">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, July 24, 2013</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Randall Miles, October 31, 2016</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_e4108f966d1daef136982551c8b0bc06">
     <head>Biographical / Historical</head>
 <p>David Lawrence Cole was a graduate of Harvard University (BS., 1921) and Fairleigh Dickinson University (LL.B., 1924, LL.D., 1964.) Although he practiced law in Paterson, N.J. from 1926 until his death as senior partner in the law firm of Cole, Berman &amp; Belksy, David Cole will chiefly be remembered for a distinguished career as a government arbitrator and mediator. In this field he served on numerous state and federal boards and in various governmental agencies. Cole was chairman of the New Jersey State Board of Mediation; a public member of Region 2, United States War Labor Board; and chairman of the Presidential Boards of Inquiry in the bituminous coal industry (1948) and in the longshore industry (1953, 1968). Cole was also a member or chairman of numerous Presidential Emergency Boards which settled disputes in the railroad and airline industries (1948-1958); the chairman of the conciliation service for the New York City transit service (1961-1965); director of the Federal Mediation and Conciliation Service (1952-1953); chairman of the New Jersey Governor's Committee on Public Utility Strike Service (1952-1953); member of the President's Labor- Management Advisory Committee (1961-1964); and member of the New York Governor's Public Employee Relations Committee (1966-1968), which established the New York State Public Employee Relations Board. Cole was also appointed as chairman of the President's Commission on Industrial Peace in 1973. </p><p> Beyond his public service, Mr. Cole was active as a counsel for employer groups in the textile industry (1926-1942) and as an impartial chairman for other labor-management contract disputes. He was also impartial arbitrator for the AFL-CIO Internal Disputes Plan (1954-1976), served as a visiting professor at the New York State School of Industrial and Labor Relations at Cornell University (1954-1955) and was Kestenbaum lecturer at Harvard in 1962. Mr. Cole was the author of INDUSTRIAL PEACE (1963).</p>  </bioghist>
@@ -57,9 +40,26 @@
   <prefercite id="aspace_b79081bce6e6fd08b2c3f32c1c88f7b6">
     <head>Preferred Citation</head>
 <p>International Longshoremen's Association, United Marine Division, Local 333 and Quality Transportation Corp. et.al. Records #5116. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_43d86354150e746a8eefd6aa604f69ec">
+  <relatedmaterial id="aspace_46d5116a431d3a8afa8cf4c58c60a18d">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05078.html"> 5078: New York Shipping Association and the International Longshoremen's Association Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05089.html"> 5089: U.S. National Mediation Board Records Regarding General Managers Association of New York and the International Longshoremen's Association, Lighter Captains Union, Local 996</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05261.html"> 5261: International Longshoremen's Association New York District Council Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05559.html"> 5559: International Longshoremen's Association Dock Strike Clippings</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05588.html"> 5588: David L. Cole Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06308.html"> 6308: William Donohue Collection of International Longshoremen's Association Local 1286 Papers</extref></p>  </relatedmaterial>
+<p>Related Collections:  5078: New York Shipping Association and the International Longshoremen's Association Records  5089: U.S. National Mediation Board Records Regarding General Managers Association of New York and the International Longshoremen's Association, Lighter Captains Union, Local 996  5261: International Longshoremen's Association New York District Council Records  5559: International Longshoremen's Association Dock Strike Clippings  5588: David L. Cole Papers  6308: William Donohue Collection of International Longshoremen's Association Local 1286 Papers</p>  </relatedmaterial>
+  <odd id="aspace_317b4bbc0cfb3dd5154ee8f71201d02f">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 24, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 31, 2016</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2003009643" source="lcsh">Transport workers -- United States</subject>
     <subject source="lcsh">Transport workers -- Labor unions -- United States</subject>
@@ -71,6 +71,6 @@
     <corpname audience="internal" source="ingest">International Longshoremen's Association. Local 333, United Marine Division</corpname>
   </controlaccess>
   <unitid type="bibid">5515614</unitid>
-  <dsc><c01 id="aspace_1df12ce3d786c8bac5643850d43faa6c" level="file"><did><unittitle>American Arbitration Association United Marine Division and Quality Transportation Corp. Transcript</unittitle><unitdate datechar="creation" normal="1949/1949">1949</unitdate><container id="aspace_0d24c327f64f8629c60ed6cf986e13db" label="unspecified" type="box">1</container><container id="aspace_540bd5aee882b8340fe275b670f73393" parent="aspace_0d24c327f64f8629c60ed6cf986e13db" type="folder">1</container></did></c01><c01 id="aspace_186ff9b10cb9be1f6d6269489ddcf8a1" level="file"><did><unittitle>American Arbitration Association United Marine Division and the Quality Transportation Corp. Volume 2</unittitle><unitdate datechar="creation" normal="1949/1949">1949</unitdate><container id="aspace_b356f06b5637bb555c8e0535b168cfb1" label="unspecified" type="box">1</container><container id="aspace_ccbe1d66e901649414ae868413b93403" parent="aspace_b356f06b5637bb555c8e0535b168cfb1" type="folder">2</container></did></c01><c01 id="aspace_5e4d22ca850a38afbe486d4f400c1fa3" level="file"><did><unittitle>American Arbitration Association United Marine Division and Quality Transportation Corp.</unittitle><unitdate datechar="creation" normal="1949/1949">1949</unitdate><container id="aspace_8e6e7155fea851c3e5a966a081fbde3e" label="unspecified" type="box">1</container><container id="aspace_ac0890f2199dc327ea70561eff243b3f" parent="aspace_8e6e7155fea851c3e5a966a081fbde3e" type="folder">3</container></did></c01></dsc>
+  <dsc><c01 id="aspace_1df12ce3d786c8bac5643850d43faa6c" level="file"><did><unittitle>American Arbitration Association United Marine Division and Quality Transportation Corp. Transcript</unittitle><unitdate datechar="creation" normal="1949/1949">1949</unitdate><container id="aspace_5b2c74fe4d2e48ce3d02a9ed283ca703" label="unspecified" type="box">1</container><container id="aspace_ed67d7f1773e0722c6f37d4ad487db02" parent="aspace_5b2c74fe4d2e48ce3d02a9ed283ca703" type="folder">1</container></did></c01><c01 id="aspace_186ff9b10cb9be1f6d6269489ddcf8a1" level="file"><did><unittitle>American Arbitration Association United Marine Division and the Quality Transportation Corp. Volume 2</unittitle><unitdate datechar="creation" normal="1949/1949">1949</unitdate><container id="aspace_124db7aee5a3b14f7ef800ba169b700e" label="unspecified" type="box">1</container><container id="aspace_7a5096f29d89d44d6c6a733555c321f7" parent="aspace_124db7aee5a3b14f7ef800ba169b700e" type="folder">2</container></did></c01><c01 id="aspace_5e4d22ca850a38afbe486d4f400c1fa3" level="file"><did><unittitle>American Arbitration Association United Marine Division and Quality Transportation Corp.</unittitle><unitdate datechar="creation" normal="1949/1949">1949</unitdate><container id="aspace_0d878edf688b83330ddb6bab85ff8f99" label="unspecified" type="box">1</container><container id="aspace_5a29163695f6dce3e6e7d4dccb86f31b" parent="aspace_0d878edf688b83330ddb6bab85ff8f99" type="folder">3</container></did></c01></dsc>
 </archdesc>
 </ead>

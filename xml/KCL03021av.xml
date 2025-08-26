@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL03021av</eadid><filedesc><titlestmt><titleproper>Woodcock, Leonard, Addresses to ILR School Audio-Visual Materials <num>/3021 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 15, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-29 23:59:23 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL03021av</eadid><filedesc><titlestmt><titleproper>Woodcock, Leonard, Addresses to ILR School Audio-Visual Materials <num>/3021 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 15, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-25 23:59:28 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_cf5db2a08f705fbcb25704822fa32da2">Collection material in English</langmaterial>
     <unitid type="bibid">7589313</unitid>
   </did>
-  <odd id="aspace_c7e878c2c2068edf4e9fa0906ac212b3">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, March 02, 2012</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, February 15, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_c84cb92dca85069c5656e26b18ce7b8e">
     <head>Biographical / Historical</head>
 <p>Leonard Freel Woodcock (1911-2001) was President of the United Auto Workers (1970-1977) and the US Ambassador to the People's Republic of China (1979-1981).</p>  </bioghist>
@@ -51,14 +34,31 @@
   <prefercite id="aspace_5e34d302a86035d9132eb30a2880f488">
     <head>Preferred Citation</head>
 <p>Leonard Woodcock Addresses to ILR School Audio-Visual Materials #/3021 AV. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_4bbf4313882fd8d065db0faba3c80e42">
+  <relatedmaterial id="aspace_6c28f0ffe883f3c596acaf95361c385f">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05206-s.html"> 5206-S: Local 1199 Executive Secretary Moe Foner Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05219.html"> 5219: Al Nash Collection of Miscellaneous Broadsides</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-177.html"> 5780/177: ILGWU Communications Department Biography Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05916.html"> 5916: Peter J. Cioni Labor Agreement Collection</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05933p.html"> 5933 P: Local 1199 Photograph Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05956.html"> 5956: Archives Organization File Additional records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06021-008.html"> 6021/008: Theodore W. Kheel Books and Articles</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06046.html"> 6046: Archives Union File (AUF)</extref></p>  </relatedmaterial>
+<p>Related Collections:  5206-S: Local 1199 Executive Secretary Moe Foner Records  5219: Al Nash Collection of Miscellaneous Broadsides  5780/177: ILGWU Communications Department Biography Files  5916: Peter J. Cioni Labor Agreement Collection  5933 P: Local 1199 Photograph Files  5956: Archives Organization File Additional records  6021/008: Theodore W. Kheel Books and Articles  6046: Archives Union File (AUF)</p>  </relatedmaterial>
+  <odd id="aspace_a45cff0ae1c07b37b0f53f47e7a15b9f">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, March 02, 2012</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, February 15, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <persname audience="internal" source="ingest">Woodcock, Leonard</persname>
     <corpname authfilenumber="http://id.loc.gov/authorities/names/n81063067" source="lcnaf">New York State School of Industrial and Labor Relations</corpname>
   </controlaccess>
   <unitid type="bibid">7589313</unitid>
-  <dsc><c01 id="aspace_d140b6c9c7fd319520537d450eb694e4" level="file"><did><unittitle>Leonard Woodcock - 2/21/1973</unittitle><unitid>1</unitid><unitdate datechar="creation" normal="1973/1973">1973</unitdate><container id="aspace_d4a36d9f6230598632fec577dd054585" label="unspecified" type="box">1</container></did></c01></dsc>
+  <dsc><c01 id="aspace_d140b6c9c7fd319520537d450eb694e4" level="file"><did><unittitle>Leonard Woodcock - 2/21/1973</unittitle><unitid>1</unitid><unitdate datechar="creation" normal="1973/1973">1973</unitdate><container id="aspace_192fdbb6c2c1bdc5d552ee69656984fa" label="unspecified" type="box">1</container></did></c01></dsc>
 </archdesc>
 </ead>

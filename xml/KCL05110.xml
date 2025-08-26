@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05110</eadid><filedesc><titlestmt><titleproper>Billikopf, Jacob New York City Men's Clothing Industry Arbiration Case Files <num>5110</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 31, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:07:13 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05110</eadid><filedesc><titlestmt><titleproper>Billikopf, Jacob New York City Men's Clothing Industry Arbiration Case Files <num>5110</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 31, 2016</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:08:37 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_79d21c34228502f77da6fde4988eb576">Collection material in English</langmaterial>
     <unitid type="bibid">3336822</unitid>
   </did>
-  <odd id="aspace_d14a8be4a4f433897ecf8e75910ab9a6">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, July 24, 2013</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Randall Miles, October 31, 2016</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_99f3c44e740c4399d2b34ed34c330037">
     <head>Biographical / Historical</head>
 <p>Jacob Billikopf (Ph.D., University of Chicago, 1903) was a prominent figure in Jewish social work, an arbitrator and mediator, </p><p> Billikopf served as superintendent of the United Jewish Charities in Milwaukee and Kansas City; as executive director of the Federation of Jewish Philanthropies in Philadelphia; as impartial chairman in the New York men's clothing industry; as chairman of the National Labor Board for the Philadelphia region during the 1930's and as chairman of the ladies' garment industry in Philadelphia. He was an important member of the boards of the New School for Social Research and of Howard University, and was a vice-president of the American Association for Social Security, among numerous other public service activities.</p>  </bioghist>
@@ -54,9 +37,26 @@
   <prefercite id="aspace_ee0afbcc80639e5ab1a6d124b8dd226e">
     <head>Preferred Citation</head>
 <p>Jacob Billikopf New York City Men's Clothing Industry Arbiration Case Files #5110. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_a0caefe5218917f901b2c2b9ea61cefa">
+  <relatedmaterial id="aspace_2b81a7575861bda0b7326d81c0c9b002">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619.html"> 5619: ACWA Records</extref></p>  </relatedmaterial>
+<p>Related Collections:  5619: ACWA Records</p>  </relatedmaterial>
+  <odd id="aspace_2da9db532c375e45ad203fe8caf58cd9">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 24, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 31, 2016</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject source="lcsh">Arbitration, Industrial -- New York (State) -- New York -- Cases</subject>
     <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85006460" source="lcsh">Industrial arbitrators</subject>
@@ -75,6 +75,6 @@
     <corpname authfilenumber="http://id.loc.gov/authorities/names/n81063160" source="lcnaf">Amalgamated Clothing Workers of America</corpname>
   </controlaccess>
   <unitid type="bibid">3336822</unitid>
-  <dsc><c01 id="aspace_08dd28240d1ba6ecf86a89a0d197712d" level="file"><did><unittitle>New York Clothing Industry Cases no.69-154</unittitle><unitdate datechar="creation" normal="1925/1925">1925</unitdate><container id="aspace_ffe182d76926ad3855a049dea5339ed1" label="unspecified" type="box">1</container><container id="aspace_240f306ad50e04f632ba4e9f990f84ff" parent="aspace_ffe182d76926ad3855a049dea5339ed1" type="folder">1</container></did></c01><c01 id="aspace_8ae4caf667188d0c5db72a7e2304e88b" level="file"><did><unittitle>New York Clothing Industry Cases no.160-308</unittitle><unitdate datechar="creation" normal="1926/1926">1926</unitdate><container id="aspace_e6ce855357b5c5df50472b6b55c90da3" label="unspecified" type="box">1</container><container id="aspace_e71d34343d105b117ab65a8d9acadaf5" parent="aspace_e6ce855357b5c5df50472b6b55c90da3" type="folder">2</container></did></c01><c01 id="aspace_afa6c848d91ab9f771c240748901bced" level="file"><did><unittitle>New York Clothing Industry Cases no.310-414</unittitle><unitdate datechar="creation" normal="1927/1927">1927</unitdate><container id="aspace_bde6c97b02efad018bafaf7c5252df67" label="unspecified" type="box">1</container><container id="aspace_4c579764234e7f04c029d79e88dc9274" parent="aspace_bde6c97b02efad018bafaf7c5252df67" type="folder">3</container></did></c01><c01 id="aspace_394f6e43af60287a739415c4a5f724e0" level="file"><did><unittitle>New York Clothing Industry Cases no.417-498</unittitle><unitdate datechar="creation" normal="1928/1928">1928</unitdate><container id="aspace_e09b58b5a05ac2e3628f4700e38ac26b" label="unspecified" type="box">1</container><container id="aspace_ea0e3346f2ab398869a3f5d6c1cc46cf" parent="aspace_e09b58b5a05ac2e3628f4700e38ac26b" type="folder">4</container></did></c01><c01 id="aspace_9e84f66e7252cf9d8b89578093c9067c" level="file"><did><unittitle>New York Clothing Industry Cases no.499-521</unittitle><unitdate datechar="creation" normal="1929/1929">1929</unitdate><container id="aspace_fa2086bb30e2eea8be43260655f86bd2" label="unspecified" type="box">1</container><container id="aspace_ac918d15bbeb2e043e83309ae0dbb1c5" parent="aspace_fa2086bb30e2eea8be43260655f86bd2" type="folder">5</container></did></c01></dsc>
+  <dsc><c01 id="aspace_08dd28240d1ba6ecf86a89a0d197712d" level="file"><did><unittitle>New York Clothing Industry Cases no.69-154</unittitle><unitdate datechar="creation" normal="1925/1925">1925</unitdate><container id="aspace_90ccb5d8fd5540634b46aee5f6d58888" label="unspecified" type="box">1</container><container id="aspace_a88646fcf4f196c3b132899cfdc64ec6" parent="aspace_90ccb5d8fd5540634b46aee5f6d58888" type="folder">1</container></did></c01><c01 id="aspace_8ae4caf667188d0c5db72a7e2304e88b" level="file"><did><unittitle>New York Clothing Industry Cases no.160-308</unittitle><unitdate datechar="creation" normal="1926/1926">1926</unitdate><container id="aspace_d8edf1dd31110aa057c36b3818ce6854" label="unspecified" type="box">1</container><container id="aspace_b1dec61ccf776e5a12fee2435cd87027" parent="aspace_d8edf1dd31110aa057c36b3818ce6854" type="folder">2</container></did></c01><c01 id="aspace_afa6c848d91ab9f771c240748901bced" level="file"><did><unittitle>New York Clothing Industry Cases no.310-414</unittitle><unitdate datechar="creation" normal="1927/1927">1927</unitdate><container id="aspace_7b4d045fad942bcc2cc88e1875f723f0" label="unspecified" type="box">1</container><container id="aspace_2f3ed3fb1285e662e588bfc02440843f" parent="aspace_7b4d045fad942bcc2cc88e1875f723f0" type="folder">3</container></did></c01><c01 id="aspace_394f6e43af60287a739415c4a5f724e0" level="file"><did><unittitle>New York Clothing Industry Cases no.417-498</unittitle><unitdate datechar="creation" normal="1928/1928">1928</unitdate><container id="aspace_4a20f22f1da3d697f645fb4a165a6e74" label="unspecified" type="box">1</container><container id="aspace_40a4162bff6d54014a6c4d2a20c4f0a9" parent="aspace_4a20f22f1da3d697f645fb4a165a6e74" type="folder">4</container></did></c01><c01 id="aspace_9e84f66e7252cf9d8b89578093c9067c" level="file"><did><unittitle>New York Clothing Industry Cases no.499-521</unittitle><unitdate datechar="creation" normal="1929/1929">1929</unitdate><container id="aspace_7380a9369e8cbc2f5abf9a9573a718f5" label="unspecified" type="box">1</container><container id="aspace_06fd29c167aa2b391a6f75bc7b62f71c" parent="aspace_7380a9369e8cbc2f5abf9a9573a718f5" type="folder">5</container></did></c01></dsc>
 </archdesc>
 </ead>

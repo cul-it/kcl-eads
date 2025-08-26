@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL03042m</eadid><filedesc><titlestmt><titleproper>Brooks, George W. Papers <num>/3042m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 06, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-29 23:59:40 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL03042m</eadid><filedesc><titlestmt><titleproper>Brooks, George W. Papers <num>/3042m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 06, 2015</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-25 23:59:44 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_6a5d382399a75c796e7f0ab7de9713c6">Collection material in English</langmaterial>
     <unitid type="bibid">7924592</unitid>
   </did>
-  <odd id="aspace_de15a2cd2b6f432efb92097c97426c70">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, October 08, 2013</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Randall Miles, August 06, 2015</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_e08954601ba51d19b4564a9c9f73574d">
     <head>Biographical / Historical</head>
 <p>George Brooks (July 12, 1908 January 27, 2000) was a professor at Cornell University's School of Industrial and Labor Relations. </p><p> A graduate of Yale University (BA, 1930) and Brown University (MA, 1932), Brooks worked for the National Mediation Board, National Labor Relations Board, and the International Brotherhood of Pulp, Sulfite, and Paper Mill Workers until he joined the ILR School in 1961. Brooks published in the Industrial and Labor Relations Review, Cornell Law Review, Review of Law and Social Change, and Monthly Labor Review. </p><p> See the Cornell University Faculty Memorial Statement for Professor George Brooks: http://ecommons.library.cornell.edu/handle/1813/17900</p>  </bioghist>
@@ -51,13 +34,30 @@
   <prefercite id="aspace_1c8ea737fcfb216f3e16a9dd43cc369a">
     <head>Preferred Citation</head>
 <p>George W. Brooks Papers #/3042m. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_92b48cdd2fda19827ce81e8ea90b008c">
+  <relatedmaterial id="aspace_4f9dbe07f2aa0e61c3275a7071391c54">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04003.html"> /4003: ILR School ILR Service Training Course Manuals</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04098.html"> /4098: George Brooks Additional Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04112.html"> /4112: George Brooks Additional Papers</extref></p>  </relatedmaterial>
+<p>Related Collections:  /4003: ILR School ILR Service Training Course Manuals  /4098: George Brooks Additional Papers  /4112: George Brooks Additional Papers</p>  </relatedmaterial>
+  <odd id="aspace_0d68ed8b4cd353481c4c2736f705d53b">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 08, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, August 06, 2015</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <persname audience="internal" source="ingest">Brooks, George W.</persname>
   </controlaccess>
   <unitid type="bibid">7924592</unitid>
-  <dsc><c01 id="aspace_9b40100005a8c7e941ddaae14f3b3bf8" level="file"><did><unittitle>An Organizational History of District Council 50, American Federation of State, County, and Municipal Employees</unittitle><unitdate datechar="creation" normal="1966/1966">1966</unitdate><container id="aspace_aaa6742e9cab386eacca67d9cfeee8cd" label="unspecified" type="box">1</container></did><scopecontent id="aspace_7cfe94a134385f5a41895e5416907880"><head>Scope and Contents</head><p>Prepared by Sara Gamm, George Brooks, Ronald Donovan, Eric Polisar, January 1966; 67 pages.</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_9b40100005a8c7e941ddaae14f3b3bf8" level="file"><did><unittitle>An Organizational History of District Council 50, American Federation of State, County, and Municipal Employees</unittitle><unitdate datechar="creation" normal="1966/1966">1966</unitdate><container id="aspace_e8dcadbb3dd1a1881782cb06ef3c5396" label="unspecified" type="box">1</container></did><scopecontent id="aspace_7cfe94a134385f5a41895e5416907880"><head>Scope and Contents</head><p>Prepared by Sara Gamm, George Brooks, Ronald Donovan, Eric Polisar, January 1966; 67 pages.</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

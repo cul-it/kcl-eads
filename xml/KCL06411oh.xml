@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06411oh</eadid><filedesc><titlestmt><titleproper>Tlili, Ahmed Interview <num>6411 OH</num></titleproper><author>Compiled by R. Miles</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 29, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:37:34 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06411oh</eadid><filedesc><titlestmt><titleproper>Tlili, Ahmed Interview <num>6411 OH</num></titleproper><author>Compiled by R. Miles</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 29, 2016</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:50:06 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -22,23 +22,6 @@
     <langmaterial id="aspace_0c5a9bf4df96bbcd0ac4bb1504c05473">Collection material in French</langmaterial>
     <unitid type="bibid">9333348</unitid>
   </did>
-  <odd id="aspace_9d49a14adf8d9439abf3acd3b4b292c6">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>R. Miles, March 04, 2016</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Randall Miles, March 29, 2016</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_c52da48b7a1bdedd2fbe3a36e635b7b6">
     <head>Biographical / Historical</head>
 <p>Ahmed Tlili, 1916-1967 </p><p> Tunisian labor leader, Secretary-General of te Tunisian General Labour Union (UGTT), member of the administrative committee o fthe constituent congress. After Tunsian independence in 1956, treasurer and member of the political office of the Neo-Destour (New Constitutional Liberal Party, which led the Tunisian independence movement) from 1954 to 1963, Secretary-General of UGGT, 1956-1963. Died June 25, 1967, in Paris, France, berried in Tunisian. </p><p> Eqbal Ahmad </p><p> Born in India to Indian Muslim family in 1933 or 1934, went to Pakistan in 1947 after Partition. Received degree in 1951 fro Foreman Christian College in Lahore, Pakistan, M.A. in Modern History from Punjab University in Lahore, studied at Occidental College in 1957, Ph.D. from Princeton, with dissertation on Tunisian labor movement. Taught at University of Illinois, Carbondale, from 1964-1965; Cornell University, ILR, 1965-1968; Fellow at the Adlai Stvenson Insstitute in Chicago, 1968-1792. Became involved in the anti-Vietnam War movement, in 1971 he was indicted with Phillip Berrigan and six other Catolic pacifists on charges of conspiracy to kidnap Henry Kissenger and blow up federal buildings, the Harrisburg 8, ended in a mistrial. Senior Fellow at Institute for Policy Studies in Washington, DC, 1972-1982, director of its overseas affiliate, the Transnational Institute in Amsterdam. Professor of Politics and Middle Eastern Studies at Hampshire College, 1982-1997. </p><p> Returned to Pakitastan after retirement. </p><p> Editor of Journal of Race and Class, contributing editor o Middle East Report and L'Economiste du Tiers Monde, co-founder of Pakistan Forum, founding member and editor (1968-1983) of Afrique-Asie, editorial board member of Arab Studies Quarterly. </p><p> Died in Islamabad, May 11, 1999. </p><p> (from Wikipedia)</p>  </bioghist>
@@ -54,11 +37,28 @@
   <prefercite id="aspace_58369323170851c75f7cd89a19ef3eb5">
     <head>Preferred Citation</head>
 <p>Ahmed Tlili Interview #6411 OH. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <odd id="aspace_a96b22b27fa8e57163e957c5e8e69ace">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>R. Miles, March 04, 2016</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, March 29, 2016</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <persname audience="internal" source="ingest">Ahmad, Eqbal</persname>
     <persname audience="internal" source="ingest">Tlili, Ahmed</persname>
   </controlaccess>
   <unitid type="bibid">9333348</unitid>
-  <dsc><c01 id="aspace_19b22db12e9decf85d9abe5b0cda155b" level="file"><did><unittitle>Interview Transcript</unittitle><unitdate datechar="creation" normal="1966/1967" type="inclusive">1966-1967</unitdate><container id="aspace_8bb47cc39866a09a4ab55202a0f41a4f" label="unspecified" type="box">1</container></did><scopecontent id="aspace_4d482ce32b6d0c6600052a838c60d045"><head>Scope and Contents</head><p>This interview with Mr. Ahmed Tlili was held at the home of Professor Eqbal Ahmad, on January 7, 1966. The interviewer is Professor Eqbal Ahmad. Interview was emended on January 2, 1967.</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_19b22db12e9decf85d9abe5b0cda155b" level="file"><did><unittitle>Interview Transcript</unittitle><unitdate datechar="creation" normal="1966/1967" type="inclusive">1966-1967</unitdate><container id="aspace_25c8fb0dd63c551729e2609d29d14629" label="unspecified" type="box">1</container></did><scopecontent id="aspace_4d482ce32b6d0c6600052a838c60d045"><head>Scope and Contents</head><p>This interview with Mr. Ahmed Tlili was held at the home of Professor Eqbal Ahmad, on January 7, 1966. The interviewer is Professor Eqbal Ahmad. Interview was emended on January 2, 1967.</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

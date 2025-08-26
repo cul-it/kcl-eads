@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06370</eadid><filedesc><titlestmt><titleproper>MUSC Commemoration of the 1969 Local 1199 Charleston, SC, Hospital Strike <num>6370</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 07, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:36:52 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06370</eadid><filedesc><titlestmt><titleproper>MUSC Commemoration of the 1969 Local 1199 Charleston, SC, Hospital Strike <num>6370</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 07, 2016</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:49:13 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -30,12 +30,21 @@
     <langmaterial id="aspace_76d1ff919b7426090c9855b441058924">Collection material in English</langmaterial>
     <unitid type="bibid">8332140</unitid>
   </did>
-  <odd id="aspace_3a482ec06c83cd59a559a924da4440cf">
+  <accessrestrict id="aspace_04372ebe74ab627562efd4194650338a">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_4f769405312800ab3019ecbad70bce44">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_752555c364d0ba6ba3ce2e74f248572e">
+    <head>Preferred Citation</head>
+<p>MUSC Commemoration of the 1969 Local 1199 Charleston, SC, Hospital Strike #6370. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <odd id="aspace_91cb23e50b80716a6f98ff009bcf84fc">
     <head>General</head>
     <list type="deflist">
       <defitem>
         <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
       </defitem>
       <defitem>
         <label>Compiled by:</label>
@@ -47,15 +56,6 @@
       </defitem>
     </list>
   </odd>
-  <accessrestrict id="aspace_04372ebe74ab627562efd4194650338a">
-    <head>Conditions Governing Access</head>
-<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
-  <userestrict id="aspace_4f769405312800ab3019ecbad70bce44">
-    <head>Conditions Governing Use</head>
-<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
-  <prefercite id="aspace_752555c364d0ba6ba3ce2e74f248572e">
-    <head>Preferred Citation</head>
-<p>MUSC Commemoration of the 1969 Local 1199 Charleston, SC, Hospital Strike #6370. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
   <controlaccess>
     <persname audience="internal" source="ingest">Taylor, Kerry</persname>
     <corpname audience="internal" source="ingest">Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)</corpname>
@@ -64,6 +64,6 @@
     <corpname audience="internal" source="ingest">Preservation Society of Charleston</corpname>
   </controlaccess>
   <unitid type="bibid">8332140</unitid>
-  <dsc><c01 id="aspace_8e0a22651399174ed184431a093e8394" level="file"><did><unittitle>MUSC - Communication of the 1969 Local 1199 - Charleston, SC Hospital Strike</unittitle><unitdate datechar="creation" normal="1969/1969">1969</unitdate><container id="aspace_938eb17ac50154895763ae62c9d5883b" label="unspecified" type="box">1</container><container id="aspace_c064223f8f801b4458d2c9732007b058" parent="aspace_938eb17ac50154895763ae62c9d5883b" type="folder">1</container></did></c01><c01 id="aspace_32626bcc36ea646869605f572f5ad4dc" level="file"><did><unittitle>PDFs of newsletters and broadsides; Jpegs</unittitle><container id="aspace_82ffbb061c30570793f88dd9855e1113" label="unspecified" type="box">2</container></did></c01></dsc>
+  <dsc><c01 id="aspace_8e0a22651399174ed184431a093e8394" level="file"><did><unittitle>MUSC - Communication of the 1969 Local 1199 - Charleston, SC Hospital Strike</unittitle><unitdate datechar="creation" normal="1969/1969">1969</unitdate><container id="aspace_1af8db61127671a952745276646ea84d" label="unspecified" type="box">1</container><container id="aspace_ee3b8004a3f12cfbf1281e579af0c4a3" parent="aspace_1af8db61127671a952745276646ea84d" type="folder">1</container></did></c01><c01 id="aspace_32626bcc36ea646869605f572f5ad4dc" level="file"><did><unittitle>PDFs of newsletters and broadsides; Jpegs</unittitle><container id="aspace_25daaca4b2da17a8498ef4c3f28e4ff3" label="unspecified" type="box">2</container></did></c01></dsc>
 </archdesc>
 </ead>

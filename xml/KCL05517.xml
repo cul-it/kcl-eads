@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05517</eadid><filedesc><titlestmt><titleproper>Brooks, M. E. and A. J. Coates Collection of Items about the Railroad Wage Reduction Movement <num>5517</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 14, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:13:39 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05517</eadid><filedesc><titlestmt><titleproper>Brooks, M. E. and A. J. Coates Collection of Items about the Railroad Wage Reduction Movement <num>5517</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 14, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:16:58 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -22,23 +22,6 @@
     <langmaterial id="aspace_29c7ceca976fc17c4ad086e7e64b8957">Collection material in English</langmaterial>
     <unitid type="bibid">5658980</unitid>
   </did>
-  <odd id="aspace_cb35c12475c538ef517b165ff89144d4">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, June 18, 2013</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, March 14, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <accessrestrict id="aspace_74ebbda8dfb9cc4ae5fad4f721d2bea2">
     <head>Conditions Governing Access</head>
 <p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
@@ -51,6 +34,23 @@
   <bioghist audience="internal" id="aspace_501e1b6bc7fb004b7601d456a0ea5a1d">
     <head>Biographical / Historical</head>
 <p>The United Transportation Union (UTU) was a broad-based, transportation labor union that represented about 70,000 active and retired railroad, bus, mass transit, and airline workers in the United States. The UTU was headquartered in Cleveland, Ohio. On August 11, 2014, it merged with the Sheet Metal Workers' International Association (SMWIA) to form the International Association of Sheet Metal, Air, Rail and Transportation Workers, known by the acronym SMART.</p>  </bioghist>
+  <odd id="aspace_c7357c4fc79cf1f01a17938a8353c760">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, June 18, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 14, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject source="ingest">Railroads -- United States.</subject>
     <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2010118128" source="lcsh">Wages -- Railroads -- United States</subject>
@@ -59,6 +59,6 @@
     <corpname audience="internal" authfilenumber="http://id.loc.gov/authorities/names/n79131120" source="lcnaf">United Transportation Union</corpname>
   </controlaccess>
   <unitid type="bibid">5658980</unitid>
-  <dsc><c01 id="aspace_5009bac64693b0ac52fd71e5df066f98" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1931/1931">1931</unitdate><container id="aspace_c481387cb8febf3c2b634afcbf085abc" label="unspecified" type="box">1</container><container id="aspace_9832c83ffe8d3318f3f788a0b48c84fc" parent="aspace_c481387cb8febf3c2b634afcbf085abc" type="folder">1</container></did></c01><c01 id="aspace_f3d6d701d41c1d7a555d203136e2248e" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1937/1937">1937</unitdate><container id="aspace_e8d3ebe90a5ee8b45bda5147e5550f83" label="unspecified" type="box">1</container><container id="aspace_9226744dd8175130efdad875be56495e" parent="aspace_e8d3ebe90a5ee8b45bda5147e5550f83" type="folder">2</container></did></c01><c01 id="aspace_7c19f387fd606d31724317e463acce6e" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1938/1938">1938</unitdate><container id="aspace_0a9b15452d9f547357405c06682978d6" label="unspecified" type="box">1</container><container id="aspace_b55a47001d340395f8725ff9b5f04bcc" parent="aspace_0a9b15452d9f547357405c06682978d6" type="folder">3</container></did></c01><c01 id="aspace_fedee2415eb90170bfca4e7ece106ee5" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1952/1952">1952</unitdate><container id="aspace_c8ef5ba10c7c46b26c7a0ada4212e3e8" label="unspecified" type="box">1</container><container id="aspace_ee5299773c2ca0e4d1c958572cde4996" parent="aspace_c8ef5ba10c7c46b26c7a0ada4212e3e8" type="folder">4</container></did></c01><c01 id="aspace_22d25a95e26d516f87a9fe0d34731e6e" level="file"><did><unittitle>The Railroad Unions' Stake in Occupational Alcoholism Programs</unittitle><container id="aspace_d0a584245218f1ba4bbeb0a9784be95e" label="unspecified" type="box">1</container><container id="aspace_c25e973f27f883f92cbb36d7db5dd9ea" parent="aspace_d0a584245218f1ba4bbeb0a9784be95e" type="folder">5</container></did><scopecontent id="aspace_66223e3ed89f37b7fb08c89e256e8fb7"><head>Scope and Contents</head><p>Article by Daniel W. Collins, Assistant General Secretary and Treasurer and Director of Education, United Transportation Union (UTU)</p></scopecontent></c01><c01 id="aspace_dae338061efc79b853357d8afc34fce3" level="file"><did><unittitle>Original Cover</unittitle><container id="aspace_3bfe1747840cb4ff47d6e1402526fb17" label="unspecified" type="box">1</container><container id="aspace_ca8136c72b15d39c7562ee1caf451eed" parent="aspace_3bfe1747840cb4ff47d6e1402526fb17" type="folder">6</container></did></c01></dsc>
+  <dsc><c01 id="aspace_5009bac64693b0ac52fd71e5df066f98" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1931/1931">1931</unitdate><container id="aspace_69b44c662049e82222d967f5d4f367f6" label="unspecified" type="box">1</container><container id="aspace_bf9bf317bd108d1170f4c73ce96fbd0f" parent="aspace_69b44c662049e82222d967f5d4f367f6" type="folder">1</container></did></c01><c01 id="aspace_f3d6d701d41c1d7a555d203136e2248e" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1937/1937">1937</unitdate><container id="aspace_289f86ee7c7d897093cd0bba91650e2b" label="unspecified" type="box">1</container><container id="aspace_a872f571dfcb95e4fffbdd05b606b86e" parent="aspace_289f86ee7c7d897093cd0bba91650e2b" type="folder">2</container></did></c01><c01 id="aspace_7c19f387fd606d31724317e463acce6e" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1938/1938">1938</unitdate><container id="aspace_66ffcba979ebb7d40d9843c6c091b1e5" label="unspecified" type="box">1</container><container id="aspace_803bc22983249aa1f71d5a34d8092681" parent="aspace_66ffcba979ebb7d40d9843c6c091b1e5" type="folder">3</container></did></c01><c01 id="aspace_fedee2415eb90170bfca4e7ece106ee5" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1952/1952">1952</unitdate><container id="aspace_1b328508ead566b522adf460c8edd848" label="unspecified" type="box">1</container><container id="aspace_f73af272113d80585ca4fb993f8d63dd" parent="aspace_1b328508ead566b522adf460c8edd848" type="folder">4</container></did></c01><c01 id="aspace_22d25a95e26d516f87a9fe0d34731e6e" level="file"><did><unittitle>The Railroad Unions' Stake in Occupational Alcoholism Programs</unittitle><container id="aspace_1b4de68a73dcebffdabfea2a5a21b5dc" label="unspecified" type="box">1</container><container id="aspace_26c0b1fe46fcbb62d70f517d92a6bbca" parent="aspace_1b4de68a73dcebffdabfea2a5a21b5dc" type="folder">5</container></did><scopecontent id="aspace_66223e3ed89f37b7fb08c89e256e8fb7"><head>Scope and Contents</head><p>Article by Daniel W. Collins, Assistant General Secretary and Treasurer and Director of Education, United Transportation Union (UTU)</p></scopecontent></c01><c01 id="aspace_dae338061efc79b853357d8afc34fce3" level="file"><did><unittitle>Original Cover</unittitle><container id="aspace_b475646eb587e16d644104fe6ccaf5dd" label="unspecified" type="box">1</container><container id="aspace_61b2c9bd43e36b22a9e9f0b1fba689ad" parent="aspace_b475646eb587e16d644104fe6ccaf5dd" type="folder">6</container></did></c01></dsc>
 </archdesc>
 </ead>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05112</eadid><filedesc><titlestmt><titleproper>International Railway Company and the Amalgamated Association of Street, Electric Railway and Motor Coach Employees of America, Local 1342 and 1386 Arbitration Files <num>5112</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 07, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:07:14 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05112</eadid><filedesc><titlestmt><titleproper>International Railway Company and the Amalgamated Association of Street, Electric Railway and Motor Coach Employees of America, Local 1342 and 1386 Arbitration Files <num>5112</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 07, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:08:40 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -22,23 +22,6 @@
     <langmaterial id="aspace_cbd18271ba8194072788097fe487560f">Collection material in English</langmaterial>
     <unitid type="bibid">3117917</unitid>
   </did>
-  <odd id="aspace_1aa68c0b2d8e5c5c0fa2c754c5a23b06">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, November 01, 2007</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, March 07, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_f37203bd2b9dd948f8316daa34f1452d">
     <head>Biographical / Historical</head>
 <p>This was a voluntary arbitration proceeding by agreement on August 8, 1946 between the parties. The arbitrator Mr. Saul Wallen was assisted by Col. B. T. Fay as the representative of the company and David Zimring as representative of the union. </p><p> The issue was a wage increase. The union supported its case by reference to increases granted by other transit companies, awards on similar arbitration cases and the provisions of other transit contracts. The company attempted to prove that there factors were not relevant to its case.</p>  </bioghist>
@@ -51,9 +34,26 @@
   <prefercite id="aspace_e0e0eed90f50814b37dd93fad25b9478">
     <head>Preferred Citation</head>
 <p>International Railway Company and the Amalgamated Association of Street, Electric Railway and Motor Coach Employees of America, Local 1342 and 1386 Arbitration Files #5112. Kheel Center for Labor- Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_ede88e1749ee3622395fddf8d6eb9165">
+  <relatedmaterial id="aspace_e4fdb2c35c579d623100bf21c311a2e1">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05012.html"> 5012: Saul Wallen Papers</extref></p>  </relatedmaterial>
+<p>Related Collections:  5012: Saul Wallen Papers</p>  </relatedmaterial>
+  <odd id="aspace_487117fd98836336407007a15705971a">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, November 01, 2007</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 07, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject source="lcsh">Arbitration, Industrial -- United States -- Sources</subject>
     <persname audience="internal" source="ingest">Wallen, Saul.</persname>
@@ -62,6 +62,6 @@
     <corpname audience="internal" source="ingest">Amalgamated Association of Street, Electric Railway and Motor Coach Employees of America</corpname>
   </controlaccess>
   <unitid type="bibid">3117917</unitid>
-  <dsc><c01 id="aspace_5358d915af837c6b72c69e3f95a16e64" level="file"><did><unittitle>Transcript of Proceedings Volumes 1-4</unittitle><container id="aspace_4db8175790a6d34562d0a6056e1be444" label="unspecified [31924079233650]" type="box">1</container><container id="aspace_cc80864d5ee160794fb9b9deb8177e16" parent="aspace_4db8175790a6d34562d0a6056e1be444" type="folder">1</container></did></c01><c01 id="aspace_dae9899dd7da927be60994d50f45695d" level="file"><did><unittitle>Memorandum in behalf of International Railway Company to the Board of Arbitration before the proceedings started.</unittitle><container id="aspace_f8b9b48a8b03455d7a2c447f61696943" label="unspecified [31924079233650]" type="box">1</container><container id="aspace_01228239a1469f206ba2f74200badb7f" parent="aspace_f8b9b48a8b03455d7a2c447f61696943" type="folder">2</container></did></c01><c01 id="aspace_cec20c2b918b36887a858f9a5655094d" level="file"><did><unittitle>Memorandum of International Railway Company relating to Post V-J day award of January 4, 1946.</unittitle><container id="aspace_f330cc8f49eb5cdb95a9aa5481230ab9" label="unspecified [31924079233650]" type="box">1</container><container id="aspace_90c15e3faafc3810ead380936b83d182" parent="aspace_f330cc8f49eb5cdb95a9aa5481230ab9" type="folder">3</container></did></c01><c01 id="aspace_630c754db9093bd532ae5b1811f7700d" level="file"><did><unittitle>Memorandum of International Railway Company concerning clerical and office workers unit.</unittitle><container id="aspace_1f685659cc89c0c59989f660a3887e15" label="unspecified [31924079233650]" type="box">1</container><container id="aspace_c96608f74007921a90e707f9499182c0" parent="aspace_1f685659cc89c0c59989f660a3887e15" type="folder">4</container></did></c01><c01 id="aspace_23043961a7d64d28e0e5126ca59f17b5" level="file"><did><unittitle>Union exhibits bound in one volume. 102 statistical exhibits.</unittitle><container id="aspace_c9fd5e1fa02221ff7bddc391a44f3b16" label="unspecified [31924079233650]" type="box">1</container><container id="aspace_f9c97318e236b107282414827bd849db" parent="aspace_c9fd5e1fa02221ff7bddc391a44f3b16" type="folder">5</container></did></c01><c01 id="aspace_9787703dac4c78a46480d87fa4f692d2" level="file"><did><unittitle>Copies of the following, bound in one volume</unittitle><container id="aspace_dc66d395908fe94f90a39905dcf0daf9" label="unspecified [31924079233650]" type="box">1</container><container id="aspace_c7a046a739cafe1d7c70522db813aa76" parent="aspace_dc66d395908fe94f90a39905dcf0daf9" type="folder">6</container></did><scopecontent id="aspace_d2720c21c625514bf6451c33707e489e"><head>Scope and Contents</head><p>Arbitration Agreement of August 8, 1946. Agreement of September 21, 1945. Award of January 4, 1946. Some supplementary documents.</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_5358d915af837c6b72c69e3f95a16e64" level="file"><did><unittitle>Transcript of Proceedings Volumes 1-4</unittitle><container id="aspace_80d2b7e00238cb9b17327f04b3e86792" label="unspecified [31924079233650]" type="box">1</container><container id="aspace_ef998911efbd67fbbf1ed2eece66877b" parent="aspace_80d2b7e00238cb9b17327f04b3e86792" type="folder">1</container></did></c01><c01 id="aspace_dae9899dd7da927be60994d50f45695d" level="file"><did><unittitle>Memorandum in behalf of International Railway Company to the Board of Arbitration before the proceedings started.</unittitle><container id="aspace_5ccc4ec830c137b5fd76be0239013435" label="unspecified [31924079233650]" type="box">1</container><container id="aspace_1057047b1966926912a76262db734412" parent="aspace_5ccc4ec830c137b5fd76be0239013435" type="folder">2</container></did></c01><c01 id="aspace_cec20c2b918b36887a858f9a5655094d" level="file"><did><unittitle>Memorandum of International Railway Company relating to Post V-J day award of January 4, 1946.</unittitle><container id="aspace_f55bda8e495f9fcedeabc6f649588433" label="unspecified [31924079233650]" type="box">1</container><container id="aspace_9f11612f967c167c6d69278dee307fe2" parent="aspace_f55bda8e495f9fcedeabc6f649588433" type="folder">3</container></did></c01><c01 id="aspace_630c754db9093bd532ae5b1811f7700d" level="file"><did><unittitle>Memorandum of International Railway Company concerning clerical and office workers unit.</unittitle><container id="aspace_a32a5de32134a44de980b4901f01ddb3" label="unspecified [31924079233650]" type="box">1</container><container id="aspace_038f24720e73e3fe3614af19f69a2ed7" parent="aspace_a32a5de32134a44de980b4901f01ddb3" type="folder">4</container></did></c01><c01 id="aspace_23043961a7d64d28e0e5126ca59f17b5" level="file"><did><unittitle>Union exhibits bound in one volume. 102 statistical exhibits.</unittitle><container id="aspace_920006ad76865bab3166e40670ce8c4b" label="unspecified [31924079233650]" type="box">1</container><container id="aspace_0e68a75bcc7502e419d610b8f622e0ab" parent="aspace_920006ad76865bab3166e40670ce8c4b" type="folder">5</container></did></c01><c01 id="aspace_9787703dac4c78a46480d87fa4f692d2" level="file"><did><unittitle>Copies of the following, bound in one volume</unittitle><container id="aspace_832dea22412141051039529175652172" label="unspecified [31924079233650]" type="box">1</container><container id="aspace_8456ed1918118c4f16f7246feff60cb2" parent="aspace_832dea22412141051039529175652172" type="folder">6</container></did><scopecontent id="aspace_d2720c21c625514bf6451c33707e489e"><head>Scope and Contents</head><p>Arbitration Agreement of August 8, 1946. Agreement of September 21, 1945. Award of January 4, 1946. Some supplementary documents.</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

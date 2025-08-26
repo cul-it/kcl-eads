@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06003p</eadid><filedesc><titlestmt><titleproper>Kheel, Ann Collection of Photographs <num>6003 P</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 17, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:28:02 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06003p</eadid><filedesc><titlestmt><titleproper>Kheel, Ann Collection of Photographs <num>6003 P</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 17, 2016</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:37:26 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -18,23 +18,6 @@
     <langmaterial id="aspace_89cde5235f0b4f9c5db9d5451254830f">Collection material in English</langmaterial>
     <unitid type="bibid">5757536</unitid>
   </did>
-  <odd id="aspace_a45b56d0dbb270d410142eb5e84dfe17">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, January 28, 2013</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Randall Miles, February 17, 2016</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_10fb70b4f1dd04034d63246925643b06">
     <head>Biographical / Historical</head>
 <p>Ann Sunstein Kheel was a Phi Beta Kappa graduate of Cornell University, Class of 1936. She was the beloved wife of Theodore W. Kheel, a nationally prominent arbitrator and mediator. </p><p> Ann Kheel was a journalist and government information specialist who was influential in civic and charitable affairs in New York. She was chairwoman of the State Parks, Recreation and Historic Preservation Commission for the City of New York between 1977-86. She also served the New York Urban League as the secretary of its Board for twenty-five years, beginning in the mid-1960's and was the founder of its annual Frederick Douglass Awards Dinner (which raised millions of dollars over the twenty-five years she ran it and is still an annual event). Over the years, she served as a trustee of the Schomburg Center for Research in Black Culture as well as the Rainforest Alliance and in various capacities, on panels and boards of a number of charitable and local governmental boards. She also served on the Advisory Board of the Catherwood Library, the parent institution of the Kheel Center.</p>  </bioghist>
@@ -50,10 +33,27 @@
   <relatedmaterial id="aspace_37635e5720596c01648c387e94dc3e3e">
     <head>Related Materials</head>
 <p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05024.html"> 5024: Theodore W. Kheel Arbitration Awards</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05776av.html"> 5776 AV: Theodore W. Kheel Interviews and Programs</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06003av.html"> 6003 AV: Ann Kheel Collection of Audio-Visual Materials</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06003mb.html"> 6003 MB: Ann Kheel Collection of Memorabilia</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06003oh.html"> 6003 OH: Ann Kheel Oral History Collection</extref></p>  </relatedmaterial>
+  <odd id="aspace_5a33ac9b24921e779b952ac06669496b">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, January 28, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, February 17, 2016</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <persname audience="internal" source="ingest">Kheel, Ann Sunstein, 1915-2003</persname>
   </controlaccess>
   <unitid type="bibid">5757536</unitid>
-  <dsc><c01 id="aspace_0c44801188db8ad80b0e0530b0da1441" level="file"><did><unittitle>Contents of an unlabeled photo album</unittitle><container id="aspace_8c66d369611cf5bd7f714452e9fe538d" label="unspecified" type="box">1</container><container id="aspace_13277fd27963837da97331f66a9084b6" parent="aspace_8c66d369611cf5bd7f714452e9fe538d" type="folder">1</container></did><scopecontent id="aspace_a94f81648bb748ddcd747698d9ec6112"><head>Scope and Contents</head><p>23 photographs</p></scopecontent></c01><c01 id="aspace_94ec4f88e9ab653283275dd3b7b51240" level="file"><did><unittitle>Ann Kheel - 1973 (Bachrach) &amp; w/Nelson Rockefeller</unittitle><unitdate datechar="creation" normal="1973/1973">1973</unitdate><container id="aspace_b7daefc7d1433bf0b433ef969dc68fd4" label="unspecified" type="box">1</container><container id="aspace_899840880c05e5129ce75d6d09680491" parent="aspace_b7daefc7d1433bf0b433ef969dc68fd4" type="folder">2</container></did><scopecontent id="aspace_66e454f2582c5462cf710961c0bbe307"><head>Scope and Contents</head><p>2 photographs</p></scopecontent></c01><c01 id="aspace_2649475b7a837945d35e6a5f3efd0442" level="file"><did><unittitle>Sheet of 'Collective Bargaining' stamps</unittitle><container id="aspace_670be538878bd593337e49494f7164ea" label="unspecified" type="box">1</container><container id="aspace_dda5acfdf49765a31db21e007564f293" parent="aspace_670be538878bd593337e49494f7164ea" type="folder">3</container></did></c01></dsc>
+  <dsc><c01 id="aspace_0c44801188db8ad80b0e0530b0da1441" level="file"><did><unittitle>Contents of an unlabeled photo album</unittitle><container id="aspace_4c1553e0a98105afcae9831bee8bab32" label="unspecified" type="box">1</container><container id="aspace_2bb8f17507d896a4a897e6ce7be31185" parent="aspace_4c1553e0a98105afcae9831bee8bab32" type="folder">1</container></did><scopecontent id="aspace_a94f81648bb748ddcd747698d9ec6112"><head>Scope and Contents</head><p>23 photographs</p></scopecontent></c01><c01 id="aspace_94ec4f88e9ab653283275dd3b7b51240" level="file"><did><unittitle>Ann Kheel - 1973 (Bachrach) &amp; w/Nelson Rockefeller</unittitle><unitdate datechar="creation" normal="1973/1973">1973</unitdate><container id="aspace_94092f7f388ea55aae397a46d2e67b40" label="unspecified" type="box">1</container><container id="aspace_094b870a7bfbc85061b8e8dfea1ef693" parent="aspace_94092f7f388ea55aae397a46d2e67b40" type="folder">2</container></did><scopecontent id="aspace_66e454f2582c5462cf710961c0bbe307"><head>Scope and Contents</head><p>2 photographs</p></scopecontent></c01><c01 id="aspace_2649475b7a837945d35e6a5f3efd0442" level="file"><did><unittitle>Sheet of 'Collective Bargaining' stamps</unittitle><container id="aspace_9fa10aad536fea38a68095a21fd05784" label="unspecified" type="box">1</container><container id="aspace_04112a43627aee9307240fdb518154f2" parent="aspace_9fa10aad536fea38a68095a21fd05784" type="folder">3</container></did></c01></dsc>
 </archdesc>
 </ead>

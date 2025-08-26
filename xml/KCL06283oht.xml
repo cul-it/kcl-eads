@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06283oht</eadid><filedesc><titlestmt><titleproper>Currington, William P. Interview with Vernon Briggs, August 27, 2007 <num>6283 OHT</num></titleproper><author>Compiled by R. Miles</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 07, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:34:48 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06283oht</eadid><filedesc><titlestmt><titleproper>Currington, William P. Interview with Vernon Briggs, August 27, 2007 <num>6283 OHT</num></titleproper><author>Compiled by R. Miles</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 07, 2016</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:46:34 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -22,23 +22,6 @@
     <langmaterial id="aspace_ddf0f22018bb061d42109777a42ab24d">Collection material in English</langmaterial>
     <unitid type="bibid">6579283</unitid>
   </did>
-  <odd id="aspace_530c6c1e477cede078f98f806b2dc8b0">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>R. Miles, March 07, 2016</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Randall Miles, March 07, 2016</item>
-      </defitem>
-    </list>
-  </odd>
   <scopecontent id="aspace_7057e194ee2c02ca357bf546f2a84797">
     <head>Scope and Contents</head>
 <p>Audiorecording and edited transcript of William P. Currington's interview with Vernon Briggs, August 27, 2007.</p>  </scopecontent>
@@ -51,15 +34,32 @@
   <prefercite id="aspace_366e8e65703d3f60e50af7a632982e2a">
     <head>Preferred Citation</head>
 <p>William P. Currington Interview with Vernon Briggs, August 27, 2007 #6283 OHT. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_78b1b42c0217953b94a823ef4320c9ea">
+  <relatedmaterial id="aspace_769ac9e0cfa464fd2d9921eb5e60bd8c">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04236.html"> /4236: Vernon Briggs Files</extref></p>  </relatedmaterial>
+<p>Related Collections:  /4236: Vernon Briggs Files</p>  </relatedmaterial>
+  <odd id="aspace_145385e6e4d6ecab1c7b10789b7a615e">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>R. Miles, March 07, 2016</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, March 07, 2016</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject source="ingest">Labor economics</subject>
     <persname audience="internal" source="ingest">Currington, William P.</persname>
     <persname audience="internal" source="ingest">Briggs, Vernon M.</persname>
   </controlaccess>
   <unitid type="bibid">6579283</unitid>
-  <dsc><c01 id="aspace_9694470866ae50dde829470a8a3316e9" level="file"><did><unittitle>Interview Transcript. Un-Edited</unittitle><unitdate datechar="creation" normal="2007/2007">2007</unitdate><container id="aspace_ea09ab5954f20c8dfb5c54b5f2233de8" label="unspecified" type="box">1</container><container id="aspace_7594403a90c4f2e12b057b71a2670b13" parent="aspace_ea09ab5954f20c8dfb5c54b5f2233de8" type="folder">1</container></did></c01><c01 id="aspace_54a2fc35e74863b412a44f6018c866f0" level="file"><did><unittitle>Interview Transcript. Edited</unittitle><unitdate datechar="creation" normal="2007/2007">2007</unitdate><container id="aspace_0525171858d1f8d74380d8cd15eb8d1a" label="unspecified" type="box">1</container><container id="aspace_3aba4d2331c258c11b7862e20cc919ea" parent="aspace_0525171858d1f8d74380d8cd15eb8d1a" type="folder">2</container></did></c01><c01 id="aspace_777d50be3485085730ff689117993b79" level="file"><did><unittitle>CD with mp3 audio file of interview</unittitle><unitdate datechar="creation" normal="2009/2009">2009</unitdate><container id="aspace_ac5a81e6de49c3b6642b8534dc1b07a4" label="unspecified" type="box">1</container><container id="aspace_a54d6e4061dc4d4540423695e0ba07bf" parent="aspace_ac5a81e6de49c3b6642b8534dc1b07a4" type="folder">3</container></did></c01><c01 id="aspace_4495da930023ebdb3bc67b2b6c4020e4" level="file"><did><unittitle>Sam M. Walton College &amp; Business -- Vernon Brigss Interview</unittitle><container id="aspace_d9df777d38de2d32801e9e4155a5a1d2" label="unspecified" type="box">2</container></did></c01></dsc>
+  <dsc><c01 id="aspace_9694470866ae50dde829470a8a3316e9" level="file"><did><unittitle>Interview Transcript. Un-Edited</unittitle><unitdate datechar="creation" normal="2007/2007">2007</unitdate><container id="aspace_5df2ecb81f9da30e62011bb32a5e05d9" label="unspecified" type="box">1</container><container id="aspace_77e69ee1936b0ac2aa27d6a9c5798fac" parent="aspace_5df2ecb81f9da30e62011bb32a5e05d9" type="folder">1</container></did></c01><c01 id="aspace_54a2fc35e74863b412a44f6018c866f0" level="file"><did><unittitle>Interview Transcript. Edited</unittitle><unitdate datechar="creation" normal="2007/2007">2007</unitdate><container id="aspace_4eaba8331155c074b9e7661a59424165" label="unspecified" type="box">1</container><container id="aspace_aa62e5dcf7e7b3703906d549922499a9" parent="aspace_4eaba8331155c074b9e7661a59424165" type="folder">2</container></did></c01><c01 id="aspace_777d50be3485085730ff689117993b79" level="file"><did><unittitle>CD with mp3 audio file of interview</unittitle><unitdate datechar="creation" normal="2009/2009">2009</unitdate><container id="aspace_4336248f6cc37d0835fb095454a6afab" label="unspecified" type="box">1</container><container id="aspace_cfbf523cd85401037087279835b765d5" parent="aspace_4336248f6cc37d0835fb095454a6afab" type="folder">3</container></did></c01><c01 id="aspace_4495da930023ebdb3bc67b2b6c4020e4" level="file"><did><unittitle>Sam M. Walton College &amp; Business -- Vernon Brigss Interview</unittitle><container id="aspace_761f3a87ac4c1628ff6367255c8608c1" label="unspecified" type="box">2</container></did></c01></dsc>
 </archdesc>
 </ead>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05113</eadid><filedesc><titlestmt><titleproper>Seward, Ralph T. Arbitration Transcripts and Exhibits <num>5113</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 31, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:07:15 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05113</eadid><filedesc><titlestmt><titleproper>Seward, Ralph T. Arbitration Transcripts and Exhibits <num>5113</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 31, 2016</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:08:42 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_c819b0b69fb36d7ac85b245a8c06efe7">Collection material in English</langmaterial>
     <unitid type="bibid">5515502</unitid>
   </did>
-  <odd id="aspace_6982874a9a0839265346288197b08c32">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, July 24, 2013</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Randall Miles, October 31, 2016</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_32047c5b653f0c57c05c0a19b8a21041">
     <head>Biographical / Historical</head>
 <p>Arbitrator and mediator; member, National Mediation Service, National Defense Mediation Board; impartial umpire for cases involving the dairy, auto and steel industries, among others. </p><p> Ralph Seward (BA., Cornell University, 1927; MA., New York University, 1931; LLB., Columbia University, 1935) served as an attorney with the National Labor Relations Board (1936-1937) and was executive secretary (1937-1939) and general counsel (1939) of the New York State Labor Relations Board. He also served as chairman of the Board of Immigration Appeals, U.S. Department of Justice (1939-1941), as executive secretary, National Defense Mediation Board (1941-1942), and as associate public member of the U.S. National War Labor Board (1942) before going into private practice as an arbitrator and mediator. In addition to chairing two Emergency Boards of the National Mediation Service, Seward was impartial chairman for the metropolitan New York milk industry (1942-1944); impartial umpire for General Motors Corporation and the United Automobile Workers (1944-1947); chairman of the Board of Conciliation and Arbitration of United States Steel Corporation and United Steelworkers of America (1947-1949); impartial umpire for International Harvester Company and United Farm Equipment and Metal Workers of America (1949-1951); impartial umpire for Bethlehem Steel Corporation and the United Steelworkers of America (1952); and arbitrator and/or mediator in various other cases.</p>  </bioghist>
@@ -51,9 +34,26 @@
   <prefercite id="aspace_d0e48f01b31c0b8229e52992a8d53673">
     <head>Preferred Citation</head>
 <p>Ralph T. Seward Arbitration Transcripts and Exhibits #5113. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_454715fbdc580f2b0f8d041c583c89c4">
+  <relatedmaterial id="aspace_14eec5baad89270d9fe285e41a652e80">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05069.html"> 5069: U.S. Wage Stabilization Board 1952 United Steelworkers of America Case</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05328.html"> 5328: Ralph T. Seward Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05700.html"> 5700: Ralph T. Seward Additional Arbitration Files</extref></p>  </relatedmaterial>
+<p>Related Collections:  5069: U.S. Wage Stabilization Board 1952 United Steelworkers of America Case  5328: Ralph T. Seward Papers  5700: Ralph T. Seward Additional Arbitration Files</p>  </relatedmaterial>
+  <odd id="aspace_fc2458f1ce14443a8b5bd79fb5281965">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 24, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 31, 2016</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject source="lcsh">Unfair labor practices -- New York (State) -- New York</subject>
     <subject source="lcsh">Machinists -- New York (State) -- New York</subject>
@@ -131,6 +131,6 @@
     <corpname audience="internal" source="ingest">Yale &amp; Towne Manufacturing Company</corpname>
   </controlaccess>
   <unitid type="bibid">5515502</unitid>
-  <dsc><c01 id="aspace_ba0db1469b50c39b8fe2d61d416aec3b" level="file"><did><unittitle>Yale &amp; Towne Manufacturing Co. and Int'l. Association of Machinsts, Lodge 539</unittitle><unitdate datechar="creation" normal="1949/1949">1949</unitdate><container id="aspace_9f96fb0bccc16acf8ac3e5ad0af5497f" label="unspecified" type="box">1</container><container id="aspace_1f11a7b3614527c3144990670c1d19ca" parent="aspace_9f96fb0bccc16acf8ac3e5ad0af5497f" type="folder">1</container></did></c01><c01 id="aspace_622975186e5ec3795f14c043d0baa6b1" level="file"><did><unittitle>Case No. 49-973 Arbitrators</unittitle><container id="aspace_a490ea5d27801b9284e0116797f60b77" label="unspecified" type="box">1</container><container id="aspace_dc5b3c6ca94dbffbb08f47a3ff1952ef" parent="aspace_a490ea5d27801b9284e0116797f60b77" type="folder">2</container></did></c01><c01 id="aspace_9361f30dc7ffd1e4085e078b9bb2f78f" level="file"><did><unittitle>Arbitration in Grievance Case No. 49-973</unittitle><unitdate datechar="creation" normal="1950/1950">1950</unitdate><container id="aspace_2e39d0e4156c17cda1a1656b9fff15b9" label="unspecified" type="box">1</container><container id="aspace_d30534d8dfef470c4ee8c7a3c88df751" parent="aspace_2e39d0e4156c17cda1a1656b9fff15b9" type="folder">3</container></did></c01><c01 id="aspace_db847fd052fb5a5df317c73a00b1a200" level="file"><did><unittitle>Arbitration Grievance Case No. 49-973</unittitle><unitdate datechar="creation" normal="1950/1950">1950</unitdate><container id="aspace_531e410c2ea38f16fdabd8004ae406c3" label="unspecified" type="box">1</container><container id="aspace_9c39f7227d039dace6f39fa8f3d67e1b" parent="aspace_531e410c2ea38f16fdabd8004ae406c3" type="folder">4</container></did></c01></dsc>
+  <dsc><c01 id="aspace_ba0db1469b50c39b8fe2d61d416aec3b" level="file"><did><unittitle>Yale &amp; Towne Manufacturing Co. and Int'l. Association of Machinsts, Lodge 539</unittitle><unitdate datechar="creation" normal="1949/1949">1949</unitdate><container id="aspace_f2c28d24ab0d05439d8288948b393fa5" label="unspecified" type="box">1</container><container id="aspace_05a35d339706c1946aeb675734527c78" parent="aspace_f2c28d24ab0d05439d8288948b393fa5" type="folder">1</container></did></c01><c01 id="aspace_622975186e5ec3795f14c043d0baa6b1" level="file"><did><unittitle>Case No. 49-973 Arbitrators</unittitle><container id="aspace_6da618bf79e3dee9d65e27a1faf79e88" label="unspecified" type="box">1</container><container id="aspace_395e0ae13a88ace850c96d9349da1ec1" parent="aspace_6da618bf79e3dee9d65e27a1faf79e88" type="folder">2</container></did></c01><c01 id="aspace_9361f30dc7ffd1e4085e078b9bb2f78f" level="file"><did><unittitle>Arbitration in Grievance Case No. 49-973</unittitle><unitdate datechar="creation" normal="1950/1950">1950</unitdate><container id="aspace_71395154b7b3c5b022f23e901fa52442" label="unspecified" type="box">1</container><container id="aspace_67e87d071c5ac5fa8b7324b2e9fbab85" parent="aspace_71395154b7b3c5b022f23e901fa52442" type="folder">3</container></did></c01><c01 id="aspace_db847fd052fb5a5df317c73a00b1a200" level="file"><did><unittitle>Arbitration Grievance Case No. 49-973</unittitle><unitdate datechar="creation" normal="1950/1950">1950</unitdate><container id="aspace_d281ca4e484b0c24bfcd0719091b3a1f" label="unspecified" type="box">1</container><container id="aspace_7dd5ff4bf14be8a0f4f9588e908ad24f" parent="aspace_d281ca4e484b0c24bfcd0719091b3a1f" type="folder">4</container></did></c01></dsc>
 </archdesc>
 </ead>

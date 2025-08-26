@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06000-033p</eadid><filedesc><titlestmt><titleproper>UNITE Local 155 Photographs <num>6000/033 P</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 17, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:27:32 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06000-033p</eadid><filedesc><titlestmt><titleproper>UNITE Local 155 Photographs <num>6000/033 P</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 17, 2016</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:36:43 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -18,23 +18,6 @@
     <langmaterial id="aspace_9cd62641b80508d801569fe2392c203b">Collection material in English</langmaterial>
     <unitid type="bibid">7670629</unitid>
   </did>
-  <odd id="aspace_e7f84b393b03b1f89502ec9f85e88348">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, May 01, 2012</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Randall Miles, February 17, 2016</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_1f89d50fa1beb2d14c9767a0379f8ead">
     <head>Biographical / Historical</head>
 <p>UNITE, the Union of Needle Trades, Industrial, and Textile Employees was formed in 1995 after a merger between the International Ladies' Garment Workers Union (ILGWU) and the Amalgamated Clothing and Textile Workers Union (ACTWU). </p><p> In 2004 they announced they would merge with the Hotel Employees and Restaurant Employees Union (HERE) which created UNITE HERE. </p><p> Jay Mazur served as president of UNITE from its beginning until his retirement in 2001. Bruce Raynor was elected president at that time and served until the HERE merger.</p>  </bioghist>
@@ -50,6 +33,23 @@
   <relatedmaterial id="aspace_1c025b122d36e41a5d9cea03d990a897">
     <head>Related Materials</head>
 <p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06000-033.html"> 6000/033: UNITE Local 155 Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06000mb.html"> 6000 MB: UNITE Memorabilia</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06000av.html"> 6000 AV: UNITE Audio-Visual Collection</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06000g.html"> 6000 G: UNITE Posters</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06000mb.html"> 6000 MB: UNITE Memorabilia</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06000p.html"> 6000 P: UNITE Photographs</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06000pubs.html"> 6000 PUBS: UNITE Publications</extref></p>  </relatedmaterial>
+  <odd id="aspace_e515950dcd4deb6d19849e9573220802">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, May 01, 2012</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, February 17, 2016</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject source="lcsh">Hospitality industry -- Employees -- Labor unions</subject>
     <corpname audience="internal" source="ingest">Amalgamated Clothing and Textile Workers Union --Photographs</corpname>
@@ -58,6 +58,6 @@
     <corpname audience="internal" source="ingest">UNITE HERE (Organization) --Photographs</corpname>
   </controlaccess>
   <unitid type="bibid">7670629</unitid>
-  <dsc><c01 id="aspace_f2ded9e2bf24026cf9a546318fb9c78e" level="file"><did><unittitle>UNITE Local 155 (1995)</unittitle><unitdate datechar="creation" normal="1995/1995">1995</unitdate><container id="aspace_7b20e3fe4f36393250ca64149d25d98d" label="unspecified" type="box">1</container><container id="aspace_1717ad0ad3932b047d1590d3b2ae3ddb" parent="aspace_7b20e3fe4f36393250ca64149d25d98d" type="folder">1</container></did><scopecontent id="aspace_bd865a521a3fb79736158eaea2d342ab"><head>Scope and Contents</head><p>black and white photograph negatives</p></scopecontent></c01><c01 id="aspace_7490b2f26b39be823d9c75f520c13d20" level="file"><did><unittitle>UNITE Local 155 (1996)</unittitle><unitdate datechar="creation" normal="1996/1996">1996</unitdate><container id="aspace_8c490d780911c638afb71425860a4f22" label="unspecified" type="box">1</container><container id="aspace_be4d319fcc7cb84b7adf971be3ac484f" parent="aspace_8c490d780911c638afb71425860a4f22" type="folder">2</container></did><scopecontent id="aspace_a38227c0f86e9d4f037372f97023e806"><head>Scope and Contents</head><p>Black and white photograph negatives</p></scopecontent></c01><c01 id="aspace_ee3f069bb5c4e44fb01f465c52b97274" level="file"><did><unittitle>UNITE Local 155</unittitle><container id="aspace_ddfb59b34517455d1d5b2bcf32596dfc" label="unspecified" type="box">1</container><container id="aspace_1b2ee6ff79e47ea10849fe2fd40115dd" parent="aspace_ddfb59b34517455d1d5b2bcf32596dfc" type="folder">3</container></did><scopecontent id="aspace_1a4b9c02651f4ea2ffb114d9a075d44d"><head>Scope and Contents</head><p>73 photographs</p></scopecontent></c01><c01 id="aspace_fe7de90a69165f4f22158f7a486da1b5" level="file"><did><unittitle>Sweatshop protest</unittitle><container id="aspace_dcef7e3afc931dc7da0ead92a5d0bc83" label="unspecified" type="box">1</container><container id="aspace_8bc1d84b48ec7edb5b69efd05832f7a1" parent="aspace_dcef7e3afc931dc7da0ead92a5d0bc83" type="folder">4</container></did><scopecontent id="aspace_3f75324d470851b9f26fcba6439d7f25"><head>Scope and Contents</head><p>23 photographs</p></scopecontent></c01><c01 id="aspace_a2be5a535f5d5927403848966528a687" level="file"><did><unittitle>Miscellaneous photographs</unittitle><container id="aspace_cfab61ab95961133dda050ff640855b6" label="unspecified" type="box">1</container><container id="aspace_55d7ed3b85d122842c4d9a39218c1c59" parent="aspace_cfab61ab95961133dda050ff640855b6" type="folder">5</container></did><scopecontent id="aspace_aa67150eb71a5b0d459d68a54482a61f"><head>Scope and Contents</head><p>113 photographs ; newspaper clipping</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_f2ded9e2bf24026cf9a546318fb9c78e" level="file"><did><unittitle>UNITE Local 155 (1995)</unittitle><unitdate datechar="creation" normal="1995/1995">1995</unitdate><container id="aspace_a98edc7a0c2b26271221c5025815e1b9" label="unspecified" type="box">1</container><container id="aspace_f8f363cc33cb5f40bd736eb3d8d577c6" parent="aspace_a98edc7a0c2b26271221c5025815e1b9" type="folder">1</container></did><scopecontent id="aspace_bd865a521a3fb79736158eaea2d342ab"><head>Scope and Contents</head><p>black and white photograph negatives</p></scopecontent></c01><c01 id="aspace_7490b2f26b39be823d9c75f520c13d20" level="file"><did><unittitle>UNITE Local 155 (1996)</unittitle><unitdate datechar="creation" normal="1996/1996">1996</unitdate><container id="aspace_d95039786b369df012670dfc2e2d7b62" label="unspecified" type="box">1</container><container id="aspace_6b2597a2df52875aeee3288079ffc264" parent="aspace_d95039786b369df012670dfc2e2d7b62" type="folder">2</container></did><scopecontent id="aspace_a38227c0f86e9d4f037372f97023e806"><head>Scope and Contents</head><p>Black and white photograph negatives</p></scopecontent></c01><c01 id="aspace_ee3f069bb5c4e44fb01f465c52b97274" level="file"><did><unittitle>UNITE Local 155</unittitle><container id="aspace_d767755f4da14ad1fe8c0053de220366" label="unspecified" type="box">1</container><container id="aspace_6b46c00e8d5dcbf7d3259d3a5a8fdf60" parent="aspace_d767755f4da14ad1fe8c0053de220366" type="folder">3</container></did><scopecontent id="aspace_1a4b9c02651f4ea2ffb114d9a075d44d"><head>Scope and Contents</head><p>73 photographs</p></scopecontent></c01><c01 id="aspace_fe7de90a69165f4f22158f7a486da1b5" level="file"><did><unittitle>Sweatshop protest</unittitle><container id="aspace_72035519c2a919da903d007707f873e5" label="unspecified" type="box">1</container><container id="aspace_4412b10e2e67031811e3751cb5739274" parent="aspace_72035519c2a919da903d007707f873e5" type="folder">4</container></did><scopecontent id="aspace_3f75324d470851b9f26fcba6439d7f25"><head>Scope and Contents</head><p>23 photographs</p></scopecontent></c01><c01 id="aspace_a2be5a535f5d5927403848966528a687" level="file"><did><unittitle>Miscellaneous photographs</unittitle><container id="aspace_2899fb8e5e71daa892cf3c21a472c052" label="unspecified" type="box">1</container><container id="aspace_7bd5fb4e853a49e6af43c2dc9df3d0c1" parent="aspace_2899fb8e5e71daa892cf3c21a472c052" type="folder">5</container></did><scopecontent id="aspace_aa67150eb71a5b0d459d68a54482a61f"><head>Scope and Contents</head><p>113 photographs ; newspaper clipping</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

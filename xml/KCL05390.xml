@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05390</eadid><filedesc><titlestmt><titleproper>U.S. Civil Aeronautics Board Records <num>5390</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 11, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:11:43 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05390</eadid><filedesc><titlestmt><titleproper>U.S. Civil Aeronautics Board Records <num>5390</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 11, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:14:23 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_13a9357ac46537b38dc880257c4a6a0a">Collection material in English</langmaterial>
     <unitid type="bibid">5622236</unitid>
   </did>
-  <odd id="aspace_dd5c62f3ea1cd191c19c1476e6a1f18a">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, November 25, 2013</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, March 11, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_5b2a69526594daffc54f1ac0829b69d0">
     <head>Biographical / Historical</head>
 <p>On November 3, 1958 the six airlines filed an agreement with the Civil Aeronautics Board which provided for certain mutual assistance in the event of a strike against one of them. The carriers still operating would make monthly payments of the increased revenues (less added direct expense) to the carrier which was shut down. </p><p> Formal objections to the agreement were filed by the International Association of Machinists, the Brotherhood of Hallway and Steamship Clerks, Freight Handlers, Express and Station Employees, the Air Line Pilots Association, International and the six supplemental air carriers, jointly. </p><p> The Civil Aeronautics Board, before it approved the agreement, held public hearings on January 14, 1959 to which all interested parties were invited. On January 26, 1959 the Board tentatively approved the agreement. Objections were raised thereafter, and an amendment to the Mutual Aid Agreement was made in 1961.</p>  </bioghist>
@@ -51,6 +34,23 @@
   <prefercite id="aspace_e4066bb793a03ff361d272225078d877">
     <head>Preferred Citation</head>
 <p>U.S. Civil Aeronautics Board Records #5390. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <odd id="aspace_01d7ac31beceb35fb7a71726b6109631">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, November 25, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 11, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject source="lcsh">Airlines -- Employees -- Labor unions -- United States</subject>
     <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh92004811" source="lcsh">Strikes and lockouts -- Airlines -- United States</subject>
@@ -63,6 +63,6 @@
     <corpname audience="internal" source="ingest">United Air Lines, Inc.</corpname>
   </controlaccess>
   <unitid type="bibid">5622236</unitid>
-  <dsc><c01 id="aspace_5c347798b81b8a4b0baf6ec84893a90c" level="file"><did><unittitle>Amendment to Mutual Aid Agreement</unittitle><unitdate datechar="creation" normal="1959/1961" type="inclusive">1959-1961</unitdate><container id="aspace_fe5365cbfd614c8708afe21e60fea4b9" label="unspecified" type="box">1</container><container id="aspace_754b22cc1d4fdc3b349303077adda5da" parent="aspace_fe5365cbfd614c8708afe21e60fea4b9" type="folder">1</container></did></c01><c01 id="aspace_625957a414b9ec6de3965a2aa302f72b" level="file"><did><unittitle>U.S. Civil Aeronautics Board</unittitle><unitdate datechar="creation" normal="1958/1959" type="inclusive">1958-1959</unitdate><container id="aspace_85ea8ef36cd778b9bee07d5d25629c07" label="unspecified" type="box">1</container><container id="aspace_825dc9107c5f78a5de341ee8bc4ec05a" parent="aspace_85ea8ef36cd778b9bee07d5d25629c07" type="folder">2</container></did></c01><c01 id="aspace_07bcb2d1b6323e1cd472248df4bf675c" level="file"><did><unittitle>In support of the agreement</unittitle><unitdate datechar="creation" normal="1959/1959">1959</unitdate><container id="aspace_2a55ffe38252a88d086ffc84a7be0abe" label="unspecified" type="box">1</container><container id="aspace_a078a36baeceea279e74d6e0f1a4afe2" parent="aspace_2a55ffe38252a88d086ffc84a7be0abe" type="folder">3</container></did></c01><c01 id="aspace_587438d5e0b20a4641e9454e9c9078bf" level="file"><did><unittitle>In opposition to the agreement</unittitle><unitdate datechar="creation" normal="1958/1958">1958</unitdate><container id="aspace_393d82f02cdf9d4cb56847b4cf9efa41" label="unspecified" type="box">1</container><container id="aspace_0ddcf004e4bc59114642177c53f44385" parent="aspace_393d82f02cdf9d4cb56847b4cf9efa41" type="folder">4</container></did></c01><c01 id="aspace_1c0f5dc27a8fdfcbe22881c14ddb3bbf" level="file"><did><unittitle>Opinions of other government agencies</unittitle><unitdate datechar="creation" normal="1958/1959" type="inclusive">1958-1959</unitdate><container id="aspace_14e7a24d9b112814477d99a2a3cf7c81" label="unspecified" type="box">1</container><container id="aspace_bd50f156b57f315603c45e138bb8d370" parent="aspace_14e7a24d9b112814477d99a2a3cf7c81" type="folder">5</container></did></c01></dsc>
+  <dsc><c01 id="aspace_5c347798b81b8a4b0baf6ec84893a90c" level="file"><did><unittitle>Amendment to Mutual Aid Agreement</unittitle><unitdate datechar="creation" normal="1959/1961" type="inclusive">1959-1961</unitdate><container id="aspace_72c38f18caad5cbfc53d6853b672598c" label="unspecified" type="box">1</container><container id="aspace_f7628c18da671f30d61c8c1d54650412" parent="aspace_72c38f18caad5cbfc53d6853b672598c" type="folder">1</container></did></c01><c01 id="aspace_625957a414b9ec6de3965a2aa302f72b" level="file"><did><unittitle>U.S. Civil Aeronautics Board</unittitle><unitdate datechar="creation" normal="1958/1959" type="inclusive">1958-1959</unitdate><container id="aspace_3bae419c03fa77deec36cca069f3c9d3" label="unspecified" type="box">1</container><container id="aspace_13bb93a1d781dbcadedbbf4bfb4d152f" parent="aspace_3bae419c03fa77deec36cca069f3c9d3" type="folder">2</container></did></c01><c01 id="aspace_07bcb2d1b6323e1cd472248df4bf675c" level="file"><did><unittitle>In support of the agreement</unittitle><unitdate datechar="creation" normal="1959/1959">1959</unitdate><container id="aspace_14a2e072bb0fc73f9f23d7bf893853a3" label="unspecified" type="box">1</container><container id="aspace_479197551df61b91d732f6327218ee35" parent="aspace_14a2e072bb0fc73f9f23d7bf893853a3" type="folder">3</container></did></c01><c01 id="aspace_587438d5e0b20a4641e9454e9c9078bf" level="file"><did><unittitle>In opposition to the agreement</unittitle><unitdate datechar="creation" normal="1958/1958">1958</unitdate><container id="aspace_0a5644a62bd54d6e6f74a4b2b8e4c281" label="unspecified" type="box">1</container><container id="aspace_eeb4c2336a201e0be3dfb5fb0c528cf0" parent="aspace_0a5644a62bd54d6e6f74a4b2b8e4c281" type="folder">4</container></did></c01><c01 id="aspace_1c0f5dc27a8fdfcbe22881c14ddb3bbf" level="file"><did><unittitle>Opinions of other government agencies</unittitle><unitdate datechar="creation" normal="1958/1959" type="inclusive">1958-1959</unitdate><container id="aspace_a508b9ee18aac2d5a6e0ce0c8270cfec" label="unspecified" type="box">1</container><container id="aspace_1b693d9e65aef9f3490ca86bad4e46a5" parent="aspace_a508b9ee18aac2d5a6e0ce0c8270cfec" type="folder">5</container></did></c01></dsc>
 </archdesc>
 </ead>

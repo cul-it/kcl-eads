@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05003mb</eadid><filedesc><titlestmt><titleproper>U.S. President's Railroad Commission Memorabilia <num>5003 MB</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 04, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:05:12 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05003mb</eadid><filedesc><titlestmt><titleproper>U.S. President's Railroad Commission Memorabilia <num>5003 MB</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 04, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:06:27 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_a80791b46464ca3fac13a1150bfa0f74">Collection material in English</langmaterial>
     <unitid type="bibid">8260316</unitid>
   </did>
-  <odd id="aspace_d8b92707a63fbd6397a76b7a9175c1cf">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, October 04, 2013</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, March 04, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_9e97665d2a7e72a6d0cfed6cd63520ee">
     <head>Biographical / Historical</head>
 <p>The U.S. Presidential Railroad Commission was established by Executive Order No. 10891 of November 1, 1960, to consider a controversy between carriers represented by the Eastern, Western, and Southeastern Carriers' Conference Committees and the Brotherhood of Locomotive Engineers, the Brotherhood of Locomotive Firemen and Enginemen, the Order of Railway Conductors and Brakemen, the Brotherhood of Railroad Trainmen, and the Switchmen's Union of North America. </p><p> Specifically, the controversy surrounded the assertion by the carriers that firemen were not needed on diesel locomotives and that their positions should be eliminated. The unions, on the other hand, maintained that modern diesel locomotives were much too complex to be operated by one engineer and that firemen were necessary to ensure safety. Seventy-nine witnesses appeared before the Commission and statements were filed on behalf of one hundred and fifty-five additional witnesses.</p>  </bioghist>
@@ -48,13 +31,30 @@
   <prefercite id="aspace_39566563da98c932ad38cd8039a1492f">
     <head>Preferred Citation</head>
 <p>U.S. President's Railroad Commission Memorabilia #5003 MB. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_b4862dffb86c1a776abcb6c3fe82800e">
+  <relatedmaterial id="aspace_5aaa7fd880966c3af16d479743e37631">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05003.html"> 5003: U.S. President's Railroad Commission Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05003p.html"> 5003 P: U.S. President's Railroad Commission Photographs</extref></p>  </relatedmaterial>
+<p>Related Collections:  5003: U.S. President's Railroad Commission Records  5003 P: U.S. President's Railroad Commission Photographs</p>  </relatedmaterial>
+  <odd id="aspace_8191f49edf70a9893ebdbfd02251f2a0">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 04, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 04, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <corpname audience="internal" source="ingest">President's Railroad Commission (U.S.)</corpname>
   </controlaccess>
   <unitid type="bibid">8260316</unitid>
-  <dsc><c01 id="aspace_dfd2393e8fff7ceba77f633d149a2411" level="file"><did><unittitle>Two dimensional model of a diesel electric locomotive</unittitle><container id="aspace_029827ce4a546464d7b6f49c6ce9af8e" label="unspecified" type="box">1</container><container id="aspace_d4c29b5f68c33a5d5dbeed9793b32e18" parent="aspace_029827ce4a546464d7b6f49c6ce9af8e" type="folder">1</container></did></c01></dsc>
+  <dsc><c01 id="aspace_dfd2393e8fff7ceba77f633d149a2411" level="file"><did><unittitle>Two dimensional model of a diesel electric locomotive</unittitle><container id="aspace_51cb88f4dc4cae39d39e9a88bf7dab8d" label="unspecified" type="box">1</container><container id="aspace_3df2579c23cec25d2cde440ab7000512" parent="aspace_51cb88f4dc4cae39d39e9a88bf7dab8d" type="folder">1</container></did></c01></dsc>
 </archdesc>
 </ead>

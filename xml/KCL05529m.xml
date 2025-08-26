@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05529m</eadid><filedesc><titlestmt><titleproper>Daniel, Franz E. Memorial Service Papers <num>5529m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 18, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:13:49 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05529m</eadid><filedesc><titlestmt><titleproper>Daniel, Franz E. Memorial Service Papers <num>5529m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 18, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:17:11 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -22,23 +22,6 @@
     <langmaterial id="aspace_a8ba7809a2dc6ea56d010851c169fe93">Collection material in English</langmaterial>
     <unitid type="bibid">5659410</unitid>
   </did>
-  <odd id="aspace_54fbbdab9dd2ab7e8d73dcb1f7912a3b">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, October 21, 2013</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, March 18, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_d38c554cf00b7c2a33ae01c8b08d4838">
     <head>Biographical / Historical</head>
 <p>Franz Daniel was born in Osceola, Missouri on April 4, 1904. A graduate of the University of Wisconsin, Daniel worked for the Amalgamated Clothing Workers of America, the Industrial Union of Marine and Shipbuilding Workers, and the CIO. He died on August 19, 1976, at the age of 72.</p>  </bioghist>
@@ -54,14 +37,31 @@
   <prefercite id="aspace_e4d95a885161b059445c9d7aaca8db97">
     <head>Preferred Citation</head>
 <p>Franz E. Daniel Memorial Service Papers #5529m. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_f609619a18ef7227c410ff2dc9272bfe">
+  <relatedmaterial id="aspace_91b51d74c0e993b6c7e7d4dce13f8d93">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/EAD/htmldocs/KCL05529av.html"> 5529 AV: Franz E. Daniel Memorial Service Audio recording</extref></p>  </relatedmaterial>
+<p>Related Collections:  5529 AV: Franz E. Daniel Memorial Service Audio recording</p>  </relatedmaterial>
+  <odd id="aspace_24a6729597711c25d7ec90892a6ba79f">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 21, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 18, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <persname audience="internal" source="ingest">Daniel, Franz</persname>
     <corpname audience="internal" authfilenumber="http://id.loc.gov/authorities/names/n79086831" source="lcnaf">AFL-CIO</corpname>
   </controlaccess>
   <unitid type="bibid">5659410</unitid>
-  <dsc><c01 id="aspace_6fef2138d656f85d7fddf81ba1190b98" level="file"><did><unittitle>Franz E. Daniel Memorial Service</unittitle><unitdate datechar="creation" normal="1976/1976">1976</unitdate><container id="aspace_1b88ed7798b77ac7b6a0dfded81c5746" label="unspecified" type="box">1</container></did><scopecontent id="aspace_ec83fccace97aa88c24d9bc6bd5e70ab"><head>Scope and Contents</head><p>September 29, 1976</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_6fef2138d656f85d7fddf81ba1190b98" level="file"><did><unittitle>Franz E. Daniel Memorial Service</unittitle><unitdate datechar="creation" normal="1976/1976">1976</unitdate><container id="aspace_fddc7c699eac2151d65aefaebb111db8" label="unspecified" type="box">1</container></did><scopecontent id="aspace_ec83fccace97aa88c24d9bc6bd5e70ab"><head>Scope and Contents</head><p>September 29, 1976</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

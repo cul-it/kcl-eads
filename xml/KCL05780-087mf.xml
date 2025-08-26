@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05780-087mf</eadid><filedesc><titlestmt><titleproper>ILGWU Triangle Fire Trial Summary and Partial Transcript on Microfilm <num>5780/087 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>June 2011</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:21:28 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05780-087mf</eadid><filedesc><titlestmt><titleproper>ILGWU Triangle Fire Trial Summary and Partial Transcript on Microfilm <num>5780/087 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>June 2011</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:28:17 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -16,27 +16,6 @@
     <langmaterial id="aspace_70656bf872876261260c3feade951559">Collection material in English</langmaterial>
     <unitid type="bibid">6323254</unitid>
   </did>
-  <odd id="aspace_e5c19746bc8b1c615061ca3d69c76127">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183<extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref><extref xlink:href="http://www.ilr.cornell.edu/library/kheel">http://www.ilr.cornell.edu/library/kheel</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff</item>
-      </defitem>
-      <defitem>
-        <label>Date completed:</label>
-        <item>June 2011</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Cheryl Beredo, June 2011</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_f2692c5b897677f7061fc7bfd9a8d9e0">
     <head>Biographical / Historical</head>
 <p>The International Ladies' Garment Workers' Union was founded in New York City in 1900 by mostly Socialist immigrant workers who sought to unite the various crafts in the growing women's garment industry. The union soon reflected changes in the sector and rapidly organized thousands of unskilled and semi-skilled women, mostly Jewish and Italian young immigrants. Exemplifying the "new unionism," the ILGWU led two of the most widespread and best-known industrial strikes of the early Twentieth Century: the shirtwaist makers' strike of 1909 in New York City and the cloak makers' strike of 1910 in Chicago. The union also tried to adapt to the fragmented and unstable nature of the industry. It adopted the "protocol of peace," a system of industrial relations that attempted to ensure stability and limit strikes and production disruption by providing for an arbitration system to resolve disputes.</p><p> The ILGWU exemplified the European-style social unionism of its founding members. They pursued bread and butter issues but provided educational opportunities, benefits, and social programs to union members as well. In 1919, the ILGWU became the first American union to negotiate an unemployment compensation fund that was contributed to by its employers. The ILGWU also pioneered in the establishment of an extremely progressive health care program for its members which included not only regional Union Health Centers but also a resort for union workers, known as Unity House. The Union also had an imaginative and pioneering Education Department which not only trained workers in traditional union techniques, but provided courses in citizenship and the English language.</p><p> David Dubinsky, an immigrant from Belarus who came to the US in 1911, provided strong leadership that led to unprecedented growth in the union during his presidency from 1932 to 1966. He led the union through successful internal anti-communist struggles, built on the ascendancy of industrial unionism by encouraging the formation of the Committee for Industrial Organization, and helped the union become an important political force in New York City and state politics, and in the national Democratic Party and Liberal Party as well.</p><p> In the period following the Second World War, the union suffered a decline in membership as manufacturers avoided unionization and took advantage of less expensive labor by moving shops from the urban centers in the northeast to the south, and later abroad. The ethnic and racial character of the ILGWU also changed as European immigrants were supplanted by Asians, Latin Americans, African- Americans, and immigrants from the Caribbean.</p><p> In July 1995 the ILGWU merged with the Amalgamated Clothing and Textile Workers Union (ACTWU) at a joint convention, forming UNITE (Union of Needletrades, Industrial and Textile Employees). At the time the new union had a membership of about 250,000 in the United States, Canada, and Puerto Rico.</p>  </bioghist>
@@ -52,9 +31,23 @@
   <prefercite id="aspace_293a42a67352581562959f23b2208d31">
     <head>Preferred Citation</head>
 <p>Triangle Fire Trial Summary and Partial Transcript, November 1911. 5780/087 mf. Kheel Center for Labor-Management Documentation and Archives, Martin P. Catherwood Library, Cornell University.</p>  </prefercite>
-  <odd id="aspace_d88537373fb658de6cc0110b1628becf">
+  <odd id="aspace_caab16af2e6763b796c2883a2cfc2e69">
     <head>General</head>
-<p>"Permanent deposit"</p>  </odd>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Cheryl Beredo, June 2011</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject source="lcsh">Clothing workers -- New York (State) -- New York</subject>
     <subject source="local">Clothing workers -- United States</subject>
@@ -68,6 +61,6 @@
     <corpname authfilenumber="http://id.loc.gov/authorities/names/n83177167" source="lcnaf">Triangle Shirtwaist Company -- Fire, 1911</corpname>
   </controlaccess>
   <unitid type="bibid">6323254</unitid>
-  <dsc><c01 id="aspace_ada572f30b489938ce80e754b776fccf" level="file"><did><unittitle>People of the State of New York vs. Isaac Harris and Max Blank. Partial Transcript.</unittitle><unitdate datechar="creation" normal="1911/1911">1911</unitdate><container id="aspace_622581676215001c6d9eed2a434daa2b" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_0ade153a2d3c77a938bca75022e3173a"><head>Scope and Contents</head><p>November, 1911</p></scopecontent></c01><c01 id="aspace_c1f43c3afb7dc16c44c8d02ba3ce9e17" level="file"><did><unittitle>New York Journal - American</unittitle><unitdate datechar="creation" normal="1911/1911">1911</unitdate><container id="aspace_2d8a587f783d4a2dd6ec4933edc9ae86" label="unspecified" type="reel">2</container></did><scopecontent id="aspace_62c41e2c8a5f79aea35cbf4b1f8e035c"><head>Scope and Contents</head><p>March 1, 1911 - April 30, 1911. Film in pieces on reel.</p></scopecontent></c01><c01 id="aspace_b439af1c6ca6adf6e858cb6af4edd08b" level="file"><did><unittitle>New York Evening Journal</unittitle><unitdate datechar="creation" normal="1911/1911">1911</unitdate><container id="aspace_65e3425613c7f781b49b2e679dadeaf0" label="unspecified" type="reel">3</container></did><scopecontent id="aspace_b375db4b5f98898ecb2406c8f79a3876"><head>Scope and Contents</head><p>March, 1911.</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_ada572f30b489938ce80e754b776fccf" level="file"><did><unittitle>People of the State of New York vs. Isaac Harris and Max Blank. Partial Transcript.</unittitle><unitdate datechar="creation" normal="1911/1911">1911</unitdate><container id="aspace_34d41a80e537ef6df49cb667aedc5c57" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_0ade153a2d3c77a938bca75022e3173a"><head>Scope and Contents</head><p>November, 1911</p></scopecontent></c01><c01 id="aspace_c1f43c3afb7dc16c44c8d02ba3ce9e17" level="file"><did><unittitle>New York Journal - American</unittitle><unitdate datechar="creation" normal="1911/1911">1911</unitdate><container id="aspace_e957e5feb3398c6962581a50e166d732" label="unspecified" type="reel">2</container></did><scopecontent id="aspace_62c41e2c8a5f79aea35cbf4b1f8e035c"><head>Scope and Contents</head><p>March 1, 1911 - April 30, 1911. Film in pieces on reel.</p></scopecontent></c01><c01 id="aspace_b439af1c6ca6adf6e858cb6af4edd08b" level="file"><did><unittitle>New York Evening Journal</unittitle><unitdate datechar="creation" normal="1911/1911">1911</unitdate><container id="aspace_608b64cd1fcdf9eb33d42e57144b373c" label="unspecified" type="reel">3</container></did><scopecontent id="aspace_b375db4b5f98898ecb2406c8f79a3876"><head>Scope and Contents</head><p>March, 1911.</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

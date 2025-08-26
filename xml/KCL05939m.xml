@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05939m</eadid><filedesc><titlestmt><titleproper>Lean, Angela Y. "San Francisco's 1938 National Dollar Store Strike: An Opportunity for Change" Manuscript <num>5939m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 18, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:26:12 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05939m</eadid><filedesc><titlestmt><titleproper>Lean, Angela Y. "San Francisco's 1938 National Dollar Store Strike: An Opportunity for Change" Manuscript <num>5939m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 18, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:34:53 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_ebe3949e0952af005300c2aa441ae3e1">Collection material in English</langmaterial>
     <unitid type="bibid">5736588</unitid>
   </did>
-  <odd id="aspace_b31dbabf35a7dd244d7106162ec71c20">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, October 24, 2013</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, April 18, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <scopecontent id="aspace_4dd93c092d369739e7a871921177ddae">
     <head>Scope and Contents</head>
 <p>This collection consists of "San Francisco's 1938 National Dollar Store Strike: An Opportunity for Change," by Angela Y. Lean.</p>  </scopecontent>
@@ -48,6 +31,23 @@
   <prefercite id="aspace_22bf30c5f97490772b75f063594a6408">
     <head>Preferred Citation</head>
 <p>Angela Y. Lean "San Francisco's 1938 National Dollar Store Strike: An Opportunity for Change" Manuscript #5939m. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <odd id="aspace_b69f1ba84b497944f038a3084b12340a">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 24, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 18, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85136558" source="lcsh">Clothing workers -- Labor unions</subject>
     <persname audience="internal" source="ingest">Lean, Angela, Y.</persname>
@@ -55,6 +55,6 @@
     <corpname audience="internal" rules="local" source="local">National Dollar Store</corpname>
   </controlaccess>
   <unitid type="bibid">5736588</unitid>
-  <dsc><c01 id="aspace_184339a054fbc9ff94775c3beb95db04" level="file"><did><unittitle>"San Francisco's 1938 National Dollar Store Strike: An Opportunity for Change"</unittitle><unitdate datechar="creation" normal="1993/1993">1993</unitdate><container id="aspace_2f8211e48ae0a166de771ff4a86e693a" label="unspecified" type="box">1</container></did><scopecontent id="aspace_af1a8c3f6a6804dd41a94e6c9749324c"><head>Scope and Contents</head><p>By Angela Y. Lean; April 21, 1993; 44 pages, plus appendixes, bibliography, and bibliographic essay.</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_184339a054fbc9ff94775c3beb95db04" level="file"><did><unittitle>"San Francisco's 1938 National Dollar Store Strike: An Opportunity for Change"</unittitle><unitdate datechar="creation" normal="1993/1993">1993</unitdate><container id="aspace_471eaf3a8be23b7ed46a1fee2bcd7fef" label="unspecified" type="box">1</container></did><scopecontent id="aspace_af1a8c3f6a6804dd41a94e6c9749324c"><head>Scope and Contents</head><p>By Angela Y. Lean; April 21, 1993; 44 pages, plus appendixes, bibliography, and bibliographic essay.</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05994av</eadid><filedesc><titlestmt><titleproper>Robert F. Wagner Labor Archives Bernard J. Woolis Memorial Tribute <num>5994 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 05, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:27:00 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05994av</eadid><filedesc><titlestmt><titleproper>Robert F. Wagner Labor Archives Bernard J. Woolis Memorial Tribute <num>5994 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 05, 2015</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:35:58 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_92ac35dc17dce343cae501975b235256">Collection material in English</langmaterial>
     <unitid type="bibid">5745678</unitid>
   </did>
-  <odd id="aspace_e0a434e166281ac454e43303ff2c409d">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, September 30, 2013</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Randall Miles, August 05, 2015</item>
-      </defitem>
-    </list>
-  </odd>
   <accessrestrict id="aspace_e4f6761734b0ab3edd43daecf1e5b5f0">
     <head>Conditions Governing Access</head>
 <p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
@@ -48,6 +31,23 @@
   <relatedmaterial id="aspace_c8c093dfd92eb4a54112bcff2f1b0ea9">
     <head>Related Materials</head>
 <p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05685.html"> 5685: Joint Board, Fur, Leather &amp; Machine Workers Union Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05685mf.html"> 5685 mf: Joint Board, Fur, Leather &amp; Machine Workers Union Records on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05685p.html"> 5685 P: Joint Board, Fur, Leather &amp; Machine Workers Union Photographs</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05917p.html"> 5917 P: Joint Board, Fur, Leather &amp; Machine Workers Union Additional Photographs</extref></p>  </relatedmaterial>
+  <odd id="aspace_767b2894c3ae892c80437080db3dfa44">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, September 30, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, August 05, 2015</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85136629" source="lcsh">Leather workers -- Labor unions</subject>
     <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85136592" source="lcsh">Fur workers -- Labor unions</subject>
@@ -57,6 +57,6 @@
     <corpname audience="internal" source="ingest">International Fur and Leather Workers Union</corpname>
   </controlaccess>
   <unitid type="bibid">5745678</unitid>
-  <dsc><c01 id="aspace_dc8a35545361cf8b27549520d282c22d" level="file"><did><unittitle>Bernard J. Woolis Memorial Tribute</unittitle><unitdate datechar="creation" normal="1995/1995">1995</unitdate><container id="aspace_22932ce71308ad1b4ec7320d31a918f5" label="unspecified" type="box">1</container></did><scopecontent id="aspace_24ec5b21bbb3abad56693bca47c2fe4b"><head>Scope and Contents</head><p>October 7, 1995</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_dc8a35545361cf8b27549520d282c22d" level="file"><did><unittitle>Bernard J. Woolis Memorial Tribute</unittitle><unitdate datechar="creation" normal="1995/1995">1995</unitdate><container id="aspace_0b504e66d066a3e8ce017353a9aa8c07" label="unspecified" type="box">1</container></did><scopecontent id="aspace_24ec5b21bbb3abad56693bca47c2fe4b"><head>Scope and Contents</head><p>October 7, 1995</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

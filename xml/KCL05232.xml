@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05232</eadid><filedesc><titlestmt><titleproper>Columbia Conserve Company Records <num>5232</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 22, 2017</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:09:26 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05232</eadid><filedesc><titlestmt><titleproper>Columbia Conserve Company Records <num>5232</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 22, 2017</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:11:21 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_0efad84b67da4c67ffcc054ddcc4d30f">Collection material in English</langmaterial>
     <unitid type="bibid">2293726</unitid>
   </did>
-  <odd id="aspace_3659052206f26debf7fc3d0d56b342da">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, November 01, 2007</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Randall Miles, February 22, 2017</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_d6df8c38d1bb857e11bb556fefb9b432">
     <head>Biographical / Historical</head>
 <p>Mr. William P. Hapgood, president of the Columbia Conserve Company believed that industrial democracy meant "government of the workers, by the workers, for the workers." In 1917 Mr. Hapgood started his plan, by giving the workers the right to make rules governing their hours, incomes, hiring and firing and to decide upon all policies of the company. </p><p> Various measures adopted by the plant reflect the improvement of the workers. The 55 hour week was reduced to 50 in 1917 and 45 in 1924 when a five day week and a 9 hour day were reestablished. </p><p> The maximum salary was set at $5,000. per year. Minimum salaries were established were $22 per week for unmarried and $33 per week for married men, with an additional $2 for each child, married women, where husbands were also employed received $19 per </p><p> week in 1931. </p><p> Dividends were paid to employees at the same rate as on capital stock based on the payroll until 1925 when an agreement was reached for the employees to purchase common stock with their share of the profits.</p>  </bioghist>
@@ -51,6 +34,23 @@
   <prefercite id="aspace_8c611c55d7672b2b29426a20668401f4">
     <head>Preferred Citation</head>
 <p>Columbia Conserve Company Records #5232. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <odd id="aspace_031b0b3541c4e13816920628f7c9fd3c">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, November 01, 2007</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, February 22, 2017</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject source="lcsh">Works councils -- United States</subject>
     <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85019616" source="lcsh">Cannery workers</subject>
@@ -58,6 +58,6 @@
     <corpname audience="internal" source="ingest">Columbia Conserve Company. Employee Council</corpname>
   </controlaccess>
   <unitid type="bibid">2293726</unitid>
-  <dsc><c01 id="aspace_38b636d2452c3ee0b5b127eef1488dbc" level="file"><did><unittitle>Columbia Conserve Company Council Meeting Minutes (8/5/1932-7/17/1933)</unittitle><container id="aspace_db5a26aa91c4efb472b6aade43a7f00f" label="unspecified" type="box">1</container><container id="aspace_1393d729e341a21788d569c5e10dcc54" parent="aspace_db5a26aa91c4efb472b6aade43a7f00f" type="folder">3</container></did></c01><c01 id="aspace_b324f61907e7271f05d759d66ab4a7d1" level="file"><did><unittitle>Record Group A-16 (2 of 2)</unittitle><container id="aspace_e038690b06300a63d5fb29f71a72a0a3" label="unspecified" type="box">1</container><container id="aspace_f98144d346c9169a43916895bc1126c2" parent="aspace_e038690b06300a63d5fb29f71a72a0a3" type="folder">2</container></did></c01><c01 id="aspace_3d2681cb25120af89e107f516776d375" level="file"><did><unittitle>Record Group A-16 (1 of 2)</unittitle><container id="aspace_ee33e7857f0593d04ce5ec28c51c41b0" label="unspecified" type="box">1</container><container id="aspace_67be41854c45419d0b3c35a1ef00ce42" parent="aspace_ee33e7857f0593d04ce5ec28c51c41b0" type="folder">1</container></did></c01></dsc>
+  <dsc><c01 id="aspace_38b636d2452c3ee0b5b127eef1488dbc" level="file"><did><unittitle>Columbia Conserve Company Council Meeting Minutes (8/5/1932-7/17/1933)</unittitle><container id="aspace_d3663f1b030539530300ad1e179f4621" label="unspecified" type="box">1</container><container id="aspace_1b2a2afb163cdafffa1e46ae8d712ba0" parent="aspace_d3663f1b030539530300ad1e179f4621" type="folder">3</container></did></c01><c01 id="aspace_b324f61907e7271f05d759d66ab4a7d1" level="file"><did><unittitle>Record Group A-16 (2 of 2)</unittitle><container id="aspace_9754ab86927fafc4bfb4d5864b186f31" label="unspecified" type="box">1</container><container id="aspace_905dd99a306ca7cbabac73a3843f051d" parent="aspace_9754ab86927fafc4bfb4d5864b186f31" type="folder">2</container></did></c01><c01 id="aspace_3d2681cb25120af89e107f516776d375" level="file"><did><unittitle>Record Group A-16 (1 of 2)</unittitle><container id="aspace_83c07c1472c5fb353db1beb877ca962b" label="unspecified" type="box">1</container><container id="aspace_addd16b5d87a4af0742799deecad5d49" parent="aspace_83c07c1472c5fb353db1beb877ca962b" type="folder">1</container></did></c01></dsc>
 </archdesc>
 </ead>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05071</eadid><filedesc><titlestmt><titleproper>Eastern, Western and Southeastern Carriers Conference Committee and the Railway Labor Organization Briefs and Awards <num>5071</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 07, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:06:32 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05071</eadid><filedesc><titlestmt><titleproper>Eastern, Western and Southeastern Carriers Conference Committee and the Railway Labor Organization Briefs and Awards <num>5071</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 07, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:07:55 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -22,23 +22,6 @@
     <langmaterial id="aspace_064512500507cb8adca8780e238de5ca">Collection material in English</langmaterial>
     <unitid type="bibid">5984224</unitid>
   </did>
-  <odd id="aspace_f91324331984004af4f29abca32558b1">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, February 13, 2012</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, March 07, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_4807b564c46e420d664cbb7b90e145b3">
     <head>Biographical / Historical</head>
 <p>The foundation for this proceedings was to be found in a so-called moratorium provision in the agreements signed by the parties in 1951 and 1952. The moratoruim provided for wage adjustments when the wage stabilization policy permitted so-called annual improvement wage increases. A referee was to be appointed by the President if the parties were unable to agree that a wage increase was justified. The President appointed Paul N. Guthrie as referee on December 1, 1952. The referee decided that this proceeding had power to determine only three issues. First, whether further wage increases were justified; second, If so, what such increases should be; and third, the effective date thereof. Hearings were held and voluminous data accumulated according to the report, but this collection contains only the printed items listed below.</p>  </bioghist>
@@ -54,9 +37,26 @@
   <prefercite id="aspace_05614737c5710d6bd2ef461b603594be">
     <head>Preferred Citation</head>
 <p>Eastern, Western and Southeastern Carriers Conference Committee and the Railway Labor Organization Briefs and Awards #5071. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_5da130c8794ff2e83f6bb08f49ee2282">
+  <relatedmaterial id="aspace_f761c5220f8d4fcd8f29ddd9d22668b0">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05014.html"> 5014: Railroad Case Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05320.html"> 5320: U.S. Department of Labor Wage and Hour and Public Contracts Division</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05328.html"> 5328: Ralph T. Seward Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05571.html"> 5571: Jacob Seidenberg Additional Arbitration Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05806.html"> 5806: U.S. National Mediation Board Agreements</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06046.html"> 6046: Archives Union File (AUF)</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06330pubs.html"> 6330 PUBS: Lawrence R. Johnson Missouri Pacific Railroad and Railroad Union Publications</extref></p>  </relatedmaterial>
+<p>Related Collections:  5014: Railroad Case Files  5320: U.S. Department of Labor Wage and Hour and Public Contracts Division  5328: Ralph T. Seward Papers  5571: Jacob Seidenberg Additional Arbitration Files  5806: U.S. National Mediation Board Agreements  6046: Archives Union File (AUF)  6330 PUBS: Lawrence R. Johnson Missouri Pacific Railroad and Railroad Union Publications</p>  </relatedmaterial>
+  <odd id="aspace_7ec8ab67cc8cb992b9ed846442179bcf">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, February 13, 2012</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 07, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85028069" source="lcsh">Collective bargaining -- Railroads</subject>
     <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85144699" source="lcsh">Wages -- Railroads</subject>
@@ -64,6 +64,6 @@
     <corpname audience="internal" source="ingest">Eastern, Western &amp; Southeastern Carriers'</corpname>
   </controlaccess>
   <unitid type="bibid">5984224</unitid>
-  <dsc><c01 id="aspace_05503d43f7ba1a317c0e76ee424690f8" level="file"><did><unittitle>Brief for the carriers</unittitle><container id="aspace_251ba7a863c22252d850428d497acedb" label="unspecified" type="box">1</container><container id="aspace_d2a8e6e3d86124e7f9b4379b06984be0" parent="aspace_251ba7a863c22252d850428d497acedb" type="folder">1</container></did><scopecontent id="aspace_54a154c386cdc535dbe97716725624ac"><head>Scope and Contents</head><p>65 pages</p></scopecontent></c01><c01 id="aspace_d57b19e4fd0b51368fafea26da7961fc" level="file"><did><unittitle>Summation and Argument for the carriers</unittitle><container id="aspace_c7939fbef60861cfffc58bc986725a27" label="unspecified" type="box">1</container><container id="aspace_91c55ca518f6d2927a6b13ac12383f42" parent="aspace_c7939fbef60861cfffc58bc986725a27" type="folder">2</container></did><scopecontent id="aspace_cc34c2bb2c3412e69ac3bd1c1998d55e"><head>Scope and Contents</head><p>35 pages</p></scopecontent></c01><c01 id="aspace_77be12e76bd74fbadbbdaaf8b39902e3" level="file"><did><unittitle>Brief of the operating and non-operating brotherhoods</unittitle><container id="aspace_d4e0b60265b83338ee6d319f8a53c1b1" label="unspecified" type="box">1</container><container id="aspace_ceedb4869a00c848513da86787d01a81" parent="aspace_d4e0b60265b83338ee6d319f8a53c1b1" type="folder">3</container></did><scopecontent id="aspace_63dbe60f5ea6a3eb6f60075a1107e713"><head>Scope and Contents</head><p>54 pages</p></scopecontent></c01><c01 id="aspace_e07b8654a09eafc71ef15ed734cd2390" level="file"><did><unittitle>Referee's Memorandum and Award</unittitle><container id="aspace_6426b24b2cd9bac3bb3e034fdd228b1f" label="unspecified" type="box">1</container><container id="aspace_aa95c8f0494fd4caa733c3f7c215e696" parent="aspace_6426b24b2cd9bac3bb3e034fdd228b1f" type="folder">4</container></did><scopecontent id="aspace_14f5ecafdb72a49e59e3959a3ce28e2a"><head>Scope and Contents</head><p>21 pages</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_05503d43f7ba1a317c0e76ee424690f8" level="file"><did><unittitle>Brief for the carriers</unittitle><container id="aspace_ae61fe8c5e902a0d98415bac30fd76e1" label="unspecified" type="box">1</container><container id="aspace_f0dff6d42b29d4bcf8e5940520a4798a" parent="aspace_ae61fe8c5e902a0d98415bac30fd76e1" type="folder">1</container></did><scopecontent id="aspace_54a154c386cdc535dbe97716725624ac"><head>Scope and Contents</head><p>65 pages</p></scopecontent></c01><c01 id="aspace_d57b19e4fd0b51368fafea26da7961fc" level="file"><did><unittitle>Summation and Argument for the carriers</unittitle><container id="aspace_054b4363108b97055b985aabdafc92b3" label="unspecified" type="box">1</container><container id="aspace_fed00ac9230804eaba386c0ea3e1725b" parent="aspace_054b4363108b97055b985aabdafc92b3" type="folder">2</container></did><scopecontent id="aspace_cc34c2bb2c3412e69ac3bd1c1998d55e"><head>Scope and Contents</head><p>35 pages</p></scopecontent></c01><c01 id="aspace_77be12e76bd74fbadbbdaaf8b39902e3" level="file"><did><unittitle>Brief of the operating and non-operating brotherhoods</unittitle><container id="aspace_aa70835f4a527a0e41f48be761037799" label="unspecified" type="box">1</container><container id="aspace_3b2a04323b660930efb380a60c0fd264" parent="aspace_aa70835f4a527a0e41f48be761037799" type="folder">3</container></did><scopecontent id="aspace_63dbe60f5ea6a3eb6f60075a1107e713"><head>Scope and Contents</head><p>54 pages</p></scopecontent></c01><c01 id="aspace_e07b8654a09eafc71ef15ed734cd2390" level="file"><did><unittitle>Referee's Memorandum and Award</unittitle><container id="aspace_2da02258c1d9c3a78eb2033e5fd659ed" label="unspecified" type="box">1</container><container id="aspace_7aaf58c448cad229f28c572179d113ac" parent="aspace_2da02258c1d9c3a78eb2033e5fd659ed" type="folder">4</container></did><scopecontent id="aspace_14f5ecafdb72a49e59e3959a3ce28e2a"><head>Scope and Contents</head><p>21 pages</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

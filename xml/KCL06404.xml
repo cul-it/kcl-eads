@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06404</eadid><filedesc><titlestmt><titleproper>Bykofsky, Syd Papers <num>6404</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 27, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:37:29 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06404</eadid><filedesc><titlestmt><titleproper>Bykofsky, Syd Papers <num>6404</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 27, 2015</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:49:59 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,12 +19,24 @@
     <langmaterial id="aspace_e19e6c0bfec0b4575b9ba1eb64ebaef2">Collection material in English</langmaterial>
     <unitid type="bibid">8927333</unitid>
   </did>
-  <odd id="aspace_504d0830e94f306a2838deeb75fcf223">
+  <accessrestrict id="aspace_cb86ccd3aa455aeece6020ae8bb22a99">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_d1d56566d8a4271fa70a4ba675c1eacb">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_1ce225889f57720e3ffe5f23187a6b95">
+    <head>Preferred Citation</head>
+<p>Syd Bykofsky Papers #6404. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_a112e95c8e663e10458da02651408cec">
+    <head>Related Materials</head>
+<p>Related Collections:  5619: ACWA Records</p>  </relatedmaterial>
+  <odd id="aspace_141337e6667f588b92eb201ac01faf6a">
     <head>General</head>
     <list type="deflist">
       <defitem>
         <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
       </defitem>
       <defitem>
         <label>Compiled by:</label>
@@ -36,18 +48,6 @@
       </defitem>
     </list>
   </odd>
-  <accessrestrict id="aspace_cb86ccd3aa455aeece6020ae8bb22a99">
-    <head>Conditions Governing Access</head>
-<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
-  <userestrict id="aspace_d1d56566d8a4271fa70a4ba675c1eacb">
-    <head>Conditions Governing Use</head>
-<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
-  <prefercite id="aspace_1ce225889f57720e3ffe5f23187a6b95">
-    <head>Preferred Citation</head>
-<p>Syd Bykofsky Papers #6404. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_3b492b541e751bf4f8dc43a1ed3a3dd6">
-    <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619.html"> 5619: ACWA Records</extref></p>  </relatedmaterial>
   <controlaccess>
     <subject source="ingest">Retirement plans</subject>
     <persname audience="internal" source="ingest">Bykofsky, Syd</persname>
@@ -57,6 +57,6 @@
     <corpname audience="internal" source="ingest">UNITE HERE</corpname>
   </controlaccess>
   <unitid type="bibid">8927333</unitid>
-  <dsc><c01 id="aspace_6179b2e4878a00b18738cecdc494b787" level="file"><did><unittitle>ACWA Local 169 Staff Retirement Plan</unittitle><unitdate datechar="creation" normal="1960/1976" type="inclusive">1960-1976</unitdate><container id="aspace_54df83a47592fe01a2b1ec0d1550c6de" label="unspecified" type="box">1</container><container id="aspace_ebd21f0540491ce94c9d13cae9784cd1" parent="aspace_54df83a47592fe01a2b1ec0d1550c6de" type="Folder">1</container></did></c01><c01 id="aspace_f2dd2ac5a92dd17d5547d966af9ad404" level="file"><did><unittitle>ACTWU Local 169 Staff Retirement Plan</unittitle><unitdate datechar="creation" normal="1976/1979" type="inclusive">1976-1979</unitdate><container id="aspace_67856be68397dda29ae917af82d0ac7a" label="unspecified" type="box">1</container><container id="aspace_286808c9ded9dc59e31de51818ebb20b" parent="aspace_67856be68397dda29ae917af82d0ac7a" type="Folder">2</container></did></c01><c01 id="aspace_b805531dd0a32c18136158d086522b34" level="file"><did><unittitle>UNITE Local 169 Staff Retirement Plan</unittitle><unitdate datechar="creation" normal="2002/2002">2002</unitdate><container id="aspace_b36bf4c21e0e74518fa195572c76c733" label="unspecified" type="box">1</container><container id="aspace_c6dce753509da7d50e1d68e087d28a25" parent="aspace_b36bf4c21e0e74518fa195572c76c733" type="Folder">3</container></did></c01><c01 id="aspace_7bc35a741163620b2abc855dd97f7896" level="file"><did><unittitle>UNITE HERE Staff Retirement Plan</unittitle><container id="aspace_6b7790eb13f193e817a6ce879053616d" label="unspecified" type="box">1</container><container id="aspace_193290c7a3a509a85b8471f6d625cd16" parent="aspace_6b7790eb13f193e817a6ce879053616d" type="Folder">4</container></did></c01><c01 id="aspace_a32cce4a3deaaf85ecb17d6a657a8641" level="file"><did><unittitle>35mm Slides</unittitle><container id="aspace_86f39e3892bc7b325bb991d4bab5ce31" label="unspecified" type="box">1</container><container id="aspace_0f240216b17fcfaedbe73671d73d0cc3" parent="aspace_86f39e3892bc7b325bb991d4bab5ce31" type="Folder">5</container></did><scopecontent id="aspace_00dee20bf609f291eb876176f42fc2dc"><head>Scope and Contents</head><p>5 35mm slides</p></scopecontent></c01><c01 id="aspace_02bbc960d399154b4fdb83a8de9afbda" level="file"><did><unittitle>UNITE Local 10 100th Anniversary Pin</unittitle><unitdate datechar="creation" normal="2002/2002">2002</unitdate><container id="aspace_0eb3af6755cad6bef652bf3efc864bfe" label="unspecified" type="box">1</container><container id="aspace_8a7ee8d2a877115ec4b5e87d16eb1b7c" parent="aspace_0eb3af6755cad6bef652bf3efc864bfe" type="Folder">6</container></did></c01></dsc>
+  <dsc><c01 id="aspace_6179b2e4878a00b18738cecdc494b787" level="file"><did><unittitle>ACWA Local 169 Staff Retirement Plan</unittitle><unitdate datechar="creation" normal="1960/1976" type="inclusive">1960-1976</unitdate><container id="aspace_021757a0a860e1be9b58645da68721c5" label="unspecified" type="box">1</container><container id="aspace_a5f538d64c400e0986cf726047dd0e05" parent="aspace_021757a0a860e1be9b58645da68721c5" type="Folder">1</container></did></c01><c01 id="aspace_f2dd2ac5a92dd17d5547d966af9ad404" level="file"><did><unittitle>ACTWU Local 169 Staff Retirement Plan</unittitle><unitdate datechar="creation" normal="1976/1979" type="inclusive">1976-1979</unitdate><container id="aspace_a808f45c617fada486c834dc9e978097" label="unspecified" type="box">1</container><container id="aspace_c1731e0fff85e96baeb59b8e5bac5049" parent="aspace_a808f45c617fada486c834dc9e978097" type="Folder">2</container></did></c01><c01 id="aspace_b805531dd0a32c18136158d086522b34" level="file"><did><unittitle>UNITE Local 169 Staff Retirement Plan</unittitle><unitdate datechar="creation" normal="2002/2002">2002</unitdate><container id="aspace_659e6aeb1f127086106b1f704688329b" label="unspecified" type="box">1</container><container id="aspace_21510b4eada5ad1a9f97e2a2df51c539" parent="aspace_659e6aeb1f127086106b1f704688329b" type="Folder">3</container></did></c01><c01 id="aspace_7bc35a741163620b2abc855dd97f7896" level="file"><did><unittitle>UNITE HERE Staff Retirement Plan</unittitle><container id="aspace_c7774a82f33b565d478a6c7eff5ddb58" label="unspecified" type="box">1</container><container id="aspace_f19a948f4933244c1865b62fd4cfc06b" parent="aspace_c7774a82f33b565d478a6c7eff5ddb58" type="Folder">4</container></did></c01><c01 id="aspace_a32cce4a3deaaf85ecb17d6a657a8641" level="file"><did><unittitle>35mm Slides</unittitle><container id="aspace_3a946ba89e9e3d19bbba08f6651744b8" label="unspecified" type="box">1</container><container id="aspace_ccea0bb7dae1741a56a7ea4e0c4c3dfc" parent="aspace_3a946ba89e9e3d19bbba08f6651744b8" type="Folder">5</container></did><scopecontent id="aspace_00dee20bf609f291eb876176f42fc2dc"><head>Scope and Contents</head><p>5 35mm slides</p></scopecontent></c01><c01 id="aspace_02bbc960d399154b4fdb83a8de9afbda" level="file"><did><unittitle>UNITE Local 10 100th Anniversary Pin</unittitle><unitdate datechar="creation" normal="2002/2002">2002</unitdate><container id="aspace_425f36deed7b2048efa3877dc2313a3a" label="unspecified" type="box">1</container><container id="aspace_7f7b6ee660a3460ba8a9627123164140" parent="aspace_425f36deed7b2048efa3877dc2313a3a" type="Folder">6</container></did></c01></dsc>
 </archdesc>
 </ead>

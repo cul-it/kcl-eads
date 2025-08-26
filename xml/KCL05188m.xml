@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05188m</eadid><filedesc><titlestmt><titleproper>Association of American Railroads Agreement of May 1936 <num>5188m</num></titleproper><author>Compiled by E. Parker</author><sponsor>This collection was processed with the help of generous funding from the National Historical Publications and Records Commission (NHPRC).</sponsor></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 10, 2017</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-07-08 23:59:08 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05188m</eadid><filedesc><titlestmt><titleproper>Association of American Railroads Agreement of May 1936 <num>5188m</num></titleproper><author>Compiled by E. Parker</author><sponsor>This collection was processed with the help of generous funding from the National Historical Publications and Records Commission (NHPRC).</sponsor></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 10, 2017</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:10:18 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -16,23 +16,6 @@
     <langmaterial id="aspace_081ba9fc202b30e45e394d4fd45aa5eb">Collection material in English</langmaterial>
     <unitid type="bibid">5683026</unitid>
   </did>
-  <odd id="aspace_8edd6ef373fdcc0f557c5fab682453be">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>E. Parker, March 10, 2017</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>E. Parker, March 10, 2017</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_cb7e73a98cdc616ea721ed173bc921e0">
     <head>Biographical / Historical</head>
 <p>The Association of American Railroads is an industry trade group representing the major railroads of North America. It was founded in 1934 after the American Railway Association merged with other industry trade groups in order to better represent and lobby for the interests of its member organizations.</p>  </bioghist>
@@ -48,9 +31,26 @@
   <prefercite id="aspace_67390ee9b5b56f030ddfb775a8704b1f">
     <head>Preferred Citation</head>
 <p>Association of American Railroads Agreement of May 1936 #5188m. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_56b868d57e8f126e76a9721fb75d9ade">
+  <relatedmaterial id="aspace_95d112c68d5d76fc0295e22e00de8bca">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05188av.html"> 5188 AV: Association of American Railroads "Railroad Regulation: An Absurd Game" Slide Transparencies and Sound Recording</extref></p>  </relatedmaterial>
+<p>Related Collections:  5188 AV: Association of American Railroads "Railroad Regulation: An Absurd Game" Slide Transparencies and Sound Recording</p>  </relatedmaterial>
+  <odd id="aspace_ca2bafd96bbf0b62693d71ce2641fecb">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>E. Parker, March 10, 2017</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>E. Parker, March 10, 2017</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject source="lcsh">Collective bargaining -- Railroads -- United States</subject>
     <subject source="lcsh">Wages -- Railroads -- Employees -- United States</subject>
@@ -61,6 +61,6 @@
     <corpname audience="internal" authfilenumber="http://id.loc.gov/authorities/names/n79092537" source="lcnaf">Association of American Railroads</corpname>
   </controlaccess>
   <unitid type="bibid">5683026</unitid>
-  <dsc><c01 id="aspace_177ec73d3353d515cae71fa4b37e8f21" level="file"><did><unittitle>Agreement between railroad carriers and labor unions</unittitle><unitdate datechar="creation" normal="1936/1936">1936</unitdate><container id="aspace_8f2ea9a89f48796864ac4cc71136da29" label="unspecified" type="box">1</container></did><scopecontent id="aspace_0f4eef7395ae70631a94f59123290ea3"><head>Scope and Contents</head><p>Association of American Railroads, May 21, 1936.</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_177ec73d3353d515cae71fa4b37e8f21" level="file"><did><unittitle>Agreement between railroad carriers and labor unions</unittitle><unitdate datechar="creation" normal="1936/1936">1936</unitdate><container id="aspace_01f755da4a91aeb9d04bf9033255af38" label="unspecified" type="box">1</container></did><scopecontent id="aspace_0f4eef7395ae70631a94f59123290ea3"><head>Scope and Contents</head><p>Association of American Railroads, May 21, 1936.</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

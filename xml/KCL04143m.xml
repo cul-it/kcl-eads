@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04143m</eadid><filedesc><titlestmt><titleproper>Levy, Jonathon, "The National Center for the Workplace" <num>/4143m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 01, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:02:20 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04143m</eadid><filedesc><titlestmt><titleproper>Levy, Jonathon, "The National Center for the Workplace" <num>/4143m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 01, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:03:02 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_a6013785f8f5f66bfc818a4a17a1a461">Collection material in English</langmaterial>
     <unitid type="bibid">8016833</unitid>
   </did>
-  <odd id="aspace_e2558f33888a5700eee67058cb531d6a">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, October 10, 2013</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, March 01, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <scopecontent id="aspace_23901701661ef134ecefc468890e1946">
     <head>Scope and Contents</head>
 <p>This collection consists of the report, "The National Center for the Workplace," by Jonathon D. Levy.</p>  </scopecontent>
@@ -48,16 +31,33 @@
   <prefercite id="aspace_7eb4e88d6ddc5bd578121fd67f6043d4">
     <head>Preferred Citation</head>
 <p>Jonathon Levy's "The National Center for the Workplace" #/4143m. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_a59d6d658fe7b3d233838585632631c2">
-    <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04194.html"> /4194: ILR School Dean's Office Additional Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04170.html"> /4170: J. Gormly Miller Additional Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04200.html"> /4200: ILR School Associate Dean's Office Jon Levy Additional Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619-004.html"> 5619/004: ACTWU President Jacob Sheinkman Files</extref></p>  </relatedmaterial>
   <bioghist audience="internal" id="aspace_a1b72f1ccba0fbf28b38a0aaa306e9d5">
     <head>Biographical / Historical</head>
 <p>Jonathon David Levy – founding Executive Director, Cornell University Office of Distance Learning (1997-1999), Assistant Dean, School of Industrial and Labor Relations (1982-1997), Director of School Relations (1980-1982)</p>  </bioghist>
+  <relatedmaterial id="aspace_37936cedb12983ad6102cb9932e9c98d">
+    <head>Related Materials</head>
+<p>Related Collections:  /4194: ILR School Dean's Office Additional Files  /4170: J. Gormly Miller Additional Papers  /4200: ILR School Associate Dean's Office Jon Levy Additional Files  5619/004: ACTWU President Jacob Sheinkman Files</p>  </relatedmaterial>
+  <odd id="aspace_41203905cc0234c513b33cde05c45d66">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 10, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 01, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <persname audience="internal" source="ingest">Levy, Jonathon</persname>
   </controlaccess>
   <unitid type="bibid">8016833</unitid>
-  <dsc><c01 id="aspace_f4efcebb28263e447ae6d73833b1f09d" level="file"><did><unittitle>The National Center for the Workplace</unittitle><unitdate datechar="creation" normal="1992/1992">1992</unitdate><container id="aspace_af02fd879e63ce7d29f623272984d1d0" label="unspecified" type="box">1</container></did><scopecontent id="aspace_46f10ee561c177c128daac1760d83e6f"><head>Scope and Contents</head><p>By Jonathon D. Levy; 71 pages, plus appendix; includes index.</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_f4efcebb28263e447ae6d73833b1f09d" level="file"><did><unittitle>The National Center for the Workplace</unittitle><unitdate datechar="creation" normal="1992/1992">1992</unitdate><container id="aspace_6cc88d749c3954c5d5f4e62c29cf5b31" label="unspecified" type="box">1</container></did><scopecontent id="aspace_46f10ee561c177c128daac1760d83e6f"><head>Scope and Contents</head><p>By Jonathon D. Levy; 71 pages, plus appendix; includes index.</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

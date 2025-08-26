@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05302mf</eadid><filedesc><titlestmt><titleproper>"History of the United Mine Workers, 1890-1932" Unpublished Manuscript on Microfilm <num>5302 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 30, 2015</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-06-12 23:59:15 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05302mf</eadid><filedesc><titlestmt><titleproper>"History of the United Mine Workers, 1890-1932" Unpublished Manuscript on Microfilm <num>5302 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 30, 2015</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:12:47 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_ac48558d8db74a90c5f4bf9fda0828d7">Collection material in English</langmaterial>
     <unitid type="bibid">3834442</unitid>
   </did>
-  <odd id="aspace_57154915df3e614526e506868cfc09dc">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, May 06, 2014</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, March 30, 2015</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_a5adc10789c9072a1b0014f7d8438aab">
     <head>Biographical / Historical</head>
 <p>Samuel Pascoe was a United Mine Workers (UMW) organizer in Illinois, eastern Kentucky, and the anthracite region of northeastern Pennsylvania, and president of UMW District 30 (Kentucky). </p><p> A violent opponent of UMW District 12 leadership, Pascoe condemned District president Frank Farrington's association with the Peabody Coal Company, denounced his leadership and that of John H. Walker and generally applauded John L. Lewis' efforts to oust these officers and establish a provisional government for the District, claiming it had become dominated by communists. Pascoe alleged communist associations with Albert F. Coyle, editor of the Brotherhood of Locomotive Engineers magazine. Pascoe also condemned the Brotherhood for its operation of non-union mines in West Virgina and Kentucky. </p><p> The Jacksonville Agreement of 1924 was reviewed by Pascoe who claimed it was abrogated by most mine operators under the leadership of Charles Schwab of the Bethlehem Mines Corporation and Andrew Mellon of the Pittsburgh Coal Company. Pascoe also alleged collusion between the railroads and southern mine operators who opposed the agreement. Pascoe believed that southern mine owners attempted to "steal" Central Competitive Field markets and urged the necessity of organizing the southern miners. He insisted that the Interstate Commerce Commission had also established freight rates that unduly favored southern mines. </p><p> He claimed to be instrumental in establishing District 30 (covering eastern Kentucky) in 1920 and served as its first president until his resignation in 1933. Throughout his career, Pascoe remained loyal to the union leadership and, especially during the anti-Lewis insurgency in District 12 in the late 1920's and early 1930's, fought union dissidence unswervingly. Pascoe retired in 1938 and died seven years later.</p>  </bioghist>
@@ -51,9 +34,26 @@
   <prefercite id="aspace_d433d39666e73241818aafe564324ccf">
     <head>Preferred Citation</head>
 <p>"History of the United Mine Workers, 1890-1932" Unpublished Manuscript on Microfilm, #5302 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_a8086cb0d90122be2fcc716c95573a51">
+  <relatedmaterial id="aspace_3cb9365562ecfbbb8070a5362c76f6af">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05301mf.html"> 5301 mf: United Mine Workers of America District 12 (Ill.) Records on Microfilm</extref></p>  </relatedmaterial>
+<p>Related Collections:  5301 mf: United Mine Workers of America District 12 (Ill.) Records on Microfilm</p>  </relatedmaterial>
+  <odd id="aspace_184d9750a2d8735305356cfb52009c84">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, May 06, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 30, 2015</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85005555" source="lcsh">Anthracite Coal Strike, Pa., 1925-1926</subject>
     <subject source="local">Bituminous Coal Strike, United States, 1922</subject>
@@ -84,6 +84,6 @@
     <persname audience="internal" source="ingest">Walker, John Hunter, 1872-1955</persname>
   </controlaccess>
   <unitid type="bibid">3834442</unitid>
-  <dsc><c01 id="aspace_8ce5c15ccd0afc6310523be201c0bb6b" level="file"><did><unittitle>Record Group C-3, United Mine Workers Manuscript of Samuel Pascoe</unittitle><container id="aspace_eb315420f963720324fcf89100205a02" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_6ea97fa736891128647cf603e9b9d558"><head>Scope and Contents</head><p>Negative</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_8ce5c15ccd0afc6310523be201c0bb6b" level="file"><did><unittitle>Record Group C-3, United Mine Workers Manuscript of Samuel Pascoe</unittitle><container id="aspace_05ad9fc9132e7520206d7595f97e4eb1" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_6ea97fa736891128647cf603e9b9d558"><head>Scope and Contents</head><p>Negative</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

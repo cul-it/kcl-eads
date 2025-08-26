@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04202p</eadid><filedesc><titlestmt><titleproper>McKelvey, Jean T. Photographs <num>/4202 P</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 04, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:03:11 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04202p</eadid><filedesc><titlestmt><titleproper>McKelvey, Jean T. Photographs <num>/4202 P</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 04, 2016</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:04:02 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_4ec42e2e957d42fa31d3decb62094d62">Collection material in English</langmaterial>
     <unitid type="bibid">7625744</unitid>
   </did>
-  <odd id="aspace_826f2b1103026ac32625ff3ca63223b0">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, April 11, 2012</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Randall Miles, October 04, 2016</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_c16dac718b3cdf8ac0b48c422596671a">
     <head>Biographical / Historical</head>
 <p>Jean McKelvey (February 9, 1908 January 5, 1998) was one of the founding faculty at the New York State School of Industrial and Labor Relations at Cornell University in 1946, the first female member of the National Academy of Arbitrators (NAA) in 1947, the NAA's first female president in 1970, and an accomplished author of many works on arbitration and other labor topics. The first fully endowed chair at the ILR School was named the Jean McKelvey-Alice Grant Professorship of Labor-Management Relations. </p><p> A graduate of Wellesley College (AB '29, MA '31) and Radcliffe College (PhD '33), McKelvey taught at Sarah Lawrence College from 1932 to 1945. She joined the newly-formed New York State School of Industrial and Labor Relations in 1946 as the school's first professor, reaching the rank of full professor in 1951. She became Professor Emerita in 1976. In addition to developing the ILR School's fields of study with Maurice Neufeld, teaching at the ILR School, and conducting scholarly research, McKelvey served on the Region II National War Labor Board (1944-1945), New York State Board of Mediation (1955-1966), the Federal Services Impasses Panel (1979-1990), and other boards and panels. </p><p> Among her many honors and awards were the Federal Mediation and Conciliation Service's Special Award for Distinguished Service in Labor Management Relations (1973), Arbitrator of the Year Award from the American Arbitration Association (1983), and Distinguished Services Awards from Wellesley College (1975), the Society of Professionals in Dispute Resolution (1989), and the Society of Federal Labor Relations Professionals (1990). </p><p> See the Cornell University Faculty Memorial Statement for Professor Jean McKelvey: http://hdl.handle.net/1813/18133</p>  </bioghist>
@@ -48,13 +31,30 @@
   <prefercite id="aspace_61a57afbda855e0c7ba41698754a6613">
     <head>Preferred Citation</head>
 <p>Jean T. McKelvey Photographs #/4202 P. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_85a28becad61724b1327c4220539bbca">
+  <relatedmaterial id="aspace_27a83e5d301ee94fae3b65f783c8cf20">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL03001.html"> /3001: Jean T. McKelvey Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04165oht.html"> /4165 OHT: Jean T. McKelvey Interview with Ronald Schatz</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04202.html"> /4202: Jean T. McKelvey Additional Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04202mb.html"> /4202 MB: Jean T. McKelvey Memorabilia</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05154.html"> 5154: New York City Office of Collective Bargaining Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04180.html"> /4180: Jean T. McKelvey Additional Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04208.html"> /4208: Maurice F. Neufeld and Jean T. McKelvey, eds. "Industrial Relations at the Dawn of the New Millennium" Monograph</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06038p.html"> 6038 P: Photographs Archival Collection</extref></p>  </relatedmaterial>
+<p>Related Collections:  /3001: Jean T. McKelvey Papers  /4165 OHT: Jean T. McKelvey Interview with Ronald Schatz  /4202: Jean T. McKelvey Additional Files  /4202 MB: Jean T. McKelvey Memorabilia  5154: New York City Office of Collective Bargaining Records  /4180: Jean T. McKelvey Additional Papers  /4208: Maurice F. Neufeld and Jean T. McKelvey, eds. "Industrial Relations at the Dawn of the New Millennium" Monograph  6038 P: Photographs Archival Collection</p>  </relatedmaterial>
+  <odd id="aspace_939fd323474dddfb2c5f06aebe6ec8b0">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, April 11, 2012</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 04, 2016</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <persname audience="internal" source="ingest">McKelvey, Jean T. (Jean Trepp), 1908-1998 -- Photographs</persname>
   </controlaccess>
   <unitid type="bibid">7625744</unitid>
-  <dsc><c01 id="aspace_2fa88d8e5e1508687bb36758dac21aa7" level="file"><did><unittitle>McKelvey, Jean. Photographs</unittitle><container id="aspace_df6b60be8a56829034cac964bfb833fa" label="unspecified" type="box">1</container><container id="aspace_6f231945e460f168dc384c5d0d7935d0" parent="aspace_df6b60be8a56829034cac964bfb833fa" type="folder">1</container></did><scopecontent id="aspace_db8203cfd932129ca4d7154c049404d7"><head>Scope and Contents</head><p>photographs previously housed in the Mapcase due to size -- 1-Group photo with heading - Third Oxford University BNA Symposium (1985) ; 2-Photograph of Jean with President Rhodes of Cornell University (1994)</p></scopecontent></c01><c01 id="aspace_3bf3ccf6559b245958b4c9c516104af1" level="file"><did><unittitle>McKelvey, Jean - Photographs</unittitle><container id="aspace_63b61375bef3796ee2214c6e56d08fa4" label="unspecified" type="box">1</container><container id="aspace_383551a8f6d97cc90d99aefde4a368da" parent="aspace_63b61375bef3796ee2214c6e56d08fa4" type="folder">2</container></did><scopecontent id="aspace_0eb36fb8a47d2204cd7b6889703ba7e0"><head>Scope and Contents</head><p>Miscellaneous photos of Jean -- 9 photographs</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_2fa88d8e5e1508687bb36758dac21aa7" level="file"><did><unittitle>McKelvey, Jean. Photographs</unittitle><container id="aspace_1fdaee64f94be3a69ac2038a217615ad" label="unspecified" type="box">1</container><container id="aspace_a7d770411ae31a933b8493e248f85fda" parent="aspace_1fdaee64f94be3a69ac2038a217615ad" type="folder">1</container></did><scopecontent id="aspace_db8203cfd932129ca4d7154c049404d7"><head>Scope and Contents</head><p>photographs previously housed in the Mapcase due to size -- 1-Group photo with heading - Third Oxford University BNA Symposium (1985) ; 2-Photograph of Jean with President Rhodes of Cornell University (1994)</p></scopecontent></c01><c01 id="aspace_3bf3ccf6559b245958b4c9c516104af1" level="file"><did><unittitle>McKelvey, Jean - Photographs</unittitle><container id="aspace_38b158e93ce8aee8d029e0d800b3e20a" label="unspecified" type="box">1</container><container id="aspace_a63a33cb6a75e1600a905ef88061d7c9" parent="aspace_38b158e93ce8aee8d029e0d800b3e20a" type="folder">2</container></did><scopecontent id="aspace_0eb36fb8a47d2204cd7b6889703ba7e0"><head>Scope and Contents</head><p>Miscellaneous photos of Jean -- 9 photographs</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

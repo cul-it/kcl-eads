@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05694mf</eadid><filedesc><titlestmt><titleproper>Goldman, Emma and Alexander Berkman vs. The U.S. Records of the U.S. Supreme Court Appellate Case No. 2619 Transcript on Microfilm <num>5694 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 27, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:18:29 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05694mf</eadid><filedesc><titlestmt><titleproper>Goldman, Emma and Alexander Berkman vs. The U.S. Records of the U.S. Supreme Court Appellate Case No. 2619 Transcript on Microfilm <num>5694 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 27, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:24:15 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_377c4394dafa2982a48d04c89cb0d522">Collection material in English</langmaterial>
     <unitid type="bibid">5689681</unitid>
   </did>
-  <odd id="aspace_52ee7f2771f534544805756d422d50e0">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, August 27, 2014</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, March 27, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_c33fea4348dd7f1ee2e17cc285951973">
     <head>Biographical / Historical</head>
 <p>Emma Goldman (1869-1940) </p><p> Goldman was an anarchist known for her political activism, writing, and speeches. </p><p> She was born in the Russian Empire, and emigrated to the U.S. in 1885, she lived in New York City, where she joined the burgeoning anarchist movement in 1889. She became a writer and a renowned lecturer on anarchist philosophy, women's rights, and social issues. </p><p> Goldman and her lover Alexander Berkman (also an anarchist writer), planned to assissinate industrialist and financier Henry Clay Frick as an act of propaganda of the deed. Frick survived the attempt on his life, Berkman was sentenced to 22 years in prison. Goldman was imprisoned several times in the following years for 'inciting to riot'. </p><p> In 1917, Goldman and Berkman were sentenced to two years in jail for conspiring to "induce persons not to register" for the newly instated draft. After their release they were arrested with hundreds of others and deported back to Russia. </p><p> She supported the Bolshevik revolution at first, but soon after the Kronstadt rebellion, reversed her opinion and denounced the Soviet Union. </p><p> She published a book about her experiences, "My Disillusionment in Russia", in 1923. She wrote an autobiography called "Living My Life" while she was living in England, Canada, and France. After the start of the Spanish Civil War, she traveled to Spain to support the anarchist revolution there. </p><p> Emma Goldman died in Toronto on May 14, 1940 at age 70.</p>  </bioghist>
@@ -48,15 +31,32 @@
   <prefercite id="aspace_fc34d5326ca153024cb0905028b7030d">
     <head>Preferred Citation</head>
 <p>Emma Goldman and Alexander Berkman vs. The U.S. Records of the U.S. Supreme Court Appellate Case No. 2619 Transcript on Microfilm #5694 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_d58b40b4e9a69579271442da0c1da95a">
+  <relatedmaterial id="aspace_0173e6092d60576f4cc22c5a6c6526cb">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04073.html"> /4073: James O. Morris Office Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04280p.html"> /4280 P: ILR School Ives Hallway Portrait Gallery Photographs</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05518av.html"> 5518 AV: James O. Morris Collection of Labor Related Tape Recordings</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619-027.html"> 5619/027: ACTWU Communications and Public Relations Department Burt Beck Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-022.html"> 5780/022: ILGWU Local 62 Correspondence</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-102p.html"> 5780/102 P: ILGWU Justice Photographs</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-178.html"> 5780/178: ILGWU Charles Zimmerman Collection of Radical Pamphlets</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05863mf.html"> 5863 mf: Department of Justice Investigative Files on Industrial Workers of the World, Part 1 on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06034.html"> 6034: Rare Pamphlet Collection</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06036-027.html"> 6036/027: Elaine Leeder "The Gentle Warrior: Rose Pesotta, Anarchist and Labor Organizer" Dissertation</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06118av.html"> 6118 AV: Kheel Center AV Collection</extref></p>  </relatedmaterial>
+<p>Related Collections:  /4073: James O. Morris Office Files  /4280 P: ILR School Ives Hallway Portrait Gallery Photographs  5518 AV: James O. Morris Collection of Labor Related Tape Recordings  5619/027: ACTWU Communications and Public Relations Department Burt Beck Files  5780/022: ILGWU Local 62 Correspondence  5780/102 P: ILGWU Justice Photographs  5780/178: ILGWU Charles Zimmerman Collection of Radical Pamphlets  5863 mf: Department of Justice Investigative Files on Industrial Workers of the World, Part 1 on Microfilm  6034: Rare Pamphlet Collection  6036/027: Elaine Leeder "The Gentle Warrior: Rose Pesotta, Anarchist and Labor Organizer" Dissertation  6118 AV: Kheel Center AV Collection</p>  </relatedmaterial>
+  <odd id="aspace_9905fe1ce9bb4fad8123e2760d44484c">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, August 27, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 27, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <persname audience="internal" source="ingest">Berkman, Alexander.</persname>
     <persname audience="internal" source="ingest">Golman, Emma.</persname>
     <corpname source="ingest">United States. Supreme Court.</corpname>
   </controlaccess>
   <unitid type="bibid">5689681</unitid>
-  <dsc><c01 id="aspace_7db5ae44b20068e8a502005d138bd0f0" level="file"><did><unittitle>Emma Goldman and Alexander Berkman vs. the U.S., Transcript</unittitle><unitid>1</unitid><container id="aspace_d3f7baa3e137f8738ddf7218555477e3" label="unspecified" type="reel">1</container></did></c01></dsc>
+  <dsc><c01 id="aspace_7db5ae44b20068e8a502005d138bd0f0" level="file"><did><unittitle>Emma Goldman and Alexander Berkman vs. the U.S., Transcript</unittitle><unitid>1</unitid><container id="aspace_14bc98f0dc1aedb5d9ee270dfbd0292f" label="unspecified" type="reel">1</container></did></c01></dsc>
 </archdesc>
 </ead>

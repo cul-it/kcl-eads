@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06312m</eadid><filedesc><titlestmt><titleproper>Brotherhood of Railroad Trainmen Annual Report of the Legislative Board <num>6312m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 06, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:35:16 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06312m</eadid><filedesc><titlestmt><titleproper>Brotherhood of Railroad Trainmen Annual Report of the Legislative Board <num>6312m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 06, 2015</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:47:12 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -22,23 +22,6 @@
     <langmaterial id="aspace_5cea435e57fa6e8b235c2be868ba595e">Collection material in English</langmaterial>
     <unitid type="bibid">7181300</unitid>
   </did>
-  <odd id="aspace_b927085a6f0c3c81ff95b7469125db62">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, October 31, 2013</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Randall Miles, August 06, 2015</item>
-      </defitem>
-    </list>
-  </odd>
   <scopecontent id="aspace_99ffab0ca64fd81348df5a3e19ac6048">
     <head>Scope and Contents</head>
 <p>This collection consists of the Annual Report of the Legislative Board of the Brotherhood of Railroad Trainmen in the State of New York, for the year 1961.</p>  </scopecontent>
@@ -54,6 +37,23 @@
   <bioghist audience="internal" id="aspace_909312fd8b48d13508a127397151b047">
     <head>Biographical / Historical</head>
 <p>The Brotherhood of Railroad Trainmen (BRT) was a labor organization for railroad employees founded in 1883. Originally called the Brotherhood of Railroad Brakemen, its purpose was to negotiate contracts with railroad management and to provide insurance for members.  The BRT grew to become the largest brotherhood of operating railroad employees. In 1969, it merged with three other unions to form the United Transportation Union.</p>  </bioghist>
+  <odd id="aspace_9d6b498f45f790de8f139f58bdd3db29">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 31, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, August 06, 2015</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85110958" source="Library of Congress Subject Headings">Railroads -- Employees</subject>
     <persname audience="internal" source="ingest">Kowalczyk, Judith Sullivan</persname>
@@ -61,6 +61,6 @@
     <corpname audience="internal" source="ingest">Brotherhood of Railroad Trainmen. Legislative Board</corpname>
   </controlaccess>
   <unitid type="bibid">7181300</unitid>
-  <dsc><c01 id="aspace_e4e2fd13b11ea7f86d89f46a245b15ae" level="file"><did><unittitle>Annual Report of the Legislative Board of the Brotherhood of Railroad Trainmen in the State of New York</unittitle><unitdate datechar="creation" normal="1961/1961">1961</unitdate><container id="aspace_26fefa161fc96ea6d6bbd199911257d2" label="unspecified" type="box">1</container></did><scopecontent id="aspace_0b75854c1d878e235f37ff6a4937756d"><head>Scope and Contents</head><p>23 pages</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_e4e2fd13b11ea7f86d89f46a245b15ae" level="file"><did><unittitle>Annual Report of the Legislative Board of the Brotherhood of Railroad Trainmen in the State of New York</unittitle><unitdate datechar="creation" normal="1961/1961">1961</unitdate><container id="aspace_43767a5df34350e1dbd5b5872c191923" label="unspecified" type="box">1</container></did><scopecontent id="aspace_0b75854c1d878e235f37ff6a4937756d"><head>Scope and Contents</head><p>23 pages</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

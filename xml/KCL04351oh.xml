@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04351oh</eadid><filedesc><titlestmt><titleproper>Gross, James A. NLRB Oral Histories <num>/4351 OH</num></titleproper><author>Compiled by R. Miles</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 04, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:04:59 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04351oh</eadid><filedesc><titlestmt><titleproper>Gross, James A. NLRB Oral Histories <num>/4351 OH</num></titleproper><author>Compiled by R. Miles</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 04, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:06:13 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -22,23 +22,6 @@
     <langmaterial id="aspace_7ad788787f3445b0902b5bbd1a9bddb1">Collection material in</langmaterial>
     <unitid type="bibid">10003296</unitid>
   </did>
-  <odd id="aspace_54f95914b7a7062958699169dcc191f6">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>R. Miles, August 25, 2017</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, March 04, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_888b6bf0d44582e107b76e0ca57bef4f">
     <head>Biographical / Historical</head>
 <p>Professor Gross teaches Labor Law, Labor Arbitration, and a course entitled Values, Rights and Justice in Economics, Law, and Industrial Relations. He received his B.S. from LaSalle College, M.A. from Temple University, and Ph.D. from University of Wisconsin. </p><p> Professor Gross is a member of National Academy of Arbitrators and on the labor arbitration panels of the American Arbitration Association, Federal Mediation and Conciliation Service and New York State Public Employment Relations Board, as well as being a panelist named in several contracts.[www.ilr.cornell.edu/directory/jag28/biography.htm]</p>  </bioghist>
@@ -57,10 +40,27 @@
   <prefercite id="aspace_2975b85b93292ab68367374abd593b36">
     <head>Preferred Citation</head>
 <p>James A. Gross NLRB Oral Histories #/4351 OH. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_a50a660fcbbc7ac5c353dac381cf5206">
+  <relatedmaterial id="aspace_46dc379843fcf0fbfd3ed432534e2ee3">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04057.html"> /4057: James A. Gross NLRB Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04057av.html"> /4057 AV: James A. Gross NLRB Audiocassettes</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04057p.html"> /4057 P: James A. Gross NLRB Photographs</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04079.html"> /4079: James A. Gross Additional Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04124.html"> /4124: James A. Gross Papers, Additional NLRB Research Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04166.html"> /4166: James A. Gross Additional NLRB Research Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04166av.html"> /4166 AV: James A. Gross Additional NLRB Research Audio- Visual Materials</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04186.html"> /4186: James A. Gross Additional Research Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04190.html"> /4190: James A. Gross Additional Research Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04232.html"> /4232: James A. Gross Collection of NLRB 60th Annual Conference Files</extref> /4285: James A. Gross Research Files Additional /4349: James A. Gross Collections <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05697.html"> 5697: James A. Gross Arbitration Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05959.html"> 5959: James A. Gross Additional Arbitration Files</extref></p>  </relatedmaterial>
+<p>Related Collections:  /4057: James A. Gross NLRB Files  /4057 AV: James A. Gross NLRB Audiocassettes  /4057 P: James A. Gross NLRB Photographs  /4079: James A. Gross Additional Files  /4124: James A. Gross Papers, Additional NLRB Research Files  /4166: James A. Gross Additional NLRB Research Files  /4166 AV: James A. Gross Additional NLRB Research Audio- Visual Materials  /4186: James A. Gross Additional Research Files  /4190: James A. Gross Additional Research Files  /4232: James A. Gross Collection of NLRB 60th Annual Conference Files /4285: James A. Gross Research Files Additional /4349: James A. Gross Collections  5697: James A. Gross Arbitration Files  5959: James A. Gross Additional Arbitration Files</p>  </relatedmaterial>
+  <odd id="aspace_50c366979d4893c33e49d5475b0d35d4">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>R. Miles, August 25, 2017</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 04, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <unitid type="bibid">10003296</unitid>
-  <dsc><c01 id="aspace_ce615ba9537bed0c48fc7f2f2d4d0c75" level="file"><did><unittitle>Release forms</unittitle><unitdate datechar="creation" normal="2015/2015">2015</unitdate><container id="aspace_be1fa055002fe255be0505119d01145d" label="unspecified" type="box">1</container><container id="aspace_4b46178e53b0d870c260fa9217ecfa0f" parent="aspace_be1fa055002fe255be0505119d01145d" type="folder">1</container></did></c01><c01 id="aspace_7c6fbbc12a37b5282f6bb68608804a36" level="file"><did><unittitle>William B. Gould IV Interview</unittitle><unitdate datechar="creation" normal="2014/2014">2014</unitdate><container id="aspace_aa01c64e7dd232fafc76ea300e97d7d4" label="unspecified" type="box">1</container><container id="aspace_cec5a1acd911ea6bb77bd52fe66c6a98" parent="aspace_aa01c64e7dd232fafc76ea300e97d7d4" type="folder">2</container></did><scopecontent id="aspace_90adc3032130aa01db41953eb50689fa"><head>Scope and Contents</head><p>August 18, 2014.</p></scopecontent></c01><c01 id="aspace_d2f56812e374aea7a1a71dc9c32f8325" level="file"><did><unittitle>Dennis Walsh Interview</unittitle><unitdate datechar="creation" normal="2014/2014">2014</unitdate><container id="aspace_4d5e46daa77fd9e20d7e54e375d120ab" label="unspecified" type="box">1</container><container id="aspace_6270ecc0e91b65f297959b4a3d90982e" parent="aspace_4d5e46daa77fd9e20d7e54e375d120ab" type="folder">3</container></did><scopecontent id="aspace_0927619de07d5300857497bdf2ada421"><head>Scope and Contents</head><p>November 14, 2014.</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_ce615ba9537bed0c48fc7f2f2d4d0c75" level="file"><did><unittitle>Release forms</unittitle><unitdate datechar="creation" normal="2015/2015">2015</unitdate><container id="aspace_1f1769aca4f17419ff65fdf4e536b464" label="unspecified" type="box">1</container><container id="aspace_e8b8bc90419104df9601c0dea00c3640" parent="aspace_1f1769aca4f17419ff65fdf4e536b464" type="folder">1</container></did></c01><c01 id="aspace_7c6fbbc12a37b5282f6bb68608804a36" level="file"><did><unittitle>William B. Gould IV Interview</unittitle><unitdate datechar="creation" normal="2014/2014">2014</unitdate><container id="aspace_e25917928235e43943df9c84a5b70866" label="unspecified" type="box">1</container><container id="aspace_368b4d4cee0c029689ae1d60a6dec4b5" parent="aspace_e25917928235e43943df9c84a5b70866" type="folder">2</container></did><scopecontent id="aspace_90adc3032130aa01db41953eb50689fa"><head>Scope and Contents</head><p>August 18, 2014.</p></scopecontent></c01><c01 id="aspace_d2f56812e374aea7a1a71dc9c32f8325" level="file"><did><unittitle>Dennis Walsh Interview</unittitle><unitdate datechar="creation" normal="2014/2014">2014</unitdate><container id="aspace_8925a8ce23d400692a4a6514dadbc98f" label="unspecified" type="box">1</container><container id="aspace_78082842233fa141e808f2961773b4b8" parent="aspace_8925a8ce23d400692a4a6514dadbc98f" type="folder">3</container></did><scopecontent id="aspace_0927619de07d5300857497bdf2ada421"><head>Scope and Contents</head><p>November 14, 2014.</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

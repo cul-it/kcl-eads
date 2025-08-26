@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05780-185pubs</eadid><filedesc><titlestmt><titleproper>Gerechtigkeit (Justice) <num>5780/185 PUBS</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>June 20, 2014</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:23:03 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05780-185pubs</eadid><filedesc><titlestmt><titleproper>Gerechtigkeit (Justice) <num>5780/185 PUBS</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>June 20, 2014</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:30:31 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_2502d4c1bcd080f192dacc805a773fed">Collection material in YIddish</langmaterial>
     <unitid type="bibid">8511843</unitid>
   </did>
-  <odd id="aspace_9bb455ae14f70518839b6f3870520d4c">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel">http://www.ilr.cornell.edu/library/kheel</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, June 20, 2014</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kathryn Dowgiewicz, June 20, 2014</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_b8603275bb93998e47217be9d6998fc7">
     <head>Biographical / Historical</head>
 <p>Founded in 1900 by local union delegates representing about 2,000 members in cities in the northeastern United States, the ILGWU grew in geographical scope, membership size, political influence to become one of the most powerful forces in American organized labor by mid-century. Representing workers in the women's garment industry, the ILGWU worked to improve working and living conditions of its members through collective bargaining agreements, training programs, health care facilities, cooperative housing, educational opportunities, and other efforts. In 1995, the ILGWU merged with the Amalgamated Clothing and Textile Workers Union (ACTWU) to form the Union of Needletrades, Industrial and Textile Employees (UNITE).</p>  </bioghist>
@@ -54,9 +37,26 @@
   <prefercite id="aspace_e5a7ec9ef65f66a3e096e0c5b1a9bc7b">
     <head>Preferred Citation</head>
 <p>Gerechtigkeit (Justice) #5780/185 PUBS. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_a41a1819655e2affcdb9d40310ce4270">
+  <relatedmaterial id="aspace_5925b77fb04d665d904abbe665e0c826">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780.html"> 5780: ILGWU records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-185mf.html"> 5780/185 mf: ILGWU. Gerechtigkeit (Justice). Microfilm</extref></p>  </relatedmaterial>
+<p>Related Collections:  5780: ILGWU records  5780/185 mf: ILGWU. Gerechtigkeit (Justice). Microfilm</p>  </relatedmaterial>
+  <odd id="aspace_d971f6ab58434ffb522dc5ea454fac3f">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, June 20, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kathryn Dowgiewicz, June 20, 2014</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject source="lcsh">Clothing workers -- Labor unions -- New York (State) -- New York</subject>
     <subject source="lcsh">Clothing workers -- Labor unions -- United States</subject>
@@ -64,6 +64,6 @@
     <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2010116214" source="lcsh">Textile workers -- United States</subject>
   </controlaccess>
   <unitid type="bibid">8511843</unitid>
-  <dsc><c01 id="aspace_9ae6b9a402af0d439a6a4c5540891e9e" level="file"><did><unittitle>Gerechtigkeit (Justice)</unittitle><unitdate datechar="creation" normal="1931/1933" type="inclusive">1931-1933</unitdate><container id="aspace_1ec4723ee7bb65e0f044a8dd50f34a3f" label="unspecified" type="box">1</container><container id="aspace_3317b7bd337fca8dedfac4c53c323585" parent="aspace_1ec4723ee7bb65e0f044a8dd50f34a3f" type="folder">1</container></did></c01><c01 id="aspace_3a6385f06d2f66eb40e8fa5b0a9ec11a" level="file"><did><unittitle>Gerechtigkeit (Justice)</unittitle><unitdate datechar="creation" normal="1931/1933" type="inclusive">1931-1933</unitdate><container id="aspace_98e8cce0d5b37fa7d93ffa27bf71a607" label="unspecified" type="box">1</container><container id="aspace_fe4b94f3af488321e3f0e0cc43928233" parent="aspace_98e8cce0d5b37fa7d93ffa27bf71a607" type="folder">2</container></did></c01><c01 id="aspace_e4e27d8fc0a0d6e14fc69e4cc494b4ec" level="file"><did><unittitle>Gerechtigkeit (Justice)</unittitle><unitdate datechar="creation" normal="1934/1936" type="inclusive">1934-1936</unitdate><container id="aspace_047ead833bb5d35ef5560df9f8387bbe" label="unspecified" type="box">1</container><container id="aspace_8b1bd290487195160f3fdfefffd3ee7f" parent="aspace_047ead833bb5d35ef5560df9f8387bbe" type="folder">3</container></did></c01><c01 id="aspace_253347e78098fb2f9ac9b89cb78cb4bd" level="file"><did><unittitle>Gerechtigkeit (Justice)</unittitle><unitdate datechar="creation" normal="1937/1938" type="inclusive">1937-1938</unitdate><container id="aspace_657d6703b798a9145df0889722134423" label="unspecified" type="box">1</container><container id="aspace_52dc03780c5c2f8bc93ae6e4c8b54b42" parent="aspace_657d6703b798a9145df0889722134423" type="folder">4</container></did></c01></dsc>
+  <dsc><c01 id="aspace_9ae6b9a402af0d439a6a4c5540891e9e" level="file"><did><unittitle>Gerechtigkeit (Justice)</unittitle><unitdate datechar="creation" normal="1931/1933" type="inclusive">1931-1933</unitdate><container id="aspace_acf2f281ebc2649ed4c301ddad14040f" label="unspecified" type="box">1</container><container id="aspace_6e49d9eae7877c3e6b343dbe513c8bc3" parent="aspace_acf2f281ebc2649ed4c301ddad14040f" type="folder">1</container></did></c01><c01 id="aspace_3a6385f06d2f66eb40e8fa5b0a9ec11a" level="file"><did><unittitle>Gerechtigkeit (Justice)</unittitle><unitdate datechar="creation" normal="1931/1933" type="inclusive">1931-1933</unitdate><container id="aspace_4531e280a47d5b66d7237cd25b921548" label="unspecified" type="box">1</container><container id="aspace_6104286395e27eb5ecf8e1091021ef53" parent="aspace_4531e280a47d5b66d7237cd25b921548" type="folder">2</container></did></c01><c01 id="aspace_e4e27d8fc0a0d6e14fc69e4cc494b4ec" level="file"><did><unittitle>Gerechtigkeit (Justice)</unittitle><unitdate datechar="creation" normal="1934/1936" type="inclusive">1934-1936</unitdate><container id="aspace_fbbef76f47cd233d910206440b16e861" label="unspecified" type="box">1</container><container id="aspace_bfc9de6ea19a7d9551cb25029be93b03" parent="aspace_fbbef76f47cd233d910206440b16e861" type="folder">3</container></did></c01><c01 id="aspace_253347e78098fb2f9ac9b89cb78cb4bd" level="file"><did><unittitle>Gerechtigkeit (Justice)</unittitle><unitdate datechar="creation" normal="1937/1938" type="inclusive">1937-1938</unitdate><container id="aspace_7468ece8d0d0bfda89779455faf84d22" label="unspecified" type="box">1</container><container id="aspace_24d6623a808d49fbcefd6207ac6d3b70" parent="aspace_7468ece8d0d0bfda89779455faf84d22" type="folder">4</container></did></c01></dsc>
 </archdesc>
 </ead>

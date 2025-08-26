@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06098</eadid><filedesc><titlestmt><titleproper>Sidney Hillman Foundation Prize for Tom Darcy for His Newsday Cartoons <num>6098</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 24, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:30:36 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06098</eadid><filedesc><titlestmt><titleproper>Sidney Hillman Foundation Prize for Tom Darcy for His Newsday Cartoons <num>6098</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 24, 2016</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:40:54 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -21,23 +21,6 @@
     <langmaterial id="aspace_2c92fe756ebaff2e29e6aaeb5dae3ad3">Collection material in English</langmaterial>
     <unitid type="bibid">5794419</unitid>
   </did>
-  <odd id="aspace_773fe53e8f46803dd621826d735a5382">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, March 11, 2015</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Randall Miles, March 24, 2016</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_531fc9f94b27edd191575f449d1c8db1">
     <head>Biographical / Historical</head>
 <p>Tom Darcy was born in Brokklyn, NY in 1932. He received his art education at the school of Visual Arts in New York. In 1958 he began his editorial cartooning with Newsday on Long Island. In 1970, Darcy was awarded the Pulitzer Prize for his incisive cartoons of the Vietnam War and racial discrimination. He won many awards in 1970's, some of these were: Best Cartoon on Froeign Affairs in 1970 &amp; 1973, Meeman Conservation Award in 1972 &amp; 1974 as well as the National Headliners' Club award in 1974.</p>  </bioghist>
@@ -59,12 +42,29 @@
   <relatedmaterial id="aspace_c08b88cb2769fc8e0eb1f8caffb011ce">
     <head>Related Materials</head>
 <p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06098mb.html"> 6098 MB: Sidney Hillman Foundation Banners</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06200-004.html"> 6200/004: UNITE HERE Sidney Hillman Foundation Awards</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06364.html"> 6364: Heather Furnas Collection of Sidney Hillman Foundation Awards Research Materials</extref></p>  </relatedmaterial>
+  <odd id="aspace_0f4cd0092badeac2c083092f363b8464">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, March 11, 2015</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, March 24, 2016</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <persname audience="internal" source="ingest">Hillman, Sidney, 1887-1946</persname>
     <persname audience="internal" source="ingest">Darcy, Tom Francis, 1932-</persname>
     <corpname audience="internal" authfilenumber="http://id.loc.gov/authorities/names/no2012086229" source="lcnaf">Sidney Hillman Foundation</corpname>
   </controlaccess>
   <unitid type="bibid">5794419</unitid>
-  <dsc><c01 id="aspace_530b1b5f2df038f77902c03b2928a59e" level="file"><did><unittitle>Tom Darcy</unittitle><unitdate datechar="creation" normal="1985/1985">1985</unitdate><container id="aspace_98ee9ba256cd0584fde051c8be83ca06" label="unspecified" type="box">1</container><container id="aspace_eabadabe0b9434dcc5327f1425579552" parent="aspace_98ee9ba256cd0584fde051c8be83ca06" type="folder">1</container></did></c01><c01 id="aspace_a660f53062b8a3fbd6a00cf77303ffd8" level="file"><did><unittitle>Tom Darcy Cartoons</unittitle><unitdate datechar="creation" normal="1985/1985">1985</unitdate><container id="aspace_997f58b098c96137989f6be338a96b6d" label="unspecified" type="box">1</container><container id="aspace_927e8567b77bac8b329dc11a3d38f240" parent="aspace_997f58b098c96137989f6be338a96b6d" type="folder">2</container></did></c01><c01 id="aspace_573505c70cf55939c0ac15f08c26ace3" level="file"><did><unittitle>Tom Darcy Cartoons</unittitle><unitdate datechar="creation" normal="1985/1985">1985</unitdate><container id="aspace_837d84e69332b72cc4f0f876ddb3a9c5" label="unspecified" type="box">1</container><container id="aspace_f42eb8d795acedd5928b975c70ae5aae" parent="aspace_837d84e69332b72cc4f0f876ddb3a9c5" type="folder">3</container></did></c01><c01 id="aspace_07f3b422f02b56482980e6911c10b314" level="file"><did><unittitle>Tom Darcy Cartoons</unittitle><unitdate datechar="creation" normal="1985/1985">1985</unitdate><container id="aspace_1cb4c45a62bacd39abec872df31b1b2c" label="unspecified" type="box">1</container><container id="aspace_2e07b17ac721b8b12a1961b7dd0e8c00" parent="aspace_1cb4c45a62bacd39abec872df31b1b2c" type="folder">4</container></did></c01><c01 id="aspace_bd7c3998b30ec2f71aea2b38d69f9144" level="file"><did><unittitle>Tom Darcy Cartoons</unittitle><unitdate datechar="creation" normal="1985/1985">1985</unitdate><container id="aspace_1a9563af4ea42555811152191b9c289b" label="unspecified" type="box">1</container><container id="aspace_d3c9c0710e7f4139c0cf5d99a439b06b" parent="aspace_1a9563af4ea42555811152191b9c289b" type="folder">5</container></did></c01></dsc>
+  <dsc><c01 id="aspace_530b1b5f2df038f77902c03b2928a59e" level="file"><did><unittitle>Tom Darcy</unittitle><unitdate datechar="creation" normal="1985/1985">1985</unitdate><container id="aspace_5ce9f61e12e116136ac4675ddfa4bbde" label="unspecified" type="box">1</container><container id="aspace_b6b1b45a4bb96d6a8bc017750bf533d5" parent="aspace_5ce9f61e12e116136ac4675ddfa4bbde" type="folder">1</container></did></c01><c01 id="aspace_a660f53062b8a3fbd6a00cf77303ffd8" level="file"><did><unittitle>Tom Darcy Cartoons</unittitle><unitdate datechar="creation" normal="1985/1985">1985</unitdate><container id="aspace_bebe043789e28405e9809194825f038c" label="unspecified" type="box">1</container><container id="aspace_ad59506ba507c8e2c5d2b3d355a5d22e" parent="aspace_bebe043789e28405e9809194825f038c" type="folder">2</container></did></c01><c01 id="aspace_573505c70cf55939c0ac15f08c26ace3" level="file"><did><unittitle>Tom Darcy Cartoons</unittitle><unitdate datechar="creation" normal="1985/1985">1985</unitdate><container id="aspace_d587f4a99dc163226213d0fe4f8c5539" label="unspecified" type="box">1</container><container id="aspace_40148181648ea603429da196ca3ca057" parent="aspace_d587f4a99dc163226213d0fe4f8c5539" type="folder">3</container></did></c01><c01 id="aspace_07f3b422f02b56482980e6911c10b314" level="file"><did><unittitle>Tom Darcy Cartoons</unittitle><unitdate datechar="creation" normal="1985/1985">1985</unitdate><container id="aspace_e6b1fb547e02885934b549d9e0b9b439" label="unspecified" type="box">1</container><container id="aspace_d655ef29b3d4019307d21a5ad6ab1fc9" parent="aspace_e6b1fb547e02885934b549d9e0b9b439" type="folder">4</container></did></c01><c01 id="aspace_bd7c3998b30ec2f71aea2b38d69f9144" level="file"><did><unittitle>Tom Darcy Cartoons</unittitle><unitdate datechar="creation" normal="1985/1985">1985</unitdate><container id="aspace_54fa4747cb62f8ad89020d39ae52c0d4" label="unspecified" type="box">1</container><container id="aspace_e95da210afde47ccd7e64af98886bc63" parent="aspace_54fa4747cb62f8ad89020d39ae52c0d4" type="folder">5</container></did></c01></dsc>
 </archdesc>
 </ead>

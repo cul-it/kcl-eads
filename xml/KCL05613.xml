@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05613</eadid><filedesc><titlestmt><titleproper>Switchmen's Union of North America Oakland Lodge 158 Meeting Minutes <num>5613</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 21, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:15:58 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05613</eadid><filedesc><titlestmt><titleproper>Switchmen's Union of North America Oakland Lodge 158 Meeting Minutes <num>5613</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 21, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:20:32 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_c2752d39cd66300d8b1a34281be726b3">Collection material in English</langmaterial>
     <unitid type="bibid">5675109</unitid>
   </did>
-  <odd id="aspace_e3023441c5771e8fd62690b4a6486778">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, June 18, 2013</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, March 21, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_94b72a23417122feb85c34e363c879e8">
     <head>Biographical / Historical</head>
 <p>The Switchmen's Union of North America is among the older of the railway brotherhoods. Beginning in 1877 with the formation of a local Switchmen's organization in Chicago, the movement became national when the Switchmen's Mutual Aid Association of North America held its first meeting nine years later. </p><p> This association was destroyed, as a result of a disastrous lockout by the Chicago Northwestern and the 1888 strike against the Chicago, Burlington and Quincy which had equally unfortunate results. Building on what was left of the S.M.A.A., several lodges met in Kansas City in October of 1854 and formed the Switchmen's Union of North America. </p><p> By the time of its merger into the United Transportation Union in 1969, the single Chicago labor organization of 1877 had grown to international status with 275 lodges in the United States and Canada having a combined membership of 12,000.</p>  </bioghist>
@@ -48,9 +31,26 @@
   <prefercite id="aspace_30720813647fc23b76f6d344680ddecc">
     <head>Preferred Citation</head>
 <p>Switchmen's Union of North America Oakland Lodge 158 Meeting Minutes #5613. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_9401d026c01505b77bde1b032b84d6e7">
+  <relatedmaterial id="aspace_1c6f8ac4ae197af0cb28486fae1ffda3">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05034.html"> 5034: Switchmen's Union of North America Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05034mb.html"> 5034 MB: Switchmen's Union of North America Memorabilia</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05034p.html"> 5034 P: Switchmen's Union of North America Photographs</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05084.html"> 5084: Switchmen's Union of North America Additional Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05405mf.html"> 5405 mf: Switchmen's Union of North America Constitutions on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05406mf.html"> 5406 mf: Switchmen's Union of North America Arbitration on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05447.html"> 5447: Switchmen's Union of North America Additional Unification Minutes and Convention Proceedings</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05556.html"> 5556: Switchmen's Union of North America Additional Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05556av.html"> 5556 AV: Switchmen's Union of North America Audio-Visual Materials</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05590.html"> 5590: Switchmen's Union of North America Lake Shore Lodge 55 Membership Registers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05630.html"> 5630: W.B. Meyers Papers</extref></p>  </relatedmaterial>
+<p>Related Collections:  5034: Switchmen's Union of North America Records  5034 MB: Switchmen's Union of North America Memorabilia  5034 P: Switchmen's Union of North America Photographs  5084: Switchmen's Union of North America Additional Records  5405 mf: Switchmen's Union of North America Constitutions on Microfilm  5406 mf: Switchmen's Union of North America Arbitration on Microfilm  5447: Switchmen's Union of North America Additional Unification Minutes and Convention Proceedings  5556: Switchmen's Union of North America Additional Records  5556 AV: Switchmen's Union of North America Audio-Visual Materials  5590: Switchmen's Union of North America Lake Shore Lodge 55 Membership Registers  5630: W.B. Meyers Papers</p>  </relatedmaterial>
+  <odd id="aspace_7a682d500fa20f451204c940c3904e5d">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, June 18, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 21, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject source="ingest">Railroads--United States.</subject>
     <subject source="lcsh">Railroads -- Employees -- Labor unions -- United States</subject>
@@ -58,6 +58,6 @@
     <corpname audience="internal" source="ingest">Switchmen's Union of North America. Oakland Lodge #158</corpname>
   </controlaccess>
   <unitid type="bibid">5675109</unitid>
-  <dsc><c01 id="aspace_4327d6d6105da419050d6885e5443940" level="file"><did><unittitle>Minute book</unittitle><unitdate datechar="creation" normal="1926/1947" type="inclusive">1926-1947</unitdate><container id="aspace_c788e5e3050537dbb40a0d809a879fd1" label="unspecified" type="box">1</container><container id="aspace_7ec7751d13ffe22e6f1a65b8bc04a706" parent="aspace_c788e5e3050537dbb40a0d809a879fd1" type="folder">1</container></did></c01><c01 id="aspace_42648657c11b29e51e39f0ef8aaf178a" level="file"><did><unittitle>Minute book</unittitle><unitdate datechar="creation" normal="1947/1955" type="inclusive">1947-1955</unitdate><container id="aspace_732d3fe8555f83319a2f076d112b9c8f" label="unspecified" type="box">1</container><container id="aspace_80f3d816f793e0ce1d6ff0820a81730c" parent="aspace_732d3fe8555f83319a2f076d112b9c8f" type="folder">2</container></did></c01></dsc>
+  <dsc><c01 id="aspace_4327d6d6105da419050d6885e5443940" level="file"><did><unittitle>Minute book</unittitle><unitdate datechar="creation" normal="1926/1947" type="inclusive">1926-1947</unitdate><container id="aspace_a23691bb8e6984933d8a22cc6d5a1623" label="unspecified" type="box">1</container><container id="aspace_11d957a2032bc59c3e520bdb4f36d3ea" parent="aspace_a23691bb8e6984933d8a22cc6d5a1623" type="folder">1</container></did></c01><c01 id="aspace_42648657c11b29e51e39f0ef8aaf178a" level="file"><did><unittitle>Minute book</unittitle><unitdate datechar="creation" normal="1947/1955" type="inclusive">1947-1955</unitdate><container id="aspace_c2cd51e90e7b59e267c7582369d640f6" label="unspecified" type="box">1</container><container id="aspace_2d01880f4beedced19069e8f31179e2a" parent="aspace_c2cd51e90e7b59e267c7582369d640f6" type="folder">2</container></did></c01></dsc>
 </archdesc>
 </ead>

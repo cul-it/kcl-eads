@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05974av</eadid><filedesc><titlestmt><titleproper>Hammond, Reese Collection of AFL-CIO Audio-Visual Materials <num>5974 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 18, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:26:44 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05974av</eadid><filedesc><titlestmt><titleproper>Hammond, Reese Collection of AFL-CIO Audio-Visual Materials <num>5974 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 18, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:35:36 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -21,23 +21,6 @@
     <langmaterial id="aspace_d39a22d25eb1bfd93ba1b269a7c9b652">Collection material in English</langmaterial>
     <unitid type="bibid">8311143</unitid>
   </did>
-  <odd id="aspace_e990920d18f4d35f6008cf1cd841c9c8">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, January 06, 2014</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, April 18, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <scopecontent id="aspace_04656babffd363f3529aac0446cca6fc">
     <head>Scope and Contents</head>
 <p>Text available for tapes 1, 3, 4, 5, 8, 9 in collection 5974, box 1, ff 7</p>  </scopecontent>
@@ -53,11 +36,28 @@
   <relatedmaterial id="aspace_30c894f7038a5660851b1913fae8025a">
     <head>Related Materials</head>
 <p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05974.html"> 5974: Reese Hammond Additional Papers</extref></p>  </relatedmaterial>
+  <odd id="aspace_fd24f5ffa7d40ba8b584c9ade951d017">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, January 06, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 18, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <persname audience="internal" source="ingest">Hammond, Reese.</persname>
     <corpname audience="internal" authfilenumber="http://id.loc.gov/authorities/names/n79086831" source="lcnaf">AFL-CIO</corpname>
   </controlaccess>
   <unitid type="bibid">8311143</unitid>
-  <dsc><c01 id="aspace_df7b90d31c86b6dad49725e668940f38" level="file"><did><unittitle>Labor and Organizing - #1</unittitle><unitid>1</unitid><container id="aspace_43bebb1620c0d5f6bc9fd3efce45727f" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_9320d3c6046a75d094bd5596ea4609e2" level="file"><did><unittitle>Labor and Taft-Hartley - #2</unittitle><unitid>2</unitid><container id="aspace_379391056fafc0c0af997ee371ada38a" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_4b68a78f089bed9cad7ffe687136197a" level="file"><did><unittitle>Labor and Communism - #3, 1949 CIO Convention</unittitle><unitid>3</unitid><container id="aspace_8a0ec3b2ad1261e85f385fbe0c4fd906" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_c688c004d7e0de2dbd84440e73580de4" level="file"><did><unittitle>AFL-CIO Merger/UAW Split - #4</unittitle><unitid>4</unitid><container id="aspace_0a0a5a47603324fae2e925855a5f1c8a" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_b2d31ce1292fcc720d2ca791d36cd892" level="file"><did><unittitle>McClellan Committee &amp; Teamsters Expulsion - #5</unittitle><unitid>5</unitid><container id="aspace_d2aec8136b012f50791b216dae49d479" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_abca842e682798db34df2f5bf1c26ab8" level="file"><did><unittitle>Labor and Civil Rights - #6</unittitle><unitid>6</unitid><container id="aspace_1d888a6763a63bb1cd2d66a39b8773bb" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_ea96ad48739a5e8107d333180a764139" level="file"><did><unittitle>Labor and the War Effort - #7</unittitle><unitid>7</unitid><container id="aspace_c612fe45b12a16a2661a809dbe4a428b" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_e21d32e57bc6c2ec707778c93a8c411c" level="file"><did><unittitle>Labor and Foreign Policy - #8</unittitle><unitid>8</unitid><container id="aspace_d1208139af41172b7ae8727dbb3486cb" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_a7427215ad328b75eff92d055fa6ca54" level="file"><did><unittitle>Early Social Issues and Labor - #9</unittitle><unitid>9</unitid><container id="aspace_81b97a3b23e7acde27fab23c922b48fa" label="unspecified" type="box">1</container></did></c01></dsc>
+  <dsc><c01 id="aspace_df7b90d31c86b6dad49725e668940f38" level="file"><did><unittitle>Labor and Organizing - #1</unittitle><unitid>1</unitid><container id="aspace_d30a71690169d27c46538dd919511d44" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_9320d3c6046a75d094bd5596ea4609e2" level="file"><did><unittitle>Labor and Taft-Hartley - #2</unittitle><unitid>2</unitid><container id="aspace_d80fb65a63d3b0d94dafecefc197c396" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_4b68a78f089bed9cad7ffe687136197a" level="file"><did><unittitle>Labor and Communism - #3, 1949 CIO Convention</unittitle><unitid>3</unitid><container id="aspace_a9bee5a993181480134076ba69a519a9" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_c688c004d7e0de2dbd84440e73580de4" level="file"><did><unittitle>AFL-CIO Merger/UAW Split - #4</unittitle><unitid>4</unitid><container id="aspace_fe29ece2c8d94555f18fd3c35dfe5407" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_b2d31ce1292fcc720d2ca791d36cd892" level="file"><did><unittitle>McClellan Committee &amp; Teamsters Expulsion - #5</unittitle><unitid>5</unitid><container id="aspace_0d15cd20e522c462580919a72922c693" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_abca842e682798db34df2f5bf1c26ab8" level="file"><did><unittitle>Labor and Civil Rights - #6</unittitle><unitid>6</unitid><container id="aspace_33f736b5d635bc05c8b60c7a87e15c93" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_ea96ad48739a5e8107d333180a764139" level="file"><did><unittitle>Labor and the War Effort - #7</unittitle><unitid>7</unitid><container id="aspace_0ce4a0443c182061348eaceab4dfe370" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_e21d32e57bc6c2ec707778c93a8c411c" level="file"><did><unittitle>Labor and Foreign Policy - #8</unittitle><unitid>8</unitid><container id="aspace_218261e4c9af2494e4a47406a8f0c1d6" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_a7427215ad328b75eff92d055fa6ca54" level="file"><did><unittitle>Early Social Issues and Labor - #9</unittitle><unitid>9</unitid><container id="aspace_92c25fea73efa17bc863d6b9c298a59a" label="unspecified" type="box">1</container></did></c01></dsc>
 </archdesc>
 </ead>

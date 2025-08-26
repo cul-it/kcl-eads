@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05076</eadid><filedesc><titlestmt><titleproper>U.S. Railroad Marine Workers Commission <num>5076</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 07, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-06-12 23:59:09 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05076</eadid><filedesc><titlestmt><titleproper>U.S. Railroad Marine Workers Commission <num>5076</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 07, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:08:00 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_909ee1ffbbc4d5ba79a7213dcb9d379a">Collection material in English</langmaterial>
     <unitid type="bibid">3116446</unitid>
   </did>
-  <odd id="aspace_d42fdf4c5d60da256aa6c602cca149ce">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, November 01, 2007</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, March 07, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_52628ee06588645c1367295f7a48ce85">
     <head>Biographical / Historical</head>
 <p>The Railroad Marine Workers Commission was appointed March 24, 1961 by the President under his general powers to make re-ccrrjnendation;-, concerning the dispute over manning requirements aboard railroad owned tug boats and ferries in New York harbor. </p><p> The dispute began in 1959 over changes in the collective bargain-ing agreement and covered a wide range of wage, fringe benefits and rules changes. Emergency Board Number 133 was appointed, and made a number of recommendations with respect to the issues in dispute. On the matter of the resolution of controversies involving the elimination of positions or of classifications of work it suggested a 60 day notice during which time the parties could negotiate on the changes. </p><p> Negotiations were unsuccessful and on January 10,1961 a work stoppage was put into effect. On January 23, 1961 the parties accepted a joint recommendation of the U.S. Secretary of Labor, the Governor of New York State and the Mayor of Mew York City. It orovided for the reconstitution of the Presidential Hail-road Commission 60 days after it had submitted its findings in the dispute involving the railroad brotherhoods and the major U.S. railroads. </p><p> The members of the Railroad Marine Workers Commission were formally appointed by the President on February 9, 1962. The public members were Isador Lubin, chairman, Lloyd H. Bailer and Vernon H. Jensen. L.B. Fee, J.J. Gaherin ana J.H. Maher represented the carriers and Captain John M. Bishop, G.P. McGinty and Ned R. Phillips represented the employee organizations. Eleven sessions of public hearings were held and the commission members made observation trips to the waterfront.</p>  </bioghist>
@@ -48,6 +31,23 @@
   <prefercite id="aspace_b31e4d1fc808659e0ea02eb0d563f7cb">
     <head>Preferred Citation</head>
 <p>U.S. Railroad Marine Workers Commission #5076. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <odd id="aspace_3f2d921203cbe6d29540112d4a9a7eb8">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, November 01, 2007</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 07, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh86007106" source="lcsh">Harbors -- New York (State)</subject>
     <subject source="lcsh">Arbitration, Industrial -- United States -- Sources</subject>
@@ -58,6 +58,6 @@
     <corpname audience="internal" source="ingest">Seafarers' International Union of North America--Sources.</corpname>
   </controlaccess>
   <unitid type="bibid">3116446</unitid>
-  <dsc><c01 id="aspace_997363966e42b9f80e6e398af146a9e3" level="file"><did><unittitle>Railroads' Exhibits 1-13</unittitle><unitdate datechar="creation" normal="1962/1962">1962</unitdate><container id="aspace_2d95d4dcf06c956cfd080dadeadc809c" label="unspecified [31924079233171]" type="box">1</container><container id="aspace_e03c51fc088e5632471bc34c7b422ce7" parent="aspace_2d95d4dcf06c956cfd080dadeadc809c" type="folder">1</container></did></c01><c01 id="aspace_2ba31a58f806bd2bbd77fef6064091dd" level="file"><did><unittitle>Transcript of the Proceedings, Volumes 1-11</unittitle><unitdate datechar="creation" normal="1962/1962">1962</unitdate><container id="aspace_03575bafce3f21feaf392a497e1a9d19" label="unspecified [31924079233171]" type="box">1</container><container id="aspace_b2aa07aec2b1b67573e500c68eac5370" parent="aspace_03575bafce3f21feaf392a497e1a9d19" type="folder">2</container></did></c01><c01 id="aspace_6b302f96e30ae499735bd27910edc90e" level="file"><did><unittitle>Marine Workers Statistics</unittitle><unitdate datechar="creation" normal="1962/1962">1962</unitdate><container id="aspace_f24a1d7fac258c28bb26a4b900009c9e" label="unspecified [31924079233171]" type="box">1</container><container id="aspace_bed3aa41fa2106c23f6378418629eae4" parent="aspace_f24a1d7fac258c28bb26a4b900009c9e" type="folder">3</container></did></c01><c01 id="aspace_1ad05db006780b3815ee9db38887eed9" level="file"><did><unittitle>Report of the Commission</unittitle><unitdate datechar="creation" normal="1962/1962">1962</unitdate><container id="aspace_bb7a9db0ff003bb574b93198cfcae223" label="unspecified [31924079233171]" type="box">1</container><container id="aspace_c277b1aef9c6a19cb62bfcb5fc187974" parent="aspace_bb7a9db0ff003bb574b93198cfcae223" type="folder">4</container></did></c01></dsc>
+  <dsc><c01 id="aspace_997363966e42b9f80e6e398af146a9e3" level="file"><did><unittitle>Railroads' Exhibits 1-13</unittitle><unitdate datechar="creation" normal="1962/1962">1962</unitdate><container id="aspace_97741bacb1efb1b3616780cc84bf4733" label="unspecified [31924079233171]" type="box">1</container><container id="aspace_6340fa49c6c589431bda4a05d6e08ef2" parent="aspace_97741bacb1efb1b3616780cc84bf4733" type="folder">1</container></did></c01><c01 id="aspace_2ba31a58f806bd2bbd77fef6064091dd" level="file"><did><unittitle>Transcript of the Proceedings, Volumes 1-11</unittitle><unitdate datechar="creation" normal="1962/1962">1962</unitdate><container id="aspace_db5bf0c453c5853b1b1321096693128a" label="unspecified [31924079233171]" type="box">1</container><container id="aspace_e2bf7ad24f8df412122f145aa01b75b0" parent="aspace_db5bf0c453c5853b1b1321096693128a" type="folder">2</container></did></c01><c01 id="aspace_6b302f96e30ae499735bd27910edc90e" level="file"><did><unittitle>Marine Workers Statistics</unittitle><unitdate datechar="creation" normal="1962/1962">1962</unitdate><container id="aspace_285f091fd20978dc35c0a3c81ae50d38" label="unspecified [31924079233171]" type="box">1</container><container id="aspace_9993b3af414db7b3ee2b7f4807e99570" parent="aspace_285f091fd20978dc35c0a3c81ae50d38" type="folder">3</container></did></c01><c01 id="aspace_1ad05db006780b3815ee9db38887eed9" level="file"><did><unittitle>Report of the Commission</unittitle><unitdate datechar="creation" normal="1962/1962">1962</unitdate><container id="aspace_6c86c14a2c4b7cd2bdab53b523b6ae14" label="unspecified [31924079233171]" type="box">1</container><container id="aspace_5596fed6ca2f60e4d1ee28ddf21d5871" parent="aspace_6c86c14a2c4b7cd2bdab53b523b6ae14" type="folder">4</container></did></c01></dsc>
 </archdesc>
 </ead>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05257av</eadid><filedesc><titlestmt><titleproper>Retail, Wholesale and Department Store Employees Union Audio-Visual Materials <num>5257 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 08, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:09:48 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05257av</eadid><filedesc><titlestmt><titleproper>Retail, Wholesale and Department Store Employees Union Audio-Visual Materials <num>5257 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 08, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:11:50 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -16,12 +16,24 @@
     <langmaterial id="aspace_4e0b728ece8ee67e5708f14d446960e6">Collection material in English</langmaterial>
     <unitid type="bibid">5621933</unitid>
   </did>
-  <odd id="aspace_0c70940dbe2ab87bbb6d1a81b472c396">
+  <accessrestrict id="aspace_37f1c40cd52d8e9df2399cf06f8496c8">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_f4d56888a888089e1c71964130cd48ee">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_3971d4aae52172bdd37c0865be6518cb">
+    <head>Preferred Citation</head>
+<p>Retail, Wholesale and Department Store Employees Union Audio-Visual Materials #5257 AV. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_fe98739e96ae336cf21fe501b95cb2bd">
+    <head>Related Materials</head>
+<p>Related Collections:  5126: Retail, Wholesale and Department Store Employees Union Local 5 and Stern Brothers Arbitration Transcript</p>  </relatedmaterial>
+  <odd id="aspace_b63edd8cbc368f84f9ab22e4ae7ac45f">
     <head>General</head>
     <list type="deflist">
       <defitem>
         <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
       </defitem>
       <defitem>
         <label>Compiled by:</label>
@@ -33,24 +45,12 @@
       </defitem>
     </list>
   </odd>
-  <accessrestrict id="aspace_37f1c40cd52d8e9df2399cf06f8496c8">
-    <head>Conditions Governing Access</head>
-<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
-  <userestrict id="aspace_f4d56888a888089e1c71964130cd48ee">
-    <head>Conditions Governing Use</head>
-<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
-  <prefercite id="aspace_3971d4aae52172bdd37c0865be6518cb">
-    <head>Preferred Citation</head>
-<p>Retail, Wholesale and Department Store Employees Union Audio-Visual Materials #5257 AV. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_7c223c5172f097f206488d8860650496">
-    <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05126.html"> 5126: Retail, Wholesale and Department Store Employees Union Local 5 and Stern Brothers Arbitration Transcript</extref></p>  </relatedmaterial>
   <controlaccess>
     <subject source="lcsh">Clerks (Retail trade) -- Labor unions -- Missouri</subject>
     <persname audience="internal" source="ingest">Garifi, Nelson Janes</persname>
     <corpname audience="internal" authfilenumber="http://id.loc.gov/authorities/names/n83059948" source="lcnaf">Retail, Wholesale, and Department Store Union</corpname>
   </controlaccess>
   <unitid type="bibid">5621933</unitid>
-  <dsc><c01 id="aspace_aab4dee4988e2666bb1e0b4f98809128" level="file"><did><unittitle>Organizing Activities of C.I.O. Wholesale, Retail &amp; Dept. Store Employees Union at Home at Famous Barr (May Dept. Stores, St. Louis, Mo.) / Nelson J. Garifi</unittitle><unitid>1</unitid><unitdate datechar="creation" normal="1948/1948">1948</unitdate><container id="aspace_61ea478ed30fc05691cd7593712589b4" label="unspecified" type="box">1</container></did></c01></dsc>
+  <dsc><c01 id="aspace_aab4dee4988e2666bb1e0b4f98809128" level="file"><did><unittitle>Organizing Activities of C.I.O. Wholesale, Retail &amp; Dept. Store Employees Union at Home at Famous Barr (May Dept. Stores, St. Louis, Mo.) / Nelson J. Garifi</unittitle><unitid>1</unitid><unitdate datechar="creation" normal="1948/1948">1948</unitdate><container id="aspace_5d31cdbd7bf67581aa86a9aefa4a75fe" label="unspecified" type="box">1</container></did></c01></dsc>
 </archdesc>
 </ead>

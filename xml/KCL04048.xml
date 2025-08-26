@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04048</eadid><filedesc><titlestmt><titleproper>"The Sheffield Campaign" Manuscript <num>/4048</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>September 23, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:01:05 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04048</eadid><filedesc><titlestmt><titleproper>"The Sheffield Campaign" Manuscript <num>/4048</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>September 23, 2016</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:01:32 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -15,12 +15,21 @@
     <langmaterial id="aspace_a792412cfa342d1c91f4d4381aa86bc3">Collection material in English</langmaterial>
     <unitid type="bibid">7952477</unitid>
   </did>
-  <odd id="aspace_3e0cba790e455b371ad90f2a7d5d7a26">
+  <accessrestrict id="aspace_d6b8ba14446180db0a3dea99704ed324">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_2574ea69dcca9838774fe050d53d7126">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_30dd35917bdc15f09073c096da88f51f">
+    <head>Preferred Citation</head>
+<p>"The Sheffield Campaign" Manuscript #/4048. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <odd id="aspace_0e67cd16aea1de1e5d059db2047ffe85">
     <head>General</head>
     <list type="deflist">
       <defitem>
         <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
       </defitem>
       <defitem>
         <label>Compiled by:</label>
@@ -32,15 +41,6 @@
       </defitem>
     </list>
   </odd>
-  <accessrestrict id="aspace_d6b8ba14446180db0a3dea99704ed324">
-    <head>Conditions Governing Access</head>
-<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
-  <userestrict id="aspace_2574ea69dcca9838774fe050d53d7126">
-    <head>Conditions Governing Use</head>
-<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
-  <prefercite id="aspace_30dd35917bdc15f09073c096da88f51f">
-    <head>Preferred Citation</head>
-<p>"The Sheffield Campaign" Manuscript #/4048. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
   <controlaccess>
     <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85136654" source="lcsh">Labor unions -- Organizing</subject>
     <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85136711" source="lcsh">Textile workers -- Labor unions</subject>
@@ -48,6 +48,6 @@
     <corpname authfilenumber="http://id.loc.gov/authorities/names/n81027795" source="lcnaf">Textile Workers Union of America</corpname>
   </controlaccess>
   <unitid type="bibid">7952477</unitid>
-  <dsc><c01 id="aspace_9a6b9a4220e3e6685558b18bd34bbb60" level="file"><did><unittitle>The Sheffield Campaign Pages 1-217</unittitle><container id="aspace_14582e915f4a5eeb11da063f231372da" label="unspecified" type="box">1</container><container id="aspace_5189fbe8a1a14c38f3b6f72f3d1576f3" parent="aspace_14582e915f4a5eeb11da063f231372da" type="folder">1</container></did></c01><c01 id="aspace_9ad78208c7fdaf10361ac10702c5f6c7" level="file"><did><unittitle>The Sheffield Campaign Pages 218-494</unittitle><container id="aspace_0dc4d702391f7e278a837a03b16e2ffb" label="unspecified" type="box">1</container><container id="aspace_17925c798abe044c2ed9bd8fc93d3cdb" parent="aspace_0dc4d702391f7e278a837a03b16e2ffb" type="folder">2</container></did></c01><c01 id="aspace_b8217ac18e48a72678de2be24a521946" level="file"><did><unittitle>The Sheffield Campaign Pages 495-743</unittitle><container id="aspace_e856017d8aeaaaa1630173f7a0f61110" label="unspecified" type="box">1</container><container id="aspace_6c5af174b0829be5323ecfa0d8635c33" parent="aspace_e856017d8aeaaaa1630173f7a0f61110" type="folder">3</container></did></c01></dsc>
+  <dsc><c01 id="aspace_9a6b9a4220e3e6685558b18bd34bbb60" level="file"><did><unittitle>The Sheffield Campaign Pages 1-217</unittitle><container id="aspace_2bc2a8e98eaaac9921970316e83acf9d" label="unspecified" type="box">1</container><container id="aspace_314947bf95cc05dffe0f863c7b3521b7" parent="aspace_2bc2a8e98eaaac9921970316e83acf9d" type="folder">1</container></did></c01><c01 id="aspace_9ad78208c7fdaf10361ac10702c5f6c7" level="file"><did><unittitle>The Sheffield Campaign Pages 218-494</unittitle><container id="aspace_abbd381152ebdda63dadab843c1ea3d6" label="unspecified" type="box">1</container><container id="aspace_d0922aceb56b505c1485987bee44569b" parent="aspace_abbd381152ebdda63dadab843c1ea3d6" type="folder">2</container></did></c01><c01 id="aspace_b8217ac18e48a72678de2be24a521946" level="file"><did><unittitle>The Sheffield Campaign Pages 495-743</unittitle><container id="aspace_62739f789768dc31f126493fc2c9d0f5" label="unspecified" type="box">1</container><container id="aspace_7436c3c0de055b89edf1dc5f12903a7f" parent="aspace_62739f789768dc31f126493fc2c9d0f5" type="folder">3</container></did></c01></dsc>
 </archdesc>
 </ead>

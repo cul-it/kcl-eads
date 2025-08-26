@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05755mf</eadid><filedesc><titlestmt><titleproper>United Hatters, Cap and Millinery Workers International Union Files on Microfilm <num>5755 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>June 13, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:19:22 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05755mf</eadid><filedesc><titlestmt><titleproper>United Hatters, Cap and Millinery Workers International Union Files on Microfilm <num>5755 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>June 13, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:25:30 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -16,23 +16,6 @@
     <langmaterial id="aspace_891b7db91d97333fbd917f40f56bc4f9">Collection material in English</langmaterial>
     <unitid type="bibid">5701395</unitid>
   </did>
-  <odd id="aspace_e06fb1313d81c50d5fe3e24f596444bc">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, June 13, 2019</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Randall Miles, June 13, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_f49463fe639bd24eddb3458bc89baa23">
     <head>Biographical / Historical</head>
 <p>In 1934 the United Hatters of North America and the Cloth Hat, Cap and Millinery Workers International Union merged, forming the United Hatters, Cap and Millinery Workers International Union (UHCMW). For 50 years the UHCMW organized the hat and millinery trade in the United States, until they merged with the Amalgamated Clothing and Textile Workers Union (ACTWU) in 1983. The ACTWU merged in 1995 with the International Ladies' Garmernt Workers' Union to form UNITE (Union of Needletrades, Industrial an dTextile Employees).</p>  </bioghist>
@@ -48,9 +31,26 @@
   <prefercite id="aspace_d09f483155d4c188c7dcfe6152cc9c5b">
     <head>Preferred Citation</head>
 <p>United Hatters, Cap and Millinery Workers International Union Files on Microfilm #5755 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_3bcde0b567c48b4b9135b78df3688b93">
+  <relatedmaterial id="aspace_0dfbbe3e1159d17f69875b03d6ddc8ec">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04212.html"> /4212: Kheel Center Current Documents Correspondence</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05012.html"> 5012: Saul Wallen Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05192.html"> 5192: Paul Abelson Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05221.html"> 5221: Max Meyer Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05344.html"> 5344: Walter Gordon Merritt Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05541.html"> 5541: Philip Taft Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05609.html"> 5609: Philip Ross Collection of NLRB Documents</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619-001.html"> 5619/001: ACTWU Collective Bargaining Agreements</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619-020.html"> 5619/020: ACTWU Subject Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619-030.html"> 5619/030: ACTWU General Executive Board (GEB) Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619-036.html"> 5619/036: ACTWU President's Office Murray Finley Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05663mf.html"> 5663 mf: Collective Bargaining Agreements on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05755mf.html"> 5755 mf: United Hatters, Cap and Millinery Workers International Union Files on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-002.html"> 5780/002: ILGWU David Dubinsky Correspondence</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-022.html"> 5780/022: ILGWU Local 62 Correspondence</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06030.html"> 6030: Archival Collective Bargaining Agreements File</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06036-001.html"> 6036/001: Elias Lieberman Manuscripts</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06046.html"> 6046: Archives Union File (AUF)</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06118av.html"> 6118 AV: Kheel Center AV Collection</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06178-002.html"> 6178/002: BLS Collection of Collective Bargaining Agreements (Part 2)</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06178-013.html"> 6178/013: BLS Collection of Collective Bargaining Agreements (Part 13)</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06178-014.html"> 6178/014: BLS Collection of Collective Bargaining Agreements (Part 14)</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06333mb.html"> 6333 MB: Rita Addessa Collection of ACTWU Memorabilia</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06342oht.html"> 6342 OHT: "Twentieth Century Trade Union Women: Vehicle for Social Change" Oral History Transcripts</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06343mb.html"> 6343 MB: Leonard Greenwald Collection of ACTWU and UNITE Memorabilia</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06367av.html"> 6367 AV: Darlene Forte' Collection of United Hatters, Cap and Millinery Workers Union Audio-Visual Material</extref></p>  </relatedmaterial>
+<p>Related Collections:  /4212: Kheel Center Current Documents Correspondence  5012: Saul Wallen Papers  5192: Paul Abelson Papers  5221: Max Meyer Papers  5344: Walter Gordon Merritt Papers  5541: Philip Taft Papers  5609: Philip Ross Collection of NLRB Documents  5619/001: ACTWU Collective Bargaining Agreements  5619/020: ACTWU Subject Files  5619/030: ACTWU General Executive Board (GEB) Files  5619/036: ACTWU President's Office Murray Finley Files  5663 mf: Collective Bargaining Agreements on Microfilm  5755 mf: United Hatters, Cap and Millinery Workers International Union Files on Microfilm  5780/002: ILGWU David Dubinsky Correspondence  5780/022: ILGWU Local 62 Correspondence  6030: Archival Collective Bargaining Agreements File  6036/001: Elias Lieberman Manuscripts  6046: Archives Union File (AUF)  6118 AV: Kheel Center AV Collection  6178/002: BLS Collection of Collective Bargaining Agreements (Part 2)  6178/013: BLS Collection of Collective Bargaining Agreements (Part 13)  6178/014: BLS Collection of Collective Bargaining Agreements (Part 14)  6333 MB: Rita Addessa Collection of ACTWU Memorabilia  6342 OHT: "Twentieth Century Trade Union Women: Vehicle for Social Change" Oral History Transcripts  6343 MB: Leonard Greenwald Collection of ACTWU and UNITE Memorabilia  6367 AV: Darlene Forte' Collection of United Hatters, Cap and Millinery Workers Union Audio-Visual Material</p>  </relatedmaterial>
+  <odd id="aspace_52c0a6dca5417857ec16011c22aa1959">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, June 13, 2019</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, June 13, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject source="lcsh">Arbitration, Industrial -- New York (State) -- New York</subject>
     <subject source="lcsh">Clothing workers -- Labor unions -- New York (State) -- New York</subject>
@@ -58,6 +58,6 @@
     <corpname audience="internal" authfilenumber="http://id.loc.gov/authorities/names/n87915517" source="lcnaf">United Hatters, Cap, and Millinery Workers International Union</corpname>
   </controlaccess>
   <unitid type="bibid">5701395</unitid>
-  <dsc><c01 id="aspace_6a060f105f16623890e5d37b279acfd6" level="file"><did><unittitle>United Hatters</unittitle><unitdate calendar="gregorian" datechar="creation" era="ce" normal="1934/1947" type="inclusive">1934-1947</unitdate><container id="aspace_fd6f6f35e8650785e06f3d2ec3a25b42" label="unspecified" type="reel">2</container></did></c01><c01 id="aspace_538168b286d508df0a9f0bb48a162504" level="file"><did><unittitle>United Hatters</unittitle><unitdate calendar="gregorian" datechar="creation" era="ce" normal="1948/1976" type="inclusive">1948-1976</unitdate><container id="aspace_9e01a9bdb542a093eb23e8ca08fda8f9" label="unspecified" type="reel">3</container></did></c01></dsc>
+  <dsc><c01 id="aspace_6a060f105f16623890e5d37b279acfd6" level="file"><did><unittitle>United Hatters</unittitle><unitdate calendar="gregorian" datechar="creation" era="ce" normal="1934/1947" type="inclusive">1934-1947</unitdate><container id="aspace_9a126236c4ea7fc5732506eda8fd5b0d" label="unspecified" type="reel">2</container></did></c01><c01 id="aspace_538168b286d508df0a9f0bb48a162504" level="file"><did><unittitle>United Hatters</unittitle><unitdate calendar="gregorian" datechar="creation" era="ce" normal="1948/1976" type="inclusive">1948-1976</unitdate><container id="aspace_19d144c40c63226ed90ea1305b6d6cb4" label="unspecified" type="reel">3</container></did></c01></dsc>
 </archdesc>
 </ead>

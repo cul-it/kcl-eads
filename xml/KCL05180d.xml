@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05180d</eadid><filedesc><titlestmt><titleproper>Illinois House of Representatives Committee on the Investigation of the Herrin Massacre, Transcript of Testimony (digital) <num>5180 (d)</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 08, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:08:30 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05180d</eadid><filedesc><titlestmt><titleproper>Illinois House of Representatives Committee on the Investigation of the Herrin Massacre, Transcript of Testimony (digital) <num>5180 (d)</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 08, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:10:08 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_0295447f5b31649196eab4d2c0102b45">Collection material in English</langmaterial>
     <unitid type="bibid">8276112</unitid>
   </did>
-  <odd id="aspace_5879fbb4a43afcd00961cfa94851557a">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, March 08, 2019</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, March 08, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <scopecontent id="aspace_1992e8dedccd2141ce211303cb6a643d">
     <head>Scope and Contents</head>
 <p>Includes the testimony of key individuals involved in the incident along with that of the following major local and political figures: Carlo Black (adjutant general of the State of Illinois), Charles R. Edrington (commercial secretary for the Marion Association), Charles F. Hamilton (operator of the Enterprise Mine near Moke Station, and business partner of Lester), DeWitt T. Hartwell (county judge), Robert Herrin (chief of police in Herrin), Fox Hughes (sub-district vice-president and United Mine Workers of America official), A.B. McLaren (coal operator), Ralph B. Mitchell (general manager of Cosgrove Interests), Len Small (governor), William J. Sneed (state senator and president of sub-district, Illinois Miners Organization), S.D. Storme (county clerk and deputy under Thaxton), and Robert Tracy (locomotive engineer). The transcript also contains testimony of other figures involved in the incident, such as miners, hardware store clerks and newspaper reporters. </p><p>  A violent incident, known as the Herrin Massacre, resulted from an attempt to run a strip mine in Williamson County, Illinois during the coal strike of 1922. Involved was a conflict between members of the Steam Shovel Men's Union (SSMU), an independent union, and members of the United Mine Workers of America (UMW). The SSMU men were employed by William J. Lester to break the UMW strike at the strip mines in Herrin and Marion, Ill., owned by the Southern Illinois Coal Company, of which he was the president. On June 22nd, 1922, forty-seven men working at the strip mine surrendered, under a promise of safe conduct, to an armed force of several hundred striking miners. Twenty-one SSMU men were subsequently killed. In the ensuing trial, public opinion made it impossible to convict any of those individuals indicted for murder or related crimes.</p>  </scopecontent>
@@ -48,9 +31,26 @@
   <prefercite id="aspace_1ea217ee3097adcaafeb3f1923233d28">
     <head>Preferred Citation</head>
 <p>Illinois House of Representatives Committee on the Investigation of the Herrin Massacre, Transcript of Testimony (digital) #5180 (d). Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_61c8d112534d880ff9c5d19ef50dd8f3">
+  <relatedmaterial id="aspace_3eb79af4545adfac5768fa215d1887d5">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05180mf.html"> 5180 mf: Illinois House of Representatives Committee on Investigation of the Herrin Massacre transcript of hearings, April 11-May 17, 1923 on Microfilm</extref></p>  </relatedmaterial>
+<p>Related Collections:  5180 mf: Illinois House of Representatives Committee on Investigation of the Herrin Massacre transcript of hearings, April 11-May 17, 1923 on Microfilm</p>  </relatedmaterial>
+  <odd id="aspace_5cbbabd217c057c56283c6b5a4249a1e">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, March 08, 2019</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 08, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject source="ingest">Southern Illinois Coal Company Strike, 1922.</subject>
     <subject source="lcsh">Strikebreakers -- Illinois</subject>

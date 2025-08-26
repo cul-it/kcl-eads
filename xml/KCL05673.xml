@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05673</eadid><filedesc><titlestmt><titleproper>Coremakers Union of Auburn, NY, Minute Books <num>5673</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>May 04, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:18:09 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05673</eadid><filedesc><titlestmt><titleproper>Coremakers Union of Auburn, NY, Minute Books <num>5673</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>May 04, 2015</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:23:46 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_7bb8f7edaffe5f35bc143da2519a79a4">Collection material in English</langmaterial>
     <unitid type="bibid">8230189</unitid>
   </did>
-  <odd id="aspace_6d5af85417deaba92abc1021cd11fcb5">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, April 29, 2014</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, May 04, 2015</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_3d67c69d5da8c7567c90ea4b5ddc9b46">
     <head>Biographical / Historical</head>
 <p>The Coremakers Union No. 5394 was organized on April 17, 1891 in Auburn, New York.</p>  </bioghist>
@@ -51,14 +34,31 @@
   <prefercite id="aspace_0654fad2a8f7566e79109d39537e1741">
     <head>Preferred Citation</head>
 <p>Coremakers Union of Auburn, NY, Minute Books #5673. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_974ff216a918e54ef56a532824e65f98">
+  <relatedmaterial id="aspace_a99a9b68cfa3df81bf39a66656ad32e8">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05671.html"> 5671: International Molders Union, No. 107 (Auburn, NY) Minute Books</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05671mf.html"> 5671 mf: International Molders Union, No. 107 (Auburn, NY) Minute Books on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05673mf.html"> 5673 mf: Coremakers Union of Auburn, NY, Minute Books on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05911.html"> 5911: TWUA Locals 1242, 3, 607, 129, Greater Northern Joint Board Minute Books</extref></p>  </relatedmaterial>
+<p>Related Collections:  5671: International Molders Union, No. 107 (Auburn, NY) Minute Books  5671 mf: International Molders Union, No. 107 (Auburn, NY) Minute Books on Microfilm  5673 mf: Coremakers Union of Auburn, NY, Minute Books on Microfilm  5911: TWUA Locals 1242, 3, 607, 129, Greater Northern Joint Board Minute Books</p>  </relatedmaterial>
+  <odd id="aspace_28ee5c5608fa6bc37736d1d3162eb50b">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, April 29, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, May 04, 2015</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <corpname audience="internal" source="ingest">Coremakers' International Union</corpname>
     <corpname audience="internal" source="ingest">Coremakers' International Union. Local 10 (Auburn, N.Y.)</corpname>
   </controlaccess>
   <unitid type="bibid">8230189</unitid>
-  <dsc><c01 id="aspace_b614a3260c4241ada3f9f2d07350acc8" level="file"><did><unittitle>Local 5394 minute book</unittitle><unitdate datechar="creation" normal="1891/1899" type="inclusive">1891-1899</unitdate><container id="aspace_973dac57ff67e0d3800a90ece28a35db" label="unspecified" type="box">1</container><container id="aspace_2d7811f5e813e9ffa1a527f0d208de97" parent="aspace_973dac57ff67e0d3800a90ece28a35db" type="folder">1</container></did><scopecontent id="aspace_65ffc7b62a052dbb01c5857486a0f57a"><head>Scope and Contents</head><p>April 1891-March 1899</p></scopecontent></c01><c01 id="aspace_d44f1946b9db52865c19347a1fedf7aa" level="file"><did><unittitle>Local 10 minute book</unittitle><unitdate datechar="creation" normal="1899/1903" type="inclusive">1899-1903</unitdate><container id="aspace_138b4d6c14bd5d37685fecb57ed1359d" label="unspecified" type="box">1</container><container id="aspace_f6197e1ae4f94b91875258382d6fbc44" parent="aspace_138b4d6c14bd5d37685fecb57ed1359d" type="folder">2</container></did><scopecontent id="aspace_fea8c42f0a7d8985b9866c213bdda2f3"><head>Scope and Contents</head><p>March 1899-April 1903</p></scopecontent></c01><c01 id="aspace_5560bdd2bdb935b40c4449a2c7efd9b6" level="file"><did><unittitle>Dues ledger</unittitle><container id="aspace_e36786d9e69116b7835ae0ca6a012e5e" label="unspecified" type="box">1</container><container id="aspace_c41dd36ab878b793088c8557853ede89" parent="aspace_e36786d9e69116b7835ae0ca6a012e5e" type="folder">3</container></did></c01><c01 id="aspace_a41d0d39e9cd17c7240a11271026c2fb" level="file"><did><unittitle>Dues ledger</unittitle><container id="aspace_f14e50e6af05637774958191b2dfb1e4" label="unspecified" type="box">1</container><container id="aspace_a04cecadfaca718f9fac9083cf9987b4" parent="aspace_f14e50e6af05637774958191b2dfb1e4" type="folder">4</container></did></c01></dsc>
+  <dsc><c01 id="aspace_b614a3260c4241ada3f9f2d07350acc8" level="file"><did><unittitle>Local 5394 minute book</unittitle><unitdate datechar="creation" normal="1891/1899" type="inclusive">1891-1899</unitdate><container id="aspace_c9bdbbcaff756746094d0dd837c10b85" label="unspecified" type="box">1</container><container id="aspace_a7c68ee9e4041466826df28f17a3613a" parent="aspace_c9bdbbcaff756746094d0dd837c10b85" type="folder">1</container></did><scopecontent id="aspace_65ffc7b62a052dbb01c5857486a0f57a"><head>Scope and Contents</head><p>April 1891-March 1899</p></scopecontent></c01><c01 id="aspace_d44f1946b9db52865c19347a1fedf7aa" level="file"><did><unittitle>Local 10 minute book</unittitle><unitdate datechar="creation" normal="1899/1903" type="inclusive">1899-1903</unitdate><container id="aspace_d96c849a4b0e63a7a870a01a9e8261c3" label="unspecified" type="box">1</container><container id="aspace_c1896619a12939a5886d9a70f2365903" parent="aspace_d96c849a4b0e63a7a870a01a9e8261c3" type="folder">2</container></did><scopecontent id="aspace_fea8c42f0a7d8985b9866c213bdda2f3"><head>Scope and Contents</head><p>March 1899-April 1903</p></scopecontent></c01><c01 id="aspace_5560bdd2bdb935b40c4449a2c7efd9b6" level="file"><did><unittitle>Dues ledger</unittitle><container id="aspace_7a9fb07adf8a153315465d634e587720" label="unspecified" type="box">1</container><container id="aspace_6bace177a9fcd7ad14b593f86acf502a" parent="aspace_7a9fb07adf8a153315465d634e587720" type="folder">3</container></did></c01><c01 id="aspace_a41d0d39e9cd17c7240a11271026c2fb" level="file"><did><unittitle>Dues ledger</unittitle><container id="aspace_91d60d454bc38bc093ea2414bfeb18d0" label="unspecified" type="box">1</container><container id="aspace_fbb971684e639251b4e8b9cc9b8ac57b" parent="aspace_91d60d454bc38bc093ea2414bfeb18d0" type="folder">4</container></did></c01></dsc>
 </archdesc>
 </ead>

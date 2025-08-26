@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04155g</eadid><filedesc><titlestmt><titleproper>ILR School Artists Renderings of Ives Classroom/Library/Lecture Halls Constructions <num>/4155 G</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 03, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:02:32 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04155g</eadid><filedesc><titlestmt><titleproper>ILR School Artists Renderings of Ives Classroom/Library/Lecture Halls Constructions <num>/4155 G</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 03, 2016</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:03:13 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -16,12 +16,21 @@
     <langmaterial id="aspace_1c09efcf3080a4d46a4dde95466f9319">Collection material in English</langmaterial>
     <unitid type="bibid">8017011</unitid>
   </did>
-  <odd id="aspace_eca307b1cec9b70b31c7872e6dce48b6">
+  <accessrestrict id="aspace_6ffd1082768eb92250c59114d5d77d40">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_5d0f3e349d6f2e11e002e876e6fec94a">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_a336131bc6e2c7be9bd493a467d327cb">
+    <head>Preferred Citation</head>
+<p>ILR School Artists Renderings of Ives Classroom/Library/Lecture Halls Constructions #/4155 G. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <odd id="aspace_5e8dec460613a54666e306028b47ff2c">
     <head>General</head>
     <list type="deflist">
       <defitem>
         <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
       </defitem>
       <defitem>
         <label>Compiled by:</label>
@@ -33,19 +42,10 @@
       </defitem>
     </list>
   </odd>
-  <accessrestrict id="aspace_6ffd1082768eb92250c59114d5d77d40">
-    <head>Conditions Governing Access</head>
-<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
-  <userestrict id="aspace_5d0f3e349d6f2e11e002e876e6fec94a">
-    <head>Conditions Governing Use</head>
-<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
-  <prefercite id="aspace_a336131bc6e2c7be9bd493a467d327cb">
-    <head>Preferred Citation</head>
-<p>ILR School Artists Renderings of Ives Classroom/Library/Lecture Halls Constructions #/4155 G. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
   <controlaccess>
     <corpname authfilenumber="http://id.loc.gov/authorities/names/n81063067" source="lcnaf">New York State School of Industrial and Labor Relations</corpname>
   </controlaccess>
   <unitid type="bibid">8017011</unitid>
-  <dsc><c01 id="aspace_b318d627f9a5a99d7ea5fc3194d5a8e1" level="file"><did><unittitle>ILR Architectural drawings (1992, 1994)</unittitle><container id="aspace_31c0bedee48e822eb82bf74b9eaf2bd8" label="unspecified" type="box">1</container></did><c02 id="aspace_8171b5a50f4a235af7d851ae5593baed" level="file"><did><unittitle>Oversize architectural drawings - ILR Architectural drawings (1992, 1994)</unittitle><container id="aspace_9d59b58175663e52eb32fb64971ecc91" label="unspecified" type="box">1</container></did><scopecontent id="aspace_9977705e975de54342a605309a9677a5"><head>Scope and Contents</head><p>3</p></scopecontent></c02></c01></dsc>
+  <dsc><c01 id="aspace_b318d627f9a5a99d7ea5fc3194d5a8e1" level="file"><did><unittitle>ILR Architectural drawings (1992, 1994)</unittitle><container id="aspace_ae4923369bb8d4e4efb98838b722ab4e" label="unspecified" type="box">1</container></did><c02 id="aspace_8171b5a50f4a235af7d851ae5593baed" level="file"><did><unittitle>Oversize architectural drawings - ILR Architectural drawings (1992, 1994)</unittitle><container id="aspace_ce22b9da02eb2ebbd62fe0d87a294f6c" label="unspecified" type="box">1</container></did><scopecontent id="aspace_9977705e975de54342a605309a9677a5"><head>Scope and Contents</head><p>3</p></scopecontent></c02></c01></dsc>
 </archdesc>
 </ead>

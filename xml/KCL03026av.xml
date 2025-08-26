@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL03026av</eadid><filedesc><titlestmt><titleproper>Gruenfeld, Leopold Speech Before the Cornell AAUP Chapter Audio-Visual Materials <num>/3026 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>September 08, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-29 23:59:29 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL03026av</eadid><filedesc><titlestmt><titleproper>Gruenfeld, Leopold Speech Before the Cornell AAUP Chapter Audio-Visual Materials <num>/3026 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>September 08, 2015</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-25 23:59:35 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_1512767cb76e34c4741e944177795c3f">Collection material in English</langmaterial>
     <unitid type="bibid">7589757</unitid>
   </did>
-  <odd id="aspace_cb4e32a9cb910c452bc47d1179e0e4d8">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, May 13, 2013</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Randall Miles, September 08, 2015</item>
-      </defitem>
-    </list>
-  </odd>
   <scopecontent id="aspace_6d8237710052eb48861afe7e15e88688">
     <head>Scope and Contents</head>
 <p>Gruenfeld's speech before the Cornell chapter of the American Association of University Professors (AAUP), November 29, 1973.</p>  </scopecontent>
@@ -48,14 +31,31 @@
   <prefercite id="aspace_3d47fd3c9364380a36c449bf3d22b728">
     <head>Preferred Citation</head>
 <p>Leopold Gruenfeld Speech Before the Cornell AAUP Chapter Audio-Visual Materials #/3026 AV. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_e681351e60377082fc6234860930fb2e">
+  <relatedmaterial id="aspace_59c366f354e128e731ea77dbe2c40243">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04207.html"> /4207: Elaine Gruenfeld Goldberg, ed. "The ILR School at Fifty: Voices of the Faculty, Alumni, and Friends" Monograph</extref></p>  </relatedmaterial>
+<p>Related Collections:  /4207: Elaine Gruenfeld Goldberg, ed. "The ILR School at Fifty: Voices of the Faculty, Alumni, and Friends" Monograph</p>  </relatedmaterial>
+  <odd id="aspace_53a1a3cb208f6292b32bb684a41f60a7">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, May 13, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, September 08, 2015</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <persname audience="internal" source="ingest">Gruenfeld, Leopold</persname>
     <corpname source="ingest">American Association of University Professors</corpname>
   </controlaccess>
   <unitid type="bibid">7589757</unitid>
-  <dsc><c01 id="aspace_9cd2dd79ffb7edeab0a1568e1d2d2f58" level="file"><did><unittitle>Speech by Leopold Gruenfeld</unittitle><unitdate datechar="creation" normal="1973/1973">1973</unitdate><container id="aspace_7726bca495a38ecff9906eb652061d21" label="unspecified" type="box">1</container></did><scopecontent id="aspace_6ac846b5e14e9ef0cf4ba67363e444aa"><head>Scope and Contents</head><p>November 29, 1973</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_9cd2dd79ffb7edeab0a1568e1d2d2f58" level="file"><did><unittitle>Speech by Leopold Gruenfeld</unittitle><unitdate datechar="creation" normal="1973/1973">1973</unitdate><container id="aspace_b8c0ada213476ae85ace1d84f7f14572" label="unspecified" type="box">1</container></did><scopecontent id="aspace_6ac846b5e14e9ef0cf4ba67363e444aa"><head>Scope and Contents</head><p>November 29, 1973</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

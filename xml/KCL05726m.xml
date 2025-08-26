@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05726m</eadid><filedesc><titlestmt><titleproper>Macy, John W. Letter to Richard Strassberg Regarding Employee-Management in Federal Civil Service <num>5726m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 28, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:18:57 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05726m</eadid><filedesc><titlestmt><titleproper>Macy, John W. Letter to Richard Strassberg Regarding Employee-Management in Federal Civil Service <num>5726m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 28, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:24:49 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_b1877d311ad68b56e229f759e55dfc00">Collection material in English</langmaterial>
     <unitid type="bibid">8230216</unitid>
   </did>
-  <odd id="aspace_4fcf26bb116a780e1f2a601a9e6f83a3">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, October 23, 2013</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, March 28, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <scopecontent id="aspace_fc17c69aba1a913f3ab011f1f8798907">
     <head>Scope and Contents</head>
 <p>This collection consists of a letter from John W. Macy to Richard Strassberg regarding U.S. President's Committee to Review E.O. 10988 (Employee-Management Program in the Federal Civil Service), and related correspondence.</p>  </scopecontent>
@@ -48,9 +31,26 @@
   <prefercite id="aspace_d50ba73b7507d871a29e8598ac483419">
     <head>Preferred Citation</head>
 <p>John W. Macy Letter to Richard Strassberg Regarding Employee-Management in Federal Civil Service #5726m. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_92c71b81852f8c21e3ecbe3ccf7d57b8">
+  <relatedmaterial id="aspace_e64e5ca8eb87d388d8852962a325706c">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05583-3.html"> 5583/3: Archives Organization File (AOF) Part 3</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05616.html"> 5616: Isaac Max Rubinow Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05726m.html"> 5726m: John W. Macy Letter to Richard Strassberg Regarding Employee-Management in Federal Civil Service</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05976mf.html"> 5976 mf: Brotherhood of Sleeping Car Porters Records on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06046.html"> 6046: Archives Union File (AUF)</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06047.html"> 6047: Archives Information File</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06099.html"> 6099: Ismar Baruch Compilation of U.S. Employment Service and U.S. Civil Service Documents</extref></p>  </relatedmaterial>
+<p>Related Collections:  5583/3: Archives Organization File (AOF) Part 3  5616: Isaac Max Rubinow Papers  5726m: John W. Macy Letter to Richard Strassberg Regarding Employee-Management in Federal Civil Service  5976 mf: Brotherhood of Sleeping Car Porters Records on Microfilm  6046: Archives Union File (AUF)  6047: Archives Information File  6099: Ismar Baruch Compilation of U.S. Employment Service and U.S. Civil Service Documents</p>  </relatedmaterial>
+  <odd id="aspace_38a5bc57b731d91f54a26684f0ae3ca3">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 23, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 28, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <persname audience="internal" source="ingest">Macy, John W., 1917-1986</persname>
     <persname audience="internal" source="ingest">Richard, Strassberg</persname>
@@ -58,6 +58,6 @@
     <corpname audience="internal" source="ingest">United States. President's Committee to Review E.O. 10988</corpname>
   </controlaccess>
   <unitid type="bibid">8230216</unitid>
-  <dsc><c01 id="aspace_0dca9a95be8751909014a0a4742bbc0c" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1983/1983">1983</unitdate><container id="aspace_a4c347a9bf5f72cacb38c8edffa4a4d8" label="unspecified" type="box">1</container></did></c01></dsc>
+  <dsc><c01 id="aspace_0dca9a95be8751909014a0a4742bbc0c" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1983/1983">1983</unitdate><container id="aspace_6e24076cb482c897b5c6f7a493d7003f" label="unspecified" type="box">1</container></did></c01></dsc>
 </archdesc>
 </ead>

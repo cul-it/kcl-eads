@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05184</eadid><filedesc><titlestmt><titleproper>Jack Kilgour Collection of Association of Cornell Employees (ACE) Records <num>5184</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 21, 2017</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:08:32 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05184</eadid><filedesc><titlestmt><titleproper>Jack Kilgour Collection of Association of Cornell Employees (ACE) Records <num>5184</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 21, 2017</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:10:12 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_ee462b7ac9e40aceb935c8b024135b4b">Collection material in English</langmaterial>
     <unitid type="bibid">8439639</unitid>
   </did>
-  <odd id="aspace_c54abaf0dfdd3c0e1b06f9fe91d2b8c6">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, November 11, 2013</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Randall Miles, February 21, 2017</item>
-      </defitem>
-    </list>
-  </odd>
   <scopecontent id="aspace_f5fa82192357382f202498f295233c53">
     <head>Scope and Contents</head>
 <p>This collection consists of planning documents, notes, clippings, and other printed material relating to Association of Cornell Employees (ACE) - Libraries, a unit proposed to represent nonprofessional, nonsupervisory library staff employees on the Ithaca campus of Cornell University.</p>  </scopecontent>
@@ -48,14 +31,31 @@
   <prefercite id="aspace_f7a816ef3359de11e641ce40f5b06dcd">
     <head>Preferred Citation</head>
 <p>Jack Kilgour Collection of Association of Cornell Employees (ACE) Records #5184. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_d04243103aa2bbc59a29c9aeea452f06">
+  <relatedmaterial id="aspace_c580a707edd2ea523b1c204d793ab68e">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05016.html"> 5016: Cornell University Union Representation Material</extref></p>  </relatedmaterial>
+<p>Related Collections:  5016: Cornell University Union Representation Material</p>  </relatedmaterial>
+  <odd id="aspace_6c26f8e4f55fabd93e35f6e31e1fdbce">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, November 11, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, February 21, 2017</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <persname audience="internal" source="ingest">Kilgour, Jack</persname>
     <corpname audience="internal" source="ingest">Association of Cornell Employees</corpname>
   </controlaccess>
   <unitid type="bibid">8439639</unitid>
-  <dsc><c01 id="aspace_0986ff324c9e387bf2009bd4accd5508" level="file"><did><unittitle>ACE - Libraries</unittitle><unitdate datechar="creation" normal="1969/1970" type="inclusive">1969-1970</unitdate><container id="aspace_cd311cc09e01d72fee22f4401fd078b7" label="Mixed Materials" type="box">1</container><container id="aspace_ef372d879779b15e4be71c76a88f4120" parent="aspace_cd311cc09e01d72fee22f4401fd078b7" type="folder">1</container></did></c01></dsc>
+  <dsc><c01 id="aspace_0986ff324c9e387bf2009bd4accd5508" level="file"><did><unittitle>ACE - Libraries</unittitle><unitdate datechar="creation" normal="1969/1970" type="inclusive">1969-1970</unitdate><container id="aspace_566dfd150fa3391a9c432ac48d0bce11" label="Mixed Materials" type="box">1</container><container id="aspace_caaa92ed15de0cf4a59af7ce345e87dd" parent="aspace_566dfd150fa3391a9c432ac48d0bce11" type="folder">1</container></did></c01></dsc>
 </archdesc>
 </ead>

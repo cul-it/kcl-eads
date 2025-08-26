@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04137</eadid><filedesc><titlestmt><titleproper>Jensen, Vernon H., Additional Files <num>/4137</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 01, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:02:16 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04137</eadid><filedesc><titlestmt><titleproper>Jensen, Vernon H., Additional Files <num>/4137</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 01, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:02:57 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -18,23 +18,6 @@
     <langmaterial id="aspace_4793448eda3bf07e903a772fd91037ae">Collection material in English</langmaterial>
     <unitid type="bibid">8016813</unitid>
   </did>
-  <odd id="aspace_8d1a299936622836caa57b89bb82491f">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, May 20, 2013</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, March 01, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_9557250d878123a4af50aba25975dc6d">
     <head>Biographical / Historical</head>
 <p>Vernon Jensen (July 10, 1907 September 27, 1998) was a founding faculty member of Cornell's New York State School of Industrial and Labor Relations. </p><p> A graduate of Brigham Young University (BS '32), Jensen worked as a substitute teacher in Salt Lake City after college before leaving to pursue graduate study at the University of California at Berkeley (PhD '39). Shortly before completing his degree, Jensen began teaching at the University of Colorado. He taught at UC from 1937 to 1946, during which time he also served as a consultant to the National Defense Mediation Board (1941) and a public panel member, mediator and arbitrator for the National War Labor Board (1942) and Wage Stabilization Director of the NWLB's Ninth Region (1942-1944). </p><p> Jensen was among the founding faculty of the School of Industrial and Labor Relations, joining Cornell in 1946. Jensen became Associate Dean of the ILR School in 1965 and was elected to Cornell's Board of Trustees in 1973. In addition to numerous articles, Jensen wrote four books, Lumber and Labor (1945), Heritage of Conflict (1950), Collective Bargaining in the Nonferrous Metal Industry (1955), and Hiring of Dockworkers and Employment Practices in the Ports of New York, London, Liverpool, Rotterdam, and Marseilles (1964). </p><p> See the Cornell University Faculty Memorial Statement for Professor Vernon Jensen: http://hdl.handle.net/1813/18668</p>  </bioghist>
@@ -47,14 +30,31 @@
   <prefercite id="aspace_220fdead444d9ebea68b721545cf97f6">
     <head>Preferred Citation</head>
 <p>Vernon H. Jensen Additional Files #/4137. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_5a59818c26574f06ad6262edead28558">
+  <relatedmaterial id="aspace_75fdceb887eb0c073b639650216e0061">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL03002.html"> /3002: Vernon H. Jensen Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04007.html"> /4007: Vernon H. Jensen Additional Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04067.html"> /4067: Vernon H. Jensen Longshore Research Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04096.html"> /4096: Vernon H. Jensen Additional Research and Office Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04128.html"> /4128: Vernon H. Jensen Additional Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04128av.html"> /4128 AV: Vernon H. Jensen Audio-Visual Materials</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05839.html"> 5839: Vernon Jenson Additional Arbitration Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05902.html"> 5902: Vernon H. Jensen Additional Arbitration Files</extref></p>  </relatedmaterial>
+<p>Related Collections:  /3002: Vernon H. Jensen Papers  /4007: Vernon H. Jensen Additional Records  /4067: Vernon H. Jensen Longshore Research Files  /4096: Vernon H. Jensen Additional Research and Office Files  /4128: Vernon H. Jensen Additional Papers  /4128 AV: Vernon H. Jensen Audio-Visual Materials  5839: Vernon Jenson Additional Arbitration Files  5902: Vernon H. Jensen Additional Arbitration Files</p>  </relatedmaterial>
+  <odd id="aspace_ca7aad2702d31b14f502c9cec0429ddc">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, May 20, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 01, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject source="ingest">Campus violence</subject>
     <persname audience="internal" source="ingest">Jensen, Vernon H.</persname>
   </controlaccess>
   <unitid type="bibid">8016813</unitid>
-  <dsc><c01 id="aspace_18fbe88a255a5ca648bf8403366693b9" level="file"><did><unittitle>Signatures for Petition and essay "Thoughts on University Government"</unittitle><container id="aspace_43cc37d9f4e8d3950ad40f67bcf26dac" label="unspecified" type="box">1</container><container id="aspace_9399d71985f13357c0932c9ea21177b2" parent="aspace_43cc37d9f4e8d3950ad40f67bcf26dac" type="folder">1</container></did></c01><c01 id="aspace_4e07086091df00c9cdac95cb91b1ab68" level="file"><did><unittitle>Publications on the 1970s Student Movements</unittitle><container id="aspace_35efa7cbc135553df557be94d7ce0bbf" label="unspecified" type="box">1</container><container id="aspace_846a2ecf1a52dd3ea4e4bea56a6fe5be" parent="aspace_35efa7cbc135553df557be94d7ce0bbf" type="folder">2</container></did></c01><c01 id="aspace_41fd4f14a14e17b6b97bc49157f32cbe" level="file"><did><unittitle>Associate Dean Vernon Jensen's materials on Cornell disorders in 1969</unittitle><unitdate datechar="creation" normal="1969/1969">1969</unitdate><container id="aspace_872d9425aff0e6edc93f45758582ebd4" label="unspecified" type="box">1</container><container id="aspace_720ad5fc1a28298faa8453792c995b31" parent="aspace_872d9425aff0e6edc93f45758582ebd4" type="folder">3</container></did></c01></dsc>
+  <dsc><c01 id="aspace_18fbe88a255a5ca648bf8403366693b9" level="file"><did><unittitle>Signatures for Petition and essay "Thoughts on University Government"</unittitle><container id="aspace_c5c6f4be0cf31c2d2140e639e39014f6" label="unspecified" type="box">1</container><container id="aspace_6dca9b01c36f446d1c81fcfeb4739366" parent="aspace_c5c6f4be0cf31c2d2140e639e39014f6" type="folder">1</container></did></c01><c01 id="aspace_4e07086091df00c9cdac95cb91b1ab68" level="file"><did><unittitle>Publications on the 1970s Student Movements</unittitle><container id="aspace_3484679e8d149d80a32dd999fc860b32" label="unspecified" type="box">1</container><container id="aspace_a5093a5d7b9617e9f36b7dff2119d1e7" parent="aspace_3484679e8d149d80a32dd999fc860b32" type="folder">2</container></did></c01><c01 id="aspace_41fd4f14a14e17b6b97bc49157f32cbe" level="file"><did><unittitle>Associate Dean Vernon Jensen's materials on Cornell disorders in 1969</unittitle><unitdate datechar="creation" normal="1969/1969">1969</unitdate><container id="aspace_d5db67635cf54995d33880f87297c547" label="unspecified" type="box">1</container><container id="aspace_75bff6151c7b7893528f6c151d426bbc" parent="aspace_d5db67635cf54995d33880f87297c547" type="folder">3</container></did></c01></dsc>
 </archdesc>
 </ead>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05872</eadid><filedesc><titlestmt><titleproper>Ellis, Ralph Q. Papers <num>5872</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 17, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:25:07 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05872</eadid><filedesc><titlestmt><titleproper>Ellis, Ralph Q. Papers <num>5872</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 17, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:33:22 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_526be1485bc2e9b58ac4e8e836dc39c4">Collection material in English</langmaterial>
     <unitid type="bibid">5722898</unitid>
   </did>
-  <odd id="aspace_67d8af6efa2c23f07e95b47e9be3724e">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, May 29, 2014</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, April 17, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <scopecontent id="aspace_140e9a0b000ab23b15a082280a977632">
     <head>Scope and Contents</head>
 <p>This collection is made up of photocopies of Ralph Q. Ellis' original diaries from 1903, 1908, 1910, 1918, 4 bound volumes. The originals were returned to Mr. Poysa via Carpenters Local 603's Office at 701 W. State St., Ithaca.</p>  </scopecontent>
@@ -48,10 +31,27 @@
   <prefercite id="aspace_538e93c1f9c7dfe48834decf1bc60b70">
     <head>Preferred Citation</head>
 <p>Ralph Q. Ellis Papers #5872. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <odd id="aspace_698f4cf80a2f7af2474e1c50e3abebfe">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, May 29, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 17, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <persname audience="internal" source="ingest">Ellis, Ralph Q.</persname>
   </controlaccess>
   <unitid type="bibid">5722898</unitid>
-  <dsc><c01 id="aspace_f5367057c2f4b4a9f88f5c8c71d76da8" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1903/1903">1903</unitdate><container id="aspace_c4b817fa17d37c8a809521524f0cbd35" label="unspecified" type="box">1</container><container id="aspace_2299fdc24c8023cb9bcf91e42a8920fa" parent="aspace_c4b817fa17d37c8a809521524f0cbd35" type="folder">1</container></did></c01><c01 id="aspace_218e05774031016ecb4855b80915b155" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1908/1908">1908</unitdate><container id="aspace_c09cf62347c4f05b287b7ed5b0e76d31" label="unspecified" type="box">1</container><container id="aspace_f95673a0ba10c5b9cfc32e41ae185c9d" parent="aspace_c09cf62347c4f05b287b7ed5b0e76d31" type="folder">2</container></did></c01><c01 id="aspace_674ba6c445dc770aa601d5fa90518cb8" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1910/1910">1910</unitdate><container id="aspace_e3a397c86ac8df91446b57fdfcfafcce" label="unspecified" type="box">1</container><container id="aspace_272002d5008e0b0ab5b1c379616cb6ec" parent="aspace_e3a397c86ac8df91446b57fdfcfafcce" type="folder">3</container></did></c01><c01 id="aspace_6ce596e7c8b3032e84d5c3ddf44cc517" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1918/1918">1918</unitdate><container id="aspace_ff461afa5c26a1506dfc231d5568c68e" label="unspecified" type="box">1</container><container id="aspace_2020124e9dad4a4b90f0c14e880bbab3" parent="aspace_ff461afa5c26a1506dfc231d5568c68e" type="folder">4</container></did></c01></dsc>
+  <dsc><c01 id="aspace_f5367057c2f4b4a9f88f5c8c71d76da8" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1903/1903">1903</unitdate><container id="aspace_3332756cea4ca17adbe92caeca0f7505" label="unspecified" type="box">1</container><container id="aspace_3f3f6eac19f8a1c9028e777b2dbfb8a9" parent="aspace_3332756cea4ca17adbe92caeca0f7505" type="folder">1</container></did></c01><c01 id="aspace_218e05774031016ecb4855b80915b155" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1908/1908">1908</unitdate><container id="aspace_2f110fcab48e53d07b1507ed00a203cd" label="unspecified" type="box">1</container><container id="aspace_5019c869002397340da5a03459a4dd53" parent="aspace_2f110fcab48e53d07b1507ed00a203cd" type="folder">2</container></did></c01><c01 id="aspace_674ba6c445dc770aa601d5fa90518cb8" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1910/1910">1910</unitdate><container id="aspace_2a7eb265b309b858563954dc7114f040" label="unspecified" type="box">1</container><container id="aspace_93dbb4026c40f419ffe294a138298cb7" parent="aspace_2a7eb265b309b858563954dc7114f040" type="folder">3</container></did></c01><c01 id="aspace_6ce596e7c8b3032e84d5c3ddf44cc517" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1918/1918">1918</unitdate><container id="aspace_3b1690033d5bc73c8f7e9651c6d2579e" label="unspecified" type="box">1</container><container id="aspace_1b21f77e3a8fa4be10afdb492c7b00a1" parent="aspace_3b1690033d5bc73c8f7e9651c6d2579e" type="folder">4</container></did></c01></dsc>
 </archdesc>
 </ead>

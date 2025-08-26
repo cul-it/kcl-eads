@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06284g</eadid><filedesc><titlestmt><titleproper>Workers United Poster <num>6284 G</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 25, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:34:51 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06284g</eadid><filedesc><titlestmt><titleproper>Workers United Poster <num>6284 G</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 25, 2015</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:46:39 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -18,12 +18,24 @@
     <langmaterial id="aspace_1e728a7bec8236748ce15ff4e2577c56">Collection material in English</langmaterial>
     <unitid type="bibid">6852645</unitid>
   </did>
-  <odd id="aspace_8ae55df30efd3f605961ac29d9f0ee64">
+  <accessrestrict id="aspace_03d964eaa17fdb1f3f2665399d411373">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_5bb705e0024b8f4e3a53064fc14d8c54">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_7890eb3a7311d40e4e162d37fbcf30d0">
+    <head>Preferred Citation</head>
+<p>Workers United Poster #6284 G. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_0f4a03302d2d028e5d25fb2a2cc304ff">
+    <head>Related Materials</head>
+<p>Related Collections:  6284: Workers United Records  6284 AV: Workers United Audiovisual Materials  6284 MB: Workers United Memorabilia  6284 P: Workers United Photographs  6284 PUBS: Workers United Publications  6284(d): Workers United Records (digital)</p>  </relatedmaterial>
+  <odd id="aspace_014796da521bbee8efa4e50a0180a647">
     <head>General</head>
     <list type="deflist">
       <defitem>
         <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
       </defitem>
       <defitem>
         <label>Compiled by:</label>
@@ -35,18 +47,6 @@
       </defitem>
     </list>
   </odd>
-  <accessrestrict id="aspace_03d964eaa17fdb1f3f2665399d411373">
-    <head>Conditions Governing Access</head>
-<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
-  <userestrict id="aspace_5bb705e0024b8f4e3a53064fc14d8c54">
-    <head>Conditions Governing Use</head>
-<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
-  <prefercite id="aspace_7890eb3a7311d40e4e162d37fbcf30d0">
-    <head>Preferred Citation</head>
-<p>Workers United Poster #6284 G. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_9ed17efa70de97adb3088865b222893a">
-    <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06284.html"> 6284: Workers United Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06284av.html"> 6284 AV: Workers United Audiovisual Materials</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06284mb.html"> 6284 MB: Workers United Memorabilia</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06284p.html"> 6284 P: Workers United Photographs</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06284pubs.html"> 6284 PUBS: Workers United Publications</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06284d.html"> 6284(d): Workers United Records (digital)</extref></p>  </relatedmaterial>
   <controlaccess>
     <corpname audience="internal" source="ingest">Hotel Employees &amp; Restaurant Employees International Union</corpname>
     <corpname authfilenumber="http://id.loc.gov/authorities/names/n81112262" source="lcnaf">Service Employees International Union</corpname>
@@ -55,6 +55,6 @@
     <corpname audience="internal" source="ingest">Workers United</corpname>
   </controlaccess>
   <unitid type="bibid">6852645</unitid>
-  <dsc><c01 id="aspace_94f174415a14bf131e33cbac6c3b2034" level="file"><did><unittitle>Workers United Posters</unittitle><container id="aspace_ea4951b98d6157f03f04e9951fdbe13f" label="unspecified" type="box">1</container><container id="aspace_a823f1027054c35c60b689bbaa439513" parent="aspace_ea4951b98d6157f03f04e9951fdbe13f" type="Folder">1</container></did><scopecontent id="aspace_711bfad635280b9696cd678a879d0fd5"><head>Scope and Contents</head><p>2 posters, one in English, one in multiple languages</p></scopecontent></c01><c01 id="aspace_36d8817dc370abdc74ee0fad4a96a511" level="file"><did><unittitle>Miscellaneous (see notes for description)</unittitle><container id="aspace_a3d77f0deca548ff1b067229a1401623" label="unspecified" type="box">2</container><container id="aspace_05bb013d34569281ad20a2bbe9eef8d5" parent="aspace_a3d77f0deca548ff1b067229a1401623" type="Folder">1</container></did><scopecontent id="aspace_6fd8f62241cb32088ce5281a712fc020"><head>Scope and Contents</head><p>Poster: Immigrant Workers Freedom Ride, Rally &amp; Festival, NYC, 2003; Health in Aging Month, 2000 (3 pcs.); Meet Janie-one of America's best dressed women to be; Study Period</p></scopecontent></c01><c01 id="aspace_89e6b5808e80f952d5eb99cf2a04fac2" level="file"><did><unittitle>Poster: We Are All Workers: Remember the Triangle Fire-March 25, 2014--12-1 PM (2 copies)</unittitle><unitdate datechar="creation" normal="2014/2014">2014</unitdate><container id="aspace_25ac0c279ae07a0087e17f7edc4938ab" label="unspecified" type="box">3</container><container id="aspace_605ca45f86ee5330e4aa638241ea223b" parent="aspace_25ac0c279ae07a0087e17f7edc4938ab" type="Folder">1</container></did></c01></dsc>
+  <dsc><c01 id="aspace_94f174415a14bf131e33cbac6c3b2034" level="file"><did><unittitle>Workers United Posters</unittitle><container id="aspace_047724215f7a22bd605f770ecbfadc85" label="unspecified" type="box">1</container><container id="aspace_f8acd9564b48026727606aaaf91641d3" parent="aspace_047724215f7a22bd605f770ecbfadc85" type="Folder">1</container></did><scopecontent id="aspace_711bfad635280b9696cd678a879d0fd5"><head>Scope and Contents</head><p>2 posters, one in English, one in multiple languages</p></scopecontent></c01><c01 id="aspace_36d8817dc370abdc74ee0fad4a96a511" level="file"><did><unittitle>Miscellaneous (see notes for description)</unittitle><container id="aspace_33caf533b1882a93672bd59d91865f86" label="unspecified" type="box">2</container><container id="aspace_a9288136c89bf97445b82bce99e6c7e4" parent="aspace_33caf533b1882a93672bd59d91865f86" type="Folder">1</container></did><scopecontent id="aspace_6fd8f62241cb32088ce5281a712fc020"><head>Scope and Contents</head><p>Poster: Immigrant Workers Freedom Ride, Rally &amp; Festival, NYC, 2003; Health in Aging Month, 2000 (3 pcs.); Meet Janie-one of America's best dressed women to be; Study Period</p></scopecontent></c01><c01 id="aspace_89e6b5808e80f952d5eb99cf2a04fac2" level="file"><did><unittitle>Poster: We Are All Workers: Remember the Triangle Fire-March 25, 2014--12-1 PM (2 copies)</unittitle><unitdate datechar="creation" normal="2014/2014">2014</unitdate><container id="aspace_b20cf3466135c48ad3df25b88189dd62" label="unspecified" type="box">3</container><container id="aspace_a17e91cb487f43ddc2ac403b2db6d117" parent="aspace_b20cf3466135c48ad3df25b88189dd62" type="Folder">1</container></did></c01></dsc>
 </archdesc>
 </ead>

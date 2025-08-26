@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06237p</eadid><filedesc><titlestmt><titleproper>Weinter, Bernie Unity House Photograph Album <num>6237 P</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 04, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:34:02 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06237p</eadid><filedesc><titlestmt><titleproper>Weinter, Bernie Unity House Photograph Album <num>6237 P</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 04, 2016</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:45:35 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -18,12 +18,24 @@
     <langmaterial id="aspace_16f335e73eb4020bdc3dba110edea4f3">Collection material in English</langmaterial>
     <unitid type="bibid">7994001</unitid>
   </did>
-  <odd id="aspace_9a6dc0b64edd99a121d171dd14badedb">
+  <accessrestrict id="aspace_684293be66f781938af642933bc0ed5e">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_91aecb74e8390b17303e3a2dc7001e8b">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_fea63f84913d99a52f307ab821c4dbdf">
+    <head>Preferred Citation</head>
+<p>Bernie Weinter Unity House Photograph Album #6237 P. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_abd7402968408f3f7ea5607a816dba5f">
+    <head>Related Materials</head>
+<p>Related Collections:  5780: ILGWU records</p>  </relatedmaterial>
+  <odd id="aspace_8641806396ec4f35d86c4d94b7ec2219">
     <head>General</head>
     <list type="deflist">
       <defitem>
         <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
       </defitem>
       <defitem>
         <label>Compiled by:</label>
@@ -35,24 +47,12 @@
       </defitem>
     </list>
   </odd>
-  <accessrestrict id="aspace_684293be66f781938af642933bc0ed5e">
-    <head>Conditions Governing Access</head>
-<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
-  <userestrict id="aspace_91aecb74e8390b17303e3a2dc7001e8b">
-    <head>Conditions Governing Use</head>
-<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
-  <prefercite id="aspace_fea63f84913d99a52f307ab821c4dbdf">
-    <head>Preferred Citation</head>
-<p>Bernie Weinter Unity House Photograph Album #6237 P. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_4bfb1d5bf47e53e28b31806e07235d7f">
-    <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780.html"> 5780: ILGWU records</extref></p>  </relatedmaterial>
   <controlaccess>
     <persname audience="internal" source="ingest">Weiner, Bernie</persname>
     <corpname audience="internal" authfilenumber="http://id.loc.gov/authorities/names/n50060238" source="lcnaf">International Ladies' Garment Workers' Union</corpname>
     <corpname audience="internal" authfilenumber="http://id.loc.gov/authorities/names/nr99017952" source="lcnaf">Unity House -- Photographs</corpname>
   </controlaccess>
   <unitid type="bibid">7994001</unitid>
-  <dsc><c01 id="aspace_2f73c1643fea46435bafa216ed38023a" level="file"><did><unittitle>Unity House Photo Album</unittitle><container id="aspace_bb7d946dae2c8314123b912d158cb170" label="unspecified" type="box">1</container></did><scopecontent id="aspace_2f9aaac3935025ffcde235be5a38cd76"><head>Scope and Contents</head><p>92 photographs - photo album - each page placed in mylar sleeves</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_2f73c1643fea46435bafa216ed38023a" level="file"><did><unittitle>Unity House Photo Album</unittitle><container id="aspace_0d396cfb111ed220cee0ce04b695aaf5" label="unspecified" type="box">1</container></did><scopecontent id="aspace_2f9aaac3935025ffcde235be5a38cd76"><head>Scope and Contents</head><p>92 photographs - photo album - each page placed in mylar sleeves</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

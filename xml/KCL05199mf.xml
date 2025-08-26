@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05199mf</eadid><filedesc><titlestmt><titleproper>Pennsylvania Governor's Commission to Revise the Public Employee Law of Pennsylvania on Microfilm <num>5199 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 08, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:08:46 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05199mf</eadid><filedesc><titlestmt><titleproper>Pennsylvania Governor's Commission to Revise the Public Employee Law of Pennsylvania on Microfilm <num>5199 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 08, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:10:30 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_965a127e7680554eb9faa48dd18cdb00">Collection material in English</langmaterial>
     <unitid type="bibid">8439656</unitid>
   </did>
-  <odd id="aspace_ba13c3ecc5e3170f148997c66c420836">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, May 02, 2014</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, March 08, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <scopecontent id="aspace_549c5b711276c33f46eff8d57c87297b">
     <head>Scope and Contents</head>
 <p>Senate Bill no. 355, Public Employee Relations Bill and Senate Bill no. 518, Senate Bill no. 1021 and House Bill NO. 1443 - Public Employes Relations Bill - May 23, June 11, August 21 &amp; 22, 1969. These Bills support Public Employees rights to organize, form, join or assist in employee organizations and to select representatives for the primary purpose of collective bargaining.</p>  </scopecontent>
@@ -48,14 +31,31 @@
   <prefercite id="aspace_9301c90cda85b39d877f8c19f51148c6">
     <head>Preferred Citation</head>
 <p>Pennsylvania Governor's Commission to Revise the Public Employee Law of Pennsylvania on Microfilm #5199 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_f1452a57f4ac1b6d34b9febbf122fa70">
+  <relatedmaterial id="aspace_da64951c43c2b5d4de089d01a4653b46">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05199.html"> 5199: Pennsylvania Governor's Commission to Revise the Public Employee Law of Pennsylvania Statements, Hearings, Minutes, and Stenographic Reports of Public Hearings</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05199av.html"> 5199 AV: Pennsylvania Governor's Commission to Revise the Public Employee Law of Pennsylvania Audio-Visual Materials</extref></p>  </relatedmaterial>
+<p>Related Collections:  5199: Pennsylvania Governor's Commission to Revise the Public Employee Law of Pennsylvania Statements, Hearings, Minutes, and Stenographic Reports of Public Hearings  5199 AV: Pennsylvania Governor's Commission to Revise the Public Employee Law of Pennsylvania Audio-Visual Materials</p>  </relatedmaterial>
+  <odd id="aspace_05d7697ff498219697051a67b315258e">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, May 02, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 08, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject source="lcsh">Civil service -- Pennsylvania</subject>
     <corpname audience="internal" source="ingest">Pennsylvania. Governor's Commission for Revision of Pennsylvania's Public Employee Law</corpname>
   </controlaccess>
   <unitid type="bibid">8439656</unitid>
-  <dsc><c01 id="aspace_b4145131f8cebde8878129b1d2cf915f" level="file"><did><unittitle>Pennsylvania Sen. State Gov. Comm. Reports of Public Hearings - re: Public Employee Relations Bills (May-Aug. 1969)</unittitle><unitdate datechar="creation" normal="1969/1969">1969</unitdate><container id="aspace_d2883b25d583de2734884893d3729caa" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_d157502dd9d092eeeda82e820cf6a600"><head>Scope and Contents</head><p>Negative</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_b4145131f8cebde8878129b1d2cf915f" level="file"><did><unittitle>Pennsylvania Sen. State Gov. Comm. Reports of Public Hearings - re: Public Employee Relations Bills (May-Aug. 1969)</unittitle><unitdate datechar="creation" normal="1969/1969">1969</unitdate><container id="aspace_cde55af25dcdebf3a8049628c11910de" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_d157502dd9d092eeeda82e820cf6a600"><head>Scope and Contents</head><p>Negative</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05155mf</eadid><filedesc><titlestmt><titleproper>Pittsburgh Strike of 1877 Riot Papers on Microfilm <num>5155 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>November 01, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:08:05 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05155mf</eadid><filedesc><titlestmt><titleproper>Pittsburgh Strike of 1877 Riot Papers on Microfilm <num>5155 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>November 01, 2016</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:09:37 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -16,23 +16,6 @@
     <langmaterial id="aspace_6581903e14ec232247ffe7309359edb4">Collection material in English</langmaterial>
     <unitid type="bibid">5600816</unitid>
   </did>
-  <odd id="aspace_18687968773b8b7f3884a6451374b14e">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, May 02, 2014</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Randall Miles, November 01, 2016</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_3883b47be4e4a3b63402ec7d53d19493">
     <head>Biographical / Historical</head>
 <p>Pittsburgh, PA was at the center of a working-class protest that rocked the United States in 1877. Railroads were the most powerful companies at this time in history. In order to protect profits, railroads reduced workers wages by about ten percent and reduced their workforce. On July 16, a strike started in Martinsburg, West Virginia, and spread from St. Louis and Chicago to New York and Baltimore - Pittsburgh joined in on July 19. The rest of the city's working-class, newspapers and most government employees sympathized with the strikers. This is a collection of accounts of the strike.</p>  </bioghist>
@@ -48,11 +31,28 @@
   <prefercite id="aspace_2d4591a1f6e05aca819fa0b339e65bf2">
     <head>Preferred Citation</head>
 <p>Pittsburgh Strike of 1877 Riot Papers on Microfilm #5155 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <odd id="aspace_9d9684cc4a82a8cf9d22f4740cbe5eca">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, May 02, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, November 01, 2016</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <corpname audience="internal" source="ingest">Pittsburgh Strike of 1877</corpname>
     <corpname audience="internal" source="ingest">Strikes and lockouts -- Pennsylvania -- Pittsburgh.</corpname>
   </controlaccess>
   <unitid type="bibid">5600816</unitid>
-  <dsc><c01 id="aspace_fd36cc31e18e2ba8cf3e5df97521c52e" level="file"><did><unittitle>Pittsburgh Strike of 1877 - Riot papers, Newspaper accounts</unittitle><container id="aspace_66526b39e460820af8ad7267e63d254a" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_de00c9da963636d9e95a49bee7e8ab65"><head>Scope and Contents</head><p>Positive</p></scopecontent></c01><c01 id="aspace_e8842e62de67b4144c874f457029b090" level="file"><did><unittitle>Pittsburgh Strike of 1877 - Riot papers, Newspaper accounts</unittitle><container id="aspace_adbc91e989bd288bfea0d075807e989b" label="unspecified" type="reel">2</container></did><scopecontent id="aspace_72dc6464a14f321a262b293c4ebd00e6"><head>Scope and Contents</head><p>Positive -- Service copy</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_fd36cc31e18e2ba8cf3e5df97521c52e" level="file"><did><unittitle>Pittsburgh Strike of 1877 - Riot papers, Newspaper accounts</unittitle><container id="aspace_811b3b3e1421c4f315be4b1d5684636f" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_de00c9da963636d9e95a49bee7e8ab65"><head>Scope and Contents</head><p>Positive</p></scopecontent></c01><c01 id="aspace_e8842e62de67b4144c874f457029b090" level="file"><did><unittitle>Pittsburgh Strike of 1877 - Riot papers, Newspaper accounts</unittitle><container id="aspace_b611926fb0b210e6ce1dc30917d6b9ec" label="unspecified" type="reel">2</container></did><scopecontent id="aspace_72dc6464a14f321a262b293c4ebd00e6"><head>Scope and Contents</head><p>Positive -- Service copy</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

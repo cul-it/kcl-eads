@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL03089</eadid><filedesc><titlestmt><titleproper>Management Open House Recordings of Martin P. Catherwood's Remarks <num>/3089</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 22, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:00:19 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL03089</eadid><filedesc><titlestmt><titleproper>Management Open House Recordings of Martin P. Catherwood's Remarks <num>/3089</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 22, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:00:35 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -16,23 +16,6 @@
     <langmaterial id="aspace_d30fa9e9c7ce022a33f5fea0f290dba8">Collection material in English</langmaterial>
     <unitid type="bibid">8439110</unitid>
   </did>
-  <odd id="aspace_bc7675d868dc6dcd64552d5b5fc7eab3">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, October 07, 2013</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, February 22, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <scopecontent id="aspace_3dad9c8789da774ff5eaa891a5f439e6">
     <head>Scope and Contents</head>
 <p>This transcript was made on the occasion of the New York State School of Industrial and Labor Relations Management Open House, July 27, 1962. It was reviewed by Martin P. Catherwood in August 1966 and includes his edits.</p>  </scopecontent>
@@ -45,14 +28,31 @@
   <prefercite id="aspace_5feb5d9e64ed85a6677c272f09bea371">
     <head>Preferred Citation</head>
 <p>Management Open House Recordings of Martin P. Catherwood's Remarks #/3089. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_c7f05d557576dd430d0d451a533e047c">
+  <relatedmaterial id="aspace_17a5d49dd6a30b08766ebf9853ad6607">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04339.html"> /4339: Martin P. Catherwood Collections</extref></p>  </relatedmaterial>
+<p>Related Collections:  /4339: Martin P. Catherwood Collections</p>  </relatedmaterial>
+  <odd id="aspace_3e4b6576aa8c17fe3046bd4eb2850a21">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 07, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, February 22, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <persname authfilenumber="http://id.loc.gov/authorities/names/nr00040058" source="lcnaf">Catherwood, M. P. (Martin Paul), 1904-1978</persname>
     <corpname authfilenumber="http://id.loc.gov/authorities/names/n81063067" source="lcnaf">New York State School of Industrial and Labor Relations</corpname>
   </controlaccess>
   <unitid type="bibid">8439110</unitid>
-  <dsc><c01 id="aspace_e40911501819375efc9ae8f075231cb1" level="file"><did><unittitle>Management Open House transcript</unittitle><unitdate datechar="creation" normal="1962/1962">1962</unitdate><container id="aspace_cc0d0be224c909a8c70ea311991b5204" label="unspecified" type="box">1</container><container id="aspace_67b7ba814ce22845d1183d035dd9e286" parent="aspace_cc0d0be224c909a8c70ea311991b5204" type="folder">1</container></did><scopecontent id="aspace_1fd92e0624ffb38b7afb97a88d47f59d"><head>Scope and Contents</head><p>Typescript, 25 pages.</p></scopecontent></c01><c01 id="aspace_8116a2f21265d4e6277ed05a82ee6dad" level="file"><did><unittitle>Management Open House transcript</unittitle><unitdate datechar="creation" normal="1962/1962">1962</unitdate><container id="aspace_a6d0f9ba60830c74cfe6525172cf7ace" label="unspecified" type="box">1</container><container id="aspace_7c63082e77c5ee379cbe3bd9822c9395" parent="aspace_a6d0f9ba60830c74cfe6525172cf7ace" type="folder">2</container></did><scopecontent id="aspace_b42d8328212e725ffb15cc3c8d532bcb"><head>Scope and Contents</head><p>Typescript. 25 pages. Copy 2.</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_e40911501819375efc9ae8f075231cb1" level="file"><did><unittitle>Management Open House transcript</unittitle><unitdate datechar="creation" normal="1962/1962">1962</unitdate><container id="aspace_d91afac890fd39ae758567bd491ff98c" label="unspecified" type="box">1</container><container id="aspace_af6ede2dab678781ab7226b7c50c75ce" parent="aspace_d91afac890fd39ae758567bd491ff98c" type="folder">1</container></did><scopecontent id="aspace_1fd92e0624ffb38b7afb97a88d47f59d"><head>Scope and Contents</head><p>Typescript, 25 pages.</p></scopecontent></c01><c01 id="aspace_8116a2f21265d4e6277ed05a82ee6dad" level="file"><did><unittitle>Management Open House transcript</unittitle><unitdate datechar="creation" normal="1962/1962">1962</unitdate><container id="aspace_c82abc2b32b497dea46217a20d0f1b1a" label="unspecified" type="box">1</container><container id="aspace_c89a498aa7277ad606914b70da4044d5" parent="aspace_c82abc2b32b497dea46217a20d0f1b1a" type="folder">2</container></did><scopecontent id="aspace_b42d8328212e725ffb15cc3c8d532bcb"><head>Scope and Contents</head><p>Typescript. 25 pages. Copy 2.</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

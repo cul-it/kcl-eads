@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05354</eadid><filedesc><titlestmt><titleproper>Pan American World Airways-Air Line Pilots Association Mediation Records <num>5354</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 11, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:11:16 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05354</eadid><filedesc><titlestmt><titleproper>Pan American World Airways-Air Line Pilots Association Mediation Records <num>5354</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 11, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:13:47 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -22,23 +22,6 @@
     <langmaterial id="aspace_8ad71bd43eac2025f5b6fd26526ff9f1">Collection material in English</langmaterial>
     <unitid type="bibid">8216675</unitid>
   </did>
-  <odd id="aspace_71de5e531e5878963ef60b0842e3f97e">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, November 22, 2013</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, March 11, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <scopecontent id="aspace_88bf15fd136e2dbe70edb23460c7b3fe">
     <head>Scope and Contents</head>
 <p>This collection consists of materials pertaining to contract negotiations between Pan American World Airways and pilots and flight engineers, including salary and other data. Pertains to PanAm, Air Line Pilots Association (ALPA), and the Flight Engineers international Association, 1960.</p>  </scopecontent>
@@ -51,12 +34,29 @@
   <prefercite id="aspace_b88e090b83ddfb09b6e1c3ad6e624346">
     <head>Preferred Citation</head>
 <p>Pan American World Airways-Air Line Pilots Association Mediation Records #5354. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <odd id="aspace_21da6e4acd2bea4ce497cf1dac929dc2">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, November 22, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 11, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <persname audience="internal" source="ingest">Metchick, Robert H.</persname>
     <corpname audience="internal" source="ingest">Air Line Pilots Association (ALPA)</corpname>
     <corpname audience="internal" source="ingest">Pan American World Airways, Inc. (PAA)</corpname>
   </controlaccess>
   <unitid type="bibid">8216675</unitid>
-  <dsc><c01 id="aspace_12fb3b5ae84f245f6d09738d8400131d" level="file"><did><unittitle>Materials pertaining to contract negotiations re: pilots and flight engineers, including salary and other data. Pertains to PanAm, ALPA, and the Flight Engineers international Association, 1960..</unittitle><container id="aspace_dc50c435851a8e87490f0046a7d53197" label="unspecified" type="box">1</container></did><c02 id="aspace_c4a2dc998b5d40211e47b1ab83c5b184" level="file"><did><unittitle>Data regarding pilot negotiations</unittitle><unitdate datechar="creation" normal="1959/1960" type="inclusive">1959-1960</unitdate><container id="aspace_16facd8297c4248a4aff4b1d9f215e78" label="unspecified" type="box">1</container><container id="aspace_a64c8b88f4cd6edf9e4a8485be83eff1" parent="aspace_16facd8297c4248a4aff4b1d9f215e78" type="folder">1</container></did><scopecontent id="aspace_0b606e80553d60ef6fb6f260da7c6b51"><head>Scope and Contents</head><p>Mr. Robert H. Metchick, System Industrial Relations</p></scopecontent></c02><c02 id="aspace_f54383018ee1b820cdda3f152352b3b1" level="file"><did><unittitle>Pilot proposals</unittitle><unitdate datechar="creation" normal="1960/1960">1960</unitdate><container id="aspace_2576799da05f407eb19e69675a256d0b" label="unspecified" type="box">1</container><container id="aspace_93bbc2348ce1be30666486dfca4326e4" parent="aspace_2576799da05f407eb19e69675a256d0b" type="folder">2</container></did><scopecontent id="aspace_07ca0bb0c38e5cf35b9c93932a68d8d9"><head>Scope and Contents</head><p>Robert Metchick</p></scopecontent></c02><c02 id="aspace_c20cd2c5c0ce3988fa2607966290eed7" level="file"><did><unittitle>Data regarding flight engineer negotiations</unittitle><unitdate datechar="creation" normal="1959/1960" type="inclusive">1959-1960</unitdate><container id="aspace_fba6e318caee39bc1e4a570bbe3fa0af" label="unspecified" type="box">1</container><container id="aspace_6b4e353b91aa12737c0f71c2749e6b64" parent="aspace_fba6e318caee39bc1e4a570bbe3fa0af" type="folder">3</container></did><scopecontent id="aspace_809160996196d8c64bc6ac0ed13920aa"><head>Scope and Contents</head><p>Robert Metchick</p></scopecontent></c02></c01></dsc>
+  <dsc><c01 id="aspace_12fb3b5ae84f245f6d09738d8400131d" level="file"><did><unittitle>Materials pertaining to contract negotiations re: pilots and flight engineers, including salary and other data. Pertains to PanAm, ALPA, and the Flight Engineers international Association, 1960..</unittitle><container id="aspace_5cb6c0c8a9a97e85995c3f1dd53c3117" label="unspecified" type="box">1</container></did><c02 id="aspace_c4a2dc998b5d40211e47b1ab83c5b184" level="file"><did><unittitle>Data regarding pilot negotiations</unittitle><unitdate datechar="creation" normal="1959/1960" type="inclusive">1959-1960</unitdate><container id="aspace_5d9ace65073400b8407755ca795c72de" label="unspecified" type="box">1</container><container id="aspace_2d74bbef7f6c602e6df39736cd575620" parent="aspace_5d9ace65073400b8407755ca795c72de" type="folder">1</container></did><scopecontent id="aspace_0b606e80553d60ef6fb6f260da7c6b51"><head>Scope and Contents</head><p>Mr. Robert H. Metchick, System Industrial Relations</p></scopecontent></c02><c02 id="aspace_f54383018ee1b820cdda3f152352b3b1" level="file"><did><unittitle>Pilot proposals</unittitle><unitdate datechar="creation" normal="1960/1960">1960</unitdate><container id="aspace_eaa05b008372955b098a138a24fa71bd" label="unspecified" type="box">1</container><container id="aspace_e258b6bb1d7b0357c15dfe7b92ee574f" parent="aspace_eaa05b008372955b098a138a24fa71bd" type="folder">2</container></did><scopecontent id="aspace_07ca0bb0c38e5cf35b9c93932a68d8d9"><head>Scope and Contents</head><p>Robert Metchick</p></scopecontent></c02><c02 id="aspace_c20cd2c5c0ce3988fa2607966290eed7" level="file"><did><unittitle>Data regarding flight engineer negotiations</unittitle><unitdate datechar="creation" normal="1959/1960" type="inclusive">1959-1960</unitdate><container id="aspace_b0ba50790cfa8bb203d32074e151e347" label="unspecified" type="box">1</container><container id="aspace_a3bbc0176ff0c9f9fe1aff0e9452b238" parent="aspace_b0ba50790cfa8bb203d32074e151e347" type="folder">3</container></did><scopecontent id="aspace_809160996196d8c64bc6ac0ed13920aa"><head>Scope and Contents</head><p>Robert Metchick</p></scopecontent></c02></c01></dsc>
 </archdesc>
 </ead>

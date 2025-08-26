@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06298p</eadid><filedesc><titlestmt><titleproper>Colon, George ILGWU Labor Art Photographs <num>6298 P</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 26, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:35:03 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06298p</eadid><filedesc><titlestmt><titleproper>Colon, George ILGWU Labor Art Photographs <num>6298 P</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 26, 2015</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:46:53 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -18,12 +18,21 @@
     <langmaterial id="aspace_e379e621ab37335dd574d3ef53e971c7">Collection material in English</langmaterial>
     <unitid type="bibid">6872964</unitid>
   </did>
-  <odd id="aspace_d1d74be52a94750d85534b3f5d0e5bd7">
+  <accessrestrict id="aspace_4c2b4291091581581e644aaa2badcc1a">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_47768cb3aa0e1cb8ba1ec424188d4722">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_bfbcb721b4b2cf53947ee9cb077832b5">
+    <head>Preferred Citation</head>
+<p>George Colon ILGWU Labor Art Photographs #6298 P. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <odd id="aspace_5c5755cafae06a948a15949b82e3b523">
     <head>General</head>
     <list type="deflist">
       <defitem>
         <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
       </defitem>
       <defitem>
         <label>Compiled by:</label>
@@ -35,20 +44,11 @@
       </defitem>
     </list>
   </odd>
-  <accessrestrict id="aspace_4c2b4291091581581e644aaa2badcc1a">
-    <head>Conditions Governing Access</head>
-<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
-  <userestrict id="aspace_47768cb3aa0e1cb8ba1ec424188d4722">
-    <head>Conditions Governing Use</head>
-<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
-  <prefercite id="aspace_bfbcb721b4b2cf53947ee9cb077832b5">
-    <head>Preferred Citation</head>
-<p>George Colon ILGWU Labor Art Photographs #6298 P. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
   <controlaccess>
     <persname audience="internal" source="ingest">Colon, George.</persname>
     <corpname audience="internal" authfilenumber="http://id.loc.gov/authorities/names/n50060238" source="lcnaf">International Ladies' Garment Workers' Union</corpname>
   </controlaccess>
   <unitid type="bibid">6872964</unitid>
-  <dsc><c01 id="aspace_02cea88ee0343b3de7194421e86fbe7d" level="file"><did><unittitle>Photocopied photographs and news clippings</unittitle><container id="aspace_cde29aaa34fc406de48d851f7021a1bf" label="unspecified" type="box">1</container><container id="aspace_b162ac2ccc5414d6b7959dc9ec24e292" parent="aspace_cde29aaa34fc406de48d851f7021a1bf" type="Folder">1</container></did></c01><c01 id="aspace_dfc77cb97ce1d3b52c094061132a7efb" level="file"><did><unittitle>ILGWU Labor Arts</unittitle><container id="aspace_4ffdf3687b2b34838aa5ff2cb2175cd8" label="unspecified" type="box">2</container></did><c02 id="aspace_962f445aa1115266a14a254ffeaee680" level="file"><did><unittitle>ILGWU Labor Arts</unittitle><container id="aspace_6fa0f4aabac9530903702851b62e9bae" label="unspecified" type="box">2</container><container id="aspace_7c01773c747e247be1d3516d67cbaa2a" parent="aspace_6fa0f4aabac9530903702851b62e9bae" type="Folder">1</container></did></c02></c01></dsc>
+  <dsc><c01 id="aspace_02cea88ee0343b3de7194421e86fbe7d" level="file"><did><unittitle>Photocopied photographs and news clippings</unittitle><container id="aspace_eb17829dace48ca751a1ecdf0bcabc8b" label="unspecified" type="box">1</container><container id="aspace_9289b9ab20353ac05d97d05022fde90c" parent="aspace_eb17829dace48ca751a1ecdf0bcabc8b" type="Folder">1</container></did></c01><c01 id="aspace_dfc77cb97ce1d3b52c094061132a7efb" level="file"><did><unittitle>ILGWU Labor Arts</unittitle><container id="aspace_d0cbf661702c7480ba6e9bda4ebdc8fc" label="unspecified" type="box">2</container></did><c02 id="aspace_962f445aa1115266a14a254ffeaee680" level="file"><did><unittitle>ILGWU Labor Arts</unittitle><container id="aspace_a444dc40b585001d359ae83d9c20da38" label="unspecified" type="box">2</container><container id="aspace_898671b81ee7ae4fdccf76b9d3837582" parent="aspace_a444dc40b585001d359ae83d9c20da38" type="Folder">1</container></did></c02></c01></dsc>
 </archdesc>
 </ead>

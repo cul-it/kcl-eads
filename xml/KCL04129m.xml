@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04129m</eadid><filedesc><titlestmt><titleproper>ILR School Frontlash/Committee on Labor Action International Paper Company Recruiting Protest Leaflets <num>/4129m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 01, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:02:09 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04129m</eadid><filedesc><titlestmt><titleproper>ILR School Frontlash/Committee on Labor Action International Paper Company Recruiting Protest Leaflets <num>/4129m</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 01, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:02:48 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -16,23 +16,6 @@
     <langmaterial id="aspace_5ae0cb75a91464c789a20f0902f44ba9">Collection material in English</langmaterial>
     <unitid type="bibid">7994635</unitid>
   </did>
-  <odd id="aspace_bc7d751cfdcb63ce79411b995b166f0b">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, October 10, 2013</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, March 01, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <scopecontent id="aspace_a37142c7afb622aea82df7edf9beea40">
     <head>Scope and Contents</head>
 <p>This collection consists of materials relating to a protest against the International Paper Company's recruiting efforts at the ILR School. Included are an information packet for faculty and ILR students, leaflets, and an update on the International Paper Boycott. The protest was organized by Frontlash/Committee on Labor Action.</p>  </scopecontent>
@@ -45,14 +28,31 @@
   <prefercite id="aspace_f345331b897ca10715e04fe1bef1102e">
     <head>Preferred Citation</head>
 <p>ILR School Frontlash/Committee on Labor Action International Paper Company Recruiting Protest Leaflets #/4129m. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_b7dda26cb92dc6b3e1364bbbc656e1c3">
+  <relatedmaterial id="aspace_87112a8f921968901942dd37c6e3cbea">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619-006.html"> 5619/006: ACTWU Executive Vice-President's Office Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619-007.html"> 5619/007: ACTWU Organizing Department Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619-018.html"> 5619/018: ACTWU Secretary-Treasurer's Office Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619-023.html"> 5619/023: ACTWU Social Services Department Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619-029.html"> 5619/029: ACTWU Vice-President's Office Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-052.html"> 5780/052: ILGWU Gus Tyler Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-083.html"> 5780/083: ILGWU Sol Chaikin Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-084.html"> 5780/084: ILGWU Wilbur Daniels Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-097.html"> 5780/097: ILGWU Susan Cowell Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-103.html"> 5780/103: ILGWU Political Department Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-104.html"> 5780/104: ILGWU David Dubinsky Foundation Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-115.html"> 5780/115: ILGWU Western States Region Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-119.html"> 5780/119: ILGWU Political Department, Evelyn Dubrow Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-142.html"> 5780/142: ILGWU Political/Legislative Department, Evelyn Dubrow Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-144.html"> 5780/144: ILGWU Organizing Department Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-154.html"> 5780/154: ILGWU President's Office Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780-203.html"> 5780/203: ILGWU Jay Mazur Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06000-007.html"> 6000/007: UNITE Legislative Department Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06000-010.html"> 6000/010: UNITE President's Office Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06036-028.html"> 6036/028: Jay Lovestone Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06046.html"> 6046: Archives Union File (AUF)</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06174-001.html"> 6174/001: NYSUT President's Office Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06369.html"> 6369: Jobs With Justice Records</extref></p>  </relatedmaterial>
+<p>Related Collections:  5619/006: ACTWU Executive Vice-President's Office Files  5619/007: ACTWU Organizing Department Files  5619/018: ACTWU Secretary-Treasurer's Office Files  5619/023: ACTWU Social Services Department Files  5619/029: ACTWU Vice-President's Office Files  5780/052: ILGWU Gus Tyler Papers  5780/083: ILGWU Sol Chaikin Papers  5780/084: ILGWU Wilbur Daniels Papers  5780/097: ILGWU Susan Cowell Papers  5780/103: ILGWU Political Department Records  5780/104: ILGWU David Dubinsky Foundation Records  5780/115: ILGWU Western States Region Records  5780/119: ILGWU Political Department, Evelyn Dubrow Papers  5780/142: ILGWU Political/Legislative Department, Evelyn Dubrow Papers  5780/144: ILGWU Organizing Department Records  5780/154: ILGWU President's Office Records  5780/203: ILGWU Jay Mazur Papers  6000/007: UNITE Legislative Department Records  6000/010: UNITE President's Office Files  6036/028: Jay Lovestone Papers  6046: Archives Union File (AUF)  6174/001: NYSUT President's Office Files  6369: Jobs With Justice Records</p>  </relatedmaterial>
+  <odd id="aspace_65cc02c3044a5731d33948575976f1fb">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, October 10, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 01, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <corpname audience="internal" source="ingest">International Paper Company</corpname>
     <corpname authfilenumber="http://id.loc.gov/authorities/names/n81063067" source="lcnaf">New York State School of Industrial and Labor Relations</corpname>
   </controlaccess>
   <unitid type="bibid">7994635</unitid>
-  <dsc><c01 id="aspace_6fd93ece1648ee4f1874e86048701679" level="file"><did><unittitle>Materials relating to protest against the International Paper Company's recruiting efforts at the ILR School</unittitle><unitdate datechar="creation" normal="1991/1991">1991</unitdate><container id="aspace_ea2f528084c5d9c4f098f40044f40c30" label="unspecified" type="box">1</container></did><scopecontent id="aspace_11568c473042ae219b12d90f6f80dc46"><head>Scope and Contents</head><p>Prepared by Frontlash/Committee on Labor Action</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_6fd93ece1648ee4f1874e86048701679" level="file"><did><unittitle>Materials relating to protest against the International Paper Company's recruiting efforts at the ILR School</unittitle><unitdate datechar="creation" normal="1991/1991">1991</unitdate><container id="aspace_ee064d4b0bd54fe3e15eb6efc175b9d3" label="unspecified" type="box">1</container></did><scopecontent id="aspace_11568c473042ae219b12d90f6f80dc46"><head>Scope and Contents</head><p>Prepared by Frontlash/Committee on Labor Action</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

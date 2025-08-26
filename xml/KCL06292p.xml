@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06292p</eadid><filedesc><titlestmt><titleproper>American Labor Education Center "Learning About Work" Slide Show <num>6292 P</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 26, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:35:02 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06292p</eadid><filedesc><titlestmt><titleproper>American Labor Education Center "Learning About Work" Slide Show <num>6292 P</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 26, 2015</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:46:51 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -18,12 +18,21 @@
     <langmaterial id="aspace_4435bb5a31c532dc9e787d063384b831">Collection material in English</langmaterial>
     <unitid type="bibid">6717368</unitid>
   </did>
-  <odd id="aspace_5ed72428c227624bf23841346dc4d254">
+  <accessrestrict id="aspace_29d350f66520b53b50829f796369171c">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_b8cf544cad053724230e52c59c3b6efc">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_07716d3a644ad4919dbdeae9b69a18c0">
+    <head>Preferred Citation</head>
+<p>American Labor Education Center "Learning About Work" Slide Show #6292 P. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <odd id="aspace_90375792a921ca8b972412ea9df16e6a">
     <head>General</head>
     <list type="deflist">
       <defitem>
         <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
       </defitem>
       <defitem>
         <label>Compiled by:</label>
@@ -35,15 +44,6 @@
       </defitem>
     </list>
   </odd>
-  <accessrestrict id="aspace_29d350f66520b53b50829f796369171c">
-    <head>Conditions Governing Access</head>
-<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
-  <userestrict id="aspace_b8cf544cad053724230e52c59c3b6efc">
-    <head>Conditions Governing Use</head>
-<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
-  <prefercite id="aspace_07716d3a644ad4919dbdeae9b69a18c0">
-    <head>Preferred Citation</head>
-<p>American Labor Education Center "Learning About Work" Slide Show #6292 P. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
   <controlaccess>
     <subject source="ingest">Slides (Photography)</subject>
     <subject source="ingest">Visual education</subject>
@@ -52,6 +52,6 @@
     <corpname audience="internal" source="ingest">American Labor Education Center (Washington, D.C.)</corpname>
   </controlaccess>
   <unitid type="bibid">6717368</unitid>
-  <dsc><c01 id="aspace_a8d320535bd88bc1ca83d9f95fb4160a" level="file"><did><unittitle>Slides</unittitle><container id="aspace_978f0ec6ef220f9afb7ced609cce7b0d" label="unspecified" type="box">1</container><container id="aspace_8a3d3defcf7ff9ecc3522651c05a290e" parent="aspace_978f0ec6ef220f9afb7ced609cce7b0d" type="Folder">1</container></did><scopecontent id="aspace_0709e712ce32ce3a2bda39475a922ffa"><head>Scope and Contents</head><p>20 slides</p></scopecontent></c01><c01 id="aspace_fac512cd2cb28718efae79eab6ddf5c4" level="file"><did><unittitle>Slides</unittitle><container id="aspace_531b143f94435ac5b23ac6919c92cdff" label="unspecified" type="box">1</container><container id="aspace_0736cc1db6af0c4ee40da87ce980c98c" parent="aspace_531b143f94435ac5b23ac6919c92cdff" type="Folder">2</container></did><scopecontent id="aspace_1cff3088b1a7c12e9cbd23f6732fb831"><head>Scope and Contents</head><p>20 slides</p></scopecontent></c01><c01 id="aspace_b98103b3a5916eaf08d38fb3107aba71" level="file"><did><unittitle>Slides</unittitle><container id="aspace_37c7ac5c5e8c6345b3850db651478f5b" label="unspecified" type="box">1</container><container id="aspace_aa105b8720060c39fee2dab4256f3139" parent="aspace_37c7ac5c5e8c6345b3850db651478f5b" type="Folder">3</container></did><scopecontent id="aspace_2b4ee169f7534d1c3468f2831c50052f"><head>Scope and Contents</head><p>20 slides</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_a8d320535bd88bc1ca83d9f95fb4160a" level="file"><did><unittitle>Slides</unittitle><container id="aspace_91363a37a92e16bb9122dc58f93c91e3" label="unspecified" type="box">1</container><container id="aspace_2d226360a5e832e257acd9d85de3322e" parent="aspace_91363a37a92e16bb9122dc58f93c91e3" type="Folder">1</container></did><scopecontent id="aspace_0709e712ce32ce3a2bda39475a922ffa"><head>Scope and Contents</head><p>20 slides</p></scopecontent></c01><c01 id="aspace_fac512cd2cb28718efae79eab6ddf5c4" level="file"><did><unittitle>Slides</unittitle><container id="aspace_442d0b56b07eccb042bb06feea5c7f3f" label="unspecified" type="box">1</container><container id="aspace_e0e015f1a48284c4abf3bbc89a2e1d17" parent="aspace_442d0b56b07eccb042bb06feea5c7f3f" type="Folder">2</container></did><scopecontent id="aspace_1cff3088b1a7c12e9cbd23f6732fb831"><head>Scope and Contents</head><p>20 slides</p></scopecontent></c01><c01 id="aspace_b98103b3a5916eaf08d38fb3107aba71" level="file"><did><unittitle>Slides</unittitle><container id="aspace_ea8ed2ffba4a4d3c7c71ae0172172a7a" label="unspecified" type="box">1</container><container id="aspace_21fd0f72c1a370185899e42b48053c4f" parent="aspace_ea8ed2ffba4a4d3c7c71ae0172172a7a" type="Folder">3</container></did><scopecontent id="aspace_2b4ee169f7534d1c3468f2831c50052f"><head>Scope and Contents</head><p>20 slides</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

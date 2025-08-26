@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04056</eadid><filedesc><titlestmt><titleproper>Morris, James O. Papers <num>/4056</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>September 23, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:01:13 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04056</eadid><filedesc><titlestmt><titleproper>Morris, James O. Papers <num>/4056</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>September 23, 2016</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:01:39 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -18,23 +18,6 @@
     <langmaterial id="aspace_c20c722fb01d623acb0f243fe59f3806">Collection material in English</langmaterial>
     <unitid type="bibid">7980429</unitid>
   </did>
-  <odd id="aspace_45708dfe89a0c1cb39a3b38c9bd71382">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, July 22, 2014</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Randall Miles, September 23, 2016</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_42052bff141ec38def1f830700117642">
     <head>Biographical / Historical</head>
 <p>James O. Morris (February 8, 1923 June 30, 1985) was professor of industrial and labor relations at Cornell University's New York State School of Industrial and Labor Relations. </p><p> A graduate of Hiram College and the University of Michigan, Morris joined the faculty of Cornell University in 1955. In the 1950s and early 1960s, he spent time in Chile as a Fulbright scholar and the ILR School's representative at the University of Chile in Santiago. After his time in Chile, Morris returned to Ithaca and taught in Cornell's Department of Collective Bargaining, Labor Law, and Labor History. </p><p> Morris was the author of Conflict within the AFL: A Study of Craft versus Industrial Unionism, 1900-1938 (Ithaca: Cornell, 1958), Elites, Intellectuals and Consensus: A Study of the Social Question and the Industrial Relations Systems in Chile (Ithaca: Cornell, 1966), Bibliography of Industrial Relations in the Railroad Industry (Ithaca: Cornell, 1975), and with Roberto Oyaneder, Afiliacion y finanzas sindicales en Chile, 1932-1959 (Santiago: University of Chile Press, 1966). </p><p> Morris served on the editorial board of Labor History and Industrial and Labor Relations Review, and was a founding member of the New York State Labor History Association, a group for which he also served terms as vice president and president. </p><p> See the Cornell University Faculty Memorial Statement for Professor James Morris: http://hdl.handle.net/1813/18150</p>  </bioghist>
@@ -47,14 +30,31 @@
   <prefercite id="aspace_916622fbcc8b3e2c73ba80d14d3dd2f4">
     <head>Preferred Citation</head>
 <p>James O. Morris Papers #/4056. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_f25e5f05ea0384de199e6abd865cbc49">
+  <relatedmaterial id="aspace_a80a6fccaa6ec537e46556042e262523">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL03018.html"> /3018: James O. Morris Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04055.html"> /4055: James O. Morris Office Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04073.html"> /4073: James O. Morris Office Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05518av.html"> 5518 AV: James O. Morris Collection of Labor Related Tape Recordings</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05188m.html"> 5188m: Association of American Railroads Agreement of May 1936</extref></p>  </relatedmaterial>
+<p>Related Collections:  /3018: James O. Morris Papers  /4055: James O. Morris Office Files  /4073: James O. Morris Office Files  5518 AV: James O. Morris Collection of Labor Related Tape Recordings  5188m: Association of American Railroads Agreement of May 1936</p>  </relatedmaterial>
+  <odd id="aspace_a524f0157f497d908e99c04f72097590">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, July 22, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, September 23, 2016</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <persname audience="internal" source="ingest">Morris, James O.</persname>
     <corpname authfilenumber="http://id.loc.gov/authorities/names/n81063067" source="lcnaf">New York State School of Industrial and Labor Relations</corpname>
   </controlaccess>
   <unitid type="bibid">7980429</unitid>
-  <dsc><c01 id="aspace_0db538d71cce40053aeb70c3b5f47048" level="file"><did><unittitle>Contract Colleges of Cornell</unittitle><container id="aspace_3a7c28df37b081e452cc83e79b44c63f" label="unspecified" type="box">1</container><container id="aspace_596ec01a96b46cabc259e141551c7e5a" parent="aspace_3a7c28df37b081e452cc83e79b44c63f" type="folder">1</container></did></c01><c01 id="aspace_906000da286ac92f077719e600b702db" level="file"><did><unittitle>Maurice F. Neufeld. Grass-Roots Founders and Grass-Roots Prodders: The Sources of Venture and Renewal for Democratic Education</unittitle><unitdate datechar="creation" normal="1972/1972">1972</unitdate><container id="aspace_6a31dd0564ccc1f07da877f3d6e78b8f" label="unspecified" type="box">1</container><container id="aspace_27fef64612c3bbaeb7c8d204830ff745" parent="aspace_6a31dd0564ccc1f07da877f3d6e78b8f" type="folder">2</container></did></c01><c01 id="aspace_b823f709e77ee3caa0eed653a1599260" level="file"><did><unittitle>James O. Morris. The New York State School of Industrial and Labor Relations. Draft Comments</unittitle><unitdate datechar="creation" normal="1965/1965">1965</unitdate><container id="aspace_1420f57e7734fa320b67df2fc9ed2495" label="unspecified" type="box">1</container><container id="aspace_ef1a9b61ffd8e489e2f9d13baf1cc221" parent="aspace_1420f57e7734fa320b67df2fc9ed2495" type="folder">3</container></did></c01><c01 id="aspace_668a05e085a1b505e46837e42b1b57a5" level="file"><did><unittitle>James O. Morris. The New York State School of Industrial and Labor Relations. First Draft</unittitle><unitdate datechar="creation" normal="1965/1965">1965</unitdate><container id="aspace_4081040d719cace3f25597cfb30c1b42" label="unspecified" type="box">2</container><container id="aspace_df515d5c65f5710c67c548452515a8ee" parent="aspace_4081040d719cace3f25597cfb30c1b42" type="folder">1</container></did></c01></dsc>
+  <dsc><c01 id="aspace_0db538d71cce40053aeb70c3b5f47048" level="file"><did><unittitle>Contract Colleges of Cornell</unittitle><container id="aspace_ccb039525a86092a9efbec83340e89a7" label="unspecified" type="box">1</container><container id="aspace_0854e8a47ac04c70f857b29800e2b461" parent="aspace_ccb039525a86092a9efbec83340e89a7" type="folder">1</container></did></c01><c01 id="aspace_906000da286ac92f077719e600b702db" level="file"><did><unittitle>Maurice F. Neufeld. Grass-Roots Founders and Grass-Roots Prodders: The Sources of Venture and Renewal for Democratic Education</unittitle><unitdate datechar="creation" normal="1972/1972">1972</unitdate><container id="aspace_a26d406e0dec08b54e05f04db6bb0a01" label="unspecified" type="box">1</container><container id="aspace_369106e4656112e0cf44e42d798edb4f" parent="aspace_a26d406e0dec08b54e05f04db6bb0a01" type="folder">2</container></did></c01><c01 id="aspace_b823f709e77ee3caa0eed653a1599260" level="file"><did><unittitle>James O. Morris. The New York State School of Industrial and Labor Relations. Draft Comments</unittitle><unitdate datechar="creation" normal="1965/1965">1965</unitdate><container id="aspace_738a4078802cc6a08339f90f4576a271" label="unspecified" type="box">1</container><container id="aspace_929328fa6a0d737d78e008d1b70a24b3" parent="aspace_738a4078802cc6a08339f90f4576a271" type="folder">3</container></did></c01><c01 id="aspace_668a05e085a1b505e46837e42b1b57a5" level="file"><did><unittitle>James O. Morris. The New York State School of Industrial and Labor Relations. First Draft</unittitle><unitdate datechar="creation" normal="1965/1965">1965</unitdate><container id="aspace_2064eff000bcdbab454adbc95d05b069" label="unspecified" type="box">2</container><container id="aspace_5b4f56857e20ba4d76c22c4b91ae9677" parent="aspace_2064eff000bcdbab454adbc95d05b069" type="folder">1</container></did></c01></dsc>
 </archdesc>
 </ead>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05660mf</eadid><filedesc><titlestmt><titleproper>Central Trades and Labor Council of Peekskill, NY, Minute Books on Microfilm <num>5660 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 25, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:17:58 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05660mf</eadid><filedesc><titlestmt><titleproper>Central Trades and Labor Council of Peekskill, NY, Minute Books on Microfilm <num>5660 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 25, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:23:33 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_9d28fecea5dc791134d0fd2e9618854f">Collection material in English</langmaterial>
     <unitid type="bibid">8473728</unitid>
   </did>
-  <odd id="aspace_146e43922ab44320d162ac3ed2594aa4">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, May 21, 2014</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, March 25, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_556555cf66fa1011ccf121760dd83b45">
     <head>Biographical / Historical</head>
 <p>The New York State AFL-CIO is a federation of 3,000 affiliated public sector, private sector, and building trades unions throughout the state, representing 2.5 million members, retirees and their families. Our members live and work in every community in our state, and reflect the diversity that makes New York great. </p><p> Our State Federation, which is the largest in the country, is committed to the fight for social and economic justice. The foundation of our movement is the belief that we are stronger together. </p><p> Working with our affiliates, area labor federations, central labor councils, and community allies, we fight to improve the lives and working conditions of all hard working New Yorkers. Through grassroots advocacy, political and legislative action, policy analysis, and coordinated communications, the New York State AFL-CIO is force for progressive change. </p><p> The Dutchess County Central Labor Council is the branch that takes care of members in Peekskill, NY.</p>  </bioghist>
@@ -51,10 +34,27 @@
   <prefercite id="aspace_806d3d325b98a780adfe7f858e41cb52">
     <head>Preferred Citation</head>
 <p>Central Trades and Labor Council of Peekskill, NY, Minute Books on Microfilm #5660 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <odd id="aspace_3d5ccd821d397eab8efa7882fab54d8a">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, May 21, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 25, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <corpname audience="internal" source="ingest">Central Trades and Labor Council (Peekskill, N.Y.)</corpname>
   </controlaccess>
   <unitid type="bibid">8473728</unitid>
-  <dsc><c01 id="aspace_bf250e0294320c4675d21d7cbe515b82" level="file"><did><unittitle>Peekskill, NY, Central Trades and Labor Council, Minute books 1937-1972 [positive]</unittitle><unitdate datechar="creation" normal="1937/1972" type="inclusive">1937-1972</unitdate><container id="aspace_1856f33dcb449548582a30137d092e97" label="unspecified" type="reel">2</container></did><scopecontent id="aspace_620ce4766bfbd4a365071a1324750dc6"><head>Scope and Contents</head><p>Mar. 18, 1937-Mar. 15, 1972</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_bf250e0294320c4675d21d7cbe515b82" level="file"><did><unittitle>Peekskill, NY, Central Trades and Labor Council, Minute books 1937-1972 [positive]</unittitle><unitdate datechar="creation" normal="1937/1972" type="inclusive">1937-1972</unitdate><container id="aspace_68af05e46dcf9aac23525427c13f8090" label="unspecified" type="reel">2</container></did><scopecontent id="aspace_620ce4766bfbd4a365071a1324750dc6"><head>Scope and Contents</head><p>Mar. 18, 1937-Mar. 15, 1972</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

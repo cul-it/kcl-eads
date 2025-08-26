@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04283mb</eadid><filedesc><titlestmt><titleproper>ILR School Extension Division (Buffalo, N.Y.) Memorabilia <num>/4283 MB</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 05, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:04:21 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04283mb</eadid><filedesc><titlestmt><titleproper>ILR School Extension Division (Buffalo, N.Y.) Memorabilia <num>/4283 MB</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 05, 2016</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:05:27 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -15,12 +15,24 @@
     <langmaterial id="aspace_746771cd5b948425b90df639508cf13e">Collection material in English</langmaterial>
     <unitid type="bibid">8248402</unitid>
   </did>
-  <odd id="aspace_22f6306b46b43a01d5c0c48b5e7be997">
+  <accessrestrict id="aspace_70721101c4c46085c4a1d5110e824eca">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_bcff67dfbf0791589d96186831c53ae5">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_1dcf0e53b482e311c45513886bbb0ba6">
+    <head>Preferred Citation</head>
+<p>ILR School Extension Division (Buffalo, N.Y.) Memorabilia #/4283 MB. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_e4df7971ab570e90dde70825ad0e2a69">
+    <head>Related Materials</head>
+<p>Related Collections:  /4283: ILR School Extension Division (Buffalo, N.Y.) Files  /4283 AV: ILR School Extension Division (Buffalo, N.Y.) Audio-Visual Materials  /4283 P: ILR School Extension Division (Buffalo, N.Y.) Photographs  /4283/001: ILR School Extension Division (Buffalo, N.Y.) Lou Jean Fleron Files  /4283/001 AV: ILR School Extension Division (Buffalo, N.Y.) Lou Jean Fleron Audio- Visual Materials  /4283/001 MB: ILR School Extension Division (Buffalo, N.Y.) Lou Jean Fleron Memorabilia  /4283/001 PUBS: ILR School Extension Division (Buffalo, N.Y.) Lou Jean Fleron Publications  /4283/001 (d): ILR School Extension Division (Buffalo, N.Y.) Lou Jean Fleron Born Digital Material  /4283/002: ILR School Extension Division (Buffalo, N.Y.) Nellie Brown Files  /4283/002 AV: ILR School Extension Division (Buffalo, N.Y.) Nellie Brown Audio-Visual Materials  /4283/002 P: ILR School Extension Division (Buffalo, N.Y.) Nellie Brown Photographs</p>  </relatedmaterial>
+  <odd id="aspace_de86b30592b5ad05b5626fb7880f311b">
     <head>General</head>
     <list type="deflist">
       <defitem>
         <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
       </defitem>
       <defitem>
         <label>Compiled by:</label>
@@ -32,23 +44,11 @@
       </defitem>
     </list>
   </odd>
-  <accessrestrict id="aspace_70721101c4c46085c4a1d5110e824eca">
-    <head>Conditions Governing Access</head>
-<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
-  <userestrict id="aspace_bcff67dfbf0791589d96186831c53ae5">
-    <head>Conditions Governing Use</head>
-<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
-  <prefercite id="aspace_1dcf0e53b482e311c45513886bbb0ba6">
-    <head>Preferred Citation</head>
-<p>ILR School Extension Division (Buffalo, N.Y.) Memorabilia #/4283 MB. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_821c533e53caff6f2100b61d37fea203">
-    <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04283.html"> /4283: ILR School Extension Division (Buffalo, N.Y.) Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04283av.html"> /4283 AV: ILR School Extension Division (Buffalo, N.Y.) Audio-Visual Materials</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04283p.html"> /4283 P: ILR School Extension Division (Buffalo, N.Y.) Photographs</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04283-001.html"> /4283/001: ILR School Extension Division (Buffalo, N.Y.) Lou Jean Fleron Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04283-001av.html"> /4283/001 AV: ILR School Extension Division (Buffalo, N.Y.) Lou Jean Fleron Audio- Visual Materials</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04283-001mb.html"> /4283/001 MB: ILR School Extension Division (Buffalo, N.Y.) Lou Jean Fleron Memorabilia</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04283-001pubs.html"> /4283/001 PUBS: ILR School Extension Division (Buffalo, N.Y.) Lou Jean Fleron Publications</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04283-001d.html"> /4283/001 (d): ILR School Extension Division (Buffalo, N.Y.) Lou Jean Fleron Born Digital Material</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04283-002.html"> /4283/002: ILR School Extension Division (Buffalo, N.Y.) Nellie Brown Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04283-002av.html"> /4283/002 AV: ILR School Extension Division (Buffalo, N.Y.) Nellie Brown Audio-Visual Materials</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04283-002p.html"> /4283/002 P: ILR School Extension Division (Buffalo, N.Y.) Nellie Brown Photographs</extref></p>  </relatedmaterial>
   <controlaccess>
     <corpname authfilenumber="http://id.loc.gov/authorities/names/n81063067" source="lcnaf">New York State School of Industrial and Labor Relations</corpname>
     <corpname audience="internal" source="ingest">New York State School of Industrial and Labor Relations. Extension Division (Buffalo, N.Y.)</corpname>
   </controlaccess>
   <unitid type="bibid">8248402</unitid>
-  <dsc><c01 id="aspace_7c63fe22318ca5c81217f2b9d58004c2" level="file"><did><unittitle>Publications</unittitle><unitdate datechar="creation" normal="1935/1985" type="inclusive">1935-1985</unitdate><container id="aspace_b5ccd9bd4d78e2717be17c97284ad0fd" label="unspecified" type="box">1</container></did><scopecontent id="aspace_799927f0de4579f4c8ced714020e1359"><head>Scope and Contents</head><p>1984 Labor Notes Calendar ; Buffalo Area Economy, Who's in Charge? ; Rochester Labor Calendar 1984 ; 1982 Buffalo Labor Calendar (2) ; Buffalo labor Calendar 1985 ; Equal Employment Opportunity is the Law (2) ; Kinsey Photographer 1979 ; We Make Our Own History, 1935-1985</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_7c63fe22318ca5c81217f2b9d58004c2" level="file"><did><unittitle>Publications</unittitle><unitdate datechar="creation" normal="1935/1985" type="inclusive">1935-1985</unitdate><container id="aspace_6696794a096f82f9a7aab5cdcbbefb61" label="unspecified" type="box">1</container></did><scopecontent id="aspace_799927f0de4579f4c8ced714020e1359"><head>Scope and Contents</head><p>1984 Labor Notes Calendar ; Buffalo Area Economy, Who's in Charge? ; Rochester Labor Calendar 1984 ; 1982 Buffalo Labor Calendar (2) ; Buffalo labor Calendar 1985 ; Equal Employment Opportunity is the Law (2) ; Kinsey Photographer 1979 ; We Make Our Own History, 1935-1985</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

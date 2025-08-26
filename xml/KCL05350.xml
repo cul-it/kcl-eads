@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05350</eadid><filedesc><titlestmt><titleproper>Steward Machine Company Records <num>5350</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 11, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:11:13 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05350</eadid><filedesc><titlestmt><titleproper>Steward Machine Company Records <num>5350</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 11, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:13:42 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_468b0a9be4c0cf83c1c12f075946c0d0">Collection material in English</langmaterial>
     <unitid type="bibid">5599250</unitid>
   </did>
-  <odd id="aspace_1b6b8767dfeea8559e373d3b77bad1a1">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, November 07, 2005</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, March 11, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_78b856db205554b360484e823c9ad641">
     <head>Biographical / Historical</head>
 <p>This case before the U.S. Supreme Court dealt with the constitutionality of the unemployment compensation sections of the Social Security Act. The chief points at issue were: </p><p> 1. Whether federal taxes could be levied on employment and wages and whether the exceptions granted did not make the law class legislation in that it applied to some groups but not to others. </p><p> 2. Whether the federal government, by the use of its taxing powers, had coerced the states into dealing with unemployment compensation which should be the exclusive concern of the states. </p><p> 3. Whether the federal government was seeking revenue for the treasury or providing a program for dealing with unemployment. </p><p> 4. Whether the standards to which the state laws were required to conform in order that the 90 percent offset be granted constituted an Invasion of the rights of the states. </p><p> The opinion held that the law was constitutional.</p>  </bioghist>
@@ -51,6 +34,23 @@
   <prefercite id="aspace_4b3598f2cf05b38d9b7035610535f2cb">
     <head>Preferred Citation</head>
 <p>Steward Machine Company Records #5350. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <odd id="aspace_ab6070b922aafa43d0f650337b0413d6">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, November 07, 2005</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 11, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2008104736" source="lcsh">Unemployment insurance -- Law and legislation -- United States</subject>
     <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2008111908" source="lcsh">Social security -- Law and legislation -- United States</subject>
@@ -59,6 +59,6 @@
     <corpname audience="internal" source="ingest">Steward (Charles G.) Machine Co.</corpname>
   </controlaccess>
   <unitid type="bibid">5599250</unitid>
-  <dsc><c01 id="aspace_93830aeb789e083e2b6331d79f17f71e" level="file"><did><unittitle>Brief for Petitioner</unittitle><unitdate datechar="creation" normal="1936/1936">1936</unitdate><container id="aspace_4a972907b94bbd082348e53a7064869a" label="unspecified" type="box">1</container><container id="aspace_601ecbd5df0c035c0521b076c5eb7272" parent="aspace_4a972907b94bbd082348e53a7064869a" type="folder">1</container></did></c01><c01 id="aspace_b25fb04ea438c1059618449f80577515" level="file"><did><unittitle>Appendix A to Brief for Petitioner</unittitle><unitdate datechar="creation" normal="1936/1936">1936</unitdate><container id="aspace_44a3d9957d9856c4c743bc65daebc122" label="unspecified" type="box">1</container><container id="aspace_b40cd49245b2674ea41f9a79432be7cf" parent="aspace_44a3d9957d9856c4c743bc65daebc122" type="folder">2</container></did></c01><c01 id="aspace_14b27f507a2b14eafba5c188b66b5ab8" level="file"><did><unittitle>Brief for Respondent</unittitle><unitdate datechar="creation" normal="1936/1936">1936</unitdate><container id="aspace_690ba2f7058846354883f8e18a4fbe5d" label="unspecified" type="box">1</container><container id="aspace_f44fa14c4d803352d7e66d620251dafc" parent="aspace_690ba2f7058846354883f8e18a4fbe5d" type="folder">3</container></did></c01><c01 id="aspace_da3c827a126559c8095a39659900779e" level="file"><did><unittitle>Appendix to the Brief for the Respondent</unittitle><unitdate datechar="creation" normal="1936/1936">1936</unitdate><container id="aspace_7e9f3b329f6c0506eab6ec6fdfab0790" label="unspecified" type="box">1</container><container id="aspace_85782e051e1345c85853095c5cabd668" parent="aspace_7e9f3b329f6c0506eab6ec6fdfab0790" type="folder">4</container></did></c01></dsc>
+  <dsc><c01 id="aspace_93830aeb789e083e2b6331d79f17f71e" level="file"><did><unittitle>Brief for Petitioner</unittitle><unitdate datechar="creation" normal="1936/1936">1936</unitdate><container id="aspace_61d6a94a7083f9f716299bde419cbd68" label="unspecified" type="box">1</container><container id="aspace_9b5f7f7abbfaa46255e345ac8157fbc2" parent="aspace_61d6a94a7083f9f716299bde419cbd68" type="folder">1</container></did></c01><c01 id="aspace_b25fb04ea438c1059618449f80577515" level="file"><did><unittitle>Appendix A to Brief for Petitioner</unittitle><unitdate datechar="creation" normal="1936/1936">1936</unitdate><container id="aspace_b974ad8d0226d6c6b884cdc3dee0b0c5" label="unspecified" type="box">1</container><container id="aspace_f68ef2becfa3fc67db12b4f2fefa39bd" parent="aspace_b974ad8d0226d6c6b884cdc3dee0b0c5" type="folder">2</container></did></c01><c01 id="aspace_14b27f507a2b14eafba5c188b66b5ab8" level="file"><did><unittitle>Brief for Respondent</unittitle><unitdate datechar="creation" normal="1936/1936">1936</unitdate><container id="aspace_e43c549b783b8239b2c29f17ffe211a9" label="unspecified" type="box">1</container><container id="aspace_a1c5504892599115d0745bf4452ebd1b" parent="aspace_e43c549b783b8239b2c29f17ffe211a9" type="folder">3</container></did></c01><c01 id="aspace_da3c827a126559c8095a39659900779e" level="file"><did><unittitle>Appendix to the Brief for the Respondent</unittitle><unitdate datechar="creation" normal="1936/1936">1936</unitdate><container id="aspace_d0df4be9d7b6c45a27a12e5104633bc8" label="unspecified" type="box">1</container><container id="aspace_ba52ebfa42854e321a3a0e9b96b8b5b2" parent="aspace_d0df4be9d7b6c45a27a12e5104633bc8" type="folder">4</container></did></c01></dsc>
 </archdesc>
 </ead>

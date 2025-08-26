@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL03038</eadid><filedesc><titlestmt><titleproper>Doherty, Robert, Collection of Rochester, NY, Board of Education Conference and SUNY Clippings <num>/3038</num></titleproper><author>Compiled by M. Clark</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 21, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-29 23:59:36 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL03038</eadid><filedesc><titlestmt><titleproper>Doherty, Robert, Collection of Rochester, NY, Board of Education Conference and SUNY Clippings <num>/3038</num></titleproper><author>Compiled by M. Clark</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 21, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-25 23:59:43 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,12 +19,24 @@
     <langmaterial id="aspace_ec65ec45a1a04d476f0c030d0a084518">Collection material in English</langmaterial>
     <unitid type="bibid">7924532</unitid>
   </did>
-  <odd id="aspace_a8c066796f66fd0aa5c8b37ce18efa31">
+  <accessrestrict id="aspace_64747e11692e99810a9ec4e96df77a68">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_1aa412953da02d8352b19d213e81441d">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_459789ffa9bd75277309a34dd00e6422">
+    <head>Preferred Citation</head>
+<p>Robert Doherty Collection of Rochester, NY, Board of Education Conference and SUNY Clippings #/3038. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_b2c03d64ed1671d181ef7234d0fb6a61">
+    <head>Related Materials</head>
+<p>Related Collections:  /3012: Alice Cook Papers  /4075: Robert Doherty Papers  /4191av: ILR School Audio-Visual Department Video Cassette Collection  /4191av: ILR School Audio-Visual Department Video Cassette Collection  /4297: ILR School Biography Files  /4309: M. Gardner Clark Papers  5293: New York State Teachers Association Records  6174-004: NYSUT Field Services Department Files</p>  </relatedmaterial>
+  <odd id="aspace_f35cc2df1ae291df8e0e37a06c7ef32c">
     <head>General</head>
     <list type="deflist">
       <defitem>
         <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
       </defitem>
       <defitem>
         <label>Compiled by:</label>
@@ -36,23 +48,11 @@
       </defitem>
     </list>
   </odd>
-  <accessrestrict id="aspace_64747e11692e99810a9ec4e96df77a68">
-    <head>Conditions Governing Access</head>
-<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
-  <userestrict id="aspace_1aa412953da02d8352b19d213e81441d">
-    <head>Conditions Governing Use</head>
-<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
-  <prefercite id="aspace_459789ffa9bd75277309a34dd00e6422">
-    <head>Preferred Citation</head>
-<p>Robert Doherty Collection of Rochester, NY, Board of Education Conference and SUNY Clippings #/3038. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_2d5fca8d51b9c701321fe4c7e1785f64">
-    <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL03012.html"> /3012: Alice Cook Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04075.html"> /4075: Robert Doherty Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04191av.html"> /4191av: ILR School Audio-Visual Department Video Cassette Collection</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04191av.html"> /4191av: ILR School Audio-Visual Department Video Cassette Collection</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04297.html"> /4297: ILR School Biography Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04309.html"> /4309: M. Gardner Clark Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05293.html"> 5293: New York State Teachers Association Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06174-004.html"> 6174-004: NYSUT Field Services Department Files</extref></p>  </relatedmaterial>
   <controlaccess>
     <persname audience="internal" source="ingest">Doherty, Robert.</persname>
     <corpname audience="internal" source="ingest">Rochester (N.Y.) Board of Education Conference</corpname>
   </controlaccess>
   <unitid type="bibid">7924532</unitid>
-  <dsc><c01 id="aspace_3d781c93b8fbd5086823b43f72e9a787" level="file"><did><unittitle>Jean McKelvey Interview Tape 1</unittitle><unitdate datechar="creation" normal="1964/1964">1964</unitdate><container id="aspace_b21a69957c73a2c62912804f3040fa60" label="unspecified" type="box">1</container><container id="aspace_1ea57a1efdee226733cdd92dde27d238" parent="aspace_b21a69957c73a2c62912804f3040fa60" type="folder">1</container></did></c01><c01 id="aspace_7a428703de6214ddf4c4da8e969b3342" level="file"><did><unittitle>Jean McKelvey Interview Tape 2</unittitle><unitdate datechar="creation" normal="1964/1964">1964</unitdate><container id="aspace_30483660e543cd97fe89908e7ca2f89e" label="unspecified" type="box">1</container><container id="aspace_6b960c2831989e6fb6505683b2a69fec" parent="aspace_30483660e543cd97fe89908e7ca2f89e" type="folder">2</container></did></c01><c01 id="aspace_82fdaf2a34c43ee7893ab59f0f3c9c03" level="file"><did><unittitle>Jean McKelvey transcript</unittitle><unitdate datechar="creation" normal="1964/1964">1964</unitdate><container id="aspace_dba704542a149dfe9deb0def270e1912" label="unspecified" type="box">1</container><container id="aspace_ec91f2ec67eebcab001a67a19abe04b2" parent="aspace_dba704542a149dfe9deb0def270e1912" type="folder">3</container></did></c01><c01 id="aspace_cb94c4bb27a794a81fe31e39a57dbfeb" level="file"><did><unittitle>News clippings</unittitle><container id="aspace_fd9d9742aa90b4a20ce705913a47d327" label="unspecified" type="box">1</container><container id="aspace_137b34ffe8c4cbf54eb0c1d98f9f5f3b" parent="aspace_fd9d9742aa90b4a20ce705913a47d327" type="folder">4</container></did></c01></dsc>
+  <dsc><c01 id="aspace_3d781c93b8fbd5086823b43f72e9a787" level="file"><did><unittitle>Jean McKelvey Interview Tape 1</unittitle><unitdate datechar="creation" normal="1964/1964">1964</unitdate><container id="aspace_0e594508efe240e907fc8abc355c6f09" label="unspecified" type="box">1</container><container id="aspace_d4414f9fa41bfa63b6c499319b404e27" parent="aspace_0e594508efe240e907fc8abc355c6f09" type="folder">1</container></did></c01><c01 id="aspace_7a428703de6214ddf4c4da8e969b3342" level="file"><did><unittitle>Jean McKelvey Interview Tape 2</unittitle><unitdate datechar="creation" normal="1964/1964">1964</unitdate><container id="aspace_adece0654fbd901979afb63ac859f9d6" label="unspecified" type="box">1</container><container id="aspace_f2393dc6e4d21e1c6a4b5ce7459e65fd" parent="aspace_adece0654fbd901979afb63ac859f9d6" type="folder">2</container></did></c01><c01 id="aspace_82fdaf2a34c43ee7893ab59f0f3c9c03" level="file"><did><unittitle>Jean McKelvey transcript</unittitle><unitdate datechar="creation" normal="1964/1964">1964</unitdate><container id="aspace_bde6facdb70d5d3c2535b76786158bc5" label="unspecified" type="box">1</container><container id="aspace_0c2fc32dc7b62c3b9133ef96df0c4f97" parent="aspace_bde6facdb70d5d3c2535b76786158bc5" type="folder">3</container></did></c01><c01 id="aspace_cb94c4bb27a794a81fe31e39a57dbfeb" level="file"><did><unittitle>News clippings</unittitle><container id="aspace_4910e639895c239e81e78c955a5b8b29" label="unspecified" type="box">1</container><container id="aspace_088ba5c2d7458ed53f77a24d37d0fe22" parent="aspace_4910e639895c239e81e78c955a5b8b29" type="folder">4</container></did></c01></dsc>
 </archdesc>
 </ead>

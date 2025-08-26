@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05914av</eadid><filedesc><titlestmt><titleproper>Soutar, Douglas H. Audio-Visual Materials <num>5914 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 17, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:25:42 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05914av</eadid><filedesc><titlestmt><titleproper>Soutar, Douglas H. Audio-Visual Materials <num>5914 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 17, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:34:11 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_b8860317ee69c19d445dd701bfb8920d">Collection material in English</langmaterial>
     <unitid type="bibid">8144117</unitid>
   </did>
-  <odd id="aspace_abe43b61b34095fc80254383608a12ca">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, September 30, 2013</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, April 17, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <accessrestrict id="aspace_c87d00e4bf5e2d37e593511c6e7952fe">
     <head>Conditions Governing Access</head>
 <p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
@@ -48,6 +31,23 @@
   <relatedmaterial id="aspace_ad8ab756c545b2bc60be4d3100f830bc">
     <head>Related Materials</head>
 <p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05914.html"> 5914: Douglas H. Soutar Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05914mb.html"> 5914 MB: Douglas H. Soutar Framed Feinsinger Memorial Statement Memorabilia</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05914p.html"> 5914 P: Douglas H. Soutar Photograph</extref></p>  </relatedmaterial>
+  <odd id="aspace_85ce4459c6ae862974d5d47d70b7fa7e">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, September 30, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, April 17, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <persname audience="internal" source="ingest">Day, Virgil B.</persname>
     <persname audience="internal" source="ingest">Petrie, James S.</persname>
@@ -56,6 +56,6 @@
     <persname audience="internal" source="ingest">Soutar, Douglas H.</persname>
   </controlaccess>
   <unitid type="bibid">8144117</unitid>
-  <dsc><c01 id="aspace_ffbac20ae9b673f59169bd6c527f8d98" level="file"><did><unittitle>What's new in Labor Relations: Management's Perspective on Productivity by Center for Non Broadcast Television. Pub. By Automation House 2/16/1978, Mod: James' Petrie, Guests: Prof. Derek Robinson, Virgil E. Day, Doug Soutar, Jerry Rosow</unittitle><unitid>1</unitid><container id="aspace_ad2567e41014052e1025baa1ccef608b" label="unspecified" type="box">1</container></did><scopecontent id="aspace_b050adc9b55117c5883e2a623fe03946"><head>Scope and Contents</head><p>duplicate</p></scopecontent></c01><c01 id="aspace_4aadd341f42b893267a51c7ddc2d606c" level="file"><did><unittitle>What's New in Labor Relations: Management's Perspective -</unittitle><unitid>2</unitid><unitdate datechar="creation" normal="1978/1978">1978</unitdate><container id="aspace_320a32ef561f79aa34745d9498808d4c" label="unspecified" type="box">1</container></did><scopecontent id="aspace_50263cb8c5c0127429ece309fcd847d1"><head>Scope and Contents</head><p>Productivity - February 16, 1978</p></scopecontent></c01><c01 id="aspace_840a95fafd2ab07e266111a1c0c4ccbf" level="file"><did><unittitle>What's New in Labor Relations: Management's Perspective: February 17, 1978</unittitle><unitid>3</unitid><unitdate datechar="creation" normal="1978/1978">1978</unitdate><container id="aspace_cb2e92a6129c85fb1c48033d7578df2b" label="unspecified" type="box">1</container></did></c01></dsc>
+  <dsc><c01 id="aspace_ffbac20ae9b673f59169bd6c527f8d98" level="file"><did><unittitle>What's new in Labor Relations: Management's Perspective on Productivity by Center for Non Broadcast Television. Pub. By Automation House 2/16/1978, Mod: James' Petrie, Guests: Prof. Derek Robinson, Virgil E. Day, Doug Soutar, Jerry Rosow</unittitle><unitid>1</unitid><container id="aspace_06450d7b7e4e954a9ed2f48f296053ac" label="unspecified" type="box">1</container></did><scopecontent id="aspace_b050adc9b55117c5883e2a623fe03946"><head>Scope and Contents</head><p>duplicate</p></scopecontent></c01><c01 id="aspace_4aadd341f42b893267a51c7ddc2d606c" level="file"><did><unittitle>What's New in Labor Relations: Management's Perspective -</unittitle><unitid>2</unitid><unitdate datechar="creation" normal="1978/1978">1978</unitdate><container id="aspace_976c450bdd71edd21ed67229c10919c0" label="unspecified" type="box">1</container></did><scopecontent id="aspace_50263cb8c5c0127429ece309fcd847d1"><head>Scope and Contents</head><p>Productivity - February 16, 1978</p></scopecontent></c01><c01 id="aspace_840a95fafd2ab07e266111a1c0c4ccbf" level="file"><did><unittitle>What's New in Labor Relations: Management's Perspective: February 17, 1978</unittitle><unitid>3</unitid><unitdate datechar="creation" normal="1978/1978">1978</unitdate><container id="aspace_acafb44a6076ee48d6564213218de370" label="unspecified" type="box">1</container></did></c01></dsc>
 </archdesc>
 </ead>

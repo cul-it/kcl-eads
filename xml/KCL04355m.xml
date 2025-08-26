@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04355m</eadid><filedesc><titlestmt><titleproper>Gray, Lois, Memorial Service Program <num>/4355m</num></titleproper><author>Compiled by E. Parker</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 04, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:05:06 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04355m</eadid><filedesc><titlestmt><titleproper>Gray, Lois, Memorial Service Program <num>/4355m</num></titleproper><author>Compiled by E. Parker</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 04, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:06:21 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_7cc5f2bbd9308210ac830c6762bd599c">Collection material in English</langmaterial>
     <unitid type="bibid">10622973</unitid>
   </did>
-  <odd id="aspace_5718e11f0adbdd078fb190e49e3c4ff5">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>E. Parker, January 29, 2019</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, March 04, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <accessrestrict id="aspace_eae15997abed7627eaf1b0db1fae7fa0">
     <head>Conditions Governing Access</head>
 <p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
@@ -51,12 +34,29 @@
 she completed high school. She received her bachelor's degree at Park College in Missouri,
 majoring in Economics.</p><p>In 1946, Gray founded the school's first off-campus extension office in Buffalo, and subsequently moving to direct the New York City office in 1956 before being appointed Associate Dean and Director of Extension in 1976. Gray completed graduate degrees (M.A. at University of Buffalo and Ph.D. in Economics from Columbia University) while working fulltime for Cornell ILR.</p><p>Many innovative programs were established under her leadership including Labor and Urban Affairs, Programs for Employment and Workplace Systems, the Institute for Women and Work, Summer Schools for Women Union Activists, Hispanic Labor Leadership and Labor Studies for College Credit.
 As one of the founders of the field of labor education, Gray continued to be both a scholar and labor educator throughout her career. Subjects of her research and publishing included labor market trends, women and minorities in the workforce, training and adult education, labor-management relations in the entertainment industry, and women in union leadership. Another focus of her work was union structure, governance, and administration. In addition, Gray played a role in burgeoning Latin American labor education programs, including those of Chile, Jamaica, Barbados, and Puerto Rico.</p><p>Gray received numerous awards over her career, including Lifetime Achievement from the Labor and Employment Relations Association (LERA) and the United Association for Labor Education (UALE). In 2006, she received an award from the Working Theatre for "Bridging the Gap between Arts, Labor and Community." She was appointed by three governors to chair the New York State Apprenticeship and Training Council and served on the New York State Manpower Training Council and Displaced Homemakers Taskforce.</p><p>She was an Associate of the Worker Institute where she engaged in research on the arts and entertainment industry. She served in this role at the Worker Institute until she passed. Gray was married to Ed Gray, who had been the Regional Director and Member of the International Executive Board of the UAW.</p>  </bioghist>
+  <odd id="aspace_de88571687885c0fbe4a4a7e543e8d49">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>E. Parker, January 29, 2019</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 04, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <persname audience="internal" authfilenumber="http://id.loc.gov/authorities/names/n88637945" source="lcnaf">Gray, Lois S. (Lois Spier), 1923-2018</persname>
     <corpname authfilenumber="http://id.loc.gov/authorities/names/n81063067" source="lcnaf">New York State School of Industrial and Labor Relations</corpname>
     <corpname audience="internal" authfilenumber="http://id.loc.gov/authorities/names/n81051272" source="lcnaf">New York State School of Industrial and Labor Relations. Extension and Public Service Division</corpname>
   </controlaccess>
   <unitid type="bibid">10622973</unitid>
-  <dsc><c01 id="aspace_2fc1476f7ce12161ad0f1edbaa0e3efc" level="file"><did><unittitle>Program for Lois Gray's Memorial Service</unittitle><unitdate datechar="creation" normal="2018/2018">2018</unitdate><container id="aspace_99e019ede50071570f4be78b023f5c6e" label="unspecified" type="box">1</container><container id="aspace_e72186acd63be3040cae27a22b216b3f" parent="aspace_99e019ede50071570f4be78b023f5c6e" type="folder">1</container></did><scopecontent id="aspace_225d3526905ada019d314d7efc31e706"><head>Scope and Contents</head><p>November 1, 2018. Contains a biography of Lois Gray.</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_2fc1476f7ce12161ad0f1edbaa0e3efc" level="file"><did><unittitle>Program for Lois Gray's Memorial Service</unittitle><unitdate datechar="creation" normal="2018/2018">2018</unitdate><container id="aspace_0a70b40036a38575f08aee99b736dc21" label="unspecified" type="box">1</container><container id="aspace_755acedd5b012f828276652ddfa1ec74" parent="aspace_0a70b40036a38575f08aee99b736dc21" type="folder">1</container></did><scopecontent id="aspace_225d3526905ada019d314d7efc31e706"><head>Scope and Contents</head><p>November 1, 2018. Contains a biography of Lois Gray.</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

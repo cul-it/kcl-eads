@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05349</eadid><filedesc><titlestmt><titleproper>Albert A. Carmichael vs. Southern Coal Company Records <num>5349</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 11, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:11:12 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05349</eadid><filedesc><titlestmt><titleproper>Albert A. Carmichael vs. Southern Coal Company Records <num>5349</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 11, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:13:42 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -22,23 +22,6 @@
     <langmaterial id="aspace_55f194f504d11d99514b4411fc279c66">Collection material in English</langmaterial>
     <unitid type="bibid">5599253</unitid>
   </did>
-  <odd id="aspace_1d2187794baf8fbfdb1fece5866dcb2e">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, November 02, 2005</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, March 11, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_a26cd3530810dd825d40e24083bcaf32">
     <head>Biographical / Historical</head>
 <p>Carmichael vs. Southern Coal Company: Albert A. Carmichael, as Attorney General for the State of Alabama, et. al., Appellants vs. The Southern Coal and Coke Company, Appellee and Albert A. Carmichael as Attorney General for the State of Alabama, et. al. Appellants vs. Gulf States Paper Corporation. </p><p> This case before the U.S. Supreme Court tested the constitutionality of state unemployment insurance laws of the pooled type. The issue was: was the legislature arbitrary and unreasonable in assessing some employers in order to pay benefits to workers who were employed by others.</p>  </bioghist>
@@ -54,6 +37,23 @@
   <prefercite id="aspace_03bb8eb21c73287b4af2f1e8264f687a">
     <head>Preferred Citation</head>
 <p>Albert A. Carmichael vs. Southern Coal Company Records #5349. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <odd id="aspace_9d05057724709b98fab0503bf14b2511">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, November 02, 2005</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 11, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject source="lcsh">Unemployment insurance -- Alabama</subject>
     <subject source="lcsh">Unemployment insurance -- Law and legislation -- Alabama</subject>
@@ -61,6 +61,6 @@
     <corpname audience="internal" source="ingest">Southern Coal Company</corpname>
   </controlaccess>
   <unitid type="bibid">5599253</unitid>
-  <dsc><c01 id="aspace_39b917ecc187f3c158cdfc55eaaa5788" level="file"><did><unittitle>Brief and Argument for Appellants</unittitle><container id="aspace_2b8a9fc3d767d41dd72518d6c8645069" label="unspecified" type="box">1</container><container id="aspace_7463d8214f982e26d97b4ed59eebba62" parent="aspace_2b8a9fc3d767d41dd72518d6c8645069" type="folder">1</container></did></c01><c01 id="aspace_127a1325d402de0e12e55cd268e8d12c" level="file"><did><unittitle>Appendix to Brief of Appellants</unittitle><container id="aspace_8738789d4f53e6040fe7d7b1d97727f4" label="unspecified" type="box">1</container><container id="aspace_2c3f31bbbb9eb59565f13cdb6541e293" parent="aspace_8738789d4f53e6040fe7d7b1d97727f4" type="folder">2</container></did></c01><c01 id="aspace_3d291abcc638ede5808839b275fa7ce6" level="file"><did><unittitle>Brief for Appellee</unittitle><container id="aspace_118ada9557bef469eeaa499f7ee14e66" label="unspecified" type="box">1</container><container id="aspace_18485742f6fa5a630593a68178bde646" parent="aspace_118ada9557bef469eeaa499f7ee14e66" type="folder">3</container></did></c01><c01 id="aspace_af313079eab7b286790534727c4677ea" level="file"><did><unittitle>Addendum to Briefs for Appellie</unittitle><container id="aspace_078b0f25cb4bb4f3906387f1a9b309df" label="unspecified" type="box">1</container><container id="aspace_34a2dce4b3ba021febce099b455461b8" parent="aspace_078b0f25cb4bb4f3906387f1a9b309df" type="folder">4</container></did></c01></dsc>
+  <dsc><c01 id="aspace_39b917ecc187f3c158cdfc55eaaa5788" level="file"><did><unittitle>Brief and Argument for Appellants</unittitle><container id="aspace_da517470d511eea85ee8bcbbd18e1faa" label="unspecified" type="box">1</container><container id="aspace_3959369555a26372f8ba8c1b022ab314" parent="aspace_da517470d511eea85ee8bcbbd18e1faa" type="folder">1</container></did></c01><c01 id="aspace_127a1325d402de0e12e55cd268e8d12c" level="file"><did><unittitle>Appendix to Brief of Appellants</unittitle><container id="aspace_fc2ffcfe258c85987a6e1fed82933d7a" label="unspecified" type="box">1</container><container id="aspace_04f503e69964b33217939b4f4988390f" parent="aspace_fc2ffcfe258c85987a6e1fed82933d7a" type="folder">2</container></did></c01><c01 id="aspace_3d291abcc638ede5808839b275fa7ce6" level="file"><did><unittitle>Brief for Appellee</unittitle><container id="aspace_a71adaa41e28f9e5e9bbad6612af9b19" label="unspecified" type="box">1</container><container id="aspace_7c3fb3df7c2e1294d44286a2e34803de" parent="aspace_a71adaa41e28f9e5e9bbad6612af9b19" type="folder">3</container></did></c01><c01 id="aspace_af313079eab7b286790534727c4677ea" level="file"><did><unittitle>Addendum to Briefs for Appellie</unittitle><container id="aspace_b91831628c6077f5643aa247f5aec30a" label="unspecified" type="box">1</container><container id="aspace_809789273639531a57c5a3612713eb85" parent="aspace_b91831628c6077f5643aa247f5aec30a" type="folder">4</container></did></c01></dsc>
 </archdesc>
 </ead>

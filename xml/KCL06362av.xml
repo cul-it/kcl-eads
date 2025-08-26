@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06362av</eadid><filedesc><titlestmt><titleproper>Lescaze, Alexandra UNITE Cannon Fieldcrest Organizing Audio-Visual Materials <num>6362 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>January 31, 2014</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:36:47 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06362av</eadid><filedesc><titlestmt><titleproper>Lescaze, Alexandra UNITE Cannon Fieldcrest Organizing Audio-Visual Materials <num>6362 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>January 31, 2014</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:49:05 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -21,12 +21,24 @@
     <langmaterial id="aspace_7afdf7cbae3b357524d656675191c819">Collection material in English</langmaterial>
     <unitid type="bibid">8254254</unitid>
   </did>
-  <odd id="aspace_107a9bfdc3d8c1de91dc2ff807b0e1af">
+  <accessrestrict id="aspace_157b5c7c9b583fe03cbd84c7caa91da7">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_34bb24168b9bc1a88ba531de68a27e52">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_80ed84af88511b05a93ece8d82cba700">
+    <head>Preferred Citation</head>
+<p>Alexandra Lescaze UNITE Cannon Fieldcrest Organizing Audio-Visual Materials #6362 AV. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_3a5a5ab8c7d06d946af029113dc56a1a">
+    <head>Related Materials</head>
+<p>Related Collections:  5619/007: ACTWU. Organizing Department Files  6000/039: UNITE. Organizing Department Records  6362: Alexandra Lescaze UNITE Cannon Fieldcrest Organizing Files  6362 P: Alexandra Lescaze UNITE Cannon Fieldcrest Organizing Photographs</p>  </relatedmaterial>
+  <odd id="aspace_85f2bba850086c7d6f81ee1cca01574a">
     <head>General</head>
     <list type="deflist">
       <defitem>
         <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel">http://www.ilr.cornell.edu/library/kheel</extref></item>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
       </defitem>
       <defitem>
         <label>Compiled by:</label>
@@ -38,19 +50,7 @@
       </defitem>
     </list>
   </odd>
-  <accessrestrict id="aspace_157b5c7c9b583fe03cbd84c7caa91da7">
-    <head>Conditions Governing Access</head>
-<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
-  <userestrict id="aspace_34bb24168b9bc1a88ba531de68a27e52">
-    <head>Conditions Governing Use</head>
-<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
-  <prefercite id="aspace_80ed84af88511b05a93ece8d82cba700">
-    <head>Preferred Citation</head>
-<p>Alexandra Lescaze UNITE Cannon Fieldcrest Organizing Audio-Visual Materials #6362 AV. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_ad43df54aaa0e2fcc61c609a095fbf33">
-    <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05619-007.html"> 5619/007: ACTWU. Organizing Department Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06000-039.html"> 6000/039: UNITE. Organizing Department Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06362.html"> 6362: Alexandra Lescaze UNITE Cannon Fieldcrest Organizing Files</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06362.html"> 6362 P: Alexandra Lescaze UNITE Cannon Fieldcrest Organizing Photographs</extref></p>  </relatedmaterial>
   <unitid type="bibid">8254254</unitid>
-  <dsc><c01 id="aspace_dd18627466d6f5d31613468c0659d5da" level="file"><did><unittitle>Union Spots</unittitle><container id="aspace_99facb8008fac592388517c82fec2c33" label="unspecified" type="box">1</container><container id="aspace_c12784843a88192ad73df65e9b76eedf" parent="aspace_99facb8008fac592388517c82fec2c33" type="folder">1</container></did></c01><c01 id="aspace_b68e3213c86c98090e99fadf2749b92e" level="file"><did><unittitle>Union Spots</unittitle><container id="aspace_0effe9e8cf0db2082730fe571a988f1c" label="unspecified" type="box">2</container><container id="aspace_1aaf1835f39794802477d6257bb11da6" parent="aspace_0effe9e8cf0db2082730fe571a988f1c" type="folder">1</container></did></c01><c01 id="aspace_4cfac8f5b9bec7241e7464e6246b37ad" level="file"><did><unittitle>Union Spots</unittitle><container id="aspace_cb09998fbda0e794138d389c1de04aff" label="unspecified" type="box">2</container><container id="aspace_e30629a52cf81ed81e3cbd0ef5d44af7" parent="aspace_cb09998fbda0e794138d389c1de04aff" type="folder">1</container></did></c01></dsc>
+  <dsc><c01 id="aspace_dd18627466d6f5d31613468c0659d5da" level="file"><did><unittitle>Union Spots</unittitle><container id="aspace_12420770c7d033fe809e7f82b5236a55" label="unspecified" type="box">1</container><container id="aspace_d0d9b0955c47c36975538bc5ddbadaf9" parent="aspace_12420770c7d033fe809e7f82b5236a55" type="folder">1</container></did></c01><c01 id="aspace_b68e3213c86c98090e99fadf2749b92e" level="file"><did><unittitle>Union Spots</unittitle><container id="aspace_b2ee68a8ef5e0bc263f0b1b2f764f723" label="unspecified" type="box">2</container><container id="aspace_8c435ccd5824b73de24ee8f4b1aac384" parent="aspace_b2ee68a8ef5e0bc263f0b1b2f764f723" type="folder">1</container></did></c01><c01 id="aspace_4cfac8f5b9bec7241e7464e6246b37ad" level="file"><did><unittitle>Union Spots</unittitle><container id="aspace_2b31b1055e5409033a5370f6f8c9b4ff" label="unspecified" type="box">2</container><container id="aspace_0bc5aa542956cefe11c73bce413b3a42" parent="aspace_2b31b1055e5409033a5370f6f8c9b4ff" type="folder">1</container></did></c01></dsc>
 </archdesc>
 </ead>

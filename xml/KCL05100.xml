@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05100</eadid><filedesc><titlestmt><titleproper>New York State Board of Mediation and Arbitration Glove Manufacturers' Association of Fulton, New York Records <num>5100</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 28, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:06:59 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05100</eadid><filedesc><titlestmt><titleproper>New York State Board of Mediation and Arbitration Glove Manufacturers' Association of Fulton, New York Records <num>5100</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 28, 2016</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:08:25 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -25,23 +25,6 @@
     <langmaterial id="aspace_6cf4ef66091f100018889e4721a2fd9f">Collection material in English</langmaterial>
     <unitid type="bibid">5515258</unitid>
   </did>
-  <odd id="aspace_78f13c1490ef22f3191c015dc0751734">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, November 11, 2013</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Randall Miles, October 28, 2016</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_3206dcc20b1718fdfe77e9683f47e331">
     <head>Biographical / Historical</head>
 <p>At the request of the Commissioner of Labor the New York State Board of Mediation and Arbitration convened in Gloversville on October 5, 1914 to attempt to settle the glove cutters strike which had idled 1500 men in 150 plants. Members of the Board included Mr. William C, Rogers, chief mediator; Mr. James C. McManus; and Mr. P.S. Downey. </p><p> On August 21, 1914 the glove cutters held a mass meeting in which they voted to ask the Glove Manufacturers Association for an increase of 25 cents per dozen on men's and boys' gloves and 20 cents per dozen on ladies' gloves. The glove cutters were earning an average of $13.30 per week and had not had an increase in wages for 17 years. The glove cutters struck when the manufacturers turned down the request for an increase. Since glove making was the only industry in Fulton County the Board was instructed to investigate the situation. During the course of the strike several employers settled with their employees for 15 cents a dozen, and the Board recommended that the strikers return to work and continue negotiations for an increase of not less than 15 cents. The Board's proposals were turned down by the men.</p>  </bioghist>
@@ -57,9 +40,26 @@
   <prefercite id="aspace_d88c7248b193960922c3cb3026a368e1">
     <head>Preferred Citation</head>
 <p>New York State Board of Mediation and Arbitration Glove Manufacturers' Association of Fulton, New York Records #5100. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_d544fbbebaa4c57df267dc2d5fe07d9c">
+  <relatedmaterial id="aspace_1f85f53a7dae957eb038e826b81be4b8">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05100mf.html"> 5100 mf: New York State Board of Mediation and Arbitration Glove Manufacturers' Association of Fulton, New York on Microfilm</extref></p>  </relatedmaterial>
+<p>Related Collections:  5100 mf: New York State Board of Mediation and Arbitration Glove Manufacturers' Association of Fulton, New York on Microfilm</p>  </relatedmaterial>
+  <odd id="aspace_d7fa7d404704cc561977d1112883ff29">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, November 11, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 28, 2016</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject source="lcsh">Glove industry -- New York (State) -- Johnstown</subject>
     <subject source="lcsh">Glove industry -- New York (State) -- Gloversville</subject>
@@ -71,6 +71,6 @@
     <corpname audience="internal" source="ingest">New York (State). Board of Mediation and Arbitration</corpname>
   </controlaccess>
   <unitid type="bibid">5515258</unitid>
-  <dsc><c01 id="aspace_16a98b2df3ae9875662eeba3d4d6a4c5" level="file"><did><unittitle>Transcript of proceedings [folder 1 of 2]</unittitle><unitdate datechar="creation" normal="1914/1914">1914</unitdate><container id="aspace_f64289eb5a4f7df56ee49a030c032203" label="unspecified" type="box">1</container><container id="aspace_1d065a5fa9d6804c36f71a19e9c30acd" parent="aspace_f64289eb5a4f7df56ee49a030c032203" type="folder">1</container></did><scopecontent id="aspace_447cc6b6f147526b0a7280ed2f55459c"><head>Scope and Contents</head><p>October 1914, pages 1 to 350.</p></scopecontent></c01><c01 id="aspace_30deaa34ffa08ee1d18cab1461aef22d" level="file"><did><unittitle>Transcript of proceedings [folder 2 of 2]</unittitle><unitdate datechar="creation" normal="1914/1914">1914</unitdate><container id="aspace_e90e369bcbb66b394be391e1d2f91737" label="unspecified" type="box">1</container><container id="aspace_a157d867a971aa00d50c4f02523458cb" parent="aspace_e90e369bcbb66b394be391e1d2f91737" type="folder">2</container></did><scopecontent id="aspace_7641d9cfef75bddebcd8eca1f69900b6"><head>Scope and Contents</head><p>October 1914; pages 351 to 697, plus index and report of findings and recommendations.</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_16a98b2df3ae9875662eeba3d4d6a4c5" level="file"><did><unittitle>Transcript of proceedings [folder 1 of 2]</unittitle><unitdate datechar="creation" normal="1914/1914">1914</unitdate><container id="aspace_555836f389bd4693aa94d672ee8a71ff" label="unspecified" type="box">1</container><container id="aspace_6e734f2ad2fc47e1ac09c077a24611dc" parent="aspace_555836f389bd4693aa94d672ee8a71ff" type="folder">1</container></did><scopecontent id="aspace_447cc6b6f147526b0a7280ed2f55459c"><head>Scope and Contents</head><p>October 1914, pages 1 to 350.</p></scopecontent></c01><c01 id="aspace_30deaa34ffa08ee1d18cab1461aef22d" level="file"><did><unittitle>Transcript of proceedings [folder 2 of 2]</unittitle><unitdate datechar="creation" normal="1914/1914">1914</unitdate><container id="aspace_c0e0cac22fb45ff9afc9b6b0f82a883c" label="unspecified" type="box">1</container><container id="aspace_16a8da0a6e482a0b24346a44cd14a588" parent="aspace_c0e0cac22fb45ff9afc9b6b0f82a883c" type="folder">2</container></did><scopecontent id="aspace_7641d9cfef75bddebcd8eca1f69900b6"><head>Scope and Contents</head><p>October 1914; pages 351 to 697, plus index and report of findings and recommendations.</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

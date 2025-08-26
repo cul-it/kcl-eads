@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06317-013p</eadid><filedesc><titlestmt><titleproper>Kheel Center Triangle Fire Centennial Commemoration Collection Paul Margolis Photographs <num>6317/013 P</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 26, 2015</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:35:39 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06317-013p</eadid><filedesc><titlestmt><titleproper>Kheel Center Triangle Fire Centennial Commemoration Collection Paul Margolis Photographs <num>6317/013 P</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>August 26, 2015</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:47:38 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -24,12 +24,24 @@
     <langmaterial id="aspace_9fe900223b8baade8de79d829ee9faf6">Collection material in English</langmaterial>
     <unitid type="bibid">7504579</unitid>
   </did>
-  <odd id="aspace_88a0b985a09932d1b2392b0e23f76639">
+  <accessrestrict id="aspace_ca849dfd5101d813d9a03149e1f45da2">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_1ef40f05ac94364c4f9461630e1c5078">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_19d3acc059033c916a52e57baa871786">
+    <head>Preferred Citation</head>
+<p>Kheel Center Triangle Fire Centennial Commemoration Collection Paul Margolis Photographs #6317/013 P. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_e7b7d517dfc81a68a0cdb17e4bb8bcd0">
+    <head>Related Materials</head>
+<p>Related Collections:  6317: Kheel Center Triangle Fire Centennial Commemoration Collection  6317 MB: Kheel Center Triangle Fire Centennial Commemoration Collection Memorabilia  6317 PUBS: Kheel Center Triangle Fire Centennial Commemoration Collection Publications</p>  </relatedmaterial>
+  <odd id="aspace_43fb008d062e75d535779cb19341659a">
     <head>General</head>
     <list type="deflist">
       <defitem>
         <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
       </defitem>
       <defitem>
         <label>Compiled by:</label>
@@ -41,18 +53,6 @@
       </defitem>
     </list>
   </odd>
-  <accessrestrict id="aspace_ca849dfd5101d813d9a03149e1f45da2">
-    <head>Conditions Governing Access</head>
-<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
-  <userestrict id="aspace_1ef40f05ac94364c4f9461630e1c5078">
-    <head>Conditions Governing Use</head>
-<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
-  <prefercite id="aspace_19d3acc059033c916a52e57baa871786">
-    <head>Preferred Citation</head>
-<p>Kheel Center Triangle Fire Centennial Commemoration Collection Paul Margolis Photographs #6317/013 P. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_173b8f067bf8832e048a7505cc4e6097">
-    <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06317.html"> 6317: Kheel Center Triangle Fire Centennial Commemoration Collection</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06317mb.html"> 6317 MB: Kheel Center Triangle Fire Centennial Commemoration Collection Memorabilia</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06317pubs.html"> 6317 PUBS: Kheel Center Triangle Fire Centennial Commemoration Collection Publications</extref></p>  </relatedmaterial>
   <controlaccess>
     <subject source="lcsh">Clothing trade -- New York (State) -- New York -- History -- 20th century</subject>
     <subject source="lcsh">Strikes and lockouts -- New York (State) -- New York -- History -- 20th century</subject>
@@ -61,6 +61,6 @@
     <corpname authfilenumber="http://id.loc.gov/authorities/names/n83177167" source="lcnaf">Triangle Shirtwaist Company -- Fire, 1911</corpname>
   </controlaccess>
   <unitid type="bibid">7504579</unitid>
-  <dsc><c01 id="aspace_8a3e67cddf5940a27344b9976f7d7e84" level="file"><did><unittitle>Photographs of 100th Anniversary - March of Chalk: Triangle Fire Memorial</unittitle><container id="aspace_07d676368c4310dc117e258c77a800af" label="unspecified" type="box">1</container></did></c01></dsc>
+  <dsc><c01 id="aspace_8a3e67cddf5940a27344b9976f7d7e84" level="file"><did><unittitle>Photographs of 100th Anniversary - March of Chalk: Triangle Fire Memorial</unittitle><container id="aspace_e3507d55b2569d2420ffb75af995ca45" label="unspecified" type="box">1</container></did></c01></dsc>
 </archdesc>
 </ead>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05200mf</eadid><filedesc><titlestmt><titleproper>Workingmen's Assembly of the State of New York Proceedings on Microfilm <num>5200 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 21, 2017</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:08:47 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05200mf</eadid><filedesc><titlestmt><titleproper>Workingmen's Assembly of the State of New York Proceedings on Microfilm <num>5200 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 21, 2017</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:10:30 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_261d9d2065d3032076b439ee7d2f1269">Collection material in English</langmaterial>
     <unitid type="bibid">5603565</unitid>
   </did>
-  <odd id="aspace_d40ab7df39bed72529f7bba03718762c">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, May 02, 2014</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Randall Miles, February 21, 2017</item>
-      </defitem>
-    </list>
-  </odd>
   <scopecontent id="aspace_e28ceecde322fa13d69717b5afd44afa">
     <head>Scope and Contents</head>
 <p>Proceedings of the Workingmen's Assembly of the State of New York. All material is contained on one reel of microfilm. There are two duplicate negative copies available upon request.</p>  </scopecontent>
@@ -48,14 +31,31 @@
   <prefercite id="aspace_60db9ff80a38896e413c9065cd76d833">
     <head>Preferred Citation</head>
 <p>Workingmen's Assembly of the State of New York Proceedings on Microfilm #5200 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_5f5b54741dc63507231e525da96c4c8d">
+  <relatedmaterial id="aspace_b67c7fe243de72f04317f754b85f9875">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06046.html"> 6046: Archives Union File (AUF)</extref></p>  </relatedmaterial>
+<p>Related Collections:  6046: Archives Union File (AUF)</p>  </relatedmaterial>
+  <odd id="aspace_266270bc90dd2c01104faf3fa003b40a">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, May 02, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, February 21, 2017</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject source="lcsh">Labor unions -- New York (State)</subject>
     <corpname audience="internal" source="ingest">Workingmen's Assembly of the State of New York</corpname>
   </controlaccess>
   <unitid type="bibid">5603565</unitid>
-  <dsc><c01 id="aspace_d6e52385326ff40b45583b6abd230fb1" level="file"><did><unittitle>Proceedings of the Workingmen's Assemble of the State of New York -- 1869-1899</unittitle><unitdate datechar="creation" normal="1869/1899" type="inclusive">1869-1899</unitdate><container id="aspace_86b0049b1054fa6c423d4c6a244e7107" label="unspecified" type="reel">2</container></did><scopecontent id="aspace_fb0f97de400d56f6a56b4b5797a4ffba"><head>Scope and Contents</head><p>Positive</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_d6e52385326ff40b45583b6abd230fb1" level="file"><did><unittitle>Proceedings of the Workingmen's Assemble of the State of New York -- 1869-1899</unittitle><unitdate datechar="creation" normal="1869/1899" type="inclusive">1869-1899</unitdate><container id="aspace_e7fed8252691d6833ac88968307f7846" label="unspecified" type="reel">2</container></did><scopecontent id="aspace_fb0f97de400d56f6a56b4b5797a4ffba"><head>Scope and Contents</head><p>Positive</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

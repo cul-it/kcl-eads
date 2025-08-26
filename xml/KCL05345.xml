@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05345</eadid><filedesc><titlestmt><titleproper>International Typographical Union, Local 6 Legal Files <num>5345</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 11, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:11:09 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05345</eadid><filedesc><titlestmt><titleproper>International Typographical Union, Local 6 Legal Files <num>5345</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 11, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:13:38 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_414fc0d04f9b01d3286e56943bd9942f">Collection material in English</langmaterial>
     <unitid type="bibid">5599260</unitid>
   </did>
-  <odd id="aspace_cce93ad680e6d0bdb911903a813527ea">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, November 15, 2013</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, March 11, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_5d439119d70b50516b595396834ce190">
     <head>Biographical / Historical</head>
 <p>During the summer of 1905, Local Six of the International Typographical Union of New York City decided that they would demand an eight hour day when negotiating contracts for the following year. The Typothetae, an association of some 56 publishing houses,notified the union in early November that they would not sign a new contract when the old one expired on December 31, 1905. Meanwhile the union negotiated contracts with some 281 publishing houses employing approximately 7,000 of the union's 8,000 members which included an eight hour day. On January 2, 1906, no new agreement having been signed, the members of Local Six ceased to work for the Typothetae. </p><p> On February 28, 1906 the Typothetae appealed to the New York State Supreme Court for an injunction on the grounds that Local 6 members were using threats of intimidation and violence to persuade the non-union members of the Typothetae either to leave the job or join the union. The court issued an injunction on March 2 which restrained the union from using force but did not enjoin picketing. </p><p> In April, counsel for the Association requested the court to cite certain officers and members of the union for contempt, because the acts the injunction restrained had not ceased. The court appointed a referee to take testimony and made recommendations. The referee found that a great many of the allegations of threats and intimidation were supported by the facts, and that some of the men were not aware that this was precisely what the injunction enjoined. The referee held that Patrick McCormick and the other officiers were responsible for explaining the meaning of the injunction to the membership. A mere reading of the injunction at a meeting attended by only 1,000 of the union's members did not discharge this responsibility and they were, therefore, guilty of contempt for violating the injunction. </p><p> The court fined the officers of the union $250 each and sentenced them to 20 days in jail. It also fined two members $100 each. This was the first time that officers of a union were held responsible for the acts of members of that union. The union appealed the decision to the New York State Appelate Court.</p>  </bioghist>
@@ -51,6 +34,23 @@
   <prefercite id="aspace_afe12bd5348a3eb68d121d0001447b3b">
     <head>Preferred Citation</head>
 <p>International Typographical Union, Local 6 Legal Files #5345. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <odd id="aspace_258f5db2038d4698f9fa0b08a15fe10d">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, November 15, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 11, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject source="lcsh">Hours of labor -- New York (State) -- New York</subject>
     <subject source="lcsh">Arbitration, Industrial -- New York (State) -- New York</subject>
@@ -60,6 +60,6 @@
     <corpname audience="internal" source="ingest">Typothetae of the City of New York</corpname>
   </controlaccess>
   <unitid type="bibid">5599260</unitid>
-  <dsc><c01 id="aspace_6349a50a5b71663112be9786efec00fe" level="file"><did><unittitle>Papers on Appeal</unittitle><unitdate datechar="creation" normal="1906/1906">1906</unitdate><container id="aspace_f7bb86b5ba52b20d97b9e5a832d86c73" label="unspecified" type="box">1</container><container id="aspace_e06c01057fc0d30aad8d0a4e975fcf0f" parent="aspace_f7bb86b5ba52b20d97b9e5a832d86c73" type="folder">1</container></did><scopecontent id="aspace_c1c9a79f4f9955554a5e6a209d51c202"><head>Scope and Contents</head><p>Volume 1, pages 1 to 418.</p></scopecontent></c01><c01 id="aspace_f5530c4457c508f2c9c4e73781bc565f" level="file"><did><unittitle>Papers of Appeal</unittitle><unitdate datechar="creation" normal="1906/1906">1906</unitdate><container id="aspace_db1a66f4d924d73046feddeba749a3fa" label="unspecified" type="box">1</container><container id="aspace_6ca9eaee36fd69e00df09d4e2e513e5b" parent="aspace_db1a66f4d924d73046feddeba749a3fa" type="folder">2</container></did><scopecontent id="aspace_c527cf34029f8eaea14ce49fedab26a4"><head>Scope and Contents</head><p>Volume 2, pages 419 to 827.</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_6349a50a5b71663112be9786efec00fe" level="file"><did><unittitle>Papers on Appeal</unittitle><unitdate datechar="creation" normal="1906/1906">1906</unitdate><container id="aspace_4c4c5328b5b149f11a579b815f8c4523" label="unspecified" type="box">1</container><container id="aspace_8748ea49ac84a4f49162f61e58901e14" parent="aspace_4c4c5328b5b149f11a579b815f8c4523" type="folder">1</container></did><scopecontent id="aspace_c1c9a79f4f9955554a5e6a209d51c202"><head>Scope and Contents</head><p>Volume 1, pages 1 to 418.</p></scopecontent></c01><c01 id="aspace_f5530c4457c508f2c9c4e73781bc565f" level="file"><did><unittitle>Papers of Appeal</unittitle><unitdate datechar="creation" normal="1906/1906">1906</unitdate><container id="aspace_1b628e2eeac9ee614e8ceb6951eba7e0" label="unspecified" type="box">1</container><container id="aspace_e05bce4ffb39ac570b782ec532d99622" parent="aspace_1b628e2eeac9ee614e8ceb6951eba7e0" type="folder">2</container></did><scopecontent id="aspace_c527cf34029f8eaea14ce49fedab26a4"><head>Scope and Contents</head><p>Volume 2, pages 419 to 827.</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05457</eadid><filedesc><titlestmt><titleproper>Lillian, Mark Collection of Roosevelt Hospital (NYC) vs. Local 1199, 1962 Representational Dispute Documents <num>5457</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 13, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:12:45 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05457</eadid><filedesc><titlestmt><titleproper>Lillian, Mark Collection of Roosevelt Hospital (NYC) vs. Local 1199, 1962 Representational Dispute Documents <num>5457</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 13, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:15:42 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -25,23 +25,6 @@
     <langmaterial id="aspace_301d3ff195ea53379ed80ee29494507b">Collection material in English</langmaterial>
     <unitid type="bibid">5623348</unitid>
   </did>
-  <odd id="aspace_bd733dd58c8870ba7b8b82c23b4caceb">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, February 12, 2013</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, March 13, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <scopecontent id="aspace_e33deb0969e5b5cb8aef6223173a15c9">
     <head>Scope and Contents</head>
 <p>Papers relating to the 1962 Representational Dispute between Roosevelt Hospital, in New York City, and Local 1199. </p><p> These documents were donated by Mark Lillian, graduate of the New York State School of Industrial and Labor Relations.</p>  </scopecontent>
@@ -54,9 +37,26 @@
   <prefercite id="aspace_80280981a614d4a59937042865eab5be">
     <head>Preferred Citation</head>
 <p>Mark Lillian Collection of Roosevelt Hospital (NYC) vs. Local 1199, 1962 Representational Dispute Documents #5457. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_423ffba5503d64dca8664c40405a1e01">
+  <relatedmaterial id="aspace_9e4889645ab1f6981b71c9c88110285d">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05206.html"> 5206: Local 1199 Records</extref></p>  </relatedmaterial>
+<p>Related Collections:  5206: Local 1199 Records</p>  </relatedmaterial>
+  <odd id="aspace_bc07470f57ae6095b5cb4c3d6950fc26">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, February 12, 2013</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 13, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject source="lcsh">Hospitals -- Employees -- Labor unions -- New York (State) -- New York</subject>
     <subject source="lcsh">Collective labor agreements -- Hospitals -- Staff -- New York (State) -- New York</subject>
@@ -66,6 +66,6 @@
     <corpname audience="internal" source="ingest">National Union of Hospital and Nursing Home Employees. Local 1199 Drug &amp; Hospital Union (New York, N.Y.)</corpname>
   </controlaccess>
   <unitid type="bibid">5623348</unitid>
-  <dsc><c01 id="aspace_526f5e4b93c4ccd6090516945da52259" level="file"><did><unittitle>Raymond Fixman Correspondence</unittitle><unitdate datechar="creation" normal="1959/1959">1959</unitdate><container id="aspace_632c02dbf706a210218c49dc9ad790ed" label="unspecified" type="box">1</container><container id="aspace_6435f13003de63089cdd1a5ad7484b7e" parent="aspace_632c02dbf706a210218c49dc9ad790ed" type="folder">1</container></did></c01><c01 id="aspace_14541a4612710da93672916a7ce23f0d" level="file"><did><unittitle>Study Issued by Leon Davis</unittitle><unitdate datechar="creation" normal="1962/1962">1962</unitdate><container id="aspace_2de7bd940a544e706ac3e7164904f386" label="unspecified" type="box">1</container><container id="aspace_d818440da012c09a03339dbde809bc5c" parent="aspace_2de7bd940a544e706ac3e7164904f386" type="folder">2</container></did></c01><c01 id="aspace_0609000273099ec7ce5d444534709552" level="file"><did><unittitle>Broadsides and Correspondence</unittitle><unitdate datechar="creation" normal="1966/1966">1966</unitdate><container id="aspace_73d6c64140e83eba685f5e945fbc6060" label="unspecified" type="box">1</container><container id="aspace_7ae9cb11bd056709bd72cb69be207c06" parent="aspace_73d6c64140e83eba685f5e945fbc6060" type="folder">3</container></did></c01><c01 id="aspace_4968c8cac4f292fbd8e284cf7f51bc98" level="file"><did><unittitle>Broadsides</unittitle><unitdate datechar="creation" normal="1967/1967">1967</unitdate><container id="aspace_180af9c65003fdbcc6442154e404bc5e" label="unspecified" type="box">1</container><container id="aspace_2635233cb24212bf55809f1584dad677" parent="aspace_180af9c65003fdbcc6442154e404bc5e" type="folder">4</container></did></c01><c01 id="aspace_37b0d3c295bbda666d69a02ed19fabe7" level="file"><did><unittitle>Broadsides</unittitle><unitdate datechar="creation" normal="1971/1971">1971</unitdate><container id="aspace_8499cd56a7baf26e4a3ec9ad80f03c37" label="unspecified" type="box">1</container><container id="aspace_c26e48a31158d2616fa7689c5af7f590" parent="aspace_8499cd56a7baf26e4a3ec9ad80f03c37" type="folder">5</container></did></c01><c01 id="aspace_bab8b0722f2eaade8f929967d465fadf" level="file"><did><unittitle>Report of Turnover and NYS Labor Relations Board Case no.SE-40686 and SU-41003</unittitle><unitdate datechar="creation" normal="1972/1972">1972</unitdate><container id="aspace_85be1eefe42efa4372c028ce59f198c1" label="unspecified" type="box">1</container><container id="aspace_f4693a72c12a8eabeb9844dd143ebb0a" parent="aspace_85be1eefe42efa4372c028ce59f198c1" type="folder">6</container></did></c01><c01 id="aspace_815bcf6f3bbb6db9889317f32044b17f" level="file"><did><unittitle>NYS Labor Relations Board Notice of Election</unittitle><container id="aspace_b2efb07adf0176e3f4d9a9dc23c1c76a" label="unspecified" type="box">1</container><container id="aspace_a4a83279f6240ce42cee3c96874a1e6a" parent="aspace_b2efb07adf0176e3f4d9a9dc23c1c76a" type="folder">7</container></did><scopecontent id="aspace_308b8b7a26e3a43f326a74e74f546f78"><head>Scope and Contents</head><p>No Date</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_526f5e4b93c4ccd6090516945da52259" level="file"><did><unittitle>Raymond Fixman Correspondence</unittitle><unitdate datechar="creation" normal="1959/1959">1959</unitdate><container id="aspace_cba2f446772c4412864534d22e584db3" label="unspecified" type="box">1</container><container id="aspace_07118a6ae7d124f6787006c73796b25d" parent="aspace_cba2f446772c4412864534d22e584db3" type="folder">1</container></did></c01><c01 id="aspace_14541a4612710da93672916a7ce23f0d" level="file"><did><unittitle>Study Issued by Leon Davis</unittitle><unitdate datechar="creation" normal="1962/1962">1962</unitdate><container id="aspace_7bb0e8264938fd0b20630a0330e1bb00" label="unspecified" type="box">1</container><container id="aspace_9b12f67e88a2923da8805e56d9bf1641" parent="aspace_7bb0e8264938fd0b20630a0330e1bb00" type="folder">2</container></did></c01><c01 id="aspace_0609000273099ec7ce5d444534709552" level="file"><did><unittitle>Broadsides and Correspondence</unittitle><unitdate datechar="creation" normal="1966/1966">1966</unitdate><container id="aspace_d459e76cc959a76fd829562e2652a30a" label="unspecified" type="box">1</container><container id="aspace_b887614ac775e0922930e584dd2a8699" parent="aspace_d459e76cc959a76fd829562e2652a30a" type="folder">3</container></did></c01><c01 id="aspace_4968c8cac4f292fbd8e284cf7f51bc98" level="file"><did><unittitle>Broadsides</unittitle><unitdate datechar="creation" normal="1967/1967">1967</unitdate><container id="aspace_1630f88ebe10b61a3e3a4f6fb3104730" label="unspecified" type="box">1</container><container id="aspace_7727c549063f91792c20b33c6c9dbbbd" parent="aspace_1630f88ebe10b61a3e3a4f6fb3104730" type="folder">4</container></did></c01><c01 id="aspace_37b0d3c295bbda666d69a02ed19fabe7" level="file"><did><unittitle>Broadsides</unittitle><unitdate datechar="creation" normal="1971/1971">1971</unitdate><container id="aspace_68ced2339a943f4c5250c249eb59742e" label="unspecified" type="box">1</container><container id="aspace_67d474df8ee218ca05fe8f2aff8b4237" parent="aspace_68ced2339a943f4c5250c249eb59742e" type="folder">5</container></did></c01><c01 id="aspace_bab8b0722f2eaade8f929967d465fadf" level="file"><did><unittitle>Report of Turnover and NYS Labor Relations Board Case no.SE-40686 and SU-41003</unittitle><unitdate datechar="creation" normal="1972/1972">1972</unitdate><container id="aspace_d57a23c222862c08266ab77a7735d6cf" label="unspecified" type="box">1</container><container id="aspace_8080b92f6763de0f1975a29c2ebf6a68" parent="aspace_d57a23c222862c08266ab77a7735d6cf" type="folder">6</container></did></c01><c01 id="aspace_815bcf6f3bbb6db9889317f32044b17f" level="file"><did><unittitle>NYS Labor Relations Board Notice of Election</unittitle><container id="aspace_437f68337ec2f8dbe30e559cfcd1c0d0" label="unspecified" type="box">1</container><container id="aspace_080a043f1b0b66f94b5a7bef9eb15a9d" parent="aspace_437f68337ec2f8dbe30e559cfcd1c0d0" type="folder">7</container></did><scopecontent id="aspace_308b8b7a26e3a43f326a74e74f546f78"><head>Scope and Contents</head><p>No Date</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

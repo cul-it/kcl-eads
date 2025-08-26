@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05673mf</eadid><filedesc><titlestmt><titleproper>Coremakers Union of Auburn, NY, Minute Books on Microfilm <num>5673 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 25, 2019</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:18:11 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05673mf</eadid><filedesc><titlestmt><titleproper>Coremakers Union of Auburn, NY, Minute Books on Microfilm <num>5673 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 25, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:23:48 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_3689b07c92e06686280f74ed5c348f5d">Collection material in English</langmaterial>
     <unitid type="bibid">3338518</unitid>
   </did>
-  <odd id="aspace_453decbb1489b0a30354a0c30509bdd7">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, May 22, 2014</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, March 25, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_e15df68b7a5cc9f468713b00bcf594b6">
     <head>Biographical / Historical</head>
 <p>Coremaker's Union no. 5394 was organized on April 17, 1891, in Auburn, N.Y. William Bascomb was the first person elected president, and Edgar Titus was elected to serve as his vice president.</p>  </bioghist>
@@ -51,15 +34,32 @@
   <prefercite id="aspace_c8350e6be104e932a2158eed8f5256d3">
     <head>Preferred Citation</head>
 <p>Coremakers Union of Auburn, NY, Minute Books on Microfilm #5673 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_9211b6a770452fce18d7cba9d6d1bf61">
+  <relatedmaterial id="aspace_47adc6207d5179fbc7aedc81173b2794">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05671.html"> 5671: International Molders Union, No. 107 (Auburn, NY) Minute Books</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05671mf.html"> 5671 mf: International Molders Union, No. 107 (Auburn, NY) Minute Books on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05673.html"> 5673: Coremakers Union of Auburn, NY, Minute Books</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05911.html"> 5911: TWUA Locals 1242, 3, 607, 129, Greater Northern Joint Board Minute Books</extref></p>  </relatedmaterial>
+<p>Related Collections:  5671: International Molders Union, No. 107 (Auburn, NY) Minute Books  5671 mf: International Molders Union, No. 107 (Auburn, NY) Minute Books on Microfilm  5673: Coremakers Union of Auburn, NY, Minute Books  5911: TWUA Locals 1242, 3, 607, 129, Greater Northern Joint Board Minute Books</p>  </relatedmaterial>
+  <odd id="aspace_71e0c5d5fb13d3cb3d6a3b779e6d1f72">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, May 22, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Kheel Staff, March 25, 2019</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject source="lcsh">Labor unions -- New York (State) -- Auburn</subject>
     <corpname audience="internal" source="ingest">Coremakers' International Union</corpname>
     <corpname audience="internal" source="ingest">Coremakers' International Union. Local 10 (Auburn, N.Y.)</corpname>
   </controlaccess>
   <unitid type="bibid">3338518</unitid>
-  <dsc><c01 id="aspace_a235f339645528a5c398296833a05ed0" level="file"><did><unittitle>Auburn, NY - Coremakers Union of Auburn - Minute books</unittitle><unitid>1</unitid><container id="aspace_81c35677fce6eff78f74b3d10dd475b0" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_fed92ffa6b42544d2f7b0716d5c41f2d"><head>Scope and Contents</head><p>positive</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_a235f339645528a5c398296833a05ed0" level="file"><did><unittitle>Auburn, NY - Coremakers Union of Auburn - Minute books</unittitle><unitid>1</unitid><container id="aspace_005c87d270e1131bafcf02467728439e" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_fed92ffa6b42544d2f7b0716d5c41f2d"><head>Scope and Contents</head><p>positive</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

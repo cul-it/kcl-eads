@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04272p</eadid><filedesc><titlestmt><titleproper>Martin P. Catherwood Library Librarian's Office Photographs <num>/4272 P</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 05, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:04:05 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04272p</eadid><filedesc><titlestmt><titleproper>Martin P. Catherwood Library Librarian's Office Photographs <num>/4272 P</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 05, 2016</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:05:08 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -28,12 +28,24 @@
     <langmaterial id="aspace_71c964ed665ccddfdbec8e034f5279f6">Collection material in English</langmaterial>
     <unitid type="bibid">8612808</unitid>
   </did>
-  <odd id="aspace_0b6470d424266b11caa7b0441e186de6">
+  <accessrestrict id="aspace_b06e49aa6f751c632751cd01e9c07474">
+    <head>Conditions Governing Access</head>
+<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
+  <userestrict id="aspace_2f0026fd834aaf0a8adf9aedff5d08cc">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
+  <prefercite id="aspace_d7d0d2013ba8632118de2604a6bab03f">
+    <head>Preferred Citation</head>
+<p>Martin P. Catherwood Library Librarian's Office Photographs #/4272 P. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <relatedmaterial id="aspace_0b5ca7e25cc8ec96240cf91e402134c0">
+    <head>Related Materials</head>
+<p>Related Collections:  /4272: Martin P. Catherwood Library Librarian's Office Additional Files</p>  </relatedmaterial>
+  <odd id="aspace_5331cea4a59535577b536927fa966baf">
     <head>General</head>
     <list type="deflist">
       <defitem>
         <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
       </defitem>
       <defitem>
         <label>Compiled by:</label>
@@ -45,18 +57,6 @@
       </defitem>
     </list>
   </odd>
-  <accessrestrict id="aspace_b06e49aa6f751c632751cd01e9c07474">
-    <head>Conditions Governing Access</head>
-<p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
-  <userestrict id="aspace_2f0026fd834aaf0a8adf9aedff5d08cc">
-    <head>Conditions Governing Use</head>
-<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
-  <prefercite id="aspace_d7d0d2013ba8632118de2604a6bab03f">
-    <head>Preferred Citation</head>
-<p>Martin P. Catherwood Library Librarian's Office Photographs #/4272 P. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_277b9fe2e951d2c327fbc6de0ffb2354">
-    <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04272.html"> /4272: Martin P. Catherwood Library Librarian's Office Additional Files</extref></p>  </relatedmaterial>
   <controlaccess>
     <persname audience="internal" source="ingest">Law, Gordon T., Jr.</persname>
     <persname audience="internal" source="ingest">Miller, J. Gormly</persname>
@@ -65,6 +65,6 @@
     <corpname audience="internal" source="ingest">Martin P. Catherwood Library. Librarian's Office</corpname>
   </controlaccess>
   <unitid type="bibid">8612808</unitid>
-  <dsc><c01 id="aspace_45ff2a3e89bf797fa5e91d65a4505ddc" level="file"><did><unittitle>Photo Album of Catherwood photos, construction, employees, stacks, office spaces (1985)</unittitle><unitdate datechar="creation" normal="1985/1985">1985</unitdate><container id="aspace_23cd0376b3262d9bd2a5550f96d14336" label="unspecified" type="box">1</container><container id="aspace_7b8e3f2ad670347d2f71732275dd89a7" parent="aspace_23cd0376b3262d9bd2a5550f96d14336" type="folder">1</container></did><scopecontent id="aspace_75093f186df9c97c7308b72ee5668b8c"><head>Scope and Contents</head><p>pulled from /4272, box 4, ff5</p></scopecontent></c01><c01 id="aspace_b1d46746b455c1687ba9b22435f5494f" level="file"><did><unittitle>Friends of the Catherwood Library Photos</unittitle><container id="aspace_28355c2e574ebb9c38c06cf6beabc33d" label="unspecified" type="box">1</container><container id="aspace_582cfc2d897afedd6fb36e2c5e13232d" parent="aspace_28355c2e574ebb9c38c06cf6beabc33d" type="folder">2</container></did><scopecontent id="aspace_6f104bc4a53fba76717ec6a3dab05c98"><head>Scope and Contents</head><p>pulled from /4272, box 3, ff10</p></scopecontent></c01><c01 id="aspace_097d734a505e90e08b8201a023973a85" level="file"><did><unittitle>Friends of the Catherwood Library - Contact sheets</unittitle><container id="aspace_3078f60917d67cf1296fd060bc7acd3c" label="unspecified" type="box">1</container><container id="aspace_3d12120feed9c5f5e5019b37ef8d4210" parent="aspace_3078f60917d67cf1296fd060bc7acd3c" type="folder">3</container></did><scopecontent id="aspace_cd5e36ef4a231b3a6da4b9ebe4fab1de"><head>Scope and Contents</head><p>pulled from /4272, box 3, ff10</p></scopecontent></c01><c01 id="aspace_a66d3797cc634468bab18af43a4915f0" level="file"><did><unittitle>Catherwood Library Silent Reading Room</unittitle><container id="aspace_dc694aa850a592e705236a94780654ae" label="unspecified" type="box">1</container><container id="aspace_0ce4a2b5c9277dc38e99181f27d5a916" parent="aspace_dc694aa850a592e705236a94780654ae" type="folder">4</container></did><scopecontent id="aspace_290c8deb16c579f882f3b0358ffe0a81"><head>Scope and Contents</head><p>pulled from /4272, box 4, ff12</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_45ff2a3e89bf797fa5e91d65a4505ddc" level="file"><did><unittitle>Photo Album of Catherwood photos, construction, employees, stacks, office spaces (1985)</unittitle><unitdate datechar="creation" normal="1985/1985">1985</unitdate><container id="aspace_d7746024d3a35ae90bff8c5ae1a617dd" label="unspecified" type="box">1</container><container id="aspace_fcfa8ee40fc4d97e7c973042b86d64ef" parent="aspace_d7746024d3a35ae90bff8c5ae1a617dd" type="folder">1</container></did><scopecontent id="aspace_75093f186df9c97c7308b72ee5668b8c"><head>Scope and Contents</head><p>pulled from /4272, box 4, ff5</p></scopecontent></c01><c01 id="aspace_b1d46746b455c1687ba9b22435f5494f" level="file"><did><unittitle>Friends of the Catherwood Library Photos</unittitle><container id="aspace_b5ad3fab779cb4ea4e73a74355a87cee" label="unspecified" type="box">1</container><container id="aspace_d69bc53b715678a1dfa6c38e5c7c5954" parent="aspace_b5ad3fab779cb4ea4e73a74355a87cee" type="folder">2</container></did><scopecontent id="aspace_6f104bc4a53fba76717ec6a3dab05c98"><head>Scope and Contents</head><p>pulled from /4272, box 3, ff10</p></scopecontent></c01><c01 id="aspace_097d734a505e90e08b8201a023973a85" level="file"><did><unittitle>Friends of the Catherwood Library - Contact sheets</unittitle><container id="aspace_d99b9ece51d56694371c611f5ba116c2" label="unspecified" type="box">1</container><container id="aspace_8c3c36837f8737a8a98aa7ad485ae30f" parent="aspace_d99b9ece51d56694371c611f5ba116c2" type="folder">3</container></did><scopecontent id="aspace_cd5e36ef4a231b3a6da4b9ebe4fab1de"><head>Scope and Contents</head><p>pulled from /4272, box 3, ff10</p></scopecontent></c01><c01 id="aspace_a66d3797cc634468bab18af43a4915f0" level="file"><did><unittitle>Catherwood Library Silent Reading Room</unittitle><container id="aspace_d9cbbd5319640a301e2f88bd348a0371" label="unspecified" type="box">1</container><container id="aspace_0d7e823897c58d974ea103e1c9efbb44" parent="aspace_d9cbbd5319640a301e2f88bd348a0371" type="folder">4</container></did><scopecontent id="aspace_290c8deb16c579f882f3b0358ffe0a81"><head>Scope and Contents</head><p>pulled from /4272, box 4, ff12</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

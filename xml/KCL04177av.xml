@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04177av</eadid><filedesc><titlestmt><titleproper>Miller, J. Gormly Audio-visual materials <num>/4177 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 03, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:02:48 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL04177av</eadid><filedesc><titlestmt><titleproper>Miller, J. Gormly Audio-visual materials <num>/4177 AV</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 03, 2016</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:03:35 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_30296fb629aa666cc55265383ab64377">Collection material in English</langmaterial>
     <unitid type="bibid">8601713</unitid>
   </did>
-  <odd id="aspace_ba918d73fa1617f344e73c7ac25bde30">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, August 13, 2014</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Randall Miles, October 03, 2016</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_d34ed9e5a766b3b2b72f0bdd647c2f4c">
     <head>Biographical / Historical</head>
 <p>J. Gormly Miller (1975-1979) - J. Gormly Miller received a Bachelor of Arts degree from University of Rochester in 1936 and a bachelor's degree in Library Service from Columbia University in 1938. He worked at the Rochester Public Library from 1938 to 1942, and served in the United States Army during World War II. In 1946, Miller came to Cornell University as a librarian in the newly established School of Industrial and Labor Relations. From 1949 until his retirement in 1977, he served on the faculty of the ILR School as an associate professor and then a full professor, teaching courses in research methods. He held numerous consulting and special assignments, including advising the Department of Labor Relations at the University of Chile in Santiago on library development plans in 1961, and advising the U.S. Department of Labor on expanding library resources. From 1962 to 1970, he served as Assistant Director of personnel and budget for libraries. In 1970, he left for Geneva, Switzerland to become deputy chief of the Central Library and Documentation Branch of the United Nations' International Labor Agency. Miller returned to Cornell in 1975 to assume the position of Director of the Cornell University Libraries. Under his administration, the library's total collection grew to more than four million volumes. Miller strengthened library rules and regulations to fight theft and vandalism. Space continued to be a problem, and the first off-site storage facility was built in 1979. During Miller's stay at Cornell University, he actively participated in local government. He was an Ithaca alderman from 1959 to 1963 and again in 1968, when he was chairman of the Ithaca City Charter Revision Commission and co-chairman of the Common Council's Finance Committee. He retired from his post as University Librarian in 1979, but returned to serve as Acting Librarian in 1985.</p>  </bioghist>
@@ -48,14 +31,31 @@
   <prefercite id="aspace_aaec52e94c1cd72da3057fc4d06d4d5e">
     <head>Preferred Citation</head>
 <p>J. Gormly Miller Audio-visual materials #/4177 AV. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_692cc9a59fded7317a5077ce00cd0594">
+  <relatedmaterial id="aspace_518a1ce1567629a3b46aef9484448d28">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04133.html"> /4133: J. Gormly Miller Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04170.html"> /4170: J. Gormly Miller Additional Papers</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL04177.html"> /4177: J. Gormly Miller Additional Papers</extref></p>  </relatedmaterial>
+<p>Related Collections:  /4133: J. Gormly Miller Papers  /4170: J. Gormly Miller Additional Papers  /4177: J. Gormly Miller Additional Papers</p>  </relatedmaterial>
+  <odd id="aspace_2c416c920879d3f756f74c17a5c7d2a9">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, August 13, 2014</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, October 03, 2016</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <persname audience="internal" source="ingest">Miller, J. Gormly</persname>
     <corpname authfilenumber="http://id.loc.gov/authorities/names/n81063067" source="lcnaf">New York State School of Industrial and Labor Relations</corpname>
   </controlaccess>
   <unitid type="bibid">8601713</unitid>
-  <dsc><c01 id="aspace_9a77d7ed54d25da7fde3af0e34d61632" level="file"><did><unittitle>J. Gormly Miller - Recalls - WWII - tape 1 of 3</unittitle><container id="aspace_71f69c2c0c835583da5f5fba60e43e87" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_89e6406a5100bd088344cbbbc5918ea0" level="file"><did><unittitle>J. Gormly Miller - Recalls - WWII - tape 2 of 3</unittitle><container id="aspace_cab6415eeb0c3e550f88b1c33e69237c" label="unspecified" type="box">2</container></did></c01><c01 id="aspace_eb677bf8779a6f60e224cb207919e9f2" level="file"><did><unittitle>J. Gormly Miller - Recalls - WWII - tape 3 of 3</unittitle><container id="aspace_cc2e3135663d7166c2bb93b6bf30ab86" label="unspecified" type="box">3</container></did></c01></dsc>
+  <dsc><c01 id="aspace_9a77d7ed54d25da7fde3af0e34d61632" level="file"><did><unittitle>J. Gormly Miller - Recalls - WWII - tape 1 of 3</unittitle><container id="aspace_865feeb5c9cfb5f2934e36bbef8dc038" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_89e6406a5100bd088344cbbbc5918ea0" level="file"><did><unittitle>J. Gormly Miller - Recalls - WWII - tape 2 of 3</unittitle><container id="aspace_7346ad6667f3569876d2fec20518041f" label="unspecified" type="box">2</container></did></c01><c01 id="aspace_eb677bf8779a6f60e224cb207919e9f2" level="file"><did><unittitle>J. Gormly Miller - Recalls - WWII - tape 3 of 3</unittitle><container id="aspace_3721a77147aeffc49bf0158b95470a4c" label="unspecified" type="box">3</container></did></c01></dsc>
 </archdesc>
 </ead>

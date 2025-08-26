@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05329</eadid><filedesc><titlestmt><titleproper>National Railway Labor Conference Circulars <num>5329</num></titleproper><author>Compiled by E. Parker</author><sponsor>This collection was processed with the help of generous funding from the National Historical Publications and Records Commission (NHPRC).</sponsor></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 04, 2017</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:10:55 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05329</eadid><filedesc><titlestmt><titleproper>National Railway Labor Conference Circulars <num>5329</num></titleproper><author>Compiled by E. Parker</author><sponsor>This collection was processed with the help of generous funding from the National Historical Publications and Records Commission (NHPRC).</sponsor></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 04, 2017</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:13:21 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -19,23 +19,6 @@
     <langmaterial id="aspace_b3230fa522b69a550ceda33ba842473a">Collection material in English</langmaterial>
     <unitid type="bibid">5603956</unitid>
   </did>
-  <odd id="aspace_22f17c3fa41d4944c9cf8ffba8f999d1">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>E. Parker, April 04, 2017</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>E. Parker, April 04, 2017</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_74e50ed8552cf15e0276636de061332f">
     <head>Biographical / Historical</head>
 <p>The National Railway Labor Conference [NRLC] was formed in October 1962 to represent the carriers in negotiations with railroad unions. The NLRC is a not-for-profit association and represents member railroads in dealing with representatives of organized employees on a national level in matters involving railroad labor relations; health and welfare benefits; appropriate matters before the courts, Congressional committees, and other governmental bodies; and other matters of interest or concern to its members. Membership is open to any railroad within the continental United States. </p><p> This collection contains the Awards of Arbitration Board No. 282 in the matter of the crew consist dispute, which was a dispute between the railroad carriers and their employees' labor union regarding how many men were needed to work a locomotive or yard switcher safely and productively.</p>  </bioghist>
@@ -51,9 +34,26 @@
   <prefercite id="aspace_a2d5f16260c3bd7b6edb631a64573496">
     <head>Preferred Citation</head>
 <p>National Railway Labor Conference Circulars #5329. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_e681b740f2f305969c9ffff9dd729596">
+  <relatedmaterial id="aspace_fa8e47998514110adcdbf54d031a5c12">
     <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05205.html"> 5205: National Railway Labor Conference Additional Records</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05205mf.html"> 5205 mf: National Railway Labor Conference Records on Microfilm</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05526.html"> 5526: Arbitration Board 282 Employees' and Carriers' Exhibits and Interpretations</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05328.html"> 5328: Ralph T. Seward Papers</extref></p>  </relatedmaterial>
+<p>Related Collections:  5205: National Railway Labor Conference Additional Records  5205 mf: National Railway Labor Conference Records on Microfilm  5526: Arbitration Board 282 Employees' and Carriers' Exhibits and Interpretations  5328: Ralph T. Seward Papers</p>  </relatedmaterial>
+  <odd id="aspace_e343339f64876ed812ddfad7569325df">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>E. Parker, April 04, 2017</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>E. Parker, April 04, 2017</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject source="lcsh">Collective bargaining -- Railroads -- United States</subject>
     <subject source="ingest">Railroads -- United States</subject>
@@ -66,6 +66,6 @@
     <corpname audience="internal" authfilenumber="http://id.loc.gov/authorities/names/n79131119" source="lcnaf">Switchmen's Union of North America</corpname>
   </controlaccess>
   <unitid type="bibid">5603956</unitid>
-  <dsc><c01 id="aspace_472eec133ff6f87a0008694714c7963f" level="file"><did><unittitle>National Railway Labor Conference Circulars</unittitle><unitdate datechar="creation" normal="1964/1964">1964</unitdate><container id="aspace_51099dca0f57c9f64e722d06f0ba9bf0" label="unspecified" type="box">1</container><container id="aspace_8c316f56143dc14add1ca798e21298d4" parent="aspace_51099dca0f57c9f64e722d06f0ba9bf0" type="folder">1</container></did><scopecontent id="aspace_41094cefc8cfed70811e69dab632a7e7"><head>Scope and Contents</head><p>April to June 1964</p></scopecontent></c01><c01 id="aspace_48ac3bdfe64bbbd01865954a2934a859" level="file"><did><unittitle>National Railway Labor Conference Circulars</unittitle><unitdate datechar="creation" normal="1964/1964">1964</unitdate><container id="aspace_3448ee875719e5310b514f4206f03bea" label="unspecified" type="box">1</container><container id="aspace_8dd44552b27bb677cd5c76a05cf50414" parent="aspace_3448ee875719e5310b514f4206f03bea" type="folder">2</container></did><scopecontent id="aspace_fdf80731cfc52aea1a029f2c50c2ddc2"><head>Scope and Contents</head><p>July to September 1964</p></scopecontent></c01><c01 id="aspace_a2c3e8b6c1e2e29189b94caf9ed3823d" level="file"><did><unittitle>National Railway Labor Conference Circulars</unittitle><unitdate datechar="creation" normal="1964/1965" type="inclusive">1964-1965</unitdate><container id="aspace_6a7a44889e8c696268d8585ac4bda0a4" label="unspecified" type="box">1</container><container id="aspace_878b4a7bd9def8cac1648fa76d73908c" parent="aspace_6a7a44889e8c696268d8585ac4bda0a4" type="folder">3</container></did><scopecontent id="aspace_573f1ba1f123a45f7e8b6a2f9171c069"><head>Scope and Contents</head><p>October 1964 to January 1965</p></scopecontent></c01><c01 id="aspace_0a551ace3cb0a70dd5ac600b4e3bb805" level="file"><did><unittitle>National Railway Labor Conference Circulars</unittitle><unitdate datechar="creation" normal="1965/1965">1965</unitdate><container id="aspace_62b8c84ab50f3cb5b1289b5f06aa6464" label="unspecified" type="box">1</container><container id="aspace_fa6027195b3e064706eca5533e4503ec" parent="aspace_62b8c84ab50f3cb5b1289b5f06aa6464" type="folder">4</container></did><scopecontent id="aspace_5674beb7cb396f17f2de82467d405c9d"><head>Scope and Contents</head><p>March to November 1965</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_472eec133ff6f87a0008694714c7963f" level="file"><did><unittitle>National Railway Labor Conference Circulars</unittitle><unitdate datechar="creation" normal="1964/1964">1964</unitdate><container id="aspace_57e24719fe87b5e1c79c3f9e80b3ebc4" label="unspecified" type="box">1</container><container id="aspace_bec70fb1be1ddd48991f0f06641e9417" parent="aspace_57e24719fe87b5e1c79c3f9e80b3ebc4" type="folder">1</container></did><scopecontent id="aspace_41094cefc8cfed70811e69dab632a7e7"><head>Scope and Contents</head><p>April to June 1964</p></scopecontent></c01><c01 id="aspace_48ac3bdfe64bbbd01865954a2934a859" level="file"><did><unittitle>National Railway Labor Conference Circulars</unittitle><unitdate datechar="creation" normal="1964/1964">1964</unitdate><container id="aspace_47ca57b184c0a16e89e3cdf2008cf179" label="unspecified" type="box">1</container><container id="aspace_823122e8cdcb1c9768f3418ff3bcd820" parent="aspace_47ca57b184c0a16e89e3cdf2008cf179" type="folder">2</container></did><scopecontent id="aspace_fdf80731cfc52aea1a029f2c50c2ddc2"><head>Scope and Contents</head><p>July to September 1964</p></scopecontent></c01><c01 id="aspace_a2c3e8b6c1e2e29189b94caf9ed3823d" level="file"><did><unittitle>National Railway Labor Conference Circulars</unittitle><unitdate datechar="creation" normal="1964/1965" type="inclusive">1964-1965</unitdate><container id="aspace_0de7ce8cccb771a8c88b92f072db6827" label="unspecified" type="box">1</container><container id="aspace_766a0bf49253c60af397b90071aebbd0" parent="aspace_0de7ce8cccb771a8c88b92f072db6827" type="folder">3</container></did><scopecontent id="aspace_573f1ba1f123a45f7e8b6a2f9171c069"><head>Scope and Contents</head><p>October 1964 to January 1965</p></scopecontent></c01><c01 id="aspace_0a551ace3cb0a70dd5ac600b4e3bb805" level="file"><did><unittitle>National Railway Labor Conference Circulars</unittitle><unitdate datechar="creation" normal="1965/1965">1965</unitdate><container id="aspace_a9958b76e34f476c1f1cc1dadeb9cebc" label="unspecified" type="box">1</container><container id="aspace_f405433c18f3db16e0d6ba4a131585bc" parent="aspace_a9958b76e34f476c1f1cc1dadeb9cebc" type="folder">4</container></did><scopecontent id="aspace_5674beb7cb396f17f2de82467d405c9d"><head>Scope and Contents</head><p>March to November 1965</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

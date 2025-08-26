@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06000-049p</eadid><filedesc><titlestmt><titleproper>UNITE Local 9 Photographs <num>6000/049 P</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 17, 2016</date></p><address><addressline>227 Ives Hall</addressline><addressline>Ithaca, NY 14853</addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-05-30 00:27:43 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06000-049p</eadid><filedesc><titlestmt><titleproper>UNITE Local 9 Photographs <num>6000/049 P</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 17, 2016</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:37:00 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -18,23 +18,6 @@
     <langmaterial id="aspace_cf28d1663ce99c5d1acb6546723e6b8c">Collection material in English</langmaterial>
     <unitid type="bibid">6992242</unitid>
   </did>
-  <odd id="aspace_223f45a2db262fb3f658023d72794b87">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives Martin P. Catherwood Library 227 Ives Hall Cornell University Ithaca, NY 14853 (607) 255-3183> <extref xlink:href="mailto:kheel_center@cornell.edu">kheel_center@cornell.edu</extref> <extref xlink:href="http://www.ilr.cornell.edu/library/kheel-center">http://www.ilr.cornell.edu/library/kheel-center</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, April 12, 2012</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Randall Miles, February 17, 2016</item>
-      </defitem>
-    </list>
-  </odd>
   <bioghist id="aspace_9c2e7e636e048a013b950cc2aa53fc15">
     <head>Biographical / Historical</head>
 <p>UNITE, the Union of Needle Trades, Industrial, and Textile Employees was formed in 1995 after a merger between the International Ladies' Garment Workers Union (ILGWU) and the Amalgamated Clothing and Textile Workers Union (ACTWU). </p><p> In 2004 they announced they would merge with the Hotel Employees and Restaurant Employees Union (HERE) which created UNITE HERE. </p><p> Jay Mazur served as president of UNITE from its beginning until his retirement in 2001. Bruce Raynor was elected president at that time and served until the HERE merger.</p>  </bioghist>
@@ -53,6 +36,23 @@
   <relatedmaterial id="aspace_2c2255076cfa10ee435c3da6de8159bd">
     <head>Related Materials</head>
 <p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06000av.html"> 6000 AV: UNITE Audio-Visual Collection</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06000g.html"> 6000 G: UNITE Posters</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06000mb.html"> 6000 MB: UNITE Memorabilia</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06000p.html"> 6000 P: UNITE Photographs</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06000pubs.html"> 6000 PUBS: UNITE Publications</extref></p>  </relatedmaterial>
+  <odd id="aspace_639ee8c256d4b2bf450a93bd03228fdd">
+    <head>General</head>
+    <list type="deflist">
+      <defitem>
+        <label>Contact Information:</label>
+        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
+      </defitem>
+      <defitem>
+        <label>Compiled by:</label>
+        <item>Kheel Staff, April 12, 2012</item>
+      </defitem>
+      <defitem>
+        <label>EAD encoding:</label>
+        <item>Randall Miles, February 17, 2016</item>
+      </defitem>
+    </list>
+  </odd>
   <controlaccess>
     <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85136558" source="lcsh">Clothing workers -- Labor unions</subject>
     <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85136711" source="lcsh">Textile workers -- Labor unions</subject>
@@ -62,6 +62,6 @@
     <corpname audience="internal" authfilenumber="http://id.loc.gov/authorities/names/n50060238" source="lcnaf">International Ladies' Garment Workers' Union -- Photographs</corpname>
   </controlaccess>
   <unitid type="bibid">6992242</unitid>
-  <dsc><c01 id="aspace_867e5f6537c902280b070303d994dc21" level="file"><did><unittitle>Macy's Strike</unittitle><container id="aspace_cf4dfff545b8f512345fc769bc5d4556" label="unspecified" type="box">1</container><container id="aspace_3b98536bfa2cdb02675a591f53a3860e" parent="aspace_cf4dfff545b8f512345fc769bc5d4556" type="folder">1</container></did><scopecontent id="aspace_c4d42f96e6c55ad2010a0a3323678fa1"><head>Scope and Contents</head><p>7 photographs</p></scopecontent></c01><c01 id="aspace_a28807c25815cc1dedd2766ed2bb8825" level="file"><did><unittitle>Macy's Strike</unittitle><container id="aspace_40830613813234a9ecfcbd7310231aa1" label="unspecified" type="box">1</container><container id="aspace_fee03cd96cdcf1046d1651139689a566" parent="aspace_40830613813234a9ecfcbd7310231aa1" type="folder">2</container></did><scopecontent id="aspace_b668c9c5289154a288221bdd0b8a584e"><head>Scope and Contents</head><p>8 photographs</p></scopecontent></c01><c01 id="aspace_449b0f2f2b6f3b923515ad2837e0662a" level="file"><did><unittitle>Men's Warehouse - Picketing - Selling Practices</unittitle><container id="aspace_97b6958ba56ea2f8f900ab339785fe1c" label="unspecified" type="box">1</container><container id="aspace_8ca40db51fdc7f6c87769f11c258e752" parent="aspace_97b6958ba56ea2f8f900ab339785fe1c" type="folder">3</container></did><scopecontent id="aspace_dab749b3d8f5cb8c1d861ad7a8a9b6f9"><head>Scope and Contents</head><p>25 photographs</p></scopecontent></c01><c01 id="aspace_9e9eaabb584282e8b6b1fe3ffe2a05ef" level="file"><did><unittitle>National Day of Conscience to Stop Sweatshops</unittitle><container id="aspace_a443a54d01ab0040c9432457e2e0b42d" label="unspecified" type="box">1</container><container id="aspace_eba1c865bd6c28fcbedb38453f233192" parent="aspace_a443a54d01ab0040c9432457e2e0b42d" type="folder">4</container></did><scopecontent id="aspace_c4c3e40a60bba5c17c686921ff90b511"><head>Scope and Contents</head><p>85 photographs</p></scopecontent></c01><c01 id="aspace_0a88f4df30dd044b29650f9b455009a3" level="file"><did><unittitle>UNITE Meeting/Dinner</unittitle><container id="aspace_1154fc85643370c585ef72388b705bc5" label="unspecified" type="box">1</container><container id="aspace_820900e95df7eb188ef881b858da544b" parent="aspace_1154fc85643370c585ef72388b705bc5" type="folder">5</container></did><scopecontent id="aspace_ac8c16959cff7760a2154d730f1d0f88"><head>Scope and Contents</head><p>15 photographs</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_867e5f6537c902280b070303d994dc21" level="file"><did><unittitle>Macy's Strike</unittitle><container id="aspace_e88d15951cdcc6a09cc95b07c748c6c8" label="unspecified" type="box">1</container><container id="aspace_74a99fcf579d64c458876487d8563349" parent="aspace_e88d15951cdcc6a09cc95b07c748c6c8" type="folder">1</container></did><scopecontent id="aspace_c4d42f96e6c55ad2010a0a3323678fa1"><head>Scope and Contents</head><p>7 photographs</p></scopecontent></c01><c01 id="aspace_a28807c25815cc1dedd2766ed2bb8825" level="file"><did><unittitle>Macy's Strike</unittitle><container id="aspace_d999771fac171801bc51c7a6e118ae4c" label="unspecified" type="box">1</container><container id="aspace_924c8c9c7dc4fed72e464ee5e6bc1d1b" parent="aspace_d999771fac171801bc51c7a6e118ae4c" type="folder">2</container></did><scopecontent id="aspace_b668c9c5289154a288221bdd0b8a584e"><head>Scope and Contents</head><p>8 photographs</p></scopecontent></c01><c01 id="aspace_449b0f2f2b6f3b923515ad2837e0662a" level="file"><did><unittitle>Men's Warehouse - Picketing - Selling Practices</unittitle><container id="aspace_2d05b0d82921ef6b6ba0c929148517e7" label="unspecified" type="box">1</container><container id="aspace_9ef0f2cbce36a18b14f88c3705de6bde" parent="aspace_2d05b0d82921ef6b6ba0c929148517e7" type="folder">3</container></did><scopecontent id="aspace_dab749b3d8f5cb8c1d861ad7a8a9b6f9"><head>Scope and Contents</head><p>25 photographs</p></scopecontent></c01><c01 id="aspace_9e9eaabb584282e8b6b1fe3ffe2a05ef" level="file"><did><unittitle>National Day of Conscience to Stop Sweatshops</unittitle><container id="aspace_e92ef57102130023cd8d335db30e3ddd" label="unspecified" type="box">1</container><container id="aspace_badebd1f88239620b1577abb9d55182f" parent="aspace_e92ef57102130023cd8d335db30e3ddd" type="folder">4</container></did><scopecontent id="aspace_c4c3e40a60bba5c17c686921ff90b511"><head>Scope and Contents</head><p>85 photographs</p></scopecontent></c01><c01 id="aspace_0a88f4df30dd044b29650f9b455009a3" level="file"><did><unittitle>UNITE Meeting/Dinner</unittitle><container id="aspace_d96599a960e139faf3ffa444d26e1e8d" label="unspecified" type="box">1</container><container id="aspace_72a892fcf9ca6bbb8ea9e1f3cc31b5ff" parent="aspace_d96599a960e139faf3ffa444d26e1e8d" type="folder">5</container></did><scopecontent id="aspace_ac8c16959cff7760a2154d730f1d0f88"><head>Scope and Contents</head><p>15 photographs</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>
