@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06036-024</eadid><filedesc><titlestmt><titleproper>Springer Kemp, Maida. Oral History Interview. <num>6036/024</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>January 10, 2013</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:38:57 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06036-024</eadid><filedesc><titlestmt><titleproper>Springer Kemp, Maida. Oral History Interview. <num>6036/024</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>January 10, 2013</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-27 00:02:42 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -40,9 +40,6 @@
   <prefercite id="aspace_10a3e303118bb63fee0e6eaccf06ae61">
     <head>Preferred Citation</head>
 <p>Springer Kemp, Maida. Oral History Interview. #6036/024. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_5b37214cb1a56004ce12a7fb53487520">
-    <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="rmc.library.cornell.edu/ead/htmldocs/KCL05780.html"> 5780: ILGWU records</extref> <extref xlink:href="rmc.library.cornell.edu/ead/htmldocs/KCL05780-062.html"> 5780/062: ILGWU. International Relations Department records</extref></p>  </relatedmaterial>
   <odd id="aspace_6f01d1317a8be69ab3b0e110d2567df6">
     <head>General</head>
     <list type="deflist">
@@ -60,12 +57,15 @@
       </defitem>
     </list>
   </odd>
+  <relatedmaterial id="aspace_c1a1a84ddf7d5fec28a13be7a66e2b17">
+    <head>Related Materials</head>
+<p>Related Collections:  5780: ILGWU records  5780/062: ILGWU. International Relations Department records</p>  </relatedmaterial>
   <controlaccess>
     <subject source="lcsh">Women labor union members -- United States -- History -- Sources</subject>
     <persname audience="internal" source="ingest">Kemp, Maida Springer.</persname>
     <corpname audience="internal" authfilenumber="http://id.loc.gov/authorities/names/n50060238" source="lcnaf">International Ladies' Garment Workers' Union</corpname>
   </controlaccess>
   <unitid type="bibid">5770064</unitid>
-  <dsc><c01 id="aspace_57b6aa7387d89712abc181a828a64928" level="file"><did><unittitle>Oral History Interview with Maida Springer Kemp, International Ladies' Garment Workers' Union by Elizabeth Balanoff</unittitle><unitdate datechar="creation" normal="1977/1977">1977</unitdate><container id="aspace_fdd3254a833de12c31fa1915f181c629" label="unspecified" type="box">1</container><container id="aspace_25812a085a9fcfc30c64c10662326f13" parent="aspace_fdd3254a833de12c31fa1915f181c629" type="folder">1</container></did></c01></dsc>
+  <dsc><c01 id="aspace_57b6aa7387d89712abc181a828a64928" level="file"><did><unittitle>Oral History Interview with Maida Springer Kemp, International Ladies' Garment Workers' Union by Elizabeth Balanoff</unittitle><unitdate datechar="creation" normal="1977/1977">1977</unitdate><container id="aspace_ee39b2200e9203163cb31e88ef7334df" label="unspecified" type="box">1</container><container id="aspace_7a60f734218f8989491af5ab0cf26bc3" parent="aspace_ee39b2200e9203163cb31e88ef7334df" type="folder">1</container></did></c01></dsc>
 </archdesc>
 </ead>

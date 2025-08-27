@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06036-075</eadid><filedesc><titlestmt><titleproper>ILGWU Publications. <num>6036/075</num></titleproper><author>Compiled by R. Miles</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>June 17, 2014</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:39:12 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06036-075</eadid><filedesc><titlestmt><titleproper>ILGWU Publications. <num>6036/075</num></titleproper><author>Compiled by R. Miles</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>June 17, 2014</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-27 00:02:53 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -34,9 +34,6 @@
   <prefercite id="aspace_74207abc6c05add7b6cf40fa465df42e">
     <head>Preferred Citation</head>
 <p>ILGWU Publications. #6036/075. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_c52a5fa2eae20ec822aaa305cb5d04df">
-    <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05780pubs.html"> 5780 PUBS: ILGWU. Publications</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06036-004.html"> 6036/004: International Ladies' Garment Workers' Union. 75th Anniversary Proclamation from a variety of sources. 1975.</extref></p>  </relatedmaterial>
   <odd id="aspace_98b8aea73703661c32de765a443bc8b1">
     <head>General</head>
     <list type="deflist">
@@ -54,6 +51,9 @@
       </defitem>
     </list>
   </odd>
+  <relatedmaterial id="aspace_1f6b85bcfc51ae44df558ebf348c24f9">
+    <head>Related Materials</head>
+<p>Related Collections:  5780 PUBS: ILGWU. Publications  6036/004: International Ladies' Garment Workers' Union. 75th Anniversary Proclamation from a variety of sources. 1975.</p>  </relatedmaterial>
   <unitid type="bibid">5797424</unitid>
   <dsc/>
 </archdesc>

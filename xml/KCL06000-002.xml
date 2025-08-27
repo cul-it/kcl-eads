@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06000-002</eadid><filedesc><titlestmt><titleproper>UNITE Founding Convention Poster <num>6000/002</num></titleproper><author>Compiled by E. Parker</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 15, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:36:04 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06000-002</eadid><filedesc><titlestmt><titleproper>UNITE Founding Convention Poster <num>6000/002</num></titleproper><author>Compiled by E. Parker</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 15, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-27 00:00:47 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -25,9 +25,6 @@
   <prefercite id="aspace_bca983266b98ed8db4e8c29e5b9789fc">
     <head>Preferred Citation</head>
 <p>UNITE Founding Convention Poster #6000/002. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_b7a4486d1b296897e565798c4f6597e9">
-    <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06000av.html"> 6000 AV: UNITE Audio-Visual Collection</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06000g.html"> 6000 G: UNITE Posters</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06000mb.html"> 6000 MB: UNITE Memorabilia</extref> <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL06000p.html"> 6000 P: UNITE Photographs</extref></p>  </relatedmaterial>
   <odd id="aspace_583c19a68ed18065ba26b63288c6640d">
     <head>General</head>
     <list type="deflist">
@@ -45,6 +42,9 @@
       </defitem>
     </list>
   </odd>
+  <relatedmaterial id="aspace_4d37e9acdb10bb14045f9b262f8052ad">
+    <head>Related Materials</head>
+<p>Related Collections:  6000 AV: UNITE Audio-Visual Collection  6000 G: UNITE Posters  6000 MB: UNITE Memorabilia  6000 P: UNITE Photographs</p>  </relatedmaterial>
   <controlaccess>
     <subject source="lcsh">Textile industry -- New York (State) -- New York</subject>
     <subject source="lcsh">Textile workers -- Labor unions -- New York (State) -- New York</subject>
@@ -56,6 +56,6 @@
     <corpname audience="internal" source="ingest">UNITE HERE (Organization)</corpname>
   </controlaccess>
   <unitid type="bibid">5748405</unitid>
-  <dsc><c01 id="aspace_88b3a8a426da0b906ca84518f3bd57a9" level="file"><did><unittitle>UNITE Founding Convention Poster, June 29-30, 1995</unittitle><container id="aspace_150b5e94c1d85545cce2a91be0d9d19f" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_1732eb4d90f3294d2b11b71d6e82c92e" level="file"><did><unittitle>UNITE Local 23-25. NY City Mass Rally, August 28, 1998. In English, Chinese, and Spanish</unittitle><container id="aspace_e48cadc1ee5e14787de1351d97c525f6" label="unspecified" type="box">2</container></did></c01><c01 id="aspace_264c666961581d03ef93d91fd24299f5" level="file"><did><unittitle>UNITE Poster</unittitle><container id="aspace_638b04b2e88819263efc786592bfa0ee" label="unspecified" type="box">3</container></did></c01></dsc>
+  <dsc><c01 id="aspace_88b3a8a426da0b906ca84518f3bd57a9" level="file"><did><unittitle>UNITE Founding Convention Poster, June 29-30, 1995</unittitle><container id="aspace_a1d0daa7dac561af9032d5f5ad8add02" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_1732eb4d90f3294d2b11b71d6e82c92e" level="file"><did><unittitle>UNITE Local 23-25. NY City Mass Rally, August 28, 1998. In English, Chinese, and Spanish</unittitle><container id="aspace_bb672a25fc37be12de465175b791298b" label="unspecified" type="box">2</container></did></c01><c01 id="aspace_264c666961581d03ef93d91fd24299f5" level="file"><did><unittitle>UNITE Poster</unittitle><container id="aspace_f3001ada2ed4e2927fbd135749926fae" label="unspecified" type="box">3</container></did></c01></dsc>
 </archdesc>
 </ead>

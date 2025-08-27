@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05993mf</eadid><filedesc><titlestmt><titleproper>ACWA Rochester Joint Board Minutes on Microfilm <num>5993 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 10, 2016</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:35:58 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05993mf</eadid><filedesc><titlestmt><titleproper>ACWA Rochester Joint Board Minutes on Microfilm <num>5993 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>February 10, 2016</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-27 00:00:42 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -36,9 +36,6 @@
   <prefercite id="aspace_b149d6714c0e88b071b8b581c8b762df">
     <head>Preferred Citation</head>
 <p>ACWA Rochester Joint Board Minutes on Microfilm #5993 mf. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <relatedmaterial id="aspace_0722fdde2a5ece2aa0fbad3e4d47356a">
-    <head>Related Materials</head>
-<p>Related Collections: <extref xlink:href="http://rmc.library.cornell.edu/ead/htmldocs/KCL05273mf.html"> 5273 mf: ACWA Rochester Joint Board Minutes of Meeting on Microfilm</extref></p>  </relatedmaterial>
   <odd id="aspace_4e5d550e1010ff3ad9fcbc59dfd54dbc">
     <head>General</head>
     <list type="deflist">
@@ -56,6 +53,9 @@
       </defitem>
     </list>
   </odd>
+  <relatedmaterial id="aspace_4bb0efad2ced1227cc1b3f762d421945">
+    <head>Related Materials</head>
+<p>Related Collections:  5273 mf: ACWA Rochester Joint Board Minutes of Meeting on Microfilm</p>  </relatedmaterial>
   <controlaccess>
     <subject source="lcsh">Clothing workers -- Labor unions -- New York (State) -- Rochester</subject>
     <subject source="lcsh">Clothing trade -- New York (State) -- Rochester</subject>
@@ -65,6 +65,6 @@
     <corpname audience="internal" rules="local" source="local">Amalgamated Clothing Workers of America. Rochester Joint Board</corpname>
   </controlaccess>
   <unitid type="bibid">5745675</unitid>
-  <dsc><c01 id="aspace_791890f7a9a09eb2594fc668ab57c94f" level="file"><did><unittitle>December 18, 1919- September 17, 1925</unittitle><container id="aspace_dd1b4fe0489bf1fa41bc411a068ab1dd" label="unspecified" type="reel">1</container></did></c01><c01 id="aspace_e014009a76b50e1a8ebb1bf76c852a9f" level="file"><did><unittitle>October 1, 1925 - June 25, 1931</unittitle><container id="aspace_3cd03c8f6ada2020f1830de6adb82b86" label="unspecified" type="reel">2</container></did></c01><c01 id="aspace_4cb59739d5ed86b3fbfb80a4899cd32b" level="file"><did><unittitle>July 30, 1931 - December 29, 1932</unittitle><container id="aspace_a277f35ce8e349492d7ed665cb7eebb2" label="unspecified" type="reel">3</container></did></c01></dsc>
+  <dsc><c01 id="aspace_791890f7a9a09eb2594fc668ab57c94f" level="file"><did><unittitle>December 18, 1919- September 17, 1925</unittitle><container id="aspace_eb83c94970b155822960c8cdacef6096" label="unspecified" type="reel">1</container></did></c01><c01 id="aspace_e014009a76b50e1a8ebb1bf76c852a9f" level="file"><did><unittitle>October 1, 1925 - June 25, 1931</unittitle><container id="aspace_e90c453d3e294d09828a5398a9045a3f" label="unspecified" type="reel">2</container></did></c01><c01 id="aspace_4cb59739d5ed86b3fbfb80a4899cd32b" level="file"><did><unittitle>July 30, 1931 - December 29, 1932</unittitle><container id="aspace_0db431e1e931c6156cf6623333781a09" label="unspecified" type="reel">3</container></did></c01></dsc>
 </archdesc>
 </ead>
