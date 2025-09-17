@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05709mf</eadid><filedesc><titlestmt><titleproper>National Women's Trade Union League of America Records on Microfilm <num>5709 mf</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 28, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:24:31 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05709mf</eadid><filedesc><titlestmt><titleproper>National Women's Trade Union League of America Records on Microfilm <num>5709 mf</num></titleproper></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-09-17 23:59:05 UTC</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -14,8 +14,7 @@
     </physdesc>
     <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1903/1950" type="inclusive">1903-1950</unitdate>
     <physdesc id="aspace_5b5603fe31377dde7530372845d7e345" label="Quantity:">25 microfilm reels</physdesc>
-    <physdesc id="aspace_cf5cb564c0995226249901543ae5f6f7" label="Forms of Material:">Records (documents), lobbyists, microfilm.</physdesc>
-    <abstract id="aspace_099d0a86a87d88b33fa51c0ac49c94b7">These records include correspondence, reports, speeches, notes, printed matter, minutes of meetings, proceedings of the League and of the International Congress of Working Women, biographical material on the League's officers, and correspondence between the National League and its local branches. Major issues covered include the eight-hour day, minimum wage, establishment of sanitary work areas, federal aid to education, civil rights, price controls and social security. Unpublished guide available.</abstract>
+    <abstract id="aspace_099d0a86a87d88b33fa51c0ac49c94b7">These records include correspondence, reports, speeches, notes, printed matter, minutes of meetings, proceedings of the League and of the International Congress of Working Women, biographical material on the League's officers, and correspondence between the National League and its local branches. Major issues covered include the eight-hour day, minimum wage, establishment of sanitary work areas, federal aid to education, civil rights, price controls and social security.</abstract>
     <langmaterial id="aspace_38f8b4790a09c978908771dd83eb7306">Collection material in English</langmaterial>
     <unitid type="bibid">3833878</unitid>
   </did>
@@ -40,23 +39,6 @@
   <relatedmaterial id="aspace_f6bf9420317e1fcf7db8784bb3240644">
     <head>Related Materials</head>
 <p>Related Collections:  5690 mf: Women's Trade Union League Papers on Microfilm</p>  </relatedmaterial>
-  <odd id="aspace_bec7df328ba05d3f93f21875c6f323e3">
-    <head>General</head>
-    <list type="deflist">
-      <defitem>
-        <label>Contact Information:</label>
-        <item>Kheel Center for Labor-Management Documentation and Archives 227 Ives Hall Tower Road Cornell University Ithaca, NY 14853 (607) 255-3183 <extref xlink:href="mailto:kheelref@cornell.edu">kheelref@cornell.edu</extref> <extref xlink:href="https://catherwood.library.cornell.edu/kheel">https://catherwood.library.cornell.edu/kheel/</extref></item>
-      </defitem>
-      <defitem>
-        <label>Compiled by:</label>
-        <item>Kheel Staff, March 28, 2019</item>
-      </defitem>
-      <defitem>
-        <label>EAD encoding:</label>
-        <item>Kheel Staff, March 28, 2019</item>
-      </defitem>
-    </list>
-  </odd>
   <controlaccess>
     <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85026377" source="lcsh">Civil rights -- United States</subject>
     <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85041397" source="lcsh">Eight-hour movement</subject>
@@ -105,6 +87,192 @@
     <corpname audience="internal" source="ingest">Women's Trade Union League of New York</corpname>
   </controlaccess>
   <unitid type="bibid">3833878</unitid>
-  <dsc><c01 id="aspace_cf530ee2cbed3883519dd848ad066a48" level="series"><did><unittitle>(Online container list not yet available.)</unittitle></did></c01></dsc>
+  <dsc><c01 id="aspace_fe0e0b85de5c771a6dc8caa0144fd9b2" level="file"><did><unittitle>Headquarters Records, 1903-1950</unittitle><unitdate datechar="creation" normal="1903/1914" type="inclusive">1903-1914</unitdate><container id="aspace_9d4af29d9536d10d2d97d7df854ee969" label="Microform" type="reel">1</container><container id="aspace_1e8a519a14d2f277ff35e33cea9024ff" parent="aspace_9d4af29d9536d10d2d97d7df854ee969" type="folder">1</container></did><scopecontent id="aspace_193b4e999b1cc37d258fc7b4a5e4636b"><head>Scope and Contents</head><p>Principal subject index 1903-14</p></scopecontent></c01><c01 id="aspace_a8602e115d2177a0e86623554e68ac0a" level="file"><did><unittitle>Headquarters Records, 1903-1950</unittitle><unitdate datechar="creation" normal="1915/1922" type="inclusive">1915-1922</unitdate><container id="aspace_73e57adad053c66ad540b376a46b2fb5" label="Microform" type="reel">2</container><container id="aspace_b3a0b791b42908f03c160907f6b51edb" parent="aspace_73e57adad053c66ad540b376a46b2fb5" type="folder">1</container></did><scopecontent id="aspace_2fa80f1e2b3afd04c16576a065fbe88d"><head>Scope and Contents</head><p>Principal subject index 1915-22</p></scopecontent></c01><c01 id="aspace_debae7dcb15cd470de8f6c803c59e02c" level="file"><did><unittitle>Headquarters Records, 1903-1950</unittitle><unitdate datechar="creation" normal="1923/1925" type="inclusive">1923-1925</unitdate><container id="aspace_7d1895b9e645dca66c1fbc67365eea0a" label="Microform" type="reel">3</container><container id="aspace_c76dcb7fb4c93f7b323c759f75d83e68" parent="aspace_7d1895b9e645dca66c1fbc67365eea0a" type="folder">1</container></did><scopecontent id="aspace_40a3b978688976367e16d6ed21f952c2"><head>Scope and Contents</head><p>Principal subject index 1923-1925</p></scopecontent></c01><c01 id="aspace_087b12316a237f0b58c57bec4a8cfff1" level="file"><did><unittitle>Headquarters Records, 1903-1950</unittitle><unitdate datechar="creation" normal="1926/1929" type="inclusive">1926-1929</unitdate><container id="aspace_994d90794704688e8f20a9b04ca5e0dd" label="Microform" type="reel">4</container><container id="aspace_3b4ff6d915cdce549da243da4181ebaa" parent="aspace_994d90794704688e8f20a9b04ca5e0dd" type="folder">1</container></did><scopecontent id="aspace_20246fe1795fb3cd6eda4f8b32692f7f"><head>Scope and Contents</head><p>Principal subject index 1926- Apr 1929</p></scopecontent></c01><c01 id="aspace_bdfaed30396e488acf1401a13004b5ba" level="file"><did><unittitle>Headquarters Records, 1903-1950</unittitle><unitdate datechar="creation" normal="1929/1932" type="inclusive">1929-1932</unitdate><container id="aspace_bf06c0566f4b82964ba358055bdc44b6" label="Microform" type="reel">5</container><container id="aspace_5e8395d235aeac545156d2c47533d613" parent="aspace_bf06c0566f4b82964ba358055bdc44b6" type="folder">1</container></did><scopecontent id="aspace_1ac7e6612d24b3df5eeed66969561473"><head>Scope and Contents</head><p>Principal subject index May 1929-Apr. 1932</p></scopecontent></c01><c01 id="aspace_831d291d3334cd20314441a23c0ea53d" level="file"><did><unittitle>Headquarters Records, 1903-1950</unittitle><unitdate datechar="creation" normal="1932/1935" type="inclusive">1932-1935</unitdate><container id="aspace_5aca7a7bf36bad34f382984aca5f316d" label="Microform" type="reel">6</container><container id="aspace_3d3f6f5ec10638b13d02c8320736e5cf" parent="aspace_5aca7a7bf36bad34f382984aca5f316d" type="folder">1</container></did><scopecontent id="aspace_a6f42c1d5e7eb8fae6982df9d64359e3"><head>Scope and Contents</head><p>Principal subject index May 1932-35</p></scopecontent></c01><c01 id="aspace_ae724bed4861843e412977aa5d852837" level="file"><did><unittitle>Headquarters Records, 1903-1950</unittitle><unitdate datechar="creation" normal="1936/1938" type="inclusive">1936-1938</unitdate><container id="aspace_78535a86c1d05bdb4af664770ec2f94d" label="Microform" type="reel">7</container><container id="aspace_1256d3751fa0d412cb046b8ae7fc6270" parent="aspace_78535a86c1d05bdb4af664770ec2f94d" type="folder">1</container></did><scopecontent id="aspace_a96cbbd19f01678c168856b5f2d3076e"><head>Scope and Contents</head><p>Principal subject index 1936-38</p></scopecontent></c01><c01 id="aspace_e2f4b8733b6a642693287ec3bd3f68b0" level="file"><did><unittitle>Headquarters Records, 1903-1950</unittitle><unitdate datechar="creation" normal="1939/1941" type="inclusive">1939-1941</unitdate><container id="aspace_e395ae502cb0956b11b3e78081bc5dd8" label="Microform" type="reel">7</container><container id="aspace_6b9eb964c4a30a5c2ac187de5722b14d" parent="aspace_e395ae502cb0956b11b3e78081bc5dd8" type="folder">2</container></did><scopecontent id="aspace_dbd49f8f335a66eab4672708829cec53"><head>Scope and Contents</head><p>Principal subject index 1939-41</p></scopecontent></c01><c01 id="aspace_1a4fec2d10046207180c09fdde87cdf6" level="file"><did><unittitle>Headquarters Records, 1903-1950</unittitle><unitdate datechar="creation" normal="1939/1941" type="inclusive">1939-1941</unitdate><container id="aspace_4029bb6b9870797346182212dbf7ac4d" label="Microform" type="reel">8</container><container id="aspace_796f4ef77f91fd338e27ccf829305d37" parent="aspace_4029bb6b9870797346182212dbf7ac4d" type="folder">1</container></did><scopecontent id="aspace_0228f9a4ef798558dce841daa92eef23"><head>Scope and Contents</head><p>Principal subject index 1939-41</p></scopecontent></c01><c01 id="aspace_80c3acab401be43b76e53b7d239e7980" level="file"><did><unittitle>Headquarters Records, 1903-1950</unittitle><unitdate datechar="creation" normal="1942/1945" type="inclusive">1942-1945</unitdate><container id="aspace_69c1b3168b9d821bef646ebd1e208956" label="Microform" type="reel">8</container><container id="aspace_4f3d93838b90a63eb0f9cc984eccf836" parent="aspace_69c1b3168b9d821bef646ebd1e208956" type="folder">2</container></did><scopecontent id="aspace_42d081b4d79ba25b5ab06ebf7ebf5898"><head>Scope and Contents</head><p>Principal subject index 1942-45</p></scopecontent></c01><c01 id="aspace_94cfa6f941c602860c0a8bf5478df76e" level="file"><did><unittitle>Headquarters Records, 1903-1950</unittitle><unitdate datechar="creation" normal="1942/1945" type="inclusive">1942-1945</unitdate><container id="aspace_853fda4437afc9090d6a8f7191715bc5" label="Microform" type="reel">9</container><container id="aspace_84a8457c6553cceff890748e094b070c" parent="aspace_853fda4437afc9090d6a8f7191715bc5" type="folder">1</container></did><scopecontent id="aspace_13681bf70138b9872bda2a0fd11e3a4b"><head>Scope and Contents</head><p>Principal subject index 1942-45</p></scopecontent></c01><c01 id="aspace_2bda80f2f5a47f8e35dd5e493767dbd2" level="file"><did><unittitle>Headquarters Records, 1903-1950</unittitle><unitdate datechar="creation" normal="1946/1948" type="inclusive">1946-1948</unitdate><container id="aspace_09e7d245b68a8b5f5de79b8f09d7311c" label="Microform" type="reel">9</container><container id="aspace_4f8b05af1dbb7535c5257a35e0436a91" parent="aspace_09e7d245b68a8b5f5de79b8f09d7311c" type="folder">2</container></did><scopecontent id="aspace_abd061474ae8c70ab643154a24106b4a"><head>Scope and Contents</head><p>Principal subject index 1946- Apr 1948</p></scopecontent></c01><c01 id="aspace_620c9db1c1ae0eba37fb59e9c6794dbe" level="file"><did><unittitle>Headquarters Records, 1903-1950</unittitle><unitdate datechar="creation" normal="1948/1950" type="inclusive">1948-1950</unitdate><container id="aspace_a6c018c1a080a77667adc56db10991f8" label="Microform" type="reel">10</container><container id="aspace_414fc28de83fe4c9528c2bd80b922eba" parent="aspace_a6c018c1a080a77667adc56db10991f8" type="folder">1</container></did><scopecontent id="aspace_09516f600678780433da021f842fa0b4"><head>Scope and Contents</head><p>Principal subject index May 1948-June 1950</p></scopecontent></c01><c01 id="aspace_8c4f841f2c0db40e7ced7043bd1ebb0f" level="file"><did><unittitle>Subject File, ca. 1903-50 and undated</unittitle><unitdate datechar="creation" normal="1903/1950" type="inclusive">1903-1950</unitdate><container id="aspace_dd9a8fbf1df5a91c1c7546b4dc7b19c3" label="Microform" type="reel">10</container><container id="aspace_2d3ea64fb0e7ab3460bcbd7bc6e554d0" parent="aspace_dd9a8fbf1df5a91c1c7546b4dc7b19c3" type="folder">2</container></did><scopecontent id="aspace_723713846922501a8dc061ad9ca520e5"><head>Scope and Contents</head><p>Aderton, Aileen, 1949-50.
+American Academy of Political and Social Science, 1949-50.
+American Federation of Labor, 1915-33 and undated.
+Auxiliaries, 1941-49 and undated.
+Brock, Mrs. Eugene J. (H. Rose), 1925-50 and undated.
+Burling, Mrs. Edward B. (Louise B.), 1925-50 and undated. 
+Christman, Elisabeth, 1918-50.
+Corbett, Maude B., 1925-50.
+Deuser, Marion Burns, 1948. 
+Dowd, Mollie, 1935.
+Dreier, Mary E., 1941 and 1948.
+E miscellaneous, 1948-49.
+Economic Cooperation Act, 1948-50.
+Education
+- Citizens Federal Committee on Education, 1949-50.
+- Federal aid to education, 1949-50 and undated.
+- Office worker's summer school, 1935, 1940, 1949-50.
+Equal Pay, 1947-50.</p></scopecontent></c01><c01 id="aspace_5503a89031dbdaa16e5cb6218d4cb54b" level="file"><did><unittitle>Subject File, ca. 1903-50 and undated</unittitle><unitdate datechar="creation" normal="1903/1950" type="inclusive">1903-1950</unitdate><container id="aspace_566dfbd4702ff718de36345915d414f3" label="Microform" type="reel">11</container><container id="aspace_b83fed74d3caaddfcc9a0e0183a1cec5" parent="aspace_566dfbd4702ff718de36345915d414f3" type="folder">1</container></did><scopecontent id="aspace_a1f5a8144f4a4776a25ffbda0a08392c"><head>Scope and Contents</head><p>Aderton, Aileen, 1949-50.
+American Academy of Political and Social Science, 1949-50.
+American Federation of Labor, 1915-33 and undated.
+Auxiliaries, 1941-49 and undated.
+Brock, Mrs. Eugene J. (H. Rose), 1925-50 and undated.
+Burling, Mrs. Edward B. (Louise B.), 1925-50 and undated. 
+Christman, Elisabeth, 1918-50.
+Corbett, Maude B., 1925-50.
+Deuser, Marion Burns, 1948. 
+Dowd, Mollie, 1935.
+Dreier, Mary E., 1941 and 1948.
+E miscellaneous, 1948-49.
+Economic Cooperation Act, 1948-50.
+Education
+- Citizens Federal Committee on Education, 1949-50.
+- Federal aid to education, 1949-50 and undated.
+- Office worker's summer school, 1935, 1940, 1949-50.
+Equal Pay, 1947-50.</p></scopecontent></c01><c01 id="aspace_25c12da4e2d2a61b58ca3913a9b35eb3" level="file"><did><unittitle>Subject File, ca. 1903-50 and undated</unittitle><unitdate datechar="creation" normal="1903/1950" type="inclusive">1903-1950</unitdate><container id="aspace_68f80c9884a5fd015d6da645450d3421" label="Microform" type="reel">12</container><container id="aspace_e301d149fa2de0a0a4081fe7e7c28ee6" parent="aspace_68f80c9884a5fd015d6da645450d3421" type="folder">1</container></did><scopecontent id="aspace_62a2c1e93dd024268660b8f4e52e6f6e"><head>Scope and Contents</head><p>Executive Board
+- General, 1935, 1948-50.
+- Dueser, Marion Burns, 1948-49.
+- Dreier, Mary E., 1949-50.
+- Newman, Pauline M., 1948-50 and undated.
+- Winslow, Mary N., 1948-49.
+F miscellaneous, 1948-49.
+Fair Employment Practices Commission, 1949.
+Fair Labor Standards Act, 1949-50.
+Foreign-correspondence
+- General, 1949-50
+- Australia, 1949-50.
+- Czechoslovakia, 1950.
+- France, 1949.
+- Germany, 1948-50 and undated.</p></scopecontent></c01><c01 id="aspace_ca6b7a06e103625ae856fede61e9129d" level="file"><did><unittitle>Subject File, ca. 1903-50 and undated</unittitle><unitdate datechar="creation" normal="1903/1950" type="inclusive">1903-1950</unitdate><container id="aspace_026c9fcc406cb99fb6a126783fe38a70" label="Microform" type="reel">13</container><container id="aspace_d198397d00110b19ba7408ab1d407a21" parent="aspace_026c9fcc406cb99fb6a126783fe38a70" type="folder">1</container></did><scopecontent id="aspace_5c1140531428ac05fc38ab94c8bd46f6"><head>Scope and Contents</head><p>Foreign-correspondence
+- Great Britain, 1949-50
+- Hungary, 1950
+- India, 1950
+- Japan, 1949
+- Sweden, 1949-50
+Greenwood, Elma L., 1949-50.
+Health insurance, 1949-50.
+Higgins, Mrs. William H. (Elsie Herrick), 1947-50.
+Hospital Council, 1947-49 and undated.
+Hours of labor for women, 1913-32 and undated.
+Ingersoll, Mrs. Raymond V. (Marion C.), 1923-50.
+Inter-American Commission of Women, 1948-50.
+Inter-American program, Women's Bureau, U.S. Dept. of Labor
+- Women leaders visit United States, 1948-49.
+International Congress (later Federation) of Working Women
+- General, 1918-21</p></scopecontent></c01><c01 id="aspace_5b5793be0f075513c41b8dc17434c2ef" level="file"><did><unittitle>Subject File, ca. 1903-50 and undated</unittitle><unitdate datechar="creation" normal="1903/1950" type="inclusive">1903-1950</unitdate><container id="aspace_76d02271b8e51a885cedc306c5ed0ccf" label="Microform" type="reel">14</container><container id="aspace_861ce4fff91158c6023646eccc25cdc5" parent="aspace_76d02271b8e51a885cedc306c5ed0ccf" type="folder">1</container></did><scopecontent id="aspace_dd04bcf299ba2975c4f9621816e66952"><head>Scope and Contents</head><p>International Congress (later Federation of Working Women
+- General, 1923-27 and undated
+- South American countries, 1921-24 and undated
+International Labour Organization
+- General 1948-50
+- Committee for the United States, 1947-50
+Legislation
+- Atlantic Pact, 1949
+- Atomic energy, 1947-50
+- Civil Rights, 1949-50
+- Displaced persons, 1949-50 and undated
+- Economic Expansion Act of 1949, 1949-50
+- Equal rights
+--- General, 1921-50 and undated
+--- Records of Congressmen, 1944-49</p></scopecontent></c01><c01 id="aspace_1b6e065b433da3bb7d02b6cd9d18837b" level="file"><did><unittitle>Subject File, ca. 1903-50 and undated</unittitle><unitdate datechar="creation" normal="1903/1950" type="inclusive">1903-1950</unitdate><container id="aspace_ca72b604b118f1213ead15a29c9c5ea0" label="Microform" type="reel">14</container><container id="aspace_c0cf97b3ac098188d46d7bb0f5f2b8aa" parent="aspace_ca72b604b118f1213ead15a29c9c5ea0" type="folder">2</container></did><scopecontent id="aspace_f8476e24fb713cceae3ed525f7cda293"><head>Scope and Contents</head><p>Legislation
+- Extension of labor education, 1949-50
+- Government reorganization (Hoover Commission), 1949-50
+- International relations, 1949-50
+- Lobby Acr, 1946-50 and undated
+- Mundt-Nixon bill, 1948-50
+- Poll tax, 1946-49
+- Price control, 1947-48
+Local leagues
+- Bloomington-Normal, Bloomington, Ill., 1947-50
+- Boston, Mass., 1946-50
+- Chicago, Ill., 1949-50
+- Constitutions, 1935-49 and undated
+- District of Columbia, 1947-40</p></scopecontent></c01><c01 id="aspace_bd142aeaee8a0352c1bf90d858eacf6d" level="file"><did><unittitle>Subject File, ca. 1903-50 and undated</unittitle><unitdate datechar="creation" normal="1903/1950" type="inclusive">1903-1950</unitdate><container id="aspace_de76f25f8357f6bdbf02fafca44926b7" label="Microform" type="reel">15</container><container id="aspace_8bd4db101a42e22525a2fca03429547b" parent="aspace_de76f25f8357f6bdbf02fafca44926b7" type="folder">1</container></did><scopecontent id="aspace_f0ac8d4bd3ae8559f499f264c636fc49"><head>Scope and Contents</head><p>Legislation
+- Extension of labor education, 1949-50
+- Government reorganization (Hoover Commission), 1949-50
+- International relations, 1949-50
+- Lobby Acr, 1946-50 and undated
+- Mundt-Nixon bill, 1948-50
+- Poll tax, 1946-49
+- Price control, 1947-48
+Local leagues
+- Bloomington-Normal, Bloomington, Ill., 1947-50
+- Boston, Mass., 1946-50
+- Chicago, Ill., 1949-50
+- Constitutions, 1935-49 and undated
+- District of Columbia, 1947-40</p></scopecontent></c01><c01 id="aspace_63c176802babba2f3e7697f8d14119f0" level="file"><did><unittitle>Subject File, ca. 1903-50 and undated</unittitle><unitdate datechar="creation" normal="1903/1950" type="inclusive">1903-1950</unitdate><container id="aspace_00d89de447fc5d716f0dc8242ca21a75" label="Microform" type="reel">15</container><container id="aspace_87e9790a704a6fae97d21fd6cda286ee" parent="aspace_00d89de447fc5d716f0dc8242ca21a75" type="folder">2</container></did><scopecontent id="aspace_3e566b212da50b27ab8a03d22d7d8fd8"><head>Scope and Contents</head><p>Local Leagues
+- Illinois State, 1947-50
+- Kansas City, Mo., 1944-50
+- Kelso-Longview, Longview Wash.,  1944-1949
+- Milwaukee, Wis., 1948-50 and undated
+- New York, N.Y., 1949-50
+- Notices to, 1947-50
+- Officers and meeting nights, 1949-50</p></scopecontent></c01><c01 id="aspace_7a766079fd36281590eda69923fbd159" level="file"><did><unittitle>Subject File, ca. 1903-50 and undated</unittitle><unitdate datechar="creation" normal="1903/1950" type="inclusive">1903-1950</unitdate><container id="aspace_f88308c0aa9977cc2763f9e495fd48e5" label="Microform" type="reel">16</container><container id="aspace_b6e9ace04a16f83e508dd19f730b7b63" parent="aspace_f88308c0aa9977cc2763f9e495fd48e5" type="folder">1</container></did><scopecontent id="aspace_1e5d8d97bca7c5d3b83c7da6d2309664"><head>Scope and Contents</head><p>Local Leagues
+- Illinois State, 1947-50
+- Kansas City, Mo., 1944-50
+- Kelso-Longview, Longview Wash.,  1944-1949
+- Milwaukee, Wis., 1948-50 and undated
+- New York, N.Y., 1949-50
+- Notices to, 1947-50
+- Officers and meeting nights, 1949-50</p></scopecontent></c01><c01 id="aspace_cc452f3b58ae76e81023ced17ca97e96" level="file"><did><unittitle>Subject File, ca. 1903-50 and undated</unittitle><unitdate datechar="creation" normal="1903/1950" type="inclusive">1903-1950</unitdate><container id="aspace_ca722f840459b17280a76f49683b6bf5" label="Microform" type="reel">16</container><container id="aspace_c204ca63405671ddc01daec320a02e0a" parent="aspace_ca722f840459b17280a76f49683b6bf5" type="folder">2</container></did><scopecontent id="aspace_47616c554784e2a9e4abe492ea95a500"><head>Scope and Contents</head><p>Local leagues
+- Racine, Wis., 1945-50
+- St. Louis, Mo., 1948-50
+- Seattle, Wash., 1945-50
+- Suggested programs, 1930-32 and undated
+- Toledo, Ohio, 1947-50
+- Worcester, Mass., 1947-50
+Minimum wage, 1913-35 and undated.
+National Citizens Council for Migrant Labor, 1948-50.
+National Women's Trade Union League of America
+- Attacks on, 1925-31 and undated</p></scopecontent></c01><c01 id="aspace_3a0b76b55899358f316fa8af0d90afad" level="file"><did><unittitle>Subject File, ca. 1903-50 and undated</unittitle><unitdate datechar="creation" normal="1903/1948" type="inclusive">1903-1948</unitdate><container id="aspace_b1e3ea56cfbb2d5558daa331f5cabb50" label="Microform" type="reel">17</container><container id="aspace_70a3024de935e001e61dd8df512883e7" parent="aspace_b1e3ea56cfbb2d5558daa331f5cabb50" type="folder">1</container></did><scopecontent id="aspace_7362b71b77dbdc05a855c050c44190fc"><head>Scope and Contents</head><p>Historical data, 1903-48 and undated</p></scopecontent></c01><c01 id="aspace_435bb14f93c04d327755b48bbbc32dd6" level="file"><did><unittitle>Subject File, ca. 1903-50 and undated</unittitle><unitdate datechar="creation" normal="1903/1950" type="inclusive">1903-1950</unitdate><container id="aspace_2522ac2df1695e7291c784374109cffc" label="Microform" type="reel">18</container><container id="aspace_7e39fc2c20927826e81a32081c0b3cf2" parent="aspace_2522ac2df1695e7291c784374109cffc" type="folder">1</container></did><scopecontent id="aspace_8b319609390d51b236fb17c94e5ff992"><head>Scope and Contents</head><p>Publicity, 1924-50 and undated.
+Nestor, Agnes, 1914-49.
+Newman, Pauline M., 1945.
+Robins, Margaret Dreier, 1911-45 and undated.
+Schneiderman, Rose, 1928-48 and undated.
+Shop investigations, undated.
+Social security, 1948-50.
+Stone, Margaret F., undated.
+Taft-Hartley Act, 1949.
+Trade agreements, 1949.
+Trade unions (women in) 1913-42</p></scopecontent></c01><c01 id="aspace_b0dd34f136680e3dcbe469b4933467fa" level="file"><did><unittitle>Subject File, ca. 1903-50 and undated</unittitle><unitdate datechar="creation" normal="1903/1950" type="inclusive">1903-1950</unitdate><container id="aspace_8e2f0a92c96945171a3e327d3bf17a5b" label="Microform" type="reel">18</container><container id="aspace_3ef5b23d2b830d3515a8f1b8480d5c9f" parent="aspace_8e2f0a92c96945171a3e327d3bf17a5b" type="folder">2</container></did><scopecontent id="aspace_b68cc2698e3eddb47c6dda5d413a4b6a"><head>Scope and Contents</head><p>Trade unions (women in) 1943-50 and undated.
+Union shop, 1911-24 and undated.
+United Nations (American Association for the United Nations), 1948-50.
+U.S. Employment Service (Federal Advisory Council for), 1946-49.
+Van Loon, Hendrik Willem, 1924-27.
+Winslow, Mary N., 1927-48.
+Women on policy-making commissions, 1942-49.
+Women's Bureau, 1916-50 and undated.
+Women's Conference on International Affairs, 1947-49.
+Women's status, 1948-50 and undated</p></scopecontent></c01><c01 id="aspace_23003fc63b8a8765d0e2aad0d5336329" level="file"><did><unittitle>Subject File, ca. 1903-50 and undated</unittitle><unitdate datechar="creation" normal="1903/1950" type="inclusive">1903-1950</unitdate><container id="aspace_f3032b339d69c6f475c45cc0d17e1a2e" label="Microform" type="reel">19</container><container id="aspace_0ee6a05c741daecc80b728994ccf9fbb" parent="aspace_f3032b339d69c6f475c45cc0d17e1a2e" type="folder">1</container></did><scopecontent id="aspace_9bff11b34dc4a56c27de1ac2ff27f232"><head>Scope and Contents</head><p>Trade unions (women in) 1943-50 and undated.
+Union shop, 1911-24 and undated.
+United Nations (American Association for the United Nations), 1948-50.
+U.S. Employment Service (Federal Advisory Council for), 1946-49.
+Van Loon, Hendrik Willem, 1924-27.
+Winslow, Mary N., 1927-48.
+Women on policy-making commissions, 1942-49.
+Women's Bureau, 1916-50 and undated.
+Women's Conference on International Affairs, 1947-49.
+Women's status, 1948-50 and undated</p></scopecontent></c01><c01 id="aspace_a7d685a40571dc5e024a228427a254e7" level="file"><did><unittitle>National Conventions, 1909-47</unittitle><unitdate datechar="creation" normal="1909/1911" type="inclusive">1909-1911</unitdate><container id="aspace_38f19551fb10a774c87e8f82bf9e7c12" label="Microform" type="reel">19</container><container id="aspace_8144867f4e4a5002dd53bc4efa11c653" parent="aspace_38f19551fb10a774c87e8f82bf9e7c12" type="folder">2</container></did><scopecontent id="aspace_42753137a5248d30bffcbbc60e9c307f"><head>Scope and Contents</head><p>Proceedings
+- Sept. 27-Oct. 2, 1909 (Chicago, Ill.)
+- June 12-19, 1911 (Boston, Mass.)</p></scopecontent></c01><c01 id="aspace_182d95c1e55bbc389a20731be341ea80" level="file"><did><unittitle>National Conventions, 1909-47</unittitle><unitdate datechar="creation" normal="1909/1911" type="inclusive">1909-1911</unitdate><container id="aspace_c269016483939a16b6273d897a34c8b3" label="Microform" type="reel">20</container><container id="aspace_c6112da09ab7c74dc50dd3b2a86b16b3" parent="aspace_c269016483939a16b6273d897a34c8b3" type="folder">1</container></did><scopecontent id="aspace_f335f2ffab7b919ee5ecfe0f5d0edc38"><head>Scope and Contents</head><p>Proceedings
+- Sept. 27-Oct. 2, 1909 (Chicago, Ill.)
+- June 12-19, 1911 (Boston, Mass.)</p></scopecontent></c01><c01 id="aspace_38163d84b8a137c3f8a6aa9f97dedb6a" level="file"><did><unittitle>National Conventions, 1909-47</unittitle><unitdate datechar="creation" normal="1913/1915" type="inclusive">1913-1915</unitdate><container id="aspace_7e57e8d276323ad6fc0d38f7db88e26b" label="Microform" type="reel">20</container><container id="aspace_610527051ed9bc019359b613c4682e7a" parent="aspace_7e57e8d276323ad6fc0d38f7db88e26b" type="folder">2</container></did><scopecontent id="aspace_be6bb6e1396c2797751bf481d8534d0f"><head>Scope and Contents</head><p>Proceedings
+- June 2-7, 1913 (St. Louis, Mo.)
+- June 7-12, 1915 (New York, N.Y.)</p></scopecontent></c01><c01 id="aspace_4eecfd9e07bace940687757cfc499593" level="file"><did><unittitle>National Conventions, 1909-47</unittitle><unitdate datechar="creation" normal="1913/1915" type="inclusive">1913-1915</unitdate><container id="aspace_5f903ed6abfd6f53570397dd40e68cac" label="Microform" type="reel">21</container><container id="aspace_51037184161213a9423d87055c251d3a" parent="aspace_5f903ed6abfd6f53570397dd40e68cac" type="folder">1</container></did><scopecontent id="aspace_1af891fb2e4ce4eaf4d07e522f4bf0a0"><head>Scope and Contents</head><p>Proceedings
+- June 2-7, 1913 (St. Louis, Mo.)
+- June 7-12, 1915 (New York, N.Y.)</p></scopecontent></c01><c01 id="aspace_650146eaa1ebb3171f89cf789b384505" level="file"><did><unittitle>National Conventions, 1909-47</unittitle><unitdate datechar="creation" normal="1919/1922" type="inclusive">1919-1922</unitdate><container id="aspace_eccc197dddff51016eeddeb6f627c18d" label="Microform" type="reel">21</container><container id="aspace_9aafd12b33336464a5e52566a22e15a6" parent="aspace_eccc197dddff51016eeddeb6f627c18d" type="folder">2</container></did><scopecontent id="aspace_500defd555188b5cacffe26042c3c859"><head>Scope and Contents</head><p>Proceedings
+- June 2-7, 1919 (Philadelphia, Pa.)
+- June 5-10, 1922 (Waukegan, Ill.)</p></scopecontent></c01><c01 id="aspace_e1104fee7784f49fa0d858b25ff11ff7" level="file"><did><unittitle>National Conventions, 1909-47</unittitle><unitdate datechar="creation" normal="1919/1922" type="inclusive">1919-1922</unitdate><container id="aspace_cd8cc4d8587a09d2f2b010a06290b2cc" label="Microform" type="reel">22</container><container id="aspace_97bd9069b7449b12508e236ff047de96" parent="aspace_cd8cc4d8587a09d2f2b010a06290b2cc" type="folder">1</container></did><scopecontent id="aspace_490dc3020583c8930f2ad82920b0a812"><head>Scope and Contents</head><p>Proceedings
+- June 2-7, 1919 (Philadelphia, Pa.)
+- June 5-10, 1922 (Waukegan, Ill.)</p></scopecontent></c01><c01 id="aspace_255c5546b449fb5479dd78a498e1d97a" level="file"><did><unittitle>National Conventions, 1909-47</unittitle><unitdate datechar="creation" normal="1924/1929" type="inclusive">1924-1929</unitdate><container id="aspace_03f979582d69c6b2d8ac91ab116d783c" label="Microform" type="reel">23</container><container id="aspace_c81fcb7e94fc8096fe1f23ef29f56cbc" parent="aspace_03f979582d69c6b2d8ac91ab116d783c" type="folder">1</container></did><scopecontent id="aspace_aca7d2f0a2e52977b64786ae1eafa4db"><head>Scope and Contents</head><p>Proceedings
+- June 16-21, 1924 (New York, N.Y.)
+- May 6-11, 1929 (District of Columbia)</p></scopecontent></c01><c01 id="aspace_c4e64544033cd73ea24707d50b6865a8" level="file"><did><unittitle>National Conventions, 1909-47</unittitle><unitdate datechar="creation" normal="1924/1929" type="inclusive">1924-1929</unitdate><container id="aspace_92a2d5218d8ce9a5d6f9614eb64ef785" label="Microform" type="reel">24</container><container id="aspace_329f09109d0887a0bd1bf44e705ad18e" parent="aspace_92a2d5218d8ce9a5d6f9614eb64ef785" type="folder">1</container></did><scopecontent id="aspace_1f4d068cf47d6a40be2b5e51bc2a07e9"><head>Scope and Contents</head><p>Proceedings
+- June 16-21, 1924 (New York, N.Y.)
+- May 6-11, 1929 (District of Columbia)</p></scopecontent></c01><c01 id="aspace_4c0ab83b0feb85ebdc0fcce62a83f7e8" level="file"><did><unittitle>National Conventions, 1909-47</unittitle><unitdate datechar="creation" normal="1936/1947" type="inclusive">1936-1947</unitdate><container id="aspace_9976fd07fd6b7ab177bce16294007e6d" label="Microform" type="reel">24</container><container id="aspace_76c1d2d0814182101115dbf630d1cfee" parent="aspace_9976fd07fd6b7ab177bce16294007e6d" type="folder">2</container></did><scopecontent id="aspace_ec445f18cd5e45a8217880e8718e6517"><head>Scope and Contents</head><p>Proceedings
+- May 4-9, 1936 (District of Columbia)
+- May 19-22, 1947 (District of Columbia)</p></scopecontent></c01><c01 id="aspace_f381a1e6db0613ced8b6c797c6c48ec2" level="file"><did><unittitle>National Conventions, 1909-47</unittitle><unitdate datechar="creation" normal="1936/1947" type="inclusive">1936-1947</unitdate><container id="aspace_9f9315ba6d0f3757cbe59b3fe5c52b68" label="Microform" type="reel">25</container><container id="aspace_e4195e404c17afda0c33f8e2141ddc61" parent="aspace_9f9315ba6d0f3757cbe59b3fe5c52b68" type="folder">1</container></did><scopecontent id="aspace_fb8d1f71815b4830575feff6ae4b59bc"><head>Scope and Contents</head><p>Proceedings
+- May 4-9, 1936 (District of Columbia)
+- May 19-22, 1947 (District of Columbia)</p></scopecontent></c01><c01 id="aspace_ef33ade1e8c51f79aa5c8d7fd0d35b72" level="file"><did><unittitle>International Congress (Later Federation) of Working Women, 1919-23</unittitle><unitdate datechar="creation" normal="1919/1919" type="inclusive">1919</unitdate><container id="aspace_6f997fd7277410ced8412e758b7a3f9b" label="Microform" type="reel">25</container><container id="aspace_346c7cca73ef0266752914f313d1c281" parent="aspace_6f997fd7277410ced8412e758b7a3f9b" type="folder">2</container></did><scopecontent id="aspace_00eef4bd1446a75277eb882f1bc9a9aa"><head>Scope and Contents</head><p>Oct.28-Nov. 6, 1919 (District of Columbia)
+- Proceedings</p></scopecontent></c01><c01 id="aspace_8a627537d8a055a74f92f712da7b9f94" level="file"><did><unittitle>International Congress (Later Federation) of Working Women, 1919-23</unittitle><unitdate datechar="creation" normal="1921/1923" type="inclusive">1921-1923</unitdate><container id="aspace_705ba840769973221227a9404be63c3f" label="Microform" type="reel">25</container><container id="aspace_c79526b00501df3dab35db63977ab185" parent="aspace_705ba840769973221227a9404be63c3f" type="folder">3</container></did><scopecontent id="aspace_a980a98e28a9348babccf187d9c57825"><head>Scope and Contents</head><p>Oct. 17-24, 1921 (Geneva, Switzerland)
+- Proceedings
+- Delegates
+- Recommendations of constitutional commission
+- Resolution on disarmament
+- Summary of proceedings
+Aug. 14-18, 1923 (Vienna, Austria)
+- Report of proceedings
+- International Federation of Working Women; Report Presented by the Secretariat at the Biennial Congress August 14th-18th 1923, Held at Schonbrunn Castle, Vienna, November 1921 to July 1923
+- Working Women in Many Countries; Report of Congress Held at Vienna, August 1923 (Amsterdam, International Federation of Trade Unions.)</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>
