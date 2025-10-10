@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05102</eadid><filedesc><titlestmt><titleproper>Emergency Board No. 129, Long Island Railroad and the Brotherhood of Railroad Trainmen, Locals 517 and 1090, Records <num>5102</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 07, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:08:29 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05102</eadid><filedesc><titlestmt><titleproper>Emergency Board No. 129, Long Island Railroad and the Brotherhood of Railroad Trainmen, Locals 517 and 1090, Records <num>5102</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 07, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-10-10 00:03:51 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
     </repository>
     <unittitle>Emergency Board No. 129, Long Island Railroad and the Brotherhood of Railroad Trainmen, Locals 517 and 1090, Records</unittitle>
-    <origination audience="internal" label="Creator">
+    <origination label="Creator">
       <corpname role="creator" source="ingest">Emergency Board No. 129</corpname>
     </origination>
-    <origination audience="internal" label="Creator">
+    <origination label="Creator">
       <corpname role="creator" source="ingest">Long Island Railroad</corpname>
     </origination>
-    <origination audience="internal" label="Creator">
+    <origination label="Creator">
       <corpname role="creator" source="ingest">Brotherhood of Railroad Trainmen. Local 517</corpname>
     </origination>
-    <origination audience="internal" label="Creator">
+    <origination label="Creator">
       <corpname role="creator" source="ingest">Brotherhood of Railroad Trainmen. Local 1090</corpname>
     </origination>
     <unitid>5102</unitid>
@@ -76,16 +76,16 @@
     <subject source="ingest">Wages -- Mediation and conciliation, Industrial -- United States</subject>
     <subject source="ingest">Wages -- Railroads -- New York (State)</subject>
     <subject source="lcsh">Employee rules -- United States</subject>
-    <corpname audience="internal" authfilenumber="http://id.loc.gov/authorities/names/n79131118" source="lcnaf">Brotherhood of Railroad Trainmen</corpname>
-    <corpname audience="internal" source="ingest">Eastern Carriers' Conference Committee</corpname>
-    <corpname audience="internal" source="ingest">Long Island Railroad Company</corpname>
-    <corpname audience="internal" source="ingest">Southeastern Carriers' Conference Committee</corpname>
-    <corpname audience="internal" source="ingest">United States. Emergency Board No. 129</corpname>
-    <corpname audience="internal" authfilenumber="http://id.loc.gov/authorities/names/n81074419" source="lcnaf">United States. National Mediation Board</corpname>
-    <corpname audience="internal" source="ingest">Western Carriers' Conference Committee</corpname>
-    <corpname audience="internal" authfilenumber="http://id.loc.gov/authorities/names/n78095330" source="lcnaf">United States</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79131118" source="lcnaf">Brotherhood of Railroad Trainmen</corpname>
+    <corpname source="ingest">Eastern Carriers' Conference Committee</corpname>
+    <corpname source="ingest">Long Island Railroad Company</corpname>
+    <corpname source="ingest">Southeastern Carriers' Conference Committee</corpname>
+    <corpname source="ingest">United States. Emergency Board No. 129</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n81074419" source="lcnaf">United States. National Mediation Board</corpname>
+    <corpname source="ingest">Western Carriers' Conference Committee</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n78095330" source="lcnaf">United States</corpname>
   </controlaccess>
   <unitid type="bibid">3336307</unitid>
-  <dsc><c01 id="aspace_ed8655fc5a0a2c471107aa3c3a2ad07f" level="file"><did><unittitle>Reports and exhibits [folder 1 of 2]</unittitle><unitdate datechar="creation" normal="1960/1960">1960</unitdate><container id="aspace_17aded4cd0085bb5139ef0482b4859fa" label="unspecified" type="box">1</container><container id="aspace_0239de82d6d722af0390a0a54de5076e" parent="aspace_17aded4cd0085bb5139ef0482b4859fa" type="folder">1</container></did></c01><c01 id="aspace_d0e0e0d9e6d771c92204e2e6fb309312" level="file"><did><unittitle>Reports and exhibits [folder 2 of 2]</unittitle><unitdate datechar="creation" normal="1960/1960">1960</unitdate><container id="aspace_9e776366d8dc134e9e94ea2f7124813b" label="unspecified" type="box">1</container><container id="aspace_bdec3e228d4b75637a164630b96f5df3" parent="aspace_9e776366d8dc134e9e94ea2f7124813b" type="folder">2</container></did></c01><c01 id="aspace_8d68d530db9e712f4c3b5569b1e3792b" level="file"><did><unittitle>John W. McConnell's notes</unittitle><unitdate datechar="creation" normal="1960/1960">1960</unitdate><container id="aspace_5e6bfe83839e871dd2c873fee870136a" label="unspecified" type="box">1</container><container id="aspace_d95bae69f07eeaf1dc068a52c135ea1b" parent="aspace_5e6bfe83839e871dd2c873fee870136a" type="folder">3</container></did></c01></dsc>
+  <dsc><c01 id="aspace_ed8655fc5a0a2c471107aa3c3a2ad07f" level="file"><did><unittitle>Reports and exhibits [folder 1 of 2]</unittitle><unitdate datechar="creation" normal="1960/1960">1960</unitdate><container id="aspace_66f4b83171e354dee36ce726d7cd7155" label="unspecified" type="box">1</container><container id="aspace_1c93ab7af5ae00c87c0b34d5bc1f22fe" parent="aspace_66f4b83171e354dee36ce726d7cd7155" type="folder">1</container></did></c01><c01 id="aspace_d0e0e0d9e6d771c92204e2e6fb309312" level="file"><did><unittitle>Reports and exhibits [folder 2 of 2]</unittitle><unitdate datechar="creation" normal="1960/1960">1960</unitdate><container id="aspace_98c4bdd78f009082f4f88c6176b25375" label="unspecified" type="box">1</container><container id="aspace_1330846bc0d287e0c6c425aa5bcdc00c" parent="aspace_98c4bdd78f009082f4f88c6176b25375" type="folder">2</container></did></c01><c01 id="aspace_8d68d530db9e712f4c3b5569b1e3792b" level="file"><did><unittitle>John W. McConnell's notes</unittitle><unitdate datechar="creation" normal="1960/1960">1960</unitdate><container id="aspace_8b5ed2366cd07ca7adfcc2d7744ddb54" label="unspecified" type="box">1</container><container id="aspace_afce1206c29a182c41b6f4612617bd3a" parent="aspace_8b5ed2366cd07ca7adfcc2d7744ddb54" type="folder">3</container></did></c01></dsc>
 </archdesc>
 </ead>
