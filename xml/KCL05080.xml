@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05080</eadid><filedesc><titlestmt><titleproper>Chicago and Western Indiana Railroad Company et al. and Railroad Brotherhoods Arbitration Proceedings <num>5080</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 07, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-10-10 00:03:33 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05080</eadid><filedesc><titlestmt><titleproper>Chicago and Western Indiana Railroad Company et al. and Railroad Brotherhoods Arbitration Proceedings <num>5080</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 07, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-11-20 00:02:57 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -61,24 +61,24 @@
     </list>
   </odd>
   <controlaccess>
-    <persname audience="internal" source="ingest">Combs, Wallace</persname>
-    <persname audience="internal" source="ingest">McLinden, Arthur</persname>
-    <persname audience="internal" source="ingest">Smith, Albert C.</persname>
-    <persname audience="internal" source="ingest">Taylor, C. E.</persname>
-    <persname audience="internal" source="ingest">Berry, G. W.</persname>
-    <persname audience="internal" source="ingest">Urbahns, F. W.</persname>
-    <persname audience="internal" source="ingest">Ballou, H. W.</persname>
-    <persname audience="internal" source="ingest">Hayes, George G.</persname>
-    <persname audience="internal" source="ingest">Nichols, J. L.</persname>
-    <persname audience="internal" source="ingest">Kirk, J.</persname>
-    <persname audience="internal" source="ingest">Bowman, A. A.</persname>
-    <persname audience="internal" source="ingest">Rupp, E. L.</persname>
+    <persname source="ingest">Combs, Wallace</persname>
+    <persname source="ingest">McLinden, Arthur</persname>
+    <persname source="ingest">Smith, Albert C.</persname>
+    <persname source="ingest">Taylor, C. E.</persname>
+    <persname source="ingest">Berry, G. W.</persname>
+    <persname source="ingest">Urbahns, F. W.</persname>
+    <persname source="ingest">Ballou, H. W.</persname>
+    <persname source="ingest">Hayes, George G.</persname>
+    <persname source="ingest">Nichols, J. L.</persname>
+    <persname source="ingest">Kirk, J.</persname>
+    <persname source="ingest">Bowman, A. A.</persname>
+    <persname source="ingest">Rupp, E. L.</persname>
     <corpname source="ingest">Chicago and Western Indiana Railroad Company</corpname>
     <corpname source="ingest">Belt Railway Company of Chicago</corpname>
     <corpname authfilenumber="http://id.loc.gov/authorities/names/n83031148" source="lcnaf">Brotherhood of Locomotive Engineers (U.S.)</corpname>
     <corpname source="ingest">Brotherhood of Locomotive Firemen (U.S.)</corpname>
   </controlaccess>
   <unitid type="bibid">8204108</unitid>
-  <dsc><c01 id="aspace_da35d9f5ab11fb091ca03867412bb71c" level="file"><did><unittitle>Arbitration proceedings</unittitle><unitdate datechar="creation" normal="1913/1913">1913</unitdate><container id="aspace_0b18390f82dd48fee42b0348eb43b71f" label="unspecified" type="box">1</container><container id="aspace_a02df8bd333de7ab1e43d9818b831155" parent="aspace_0b18390f82dd48fee42b0348eb43b71f" type="folder">1</container></did><scopecontent id="aspace_1db4d887f422273f0a107a5e5d8cfa78"><head>Scope and Contents</head><p>September 2-12, 1913; 780 pages, includes exhibits.</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_da35d9f5ab11fb091ca03867412bb71c" level="file"><did><unittitle>Arbitration proceedings</unittitle><unitdate datechar="creation" normal="1913/1913">1913</unitdate><container id="aspace_0df2df2c5bbe862445bbf7247e4e2704" label="unspecified" type="box">1</container><container id="aspace_898d024830bb3cfa437a8ce8b3cf59a3" parent="aspace_0df2df2c5bbe862445bbf7247e4e2704" type="folder">1</container></did><scopecontent id="aspace_1db4d887f422273f0a107a5e5d8cfa78"><head>Scope and Contents</head><p>September 2-12, 1913; 780 pages, includes exhibits.</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

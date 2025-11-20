@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06004ohm</eadid><filedesc><titlestmt><titleproper>NAA History Committee Oral History Interview Masters <num>6004 OHM</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 30, 2015</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-10-10 00:22:57 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06004ohm</eadid><filedesc><titlestmt><titleproper>NAA History Committee Oral History Interview Masters <num>6004 OHM</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 30, 2015</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-11-20 00:12:55 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -52,59 +52,59 @@
     <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85006452" source="lcsh">Arbitration, Industrial</subject>
     <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85028110" source="lcsh">Collective labor agreements</subject>
     <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85082848" source="lcsh">Mediation and conciliation, Industrial</subject>
-    <persname audience="internal" source="ingest">Aaron, Benjamin</persname>
-    <persname audience="internal" source="ingest">Abernethy, Byron R.</persname>
-    <persname audience="internal" source="ingest">Alexander, Gabriel</persname>
-    <persname audience="internal" source="ingest">Anderson, Arvid</persname>
-    <persname audience="internal" source="ingest">Bairstow, Frances</persname>
-    <persname audience="internal" source="ingest">Block, Howard</persname>
-    <persname audience="internal" source="ingest">Block, Richard</persname>
-    <persname audience="internal" source="ingest">Dash, G. Allen</persname>
-    <persname audience="internal" source="ingest">Dunsford, John E.</persname>
-    <persname audience="internal" source="ingest">Dybeck, Alfred C.</persname>
-    <persname audience="internal" source="ingest">Elson, Alex</persname>
-    <persname audience="internal" source="ingest">Fallon, William J.</persname>
-    <persname audience="internal" source="ingest">Feller, David</persname>
-    <persname audience="internal" source="ingest">Fleming, Robben</persname>
-    <persname audience="internal" source="ingest">Garrett, Sylvester</persname>
-    <persname audience="internal" source="ingest">Gershenfeld, Gladys</persname>
-    <persname audience="internal" source="ingest">Gershenfeld, Walter</persname>
-    <persname audience="internal" source="ingest">Gill, Lewis</persname>
-    <persname audience="internal" source="ingest">Gruenberg, Gladys W.</persname>
-    <persname audience="internal" source="ingest">Harkless, James</persname>
-    <persname audience="internal" source="ingest">Jones, Dallas</persname>
-    <persname audience="internal" source="ingest">Jones, Edgar A.</persname>
-    <persname audience="internal" source="ingest">Kagel, John</persname>
-    <persname audience="internal" source="ingest">Kagel, Sam</persname>
-    <persname audience="internal" source="ingest">Kahn, Mark L.</persname>
-    <persname audience="internal" source="ingest">Kelliher, Peter M.</persname>
-    <persname audience="internal" source="ingest">Killingsworth, Charles C.</persname>
-    <persname audience="internal" source="ingest">Larkin, John Day</persname>
-    <persname audience="internal" source="ingest">Luskin, Bert L.</persname>
-    <persname audience="internal" source="ingest">McDermott, Clare B.</persname>
-    <persname audience="internal" source="ingest">McKelvey, Jean T.(Jean Trepp), 1908-1998.</persname>
-    <persname audience="internal" source="ingest">Mittenthal, Richard</persname>
-    <persname audience="internal" source="ingest">Murphy, William</persname>
-    <persname audience="internal" source="ingest">Nicolau, George</persname>
-    <persname audience="internal" source="ingest">Platt, Harry H.</persname>
-    <persname audience="internal" source="ingest">Robbins, Eva</persname>
-    <persname audience="internal" source="ingest">Roberts, Thomas T.</persname>
-    <persname audience="internal" source="ingest">Rock, Eli</persname>
-    <persname audience="internal" source="ingest">Rubin, Milton</persname>
-    <persname audience="internal" source="ingest">Seward, Ralph T. (Ralph Theodore), 1907-</persname>
-    <persname audience="internal" source="ingest">Sherman, James</persname>
-    <persname audience="internal" source="ingest">Sherman, Marilyn</persname>
-    <persname audience="internal" source="ingest">Simkin, William E.</persname>
-    <persname audience="internal" source="ingest">Sinicropi, Anthony</persname>
-    <persname audience="internal" source="ingest">Smith, Russel A.</persname>
-    <persname audience="internal" source="ingest">St. Antoine, Theodore J., 1929-</persname>
-    <persname audience="internal" source="ingest">Stark, Arthur</persname>
-    <persname audience="internal" source="ingest">Valtin, Rolf</persname>
-    <persname audience="internal" source="ingest">Zack, Arnold</persname>
+    <persname source="ingest">Aaron, Benjamin</persname>
+    <persname source="ingest">Abernethy, Byron R.</persname>
+    <persname source="ingest">Alexander, Gabriel</persname>
+    <persname source="ingest">Anderson, Arvid</persname>
+    <persname source="ingest">Bairstow, Frances</persname>
+    <persname source="ingest">Block, Howard</persname>
+    <persname source="ingest">Block, Richard</persname>
+    <persname source="ingest">Dash, G. Allen</persname>
+    <persname source="ingest">Dunsford, John E.</persname>
+    <persname source="ingest">Dybeck, Alfred C.</persname>
+    <persname source="ingest">Elson, Alex</persname>
+    <persname source="ingest">Fallon, William J.</persname>
+    <persname source="ingest">Feller, David</persname>
+    <persname source="ingest">Fleming, Robben</persname>
+    <persname source="ingest">Garrett, Sylvester</persname>
+    <persname source="ingest">Gershenfeld, Gladys</persname>
+    <persname source="ingest">Gershenfeld, Walter</persname>
+    <persname source="ingest">Gill, Lewis</persname>
+    <persname source="ingest">Gruenberg, Gladys W.</persname>
+    <persname source="ingest">Harkless, James</persname>
+    <persname source="ingest">Jones, Dallas</persname>
+    <persname source="ingest">Jones, Edgar A.</persname>
+    <persname source="ingest">Kagel, John</persname>
+    <persname source="ingest">Kagel, Sam</persname>
+    <persname source="ingest">Kahn, Mark L.</persname>
+    <persname source="ingest">Kelliher, Peter M.</persname>
+    <persname source="ingest">Killingsworth, Charles C.</persname>
+    <persname source="ingest">Larkin, John Day</persname>
+    <persname source="ingest">Luskin, Bert L.</persname>
+    <persname source="ingest">McDermott, Clare B.</persname>
+    <persname source="ingest">McKelvey, Jean T.(Jean Trepp), 1908-1998.</persname>
+    <persname source="ingest">Mittenthal, Richard</persname>
+    <persname source="ingest">Murphy, William</persname>
+    <persname source="ingest">Nicolau, George</persname>
+    <persname source="ingest">Platt, Harry H.</persname>
+    <persname source="ingest">Robbins, Eva</persname>
+    <persname source="ingest">Roberts, Thomas T.</persname>
+    <persname source="ingest">Rock, Eli</persname>
+    <persname source="ingest">Rubin, Milton</persname>
+    <persname source="ingest">Seward, Ralph T. (Ralph Theodore), 1907-</persname>
+    <persname source="ingest">Sherman, James</persname>
+    <persname source="ingest">Sherman, Marilyn</persname>
+    <persname source="ingest">Simkin, William E.</persname>
+    <persname source="ingest">Sinicropi, Anthony</persname>
+    <persname source="ingest">Smith, Russel A.</persname>
+    <persname source="ingest">St. Antoine, Theodore J., 1929-</persname>
+    <persname source="ingest">Stark, Arthur</persname>
+    <persname source="ingest">Valtin, Rolf</persname>
+    <persname source="ingest">Zack, Arnold</persname>
     <corpname authfilenumber="http://id.loc.gov/authorities/names/n79126279" source="lcnaf">National Academy of Arbitrators</corpname>
     <corpname source="ingest">National Academy of Arbitrators. History Committee</corpname>
   </controlaccess>
   <unitid type="bibid">9298384</unitid>
-  <dsc><c01 id="aspace_36da022299b5ca04186fc181a3fe6cdd" level="file"><did><unittitle>Russell Smith (11/30/1990)</unittitle><unitdate datechar="creation" normal="1990/1990">1990</unitdate><container id="aspace_e4023a1a05996eb9dafc5764831e7d71" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_2388da4f45b11305972a8b9e8f71c37e" level="file"><did><unittitle>Al Dybeck Interview, 11/2/1991</unittitle><unitdate datechar="creation" normal="1991/1991">1991</unitdate><container id="aspace_4802d6fe02cd0e6bf7effa676819456e" label="unspecified" type="box">2</container></did></c01><c01 id="aspace_2253f147825757f4c7ea48126333374e" level="file"><did><unittitle>NAA - Fleming - Wirtz -- 5/27/1992</unittitle><unitdate datechar="creation" normal="1992/1992">1992</unitdate><container id="aspace_5b6206c59929a428578e54f52f97620a" label="unspecified" type="box">3</container></did></c01><c01 id="aspace_43d1409edb0e3eccf0f423c98dd20344" level="file"><did><unittitle>Interviewee - Gladys Gruenberg / Interviewer- Joyce Najita (10/13/2006)</unittitle><unitdate datechar="creation" normal="2006/2006">2006</unitdate><container id="aspace_ac29870520af72d12a814b9cdab9fdab" label="unspecified" type="box">4</container></did></c01><c01 id="aspace_3145dafee66c7caa528a5c15544ae127" level="file"><did><unittitle>R. Black Interview - 5/29/1996 (tape #3)</unittitle><unitdate datechar="creation" normal="1996/1996">1996</unitdate><container id="aspace_b98d64a2fb2353f5ae7f886c0db9b038" label="unspecified" type="box">5</container></did></c01><c01 id="aspace_a608c014ade45f4960718d346d140766" level="file"><did><unittitle>Feller</unittitle><container id="aspace_a87a75a97e825c9fc0a5e6a8d3ccc817" label="unspecified" type="box">6</container></did></c01><c01 id="aspace_1ffbcecc8fac7e04281174b8b63f65a3" level="file"><did><unittitle>Feller #2</unittitle><container id="aspace_ec1182e2f6c84c8cb5e6a483d14988f1" label="unspecified" type="box">7</container></did></c01><c01 id="aspace_efd562959d04f7ca528538f11bfc2014" level="file"><did><unittitle>Ralph T. Seward ; William E. Simkin</unittitle><container id="aspace_d9fdf4432f4e180c26e4ba12076db1d6" label="unspecified" type="box">8</container></did></c01><c01 id="aspace_4b991504e9fdc95387384983a50fc575" level="file"><did><unittitle>Ralph T. Seward -- 1947-1949</unittitle><container id="aspace_f594b550256fed4f29bc1e6351893c54" label="unspecified" type="box">9</container></did></c01><c01 id="aspace_2a602a4b004d5a9354f4a391a1a3d439" level="file"><did><unittitle>Tony Sinicropi and Arnie Zack -- 6/4/1993</unittitle><unitdate datechar="creation" normal="1993/1993">1993</unitdate><container id="aspace_690a97b202b4c4dc15d33e9081f3becb" label="unspecified" type="box">10</container></did></c01><c01 id="aspace_ca153af4fe0c5dffc1a2ec533f3a226a" level="file"><did><unittitle>Arnie Zack - 6/4/1993</unittitle><unitdate datechar="creation" normal="1993/1993">1993</unitdate><container id="aspace_434eb00441702780f2bfb44158a36330" label="unspecified" type="box">11</container></did></c01><c01 id="aspace_8a2bd3d442b62c00e82fc92f4e43f8b5" level="file"><did><unittitle>Arnie Zack - 6/4/1993</unittitle><unitdate datechar="creation" normal="1993/1993">1993</unitdate><container id="aspace_0e6e3ab637e7518abf8165f1cb8c0bad" label="unspecified" type="box">12</container></did></c01><c01 id="aspace_c745443af6327ec189d55ddf99e43ab4" level="file"><did><unittitle>Harkless Interview</unittitle><unitdate datechar="creation" normal="1995/1995">1995</unitdate><container id="aspace_d6926634dd9c9ae696421e78713c8fd8" label="unspecified" type="box">13</container></did></c01><c01 id="aspace_96e5ab90135d556793c4b36c2eb41074" level="file"><did><unittitle>James Harkless Interview by Clara H. Friedman - 11/10/1995</unittitle><unitdate datechar="creation" normal="1995/1995">1995</unitdate><container id="aspace_b9d305d06d7ad98c210c632382365e7d" label="unspecified" type="box">14</container></did></c01><c01 id="aspace_b0dfb4352fb9bd4de25eb733071684bf" level="file"><did><unittitle>Harkless Interview</unittitle><unitdate datechar="creation" normal="1995/1995">1995</unitdate><container id="aspace_d7cde93f6c93f10a45fe6a2c0e21a01f" label="unspecified" type="box">15</container></did></c01><c01 id="aspace_e33379c4ca3c8f88740471e87a2b9ab1" level="file"><did><unittitle>Harkless Interview - 11/10/1995</unittitle><unitdate datechar="creation" normal="1995/1995">1995</unitdate><container id="aspace_a025e1f06a8887c26fff2fddbbd088f3" label="unspecified" type="box">16</container></did></c01><c01 id="aspace_39b18c814eb849c4927ac92fe5f8465a" level="file"><did><unittitle>Tom Roberts - 10/2/1990</unittitle><unitdate datechar="creation" normal="1990/1990">1990</unitdate><container id="aspace_7ba47430e0d5c1daecdb1bbb7f514bfb" label="unspecified" type="box">17</container></did></c01><c01 id="aspace_68c78d2d23c947a55ac7454237f56eaa" level="file"><did><unittitle>Lewis Gill - 8/29/1990</unittitle><unitdate datechar="creation" normal="1990/1990">1990</unitdate><container id="aspace_fd84c4a4803a7ec9f2af2bde73a7dc63" label="unspecified" type="box">18</container></did></c01><c01 id="aspace_db06b5d046f5ec784f9f089acbbb76de" level="file"><did><unittitle>R. Block Interview - 5/28/1996 (tape #1)</unittitle><unitdate datechar="creation" normal="1996/1996">1996</unitdate><container id="aspace_57b5fb3ccbc5491419ca143122508fca" label="unspecified" type="box">19</container></did></c01></dsc>
+  <dsc><c01 id="aspace_36da022299b5ca04186fc181a3fe6cdd" level="file"><did><unittitle>Russell Smith (11/30/1990)</unittitle><unitdate datechar="creation" normal="1990/1990">1990</unitdate><container id="aspace_b164b88b93a42044bcb649739bcf064a" label="unspecified" type="box">1</container></did></c01><c01 id="aspace_2388da4f45b11305972a8b9e8f71c37e" level="file"><did><unittitle>Al Dybeck Interview, 11/2/1991</unittitle><unitdate datechar="creation" normal="1991/1991">1991</unitdate><container id="aspace_d81798176f50f7400df8bda947832c56" label="unspecified" type="box">2</container></did></c01><c01 id="aspace_2253f147825757f4c7ea48126333374e" level="file"><did><unittitle>NAA - Fleming - Wirtz -- 5/27/1992</unittitle><unitdate datechar="creation" normal="1992/1992">1992</unitdate><container id="aspace_7b8b301a601332b2a24c7a42390c3653" label="unspecified" type="box">3</container></did></c01><c01 id="aspace_43d1409edb0e3eccf0f423c98dd20344" level="file"><did><unittitle>Interviewee - Gladys Gruenberg / Interviewer- Joyce Najita (10/13/2006)</unittitle><unitdate datechar="creation" normal="2006/2006">2006</unitdate><container id="aspace_c42bc32234bbc30d1e2bf86e8975c5e1" label="unspecified" type="box">4</container></did></c01><c01 id="aspace_3145dafee66c7caa528a5c15544ae127" level="file"><did><unittitle>R. Black Interview - 5/29/1996 (tape #3)</unittitle><unitdate datechar="creation" normal="1996/1996">1996</unitdate><container id="aspace_0de804b3434b1e9917367f42dc10247f" label="unspecified" type="box">5</container></did></c01><c01 id="aspace_a608c014ade45f4960718d346d140766" level="file"><did><unittitle>Feller</unittitle><container id="aspace_4fa524ebf16c852ae5456b9b643a4192" label="unspecified" type="box">6</container></did></c01><c01 id="aspace_1ffbcecc8fac7e04281174b8b63f65a3" level="file"><did><unittitle>Feller #2</unittitle><container id="aspace_d915feda16b861c62827c9d638b28dc8" label="unspecified" type="box">7</container></did></c01><c01 id="aspace_efd562959d04f7ca528538f11bfc2014" level="file"><did><unittitle>Ralph T. Seward ; William E. Simkin</unittitle><container id="aspace_5b4fca9fbdeb50684b4a1dc952151bc0" label="unspecified" type="box">8</container></did></c01><c01 id="aspace_4b991504e9fdc95387384983a50fc575" level="file"><did><unittitle>Ralph T. Seward -- 1947-1949</unittitle><container id="aspace_076dfc24464c268bc6a02672d9351b53" label="unspecified" type="box">9</container></did></c01><c01 id="aspace_2a602a4b004d5a9354f4a391a1a3d439" level="file"><did><unittitle>Tony Sinicropi and Arnie Zack -- 6/4/1993</unittitle><unitdate datechar="creation" normal="1993/1993">1993</unitdate><container id="aspace_6cbada4d444421c0ce34ea25621fac87" label="unspecified" type="box">10</container></did></c01><c01 id="aspace_ca153af4fe0c5dffc1a2ec533f3a226a" level="file"><did><unittitle>Arnie Zack - 6/4/1993</unittitle><unitdate datechar="creation" normal="1993/1993">1993</unitdate><container id="aspace_0acdfdb41a9316e6c5eb52dd6bf4d07e" label="unspecified" type="box">11</container></did></c01><c01 id="aspace_8a2bd3d442b62c00e82fc92f4e43f8b5" level="file"><did><unittitle>Arnie Zack - 6/4/1993</unittitle><unitdate datechar="creation" normal="1993/1993">1993</unitdate><container id="aspace_07d00a3094dc2316ca8ae6e16a55d98c" label="unspecified" type="box">12</container></did></c01><c01 id="aspace_c745443af6327ec189d55ddf99e43ab4" level="file"><did><unittitle>Harkless Interview</unittitle><unitdate datechar="creation" normal="1995/1995">1995</unitdate><container id="aspace_0c50ab3adad939503f4f098121ec14bf" label="unspecified" type="box">13</container></did></c01><c01 id="aspace_96e5ab90135d556793c4b36c2eb41074" level="file"><did><unittitle>James Harkless Interview by Clara H. Friedman - 11/10/1995</unittitle><unitdate datechar="creation" normal="1995/1995">1995</unitdate><container id="aspace_2ea99c372cd6ef5f04ba4ad33ea2beb5" label="unspecified" type="box">14</container></did></c01><c01 id="aspace_b0dfb4352fb9bd4de25eb733071684bf" level="file"><did><unittitle>Harkless Interview</unittitle><unitdate datechar="creation" normal="1995/1995">1995</unitdate><container id="aspace_d85e9d5861598fac7661f80e4db28dd4" label="unspecified" type="box">15</container></did></c01><c01 id="aspace_e33379c4ca3c8f88740471e87a2b9ab1" level="file"><did><unittitle>Harkless Interview - 11/10/1995</unittitle><unitdate datechar="creation" normal="1995/1995">1995</unitdate><container id="aspace_b08fa9d999f3ce537108e315aa556bda" label="unspecified" type="box">16</container></did></c01><c01 id="aspace_39b18c814eb849c4927ac92fe5f8465a" level="file"><did><unittitle>Tom Roberts - 10/2/1990</unittitle><unitdate datechar="creation" normal="1990/1990">1990</unitdate><container id="aspace_1a8236c5d7cbc15ce18a2dc314835e1b" label="unspecified" type="box">17</container></did></c01><c01 id="aspace_68c78d2d23c947a55ac7454237f56eaa" level="file"><did><unittitle>Lewis Gill - 8/29/1990</unittitle><unitdate datechar="creation" normal="1990/1990">1990</unitdate><container id="aspace_788e9fd39f27d47f347ee539cbba3d71" label="unspecified" type="box">18</container></did></c01><c01 id="aspace_db06b5d046f5ec784f9f089acbbb76de" level="file"><did><unittitle>R. Block Interview - 5/28/1996 (tape #1)</unittitle><unitdate datechar="creation" normal="1996/1996">1996</unitdate><container id="aspace_fc65a15ae6833e875628584bc36de1bf" label="unspecified" type="box">19</container></did></c01></dsc>
 </archdesc>
 </ead>

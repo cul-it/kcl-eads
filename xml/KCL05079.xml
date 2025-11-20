@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05079</eadid><filedesc><titlestmt><titleproper>Terminal Report of the President's Steel Fact-Finding Board <num>5079</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 28, 2016</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-10-10 00:03:32 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05079</eadid><filedesc><titlestmt><titleproper>Terminal Report of the President's Steel Fact-Finding Board <num>5079</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 28, 2016</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-11-20 00:02:57 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -8,13 +8,13 @@
     <origination label="Creator">
       <corpname role="creator" source="ingest">President's Steel Fact-Finding Board</corpname>
     </origination>
-    <origination audience="internal" label="Creator">
+    <origination label="Creator">
       <persname role="creator" source="ingest">McDonough, Robert I</persname>
     </origination>
-    <origination audience="internal" label="Creator">
+    <origination label="Creator">
       <persname role="creator" source="ingest">Douglas, James M.</persname>
     </origination>
-    <origination audience="internal" label="Creator">
+    <origination label="Creator">
       <persname role="creator" source="ingest">Feinsinger, Nathan P.</persname>
     </origination>
     <unitid>5079</unitid>
@@ -62,14 +62,14 @@
   </odd>
   <controlaccess>
     <subject source="ingest">Steel industry and trade</subject>
-    <persname audience="internal" source="ingest">McDonough, Robert I.</persname>
-    <persname audience="internal" source="ingest">Douglas, James M.</persname>
-    <persname audience="internal" source="ingest">Feinsinger, Nathan P.</persname>
+    <persname source="ingest">McDonough, Robert I.</persname>
+    <persname source="ingest">Douglas, James M.</persname>
+    <persname source="ingest">Feinsinger, Nathan P.</persname>
     <corpname source="ingest">United States. President's Steel Fact-Finding Board</corpname>
     <corpname source="ingest">United States Steel Corporation</corpname>
     <corpname authfilenumber="http://id.loc.gov/authorities/names/n80049653" source="lcnaf">United Steelworkers of America</corpname>
   </controlaccess>
   <unitid type="bibid">8204081</unitid>
-  <dsc><c01 id="aspace_d17d4fadd7ab243d9375114d4f1a098b" level="file"><did><unittitle>Technical Report of the President's Steel Fact-Finding Board</unittitle><unitdate datechar="creation" normal="1946/1946">1946</unitdate><container id="aspace_97e7dc9d30a76c74fcc398fbd2f0f4be" label="unspecified" type="box">1</container></did><scopecontent id="aspace_3166f6c2db3db46151f0943cf1a86b62"><head>Scope and Contents</head><p>February 25, 1946; 36 pages</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_d17d4fadd7ab243d9375114d4f1a098b" level="file"><did><unittitle>Technical Report of the President's Steel Fact-Finding Board</unittitle><unitdate datechar="creation" normal="1946/1946">1946</unitdate><container id="aspace_8dc2ce8113e6394875d80b30cc2a0f7a" label="unspecified" type="box">1</container></did><scopecontent id="aspace_3166f6c2db3db46151f0943cf1a86b62"><head>Scope and Contents</head><p>February 25, 1946; 36 pages</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

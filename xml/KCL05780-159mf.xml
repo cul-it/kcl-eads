@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05780-159mf</eadid><filedesc><titlestmt><titleproper>ILGWU Abraham Rosenberg "Memoirs of a Cloak Maker, 1882-1910" on Microfilm <num>5780/159 mf</num></titleproper><author>Compiled by R. Miles</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 15, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-10-10 00:18:06 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05780-159mf</eadid><filedesc><titlestmt><titleproper>ILGWU Abraham Rosenberg "Memoirs of a Cloak Maker, 1882-1910" on Microfilm <num>5780/159 mf</num></titleproper><author>Compiled by R. Miles</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>April 15, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-11-20 00:10:28 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
     </repository>
     <unittitle>ILGWU Abraham Rosenberg "Memoirs of a Cloak Maker, 1882-1910" on Microfilm</unittitle>
-    <origination audience="internal" label="Creator">
+    <origination label="Creator">
       <persname role="creator" source="ingest">Rosenberg, Abraham</persname>
     </origination>
     <origination label="Creator">
       <corpname authfilenumber="http://id.loc.gov/authorities/names/n50060238" role="creator" source="lcnaf">International Ladies' Garment Workers' Union</corpname>
     </origination>
-    <origination audience="internal" label="Creator">
+    <origination label="Creator">
       <persname role="creator" source="ingest">Horn, Yetta</persname>
     </origination>
     <unitid>5780/159 mf</unitid>
@@ -68,10 +68,10 @@
     <subject source="lcsh">Clothing industry -- Labor unions -- United States</subject>
     <subject source="local">Clothing workers -- United States</subject>
     <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2008104553" source="lcsh">Industrial relations -- United States</subject>
-    <persname audience="internal" source="ingest">Horn, Yetta</persname>
-    <persname audience="internal" source="ingest">Rosenberg, Abraham.</persname>
+    <persname source="ingest">Horn, Yetta</persname>
+    <persname source="ingest">Rosenberg, Abraham.</persname>
   </controlaccess>
   <unitid type="bibid">9140715</unitid>
-  <dsc><c01 id="aspace_292a6add2b62e0a08c99352ef23bc53c" level="file"><did><unittitle>Memoirs of a Cloak Maker. 1883-1910.</unittitle><container id="aspace_d54b88f42cbfa3d47e0ed4db431f5a32" label="unspecified" type="reel">1</container></did><c02 id="aspace_ff6f4eca99f21072459208a18bc04255" level="file"><did><unittitle>Memoirs of a Cloak Maker.</unittitle><unitdate datechar="creation" normal="1883/1910" type="inclusive">1883-1910</unitdate><container id="aspace_4aa50bf011ad2c92a5de312cbf4b4411" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_8c8e8ae31ceb1677ef72a8d969b16a11"><head>Scope and Contents</head><p>239 pages.</p></scopecontent></c02></c01></dsc>
+  <dsc><c01 id="aspace_292a6add2b62e0a08c99352ef23bc53c" level="file"><did><unittitle>Memoirs of a Cloak Maker. 1883-1910.</unittitle><container id="aspace_fdf0e1a8799f305cad43899e10c14e04" label="unspecified" type="reel">1</container></did><c02 id="aspace_ff6f4eca99f21072459208a18bc04255" level="file"><did><unittitle>Memoirs of a Cloak Maker.</unittitle><unitdate datechar="creation" normal="1883/1910" type="inclusive">1883-1910</unitdate><container id="aspace_f53054663b085a48d83494e76b7c0173" label="unspecified" type="reel">1</container></did><scopecontent id="aspace_8c8e8ae31ceb1677ef72a8d969b16a11"><head>Scope and Contents</head><p>239 pages.</p></scopecontent></c02></c01></dsc>
 </archdesc>
 </ead>

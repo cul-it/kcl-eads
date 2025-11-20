@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL03050</eadid><filedesc><titlestmt><titleproper>Mullady, Philomena Manuscript <num>/3050</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>September 08, 2015</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-25 23:59:52 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL03050</eadid><filedesc><titlestmt><titleproper>Mullady, Philomena Manuscript <num>/3050</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>September 08, 2015</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-11-19 23:59:35 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
     </repository>
     <unittitle>Philomena Mullady Manuscript</unittitle>
-    <origination audience="internal" label="Creator">
+    <origination label="Creator">
       <persname role="creator" source="ingest">Mullady, Philomena</persname>
     </origination>
     <unitid>/3050</unitid>
@@ -28,7 +28,7 @@
   <prefercite id="aspace_5ad1843dc0604632b744208d6fb8183d">
     <head>Preferred Citation</head>
 <p>Philomena Mullady Manuscript #/3050. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
-  <bioghist audience="internal" id="aspace_16026059fe4a6376634bc5c87e6ea517">
+  <bioghist id="aspace_16026059fe4a6376634bc5c87e6ea517">
     <head>Biographical / Historical</head>
 <p>Philomena Mullady was an Associate Professor of Industrial Relations at Loyola University.</p>  </bioghist>
   <odd id="aspace_286627c6a98a25880823bb8aab9ef5ad">
@@ -49,9 +49,9 @@
     </list>
   </odd>
   <controlaccess>
-    <persname audience="internal" source="ingest">Mullady, Philomena Marquardt.</persname>
+    <persname source="ingest">Mullady, Philomena Marquardt.</persname>
   </controlaccess>
   <unitid type="bibid">7924621</unitid>
-  <dsc><c01 id="aspace_957a68ad40141d776ffcc3338e8aba9f" level="file"><did><unittitle>Structure and Characteristics of Collective Bargaining in Upstate New York - 1950</unittitle><unitdate datechar="creation" normal="1950/1950">1950</unitdate><container id="aspace_8388f3c3fdbab67c0c9b9d479dc4343c" label="unspecified" type="box">1</container><container id="aspace_d4175a9cc1e48100999f8ef9b3fdc63e" parent="aspace_8388f3c3fdbab67c0c9b9d479dc4343c" type="Folder">1</container></did></c01><c01 id="aspace_f077ec85a3d46cef5460ce19f8bba177" level="file"><did><unittitle>Structure and Characteristics of Collective Bargaining in Upstate New York - 1950</unittitle><unitdate datechar="creation" normal="1950/1950">1950</unitdate><container id="aspace_595cf8f5732d07e944cc3de792413379" label="unspecified" type="box">1</container><container id="aspace_2130f82be4a55d87cb52ebd2123b1ca1" parent="aspace_595cf8f5732d07e944cc3de792413379" type="Folder">2</container></did></c01></dsc>
+  <dsc><c01 id="aspace_957a68ad40141d776ffcc3338e8aba9f" level="file"><did><unittitle>Structure and Characteristics of Collective Bargaining in Upstate New York - 1950</unittitle><unitdate datechar="creation" normal="1950/1950">1950</unitdate><container id="aspace_38b37c10276f8dba8e99b2296251d616" label="unspecified" type="box">1</container><container id="aspace_a8cd68ed6c0581b9eb6f69f1e9276b25" parent="aspace_38b37c10276f8dba8e99b2296251d616" type="Folder">1</container></did></c01><c01 id="aspace_f077ec85a3d46cef5460ce19f8bba177" level="file"><did><unittitle>Structure and Characteristics of Collective Bargaining in Upstate New York - 1950</unittitle><unitdate datechar="creation" normal="1950/1950">1950</unitdate><container id="aspace_04baf11f21d760a19b18a1896e0a3d42" label="unspecified" type="box">1</container><container id="aspace_b2770fbafd27506c996bdc6e458d1953" parent="aspace_04baf11f21d760a19b18a1896e0a3d42" type="Folder">2</container></did></c01></dsc>
 </archdesc>
 </ead>

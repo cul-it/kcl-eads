@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05362</eadid><filedesc><titlestmt><titleproper>J.A. Leater et al. vs. Lawrence E. Parker et al. Transcript of Record <num>5362</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 11, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:13:56 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05362</eadid><filedesc><titlestmt><titleproper>J.A. Leater et al. vs. Lawrence E. Parker et al. Transcript of Record <num>5362</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 11, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-11-20 00:05:28 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
     </repository>
     <unittitle>J.A. Leater et al. vs. Lawrence E Parker et al. Transcript of Record</unittitle>
-    <origination audience="internal" label="Creator">
+    <origination label="Creator">
       <persname role="creator" source="ingest">Leater, J.A.</persname>
     </origination>
-    <origination audience="internal" label="Creator">
+    <origination label="Creator">
       <persname role="creator" source="ingest">Parker, Lawrence E</persname>
     </origination>
     <unitid>5362</unitid>
@@ -52,20 +52,20 @@
     </list>
   </odd>
   <controlaccess>
-    <persname audience="internal" source="ingest">Lester, J. A.</persname>
-    <persname audience="internal" source="ingest">Parker, Lawrence E.</persname>
-    <persname audience="internal" source="ingest">Eaton, Jack</persname>
-    <persname audience="internal" source="ingest">Rylander, John</persname>
-    <persname audience="internal" source="ingest">Stika, Joseph E., 1889-1976</persname>
-    <persname audience="internal" source="ingest">Hannewyk, J. E.</persname>
-    <persname audience="internal" source="ingest">Carlson, L. E.</persname>
-    <persname audience="internal" source="ingest">Mendelsohn, Peter</persname>
-    <persname audience="internal" source="ingest">Kulper, Fred H.</persname>
-    <persname audience="internal" source="ingest">Payney, Claude</persname>
-    <persname audience="internal" source="ingest">Rolfs, Theodore W.</persname>
-    <persname audience="internal" source="ingest">Fontaine, Harold</persname>
+    <persname source="ingest">Lester, J. A.</persname>
+    <persname source="ingest">Parker, Lawrence E.</persname>
+    <persname source="ingest">Eaton, Jack</persname>
+    <persname source="ingest">Rylander, John</persname>
+    <persname source="ingest">Stika, Joseph E., 1889-1976</persname>
+    <persname source="ingest">Hannewyk, J. E.</persname>
+    <persname source="ingest">Carlson, L. E.</persname>
+    <persname source="ingest">Mendelsohn, Peter</persname>
+    <persname source="ingest">Kulper, Fred H.</persname>
+    <persname source="ingest">Payney, Claude</persname>
+    <persname source="ingest">Rolfs, Theodore W.</persname>
+    <persname source="ingest">Fontaine, Harold</persname>
   </controlaccess>
   <unitid type="bibid">5619952</unitid>
-  <dsc><c01 id="aspace_fd63edae9d5a9d517fb99aec1d29a881" level="file"><did><unittitle>J. A. Lester, Jack Eaton, John Rylander, Joseph E. Stika, J. E. Hannewyk And L. E. Carlson, Appellants, Vs. Lawrence E. Parker, Peter Mendelsohn, Fred H. Kulper, Claude Payney, Theodore W. Rolfs And Harold Fontaine, Appellees.</unittitle><container id="aspace_a1ca7e3c27372729f05ecf42d0a275f2" label="unspecified" type="box">1</container></did><c02 id="aspace_4c72c37bd7f0fbb424ecc9c79e4b5ad8" level="file"><did><unittitle>Transcript of record [volume 1 of 2]</unittitle><unitdate datechar="creation" normal="1951/1951">1951</unitdate><container id="aspace_ef46495042bdc232072452e2eb4ea528" label="unspecified" type="box">1</container><container id="aspace_82f39952a0aade87bdb3f47241af6ac8" parent="aspace_ef46495042bdc232072452e2eb4ea528" type="folder">1</container></did><scopecontent id="aspace_ba13b288b83d80f6299c6c3f2e7cec54"><head>Scope and Contents</head><p>Pages 1 to 350</p></scopecontent></c02><c02 id="aspace_44ec2eeebe921b2bc6137973d9628e87" level="file"><did><unittitle>Transcript of record [volume 2 of 2]</unittitle><unitdate datechar="creation" normal="1951/1951">1951</unitdate><container id="aspace_a223f78dc4eef25cfde19e8ab6266e44" label="unspecified" type="box">1</container><container id="aspace_9a861ff82b77c05df87b1d5c7a87db20" parent="aspace_a223f78dc4eef25cfde19e8ab6266e44" type="folder">2</container></did><scopecontent id="aspace_cfec7665556a7088d1538022e44903a6"><head>Scope and Contents</head><p>Pages 351 to 678</p></scopecontent></c02></c01></dsc>
+  <dsc><c01 id="aspace_fd63edae9d5a9d517fb99aec1d29a881" level="file"><did><unittitle>J. A. Lester, Jack Eaton, John Rylander, Joseph E. Stika, J. E. Hannewyk And L. E. Carlson, Appellants, Vs. Lawrence E. Parker, Peter Mendelsohn, Fred H. Kulper, Claude Payney, Theodore W. Rolfs And Harold Fontaine, Appellees.</unittitle><container id="aspace_c7f85dfd00cebe5da7a62f76179ca7b8" label="unspecified" type="box">1</container></did><c02 id="aspace_4c72c37bd7f0fbb424ecc9c79e4b5ad8" level="file"><did><unittitle>Transcript of record [volume 1 of 2]</unittitle><unitdate datechar="creation" normal="1951/1951">1951</unitdate><container id="aspace_5db1568b450f43460921f16a326cd8c6" label="unspecified" type="box">1</container><container id="aspace_c892b396f8d97c6148087019bff1dbf7" parent="aspace_5db1568b450f43460921f16a326cd8c6" type="folder">1</container></did><scopecontent id="aspace_ba13b288b83d80f6299c6c3f2e7cec54"><head>Scope and Contents</head><p>Pages 1 to 350</p></scopecontent></c02><c02 id="aspace_44ec2eeebe921b2bc6137973d9628e87" level="file"><did><unittitle>Transcript of record [volume 2 of 2]</unittitle><unitdate datechar="creation" normal="1951/1951">1951</unitdate><container id="aspace_55cb425cf2516c1b4bd04945fa2337c5" label="unspecified" type="box">1</container><container id="aspace_88383104fa14484cc9e5314987f5a7bd" parent="aspace_55cb425cf2516c1b4bd04945fa2337c5" type="folder">2</container></did><scopecontent id="aspace_cfec7665556a7088d1538022e44903a6"><head>Scope and Contents</head><p>Pages 351 to 678</p></scopecontent></c02></c01></dsc>
 </archdesc>
 </ead>

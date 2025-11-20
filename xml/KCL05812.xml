@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05812</eadid><filedesc><titlestmt><titleproper>Interviews about Frances Perkins <num>5812</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>July 31, 2015</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-26 00:32:13 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05812</eadid><filedesc><titlestmt><titleproper>Interviews about Frances Perkins <num>5812</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>July 31, 2015</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-11-20 00:11:12 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
     </repository>
     <unittitle>Interviews about Frances Perkins</unittitle>
-    <origination audience="internal" label="Creator">
+    <origination label="Creator">
       <persname role="creator" source="ingest">Anderson, James R.</persname>
     </origination>
-    <origination audience="internal" label="Creator">
+    <origination label="Creator">
       <persname role="creator" source="ingest">Lubin, Isador</persname>
     </origination>
-    <origination audience="internal" label="Creator">
+    <origination label="Creator">
       <persname role="creator" source="ingest">Dodson, James E.</persname>
     </origination>
-    <origination audience="internal" label="Creator">
+    <origination label="Creator">
       <persname role="creator" source="ingest">Reilly, Gerard</persname>
     </origination>
-    <origination audience="internal" label="Creator">
+    <origination label="Creator">
       <persname role="creator" source="ingest">Beyer, Clara</persname>
     </origination>
     <unitid>5812</unitid>
@@ -64,14 +64,14 @@
     </list>
   </odd>
   <controlaccess>
-    <persname audience="internal" source="ingest">Anderson, James R.</persname>
-    <persname audience="internal" source="ingest">Beyer, Clara M. (Clara Martenson)</persname>
-    <persname audience="internal" source="ingest">Dodson, James E. (James Edward), 1904-</persname>
-    <persname audience="internal" source="ingest">Lubin, Isador, 1896-1978.</persname>
-    <persname audience="internal" source="ingest">Perkins, Frances, 1880-1965</persname>
-    <persname audience="internal" source="ingest">Reilly, Gerard D. (Gerard Denis), 1906-1995</persname>
+    <persname source="ingest">Anderson, James R.</persname>
+    <persname source="ingest">Beyer, Clara M. (Clara Martenson)</persname>
+    <persname source="ingest">Dodson, James E. (James Edward), 1904-</persname>
+    <persname source="ingest">Lubin, Isador, 1896-1978.</persname>
+    <persname source="ingest">Perkins, Frances, 1880-1965</persname>
+    <persname source="ingest">Reilly, Gerard D. (Gerard Denis), 1906-1995</persname>
   </controlaccess>
   <unitid type="bibid">5710649</unitid>
-  <dsc><c01 id="aspace_27f9bbd503f000f74edf32f3547a90dd" level="file"><did><unittitle>Interview transcripts</unittitle><unitdate datechar="creation" normal="1965/1966" type="inclusive">1965-1966</unitdate><container id="aspace_258595395b14f041e198220420f2e48b" label="unspecified" type="box">1</container><container id="aspace_c67e3676beed79fab9b3a03400b39440" parent="aspace_258595395b14f041e198220420f2e48b" type="Folder">1</container></did><scopecontent id="aspace_43f2b37da5b7c679e08839eeccb9678c"><head>Scope and Contents</head><p>Interviews with James E. Dodson, June 9, 1965, 32 pages; Gerard D. Reilly, October 22, 1965, 36 pages; Isador Lubin, April 4, 1966, 31 pages; Clara Beyer, November 6, 1965, 47 pages.</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_27f9bbd503f000f74edf32f3547a90dd" level="file"><did><unittitle>Interview transcripts</unittitle><unitdate datechar="creation" normal="1965/1966" type="inclusive">1965-1966</unitdate><container id="aspace_5e21a0063c8344f117a6c14e5c109daa" label="unspecified" type="box">1</container><container id="aspace_90fe45227e82b890885671b4f5be1496" parent="aspace_5e21a0063c8344f117a6c14e5c109daa" type="Folder">1</container></did><scopecontent id="aspace_43f2b37da5b7c679e08839eeccb9678c"><head>Scope and Contents</head><p>Interviews with James E. Dodson, June 9, 1965, 32 pages; Gerard D. Reilly, October 22, 1965, 36 pages; Isador Lubin, April 4, 1966, 31 pages; Clara Beyer, November 6, 1965, 47 pages.</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>

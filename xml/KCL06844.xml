@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06844</eadid><filedesc><titlestmt><titleproper>Nesmith, R. D. and Company Records <num>6844</num></titleproper><author>Compiled by M. Clark</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 09, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-10-10 00:31:39 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL06844</eadid><filedesc><titlestmt><titleproper>Nesmith, R. D. and Company Records <num>6844</num></titleproper><author>Compiled by M. Clark</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>October 09, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-11-20 00:19:35 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
     </repository>
-    <unittitle>R. D. Nesmith and Company Records</unittitle>
+    <unittitle>R. D. Nesmith Company Records</unittitle>
     <origination label="Creator">
       <corpname role="creator" source="ingest">R. D. Nesmith and Company</corpname>
     </origination>
@@ -13,30 +13,21 @@
       <extent altrender="materialtype spaceoccupied">0.25 cubic feet</extent>
     </physdesc>
     <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1845/1851" type="inclusive">1845-1851</unitdate>
+    <abstract id="aspace_3445e9a0019fe246d796416c1475a927">Records include account book of goods delivered, raw materials &amp; dyestuffs; also goods sent elsewhere for finishing, 1845-1849; payroll &amp; manufacturing accounts, few dye receipts, 1845- 1851; a work and time book, 1845-48; weave room time book, 1851-1852; weaving records, per employee, 1849-1850.</abstract>
     <physdesc id="aspace_bc0e40f42410e3e67881e666c7a3d2e4" label="Quantity:">0.2 linear ft.</physdesc>
     <physdesc id="aspace_8209127f9e73301ac4c65e88bf7ab437" label="Forms of Material:">Correspondence, time books, records (documents) .</physdesc>
-    <abstract id="aspace_3445e9a0019fe246d796416c1475a927">Records include account book of goods delivered, raw materials &amp; dyestuffs; also goods sent elsewhere for finishing, 1845-1849; payroll &amp; manufacturing accounts, few dye receipts, 1845- 1851; a work and time book, 1845-48; weave room time book, 1851-1852; weaving records, per employee, 1849-1850.</abstract>
     <langmaterial id="aspace_6e388fde1cb43e9e3c03062152513902">Collection material in English</langmaterial>
     <unitid type="bibid">11022394</unitid>
   </did>
-  <bioghist id="aspace_51c5b35c4e6506bd3f0467f53aedaebb">
-    <head>Biographical / Historical</head>
-<p>R.D. Nesmith Company, was a woolen mill in South Berwick, Maine. Company originally known as Nesmith &amp; Tatterson and was a partnership between R.D. Nesmith and John Tatterson.</p>  </bioghist>
-  <scopecontent id="aspace_94c6aef3650e80b374dee46d02d0ed7d">
-    <head>Scope and Contents</head>
-<p>Includes account book of Nesmith &amp; Tatterson, 1845-1849, listing goods delivered, including raw materials and dyestuffs, as well as goods sent elsewhere for finishing. Also includes ledger, 1845-1851, of payroll and manufacturing accounts; a work and time book, 1845-1848; a weave room time book, 1851-1852, listing workers' names; and weaving records, 1849-1850, listing workers' names, number of pieces, weight, and number of yards.</p>  </scopecontent>
-  <custodhist id="aspace_128b7d753969fc7f7a33756a65b733a4">
-    <head>Custodial History</head>
-<p>American Textile History Museum Collection, gift of Edward Morrill &amp; Son, Inc.</p>  </custodhist>
   <accessrestrict id="aspace_fa53acc725cefc12a07d91e95c3afe47">
     <head>Conditions Governing Access</head>
 <p>Access to the collections in the Kheel Center is restricted. Please contact a reference archivist for access to these materials.</p>  </accessrestrict>
-  <userestrict id="aspace_375bda8c04c042f26f213db0cac522d4">
-    <head>Conditions Governing Use</head>
-<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
-  <prefercite id="aspace_6173b3e63c14652da13561cab2c3f3d5">
-    <head>Preferred Citation</head>
-<p>R. D. Nesmith and Company Records #6844. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <bioghist id="aspace_51c5b35c4e6506bd3f0467f53aedaebb">
+    <head>Biographical / Historical</head>
+<p>R.D. Nesmith Company, was a woolen mill in South Berwick, Maine. Company originally known as Nesmith &amp; Tatterson and was a partnership between R.D. Nesmith and John Tatterson.</p>  </bioghist>
+  <custodhist id="aspace_128b7d753969fc7f7a33756a65b733a4">
+    <head>Custodial History</head>
+<p>American Textile History Museum Collection, gift of Edward Morrill &amp; Son, Inc.</p>  </custodhist>
   <odd id="aspace_0b4945d2aa6410af17ff441169e6eb1c">
     <head>General</head>
     <list type="deflist">
@@ -54,6 +45,18 @@
       </defitem>
     </list>
   </odd>
+  <prefercite id="aspace_6173b3e63c14652da13561cab2c3f3d5">
+    <head>Preferred Citation</head>
+<p>R. D. Nesmith Company Records #6844. Kheel Center for Labor-Management Documentation and Archives, Cornell University Library.</p>  </prefercite>
+  <processinfo id="aspace_9b9582f8b110a58244ad52debdda8e27">
+    <head>Processing Information</head>
+<p>The ATHM # references the accession number given to collections by the American Textile History Museum (ATHM). These numbers have been kept and tracked for researchers looking for former citations. The ATHM accession number for this collection was 0022.143.</p>  </processinfo>
+  <scopecontent id="aspace_94c6aef3650e80b374dee46d02d0ed7d">
+    <head>Scope and Contents</head>
+<p>Includes account book of Nesmith &amp; Tatterson, 1845-1849, listing goods delivered, including raw materials and dyestuffs, as well as goods sent elsewhere for finishing. Also includes ledger, 1845-1851, of payroll and manufacturing accounts; a work and time book, 1845-1848; a weave room time book, 1851-1852, listing workers' names; and weaving records, 1849-1850, listing workers' names, number of pieces, weight, and number of yards.</p>  </scopecontent>
+  <userestrict id="aspace_375bda8c04c042f26f213db0cac522d4">
+    <head>Conditions Governing Use</head>
+<p>This collection must be used in keeping with the Kheel Center Information Sheet and Procedures for Document Use.</p>  </userestrict>
   <controlaccess>
     <subject source="ingest">Business records</subject>
     <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85065960" source="lcsh">Industries</subject>
@@ -70,15 +73,15 @@
     <subject source="ingest">Labor records</subject>
     <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85148063" source="lcsh">Wool industry</subject>
     <geogname authfilenumber="http://id.loc.gov/authorities/names/n80063264" source="lcsh">South Berwick (Me.)</geogname>
-    <persname audience="internal" source="ingest">Farrington, Isaac.</persname>
-    <persname audience="internal" source="ingest">Nesmith, R. D.</persname>
-    <persname audience="internal" source="ingest">Tatterson, John.</persname>
+    <persname source="ingest">Farrington, Isaac.</persname>
+    <persname source="ingest">Nesmith, R. D.</persname>
+    <persname source="ingest">Tatterson, John.</persname>
     <corpname source="ingest">Globe Steam Mills</corpname>
     <corpname source="ingest">Great Works Manufacturing Company</corpname>
     <corpname source="ingest">Nesmith &amp; Tatterson</corpname>
     <corpname source="ingest">R. D. Nesmith and Company</corpname>
   </controlaccess>
   <unitid type="bibid">11022394</unitid>
-  <dsc><c01 id="aspace_a9a575b22905ad61838e71a75539c5d9" level="file"><did><unittitle>Goods delivered/Bailing book - June 26, 1845-March 27, 1849</unittitle><unitdate datechar="creation" normal="1845-06-26/1849-03-27" type="inclusive">1845-1849</unitdate><container id="aspace_6afc6e8f47bbd709011944327bc3631e" label="Mixed Materials" type="box">1</container><container id="aspace_b5bd560b0c6889fea362f58a5ab1b343" parent="aspace_6afc6e8f47bbd709011944327bc3631e" type="folder">1</container></did></c01><c01 id="aspace_a349d5c239d3722cf82355f5b042dc0c" level="file"><did><unittitle>Payroll and Manufacturing Accounts</unittitle><unitdate datechar="creation" normal="1845/1851" type="inclusive">1845-1851</unitdate><container id="aspace_9517e9cb10f1f689adda2b8ac39f0da6" label="Mixed Materials" type="box">1</container><container id="aspace_3c118e2541f48aa653aeb444c3729e8f" parent="aspace_9517e9cb10f1f689adda2b8ac39f0da6" type="folder">2</container></did></c01><c01 id="aspace_0256fa1396b4dfbccf70be7b6ccbceff" level="file"><did><unittitle>Work and Time Book - November 17, 1845-August 1848</unittitle><unitdate datechar="creation" normal="1845-11-17/1848-08" type="inclusive">1845-1848</unitdate><container id="aspace_18b7a47e743f0ae6d9fc8936866f76d7" label="Mixed Materials" type="box">1</container><container id="aspace_3bce33c65b736372709fee43e22aa2a1" parent="aspace_18b7a47e743f0ae6d9fc8936866f76d7" type="folder">3</container></did></c01><c01 id="aspace_92001c5d8666f9b40fbe3ab40c06b67e" level="file"><did><unittitle>Weaving Records - March 6, 1849-December 31, 1850</unittitle><unitdate datechar="creation" normal="1849-03-06/1850-12-31" type="inclusive">1849-1850</unitdate><container id="aspace_70d4c8538f5351b69d870116a84eb929" label="Mixed Materials" type="box">1</container><container id="aspace_c8ac84a2a3e3d0dec7a7be0101f70780" parent="aspace_70d4c8538f5351b69d870116a84eb929" type="folder">4</container></did></c01></dsc>
+  <dsc><c01 id="aspace_a9a575b22905ad61838e71a75539c5d9" level="file"><did><unittitle>Goods delivered/Bailing book</unittitle><unitdate datechar="creation" normal="1845-06-26/1849-03-27" type="inclusive">1845-06-1849-03</unitdate><container id="aspace_3cece8d6cf38d14320d8af3db57aaec2" label="Mixed Materials" type="box">1</container><container id="aspace_922474601f7e4e3f78d0546c0573617b" parent="aspace_3cece8d6cf38d14320d8af3db57aaec2" type="folder">1</container></did></c01><c01 id="aspace_a349d5c239d3722cf82355f5b042dc0c" level="file"><did><unittitle>Payroll and manufacturing accounts</unittitle><unitdate datechar="creation" normal="1845/1851" type="inclusive">1845-1851</unitdate><container id="aspace_7f86563397de88d60f01fa425a109a81" label="Mixed Materials" type="box">1</container><container id="aspace_16eab1c63ebf27b898270a0d74047b9a" parent="aspace_7f86563397de88d60f01fa425a109a81" type="folder">2</container></did></c01><c01 id="aspace_0256fa1396b4dfbccf70be7b6ccbceff" level="file"><did><unittitle>Work and Time Book</unittitle><unitdate datechar="creation" normal="1845-11-17/1848-08" type="inclusive">1845-11-1848-08</unitdate><container id="aspace_27bf07878524cb23975133f67bc82484" label="Mixed Materials" type="box">1</container><container id="aspace_4b3da42f545b9fdf8005a795284372a0" parent="aspace_27bf07878524cb23975133f67bc82484" type="folder">3</container></did></c01><c01 id="aspace_92001c5d8666f9b40fbe3ab40c06b67e" level="file"><did><unittitle>Weaving Records</unittitle><unitdate datechar="creation" normal="1849-03-06/1850-12-31" type="inclusive">1849-03-1850-12</unitdate><container id="aspace_2f1f9616926dfddfee36143256ebd3f6" label="Mixed Materials" type="box">1</container><container id="aspace_6a679238ca864fd21abfd95d5a790736" parent="aspace_2f1f9616926dfddfee36143256ebd3f6" type="folder">4</container></did></c01></dsc>
 </archdesc>
 </ead>

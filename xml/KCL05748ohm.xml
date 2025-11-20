@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05748ohm</eadid><filedesc><titlestmt><titleproper>National Mediation Board Airline Industry Arbitration Oral History Interviews <num>5748 OHM</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 28, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-10-10 00:14:49 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">KCL05748ohm</eadid><filedesc><titlestmt><titleproper>National Mediation Board Airline Industry Arbitration Oral History Interviews <num>5748 OHM</num></titleproper><author>Compiled by Kheel Staff</author></titlestmt><publicationstmt><publisher>Kheel Center for Labor-Management Documentation &amp; Archives</publisher><p><date>March 28, 2019</date></p><address><addressline>227 Ives Hall Tower Road</addressline><addressline>Ithaca, NY 14853</addressline><addressline>Business Number: 607-255-3183</addressline><addressline>kheelref@cornell.edu</addressline><addressline>URL: <extptr xlink:href="https://catherwood.library.cornell.edu/kheel/" xlink:show="new" xlink:title="https://catherwood.library.cornell.edu/kheel/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject>Labor</subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-11-20 00:08:49 UTC</date>.</creation><langusage>Description is written in: <language langcode="und" scriptcode="Zyyy">Undetermined, Code for undetermined script script</language>.</langusage></profiledesc><revisiondesc><change><date>02/23/2024</date><item>This resource was modified by the ArchivesSpace Preprocessor developed by the Harvard Library (https://github.com/harvard-library/archivesspace-preprocessor)</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Kheel Center for Labor-Management Documentation &amp; Archives</corpname>
@@ -55,48 +55,48 @@
     <subject source="ingest">Airlines.</subject>
     <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85028114" source="lcsh">Collective labor agreements -- Aeronautics</subject>
     <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85006452" source="lcsh">Arbitration, Industrial</subject>
-    <persname audience="internal" source="ingest">Brown, Robert</persname>
-    <persname audience="internal" source="ingest">Coppersmith, Nancy</persname>
-    <persname audience="internal" source="ingest">Hopkins, Chuck</persname>
-    <persname audience="internal" source="ingest">Kline, Sheldon</persname>
+    <persname source="ingest">Brown, Robert</persname>
+    <persname source="ingest">Coppersmith, Nancy</persname>
+    <persname source="ingest">Hopkins, Chuck</persname>
+    <persname source="ingest">Kline, Sheldon</persname>
     <persname source="ingest">Lee, David</persname>
-    <persname audience="internal" source="ingest">McMurray, Kay</persname>
-    <persname audience="internal" source="ingest">Opperman, Gail</persname>
-    <persname audience="internal" source="ingest">Piculin, Laurette</persname>
-    <persname audience="internal" source="ingest">Pike, Robert</persname>
-    <persname audience="internal" source="ingest">Quinn, Roland</persname>
-    <persname audience="internal" source="ingest">Rehmus, Charles</persname>
-    <persname audience="internal" source="ingest">Ripp, Andrew</persname>
-    <persname audience="internal" source="ingest">Sage, Jack</persname>
-    <persname audience="internal" source="ingest">Bianchi-Sand, Susan</persname>
-    <persname audience="internal" source="ingest">Smith, Joe</persname>
-    <persname audience="internal" source="ingest">Stowe, David</persname>
-    <persname audience="internal" source="ingest">Brennan, Art</persname>
-    <persname audience="internal" source="ingest">Rosen, Seth</persname>
-    <persname audience="internal" source="ingest">Bradley, John</persname>
-    <persname audience="internal" source="ingest">Anderson, Joe</persname>
-    <persname audience="internal" source="ingest">Willits, John</persname>
-    <persname audience="internal" source="ingest">Wallace, Walter</persname>
-    <persname audience="internal" source="ingest">Thomson, Charles</persname>
-    <persname audience="internal" source="ingest">Tracy, Tom</persname>
-    <persname audience="internal" source="ingest">Aaron, Ben</persname>
-    <persname audience="internal" source="ingest">Ross, Phillip</persname>
-    <persname audience="internal" source="ingest">Sytesma, John</persname>
-    <persname audience="internal" source="ingest">Colliander, Ralph</persname>
-    <persname audience="internal" source="ingest">Conway, Jim</persname>
-    <persname audience="internal" source="ingest">Cosgrave, Dick</persname>
-    <persname audience="internal" source="ingest">Donlon, Bill</persname>
-    <persname audience="internal" source="ingest">Eischen, Dana</persname>
-    <persname audience="internal" source="ingest">Hardin, Fred</persname>
-    <persname audience="internal" source="ingest">Harris, Robert</persname>
-    <persname audience="internal" source="ingest">Ingles, Tom</persname>
-    <persname audience="internal" source="ingest">Ives, George</persname>
-    <persname audience="internal" source="ingest">Kasher, Richard</persname>
-    <persname audience="internal" source="ingest">Peterpaul, John</persname>
-    <persname audience="internal" source="ingest">Witt, Helen</persname>
+    <persname source="ingest">McMurray, Kay</persname>
+    <persname source="ingest">Opperman, Gail</persname>
+    <persname source="ingest">Piculin, Laurette</persname>
+    <persname source="ingest">Pike, Robert</persname>
+    <persname source="ingest">Quinn, Roland</persname>
+    <persname source="ingest">Rehmus, Charles</persname>
+    <persname source="ingest">Ripp, Andrew</persname>
+    <persname source="ingest">Sage, Jack</persname>
+    <persname source="ingest">Bianchi-Sand, Susan</persname>
+    <persname source="ingest">Smith, Joe</persname>
+    <persname source="ingest">Stowe, David</persname>
+    <persname source="ingest">Brennan, Art</persname>
+    <persname source="ingest">Rosen, Seth</persname>
+    <persname source="ingest">Bradley, John</persname>
+    <persname source="ingest">Anderson, Joe</persname>
+    <persname source="ingest">Willits, John</persname>
+    <persname source="ingest">Wallace, Walter</persname>
+    <persname source="ingest">Thomson, Charles</persname>
+    <persname source="ingest">Tracy, Tom</persname>
+    <persname source="ingest">Aaron, Ben</persname>
+    <persname source="ingest">Ross, Phillip</persname>
+    <persname source="ingest">Sytesma, John</persname>
+    <persname source="ingest">Colliander, Ralph</persname>
+    <persname source="ingest">Conway, Jim</persname>
+    <persname source="ingest">Cosgrave, Dick</persname>
+    <persname source="ingest">Donlon, Bill</persname>
+    <persname source="ingest">Eischen, Dana</persname>
+    <persname source="ingest">Hardin, Fred</persname>
+    <persname source="ingest">Harris, Robert</persname>
+    <persname source="ingest">Ingles, Tom</persname>
+    <persname source="ingest">Ives, George</persname>
+    <persname source="ingest">Kasher, Richard</persname>
+    <persname source="ingest">Peterpaul, John</persname>
+    <persname source="ingest">Witt, Helen</persname>
     <corpname authfilenumber="http://id.loc.gov/authorities/names/n81074419" source="lcnaf">United States. National Mediation Board</corpname>
   </controlaccess>
   <unitid type="bibid">5701413</unitid>
-  <dsc><c01 id="aspace_7f0e094a2e8147e17dc0774bd9c206e7" level="file"><did><unittitle>Interview notes on Railway Labor Act</unittitle><unitdate datechar="creation" normal="1984/1984">1984</unitdate><container id="aspace_64bbeb35a0eb00d2fdb1184eca3c1002" label="unspecified" type="box">1</container><container id="aspace_d0bf317db9f3fdb0fbc1fb704fdce16f" parent="aspace_64bbeb35a0eb00d2fdb1184eca3c1002" type="folder">1</container></did><scopecontent id="aspace_03ed834de0247471c87b10badf007860"><head>Scope and Contents</head><p>Interviews with Robert Brown, Nancy Coppersmith, Chuck Hopkins, Sheldon Kline, David Lee, Kay McMurray, Gail Opperman, Laurette Piculin, Robert Pike, Roland Quinn, Andrew Ripp, Jack Sage, Susan Bianchi-Sand, Joe Smith, David Stowe, Art Brennan, Seth Rosen, John Bradley, Joe Anderson, John Willits, Walter Wallace, Charles Thomson, Tom Tracy, Ben Aaron, Phillip Ross, John Sytsma, Ralph Colliander, Jim Conway, Dick Cosgrave, Bill Donlon, Dana Eischen, Fred Hardin, Robert Harris, Tom Ingles, George Ives, Richard Kasher, John Peter Paul, Helen Witt.</p></scopecontent></c01></dsc>
+  <dsc><c01 id="aspace_7f0e094a2e8147e17dc0774bd9c206e7" level="file"><did><unittitle>Interview notes on Railway Labor Act</unittitle><unitdate datechar="creation" normal="1984/1984">1984</unitdate><container id="aspace_80fad943b7e2669695fa249ae018d60f" label="unspecified" type="box">1</container><container id="aspace_66674b8d4f67b33e5b7294276d3f5d6e" parent="aspace_80fad943b7e2669695fa249ae018d60f" type="folder">1</container></did><scopecontent id="aspace_03ed834de0247471c87b10badf007860"><head>Scope and Contents</head><p>Interviews with Robert Brown, Nancy Coppersmith, Chuck Hopkins, Sheldon Kline, David Lee, Kay McMurray, Gail Opperman, Laurette Piculin, Robert Pike, Roland Quinn, Andrew Ripp, Jack Sage, Susan Bianchi-Sand, Joe Smith, David Stowe, Art Brennan, Seth Rosen, John Bradley, Joe Anderson, John Willits, Walter Wallace, Charles Thomson, Tom Tracy, Ben Aaron, Phillip Ross, John Sytsma, Ralph Colliander, Jim Conway, Dick Cosgrave, Bill Donlon, Dana Eischen, Fred Hardin, Robert Harris, Tom Ingles, George Ives, Richard Kasher, John Peter Paul, Helen Witt.</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>
